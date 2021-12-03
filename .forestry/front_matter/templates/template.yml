@@ -45,5 +45,6 @@ fields:
   name: widgets
   label: widgets
 pages:
+- content/affiliate-disclaimer.md
 - content/post/funwater-stand-up-paddle-board.md
 - content/privacy-policy.md
