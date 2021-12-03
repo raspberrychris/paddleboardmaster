@@ -11,11 +11,11 @@ bio = "Chris started Paddleboarding in 2018 and got obsessed with it ever since 
 name = "Chris"
 [Params]
 authorbox = true
-copyright = "John Doe"
+copyright = "Paddleboardmaster.com"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 dateformat = "2006-01-02"
-description = "John Doe's Personal blog about everything"
+description = "Paddleboard Master is the place to find honest reviews about the BEST Paddleboards"
 googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"
 highlightColor = ""
 mainSections = ["post", "blog", "news"]
