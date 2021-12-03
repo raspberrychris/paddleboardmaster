@@ -5,7 +5,6 @@ authorbox: false
 sidebar: false
 menu:
   main:
-    name: About
     weight: 1
 draft: true
 
