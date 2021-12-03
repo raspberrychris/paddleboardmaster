@@ -13,6 +13,8 @@ thumbnail = ""
 title = "Privacy Policy"
 toc = false
 widgets = []
+[menu.main]
+weight = 3
 
 +++
 ## WHO WE ARE
