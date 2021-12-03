@@ -1,0 +1,46 @@
+---
+label: Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: text
+  name: lead
+  label: lead
+- type: boolean
+  name: comments
+  label: comments
+- type: boolean
+  name: authorbox
+  label: authorbox
+- type: boolean
+  name: pager
+  label: pager
+- type: boolean
+  name: toc
+  label: toc
+- type: boolean
+  name: mathjax
+  label: mathjax
+- type: text
+  name: sidebar
+  label: sidebar
+- type: list
+  name: widgets
+  label: widgets
