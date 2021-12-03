@@ -14,7 +14,7 @@ title = "Privacy Policy"
 toc = false
 widgets = []
 [menu.main]
-weight = 3
+weight = 4
 
 +++
 ## WHO WE ARE

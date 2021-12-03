@@ -55,6 +55,10 @@ facebook = "username"
 instagram = "username"
 twitter = "username"
 [[menu.main]]
+name = "Buying Guides"
+url = "https://paddleboardmaster.com/tags/buying-guides/"
+weight = 3
+[[menu.main]]
 name = "Home"
 url = "https://paddleboardmaster.com"
 weight = 1
