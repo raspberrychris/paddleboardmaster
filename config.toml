@@ -38,7 +38,7 @@ title = ""
 home = "right"
 list = "left"
 single = false
-widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+widgets = ["search", "recent", "Brands", "taglist", "social", "languages"]
 [Params.style.vars]
 fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
 fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
@@ -50,14 +50,9 @@ categories_counter = false
 recent_num = 5
 tags_counter = false
 [Params.widgets.social]
-bitbucket = "username"
 email = "example@example.com"
 facebook = "username"
-github = "username"
-gitlab = "username"
 instagram = "username"
-linkedin = "username"
-telegram = "username"
 twitter = "username"
 [[menu.main]]
 name = "Home"
