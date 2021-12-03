@@ -1,11 +1,10 @@
 baseurl = "/"
-title = "Paddleboard Master"
+disqusShortname = ""
+googleAnalytics = ""
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
+paginate = "10"
 theme = "mainroad"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-
+title = "Paddleboard Master"
 [Author]
   name = "Chris"
   bio = "Chris started Paddleboarding in 2018 and got obsessed with it ever since then! In this site i wanted to provide honest reviews of paddleboards. I hope you find my reviews of paddleboards useful."

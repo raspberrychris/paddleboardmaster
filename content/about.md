@@ -3,9 +3,12 @@ title: About Hugo
 date: 2014-04-09
 authorbox: false
 sidebar: false
-menu: main
----
+menu:
+  main:
+    name: About
+    weight: 1
 
+---
 Hugo is a static site engine written in Go.
 
 
