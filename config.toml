@@ -44,9 +44,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
   [Params.logo]
-    image = "img/placeholder.png" # Logo image. Path relative to "static"
-    title = "Mainroad" # Logo title, otherwise will use site title
-    subtitle = "Just another site" # Logo subtitle
+    image = "https://ibb.co/r5v98pb" # Logo image. Path relative to "static"
+    title = "" # Logo title, otherwise will use site title
+    subtitle = "" # Logo subtitle
 
   [Params.thumbnail]
     visibility = ["list", "post"] # Control thumbnail visibility
