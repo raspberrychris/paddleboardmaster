@@ -44,3 +44,5 @@ fields:
 - type: list
   name: widgets
   label: widgets
+pages:
+- content/post/funwater-stand-up-paddle-board.md
