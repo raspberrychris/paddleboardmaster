@@ -38,7 +38,7 @@ title = ""
 home = "right"
 list = "left"
 single = false
-widgets = ["search", "recent", "Brands", "taglist", "social", "languages"]
+widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
 [Params.style.vars]
 fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
 fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
