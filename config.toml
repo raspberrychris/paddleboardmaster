@@ -60,6 +60,10 @@ linkedin = "username"
 telegram = "username"
 twitter = "username"
 [[menu.main]]
+name = "Home"
+url = "https://paddleboardmaster.com"
+weight = 1
+[[menu.main]]
 name = "Brands"
 url = "https://paddleboardmaster.com/categories/"
 weight = 2
