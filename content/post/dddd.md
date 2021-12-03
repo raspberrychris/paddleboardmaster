@@ -20,8 +20,6 @@ widgets:
 - search
 - recent
 - taglist
-menu:
-  main: {}
 draft: true
 
 ---
