@@ -3,7 +3,7 @@ disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = "10"
-theme = "mainroad"
+theme = "papermod"
 title = "Paddle Board Master"
 [Author]
 avatar = "img/avatar.png"
