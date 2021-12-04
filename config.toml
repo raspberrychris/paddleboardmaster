@@ -4,10 +4,10 @@ googleAnalytics = ""
 languageCode = "en-us"
 paginate = "10"
 theme = "mainroad"
-title = "Paddleboard Master"
+title = "Paddle Board Master"
 [Author]
 avatar = "img/avatar.png"
-bio = "Chris started Paddleboarding in 2018 and got obsessed with it ever since then! In this site i wanted to provide honest reviews of paddleboards. I hope you find my reviews of paddleboards useful."
+bio = "Chris started Paddle boarding in 2018 and got obsessed with it ever since then! In this site i wanted to provide honest reviews of paddleboards. I hope you find my reviews of paddleboards useful."
 name = "Chris"
 [Params]
 authorbox = true
@@ -25,7 +25,7 @@ mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
 opengraph = true
 pager = true
 post_meta = ["author", "date", "categories", "translations"]
-readmore = false
+readmore = true
 schema = true
 subtitle = ""
 toc = true
@@ -36,7 +36,7 @@ subtitle = ""
 title = ""
 [Params.sidebar]
 home = "right"
-list = "left"
+list = "right"
 single = false
 widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
 [Params.style.vars]
