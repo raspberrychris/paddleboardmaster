@@ -1,6 +1,6 @@
 +++
 authorbox = true
-categories = ["Review"]
+categories = ["Funwater"]
 comments = false
 date = 2021-12-03T00:00:00Z
 description = ""
@@ -8,7 +8,7 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = ["Funwater"]
+tags = ["Review"]
 thumbnail = "/uploads/71twm10-hsl-_ac_sx679_.jpg"
 title = "FunWater Stand Up Paddle Board"
 toc = true
