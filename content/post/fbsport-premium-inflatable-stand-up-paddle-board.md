@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = []
+categories = ["FBSport"]
 comments = false
 date = ""
 description = ""
@@ -9,7 +9,7 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = ["Review"]
 thumbnail = ""
 title = "FBSPORT Premium Inflatable Stand Up Paddle Board"
 toc = false
