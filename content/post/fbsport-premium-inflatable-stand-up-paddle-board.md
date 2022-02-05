@@ -19,13 +19,13 @@ widgets = []
 
 Ok, wow look at that colour! This is a Paddle Board that is pictured above in “Fruit Green” colors, but get this… it comes in **19** other color variations!
 
-[**To check out the remaining 18 color variations click here to jump to the product listing on Amazon.com for the FBSport Paddle Board…**](#)
+[**To check out the remaining 18 color variations click here to jump to the product listing on Amazon.com for the FBSport Paddle Board…**](https://www.amazon.com/FBSPORT-Premium-Inflatable-Accessories-Non-Slip/dp/B097H7XCWV?pd_rd_i=B07QVJTF39&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=7f42637b613c5e8c16b388b07299d088&language=en_US&ref_=as_li_ss_tl)
 
 In this review we will be taking a look at the FBSport Premium Inflatable Stand Up Paddle Board and reviewing its pros and cons.  We will take this paddle board through its paces and understand what are its key features and understand what makes it so popular in the paddle boarding world.
 
 ![FBSPORT Premium Inflatable Stand Up Paddle Board](/uploads/eaba5f90-f7b3-4a96-91bf-74e551794d3d.jpeg "FBSPORT Premium Inflatable Stand Up Paddle Board")
 
-This is one of the most popular paddle boards on the market and [**an incredible 77% of customers bought this paddle board on Amazon.com thought it was worthy of 5/5 stars!**](#)
+This is one of the most popular paddle boards on the market and [**an incredible 77% of customers bought this paddle board on Amazon.com thought it was worthy of 5/5 stars!**](https://www.amazon.com/FBSPORT-Premium-Inflatable-Accessories-Non-Slip/dp/B097H7XCWV?pd_rd_i=B07QVJTF39&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=7f42637b613c5e8c16b388b07299d088&language=en_US&ref_=as_li_ss_tl)
 
 So what makes this paddle board so great I bet you are asking!
 
@@ -53,7 +53,7 @@ One of the best things about an inflatable paddle board is that you can safely s
 
 ## FBSPORT Premium Inflatable Stand Up Paddle Board - Who is it for?
 
-The [**FBSPORT Premium inflatable paddle board**](#) is perfect for anyone who wants to get into paddle boarding.  
+The [**FBSPORT Premium inflatable paddle board**](https://www.amazon.com/FBSPORT-Premium-Inflatable-Accessories-Non-Slip/dp/B097H7XCWV?pd_rd_i=B07QVJTF39&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=7f42637b613c5e8c16b388b07299d088&language=en_US&ref_=as_li_ss_tl) is perfect for anyone who wants to get into paddle boarding.  
 
 The fact that you get everything included with this paddle board really makes it an exceptional deal in our opinion.
 
@@ -63,7 +63,7 @@ And you have everything you need to get started, right out of the box.
 
 This means that when it comes to transportation you and going to have no worries what so ever with this paddle board as it can be put into your trunk and you won’t have to worry about where to store it out of season.
 
-If you love exploring the outdoors and beaches on the weekends then you really need to get a paddle board and  the [**FBSPORT Premium Inflatable Paddle Board**](#) is one of the most popular models that you can purchase this year.
+If you love exploring the outdoors and beaches on the weekends then you really need to get a paddle board and  the [**FBSPORT Premium Inflatable Paddle Board**](https://www.amazon.com/FBSPORT-Premium-Inflatable-Accessories-Non-Slip/dp/B097H7XCWV?pd_rd_i=B07QVJTF39&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=7f42637b613c5e8c16b388b07299d088&language=en_US&ref_=as_li_ss_tl) is one of the most popular models that you can purchase this year.
 
 ## What’s included with the Paddle Board?
 
@@ -85,4 +85,4 @@ The ease of use, ease of assembly, packing away and the fact that it is inflatab
 
 If you are looking for an inflatable paddle board then you cannot go wrong with this one if you are new to paddle boarding.  
 
-[**Click here to go to the FBSPORT Inflatable Stand up Paddle Board product listing on Amazon.com…**](#)
+[**Click here to go to the FBSPORT Inflatable Stand up Paddle Board product listing on Amazon.com…**](https://www.amazon.com/FBSPORT-Premium-Inflatable-Accessories-Non-Slip/dp/B097H7XCWV?pd_rd_i=B07QVJTF39&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=7f42637b613c5e8c16b388b07299d088&language=en_US&ref_=as_li_ss_tl)
