@@ -44,6 +44,11 @@ The accessories that come with it also have the Roc branding on it, which makes 
 
 ## So what is Included with the Paddle Board?
 
+* Roc's premium inflatable paddle board is made of the highest quality military grade material. We provide the most durable lightweight boards on the market using the same materials as boards costing twice as much. All boards come complete with everything you need to get out and enjoy the water right away.
+* The extra wide design creates an incredible all-around board for riders of all skill levels. These kits can be used in the ocean, freshwater lakes, and rivers. The board is an industry-leading weight of only 17.5 pounds—that’s 20% lighter than competitors’. Board dimensions are 10’ long by 33” wide and 6” thick with a weight limit of 350 pounds. Pets love them too!
+* The premium paddle board package has everything you need to enjoy your day on the water including: your board, collapsible aluminum paddle, removable fin, coil safety leash, hand pump, waterproof bag for essentials such as cell phone and keys, and an upgraded backpack to hold everything
+* Roc stand by the quality of their board and are glad to provide a 1 year manufacturer’s warranty at no additional cost. Supported by the best USA Based Customer Service in the industry, you can trust Roc as the leader in quality and fun.
+
 ## Does it only come in Black and White colors?
 
 If you are not a fan of the monochrome design, fear not as there are multiple colour designs available.  Roc offer no less than 12 colour combinations!  
