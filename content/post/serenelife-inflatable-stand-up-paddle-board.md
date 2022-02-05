@@ -30,12 +30,15 @@ If you can’t wait and want to jump straight to the product listing, [**click h
 
 ![](/uploads/1bcf847d-896b-456d-8c8d-70151741c862.jpeg)
 
+Warning: This paddle board may find you testing your limits!
+
 ## Key Features
 
 We think that this board is great because it is easy to inflate, is well made and high quality, it is easy to set up and transport and folds away really nicely.  
 
 **In terms of specific features:**
 
+* Great for Beginners
 * Trusted and Durable brand
 * Can Easily hold 2 People (Has 6 Inch Thickness)
 * Comes with a Leash (Most Paddle Boards don’t include this)
@@ -61,6 +64,14 @@ We think that this board is great because it is easy to inflate, is well made an
 
 The [**SereneLife Inflatable Stand Up Paddle Board**](#) is fantastic value for money and punches well above its weight.
 
+Whether you are a beginner to paddle boarding or a seasoned pro, we think you will find the fun in this paddle board.
+
 The fact that it is inflatable doesn’t seem to be a draw back as it survived many bumps and scuffs in our tests and lived to tell the tale afterwards.
+
+If anything, it actually better than a traditional board in our opinion.
+
+Family friendly.  This is actually the perfect board for families who are out and about on the weekends.
+
+Perfect for all types of activity.  As we mentioned earlier on you can use this paddle board for absolutely anything, but it the perfect place to showcase your latest yoga moves.
 
 One key advantage of an inflatable paddle board is the fact that it is easy to store and travel with, which we absolutely love, as it enables us to escape quickly on the weekends for our latest adventure!
