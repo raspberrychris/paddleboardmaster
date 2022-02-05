@@ -10,7 +10,7 @@ pager = true
 sidebar = ""
 tags = ["SereneLife"]
 thumbnail = "/uploads/00136d74-75c3-475c-9de5-23c82f9403ab.jpeg"
-title = "SereneLife Inflatable Stand Up Paddle Board"
+title = "SereneLife Inflatable Stand Up Paddle Board - The Best Beginners Board?"
 toc = true
 widgets = []
 
