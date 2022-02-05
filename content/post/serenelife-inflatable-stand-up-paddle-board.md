@@ -4,7 +4,6 @@ categories = ["Review"]
 comments = false
 date = 2022-02-05T12:00:00Z
 description = "Looking for the perfect all round inflatable paddle board?  We might just have the answer!"
-draft = true
 lead = ""
 mathjax = false
 pager = true
