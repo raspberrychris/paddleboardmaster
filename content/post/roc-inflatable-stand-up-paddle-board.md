@@ -1,6 +1,6 @@
 +++
 authorbox = true
-categories = ["Roc"]
+categories = ["Review"]
 comments = false
 date = 2022-02-05T12:00:00Z
 description = "Is this the best beginners Inflatable Paddle Board? Find out in our review!"
@@ -8,7 +8,7 @@ lead = ""
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Reviews"]
+tags = ["Roc"]
 thumbnail = "/uploads/3fe5cafc-66a1-406c-9255-5bf7d5abcc87.jpeg"
 title = "Roc Inflatable Stand Up Paddle Board - The Best Designed Paddle Board?"
 toc = true
