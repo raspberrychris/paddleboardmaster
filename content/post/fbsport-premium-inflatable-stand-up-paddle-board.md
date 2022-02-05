@@ -16,7 +16,7 @@ toc = false
 widgets = []
 
 +++
-![](/uploads/7fbc144e-fe7b-4245-9741-33bfe59ffc73.jpeg)
+![FBSPORT Premium Inflatable Stand Up Paddle Board](/uploads/7fbc144e-fe7b-4245-9741-33bfe59ffc73.jpeg "FBSPORT Premium Inflatable Stand Up Paddle Board")
 
 Ok, wow look at that colour! This is a Paddle Board that is pictures in “Fruit Green” colours, but get this… it comes in **19** other color variations! 
 
