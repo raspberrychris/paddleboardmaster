@@ -16,6 +16,8 @@ toc = true
 widgets = []
 
 +++
+![](/uploads/86dcac7f-0551-4ebe-94ea-bf9d9e02c2f4.jpeg)
+
 In this review we will be taking a look at the [**SereneLife Inflatable Stand Up Paddle Board**](#).  If you are looking to get one of the best quality paddle boards out there that punches well above its price range then we might have just the paddle board for you!  
 
 We will be taking the [**SereneLife Inflatable Stand Up Paddle Board**](#) through its paces to find out exactly why it is one of the most popular paddle boards out there and see why people just like you, rave about this paddle board!
@@ -45,10 +47,14 @@ We think that this board is great because it is easy to inflate, is well made an
 * Can Easily hold 2 People (Has 6 Inch Thickness)
 * Comes with a Leash (Most Paddle Boards don’t include this)
 * Stable and fast board with tight turning ability
-* Halkey Roberts Valve Connector
+* Premium grade Halkey Roberts Valve Connector
 * Dual Fins make it great for Surfing
 * Easy to Store
+* High Pressure
+* UV resistant double layer material
 * Thick material that protects against punctures
+
+![](/uploads/04a245e6-d9dd-44cd-9258-8dd5560a64f2.jpeg)
 
 ## What is Included in the Package?
 
@@ -59,6 +65,8 @@ We think that this board is great because it is easy to inflate, is well made an
 * Safety Leash
 * Storage Bag
 * 1 year manufacturer warranty for peace of mind
+
+![](/uploads/9be5983a-1631-4413-8b6e-45255ddb49ee.jpeg)
 
 ## Verdict
 
