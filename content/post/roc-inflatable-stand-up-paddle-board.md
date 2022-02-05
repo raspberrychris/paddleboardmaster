@@ -10,7 +10,7 @@ pager = true
 sidebar = ""
 tags = ["Reviews"]
 thumbnail = "/uploads/3fe5cafc-66a1-406c-9255-5bf7d5abcc87.jpeg"
-title = "Roc Inflatable Stand Up Paddle Board"
+title = "Roc Inflatable Stand Up Paddle Board - The Best Designed Paddle Board?"
 toc = true
 widgets = []
 
