@@ -20,7 +20,7 @@ widgets = []
 
 In this review we will dive in the deep end and check out this stunning new paddle board from [**Roc**](#)!
 
-The \[**Roc Inflatable Stand up Paddle board **\](´#)is beautifully designed and straight away you can tell this is going to be a quality paddle board and you will be able to enjoy the outdoors that little bit more with this board.
+The [**Roc Inflatable Stand up Paddle board**](#) is beautifully designed and straight away you can tell this is going to be a quality paddle board and you will be able to enjoy the outdoors that little bit more with this board.
 
 Did we say a little bit more? We mean a LOT more!
 
@@ -60,3 +60,19 @@ The colours are available are: Black, Aqua, Blue, Carbon, Charcoal, Dessert, Gre
 We particularly like the Solar and the Sangria color schemes.
 
 [**Click this link here to go to Amazon.com and check out the 12 different colour combinations for the Roc Inflatable Stand up Paddle Board…**](#)
+
+![Roc-paddleboard](/uploads/cb4f69bc-2c97-416e-ab9e-7df612183ee3.jpeg "Roc-paddleboard")
+
+## Verdict
+
+### 4/5
+
+This is a fantastic beginners paddleboard and we really recommend it.  What we really love about it is the fact that it is easy to use, easy to set up and basically a whole lot of fun to use!
+
+The water proof bag is an absolute bonus and means that you can pack it away really easy without worrying about it and store it easily away when not in use.
+
+In terms of performance we would say that this board matches some of the best mid range solid boards out there.
+
+The paddle floats if you drop it and also is extendable to a decent length, perfect if you are taller.  If you are a beginner looking to get into paddle boarding then this will be a very good choice for you to get started on.
+
+[**Click here to jump straight to the Roc Inflatable Stand Up Paddle Board product listing on Amazon.com…**](#)
