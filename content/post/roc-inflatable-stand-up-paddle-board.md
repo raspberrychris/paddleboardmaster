@@ -36,11 +36,15 @@ If you really can’t wait and want to jump straight to the product listing then
 
 ## Roc Inflatable Stand Up Paddle Board - Who is it for?
 
-The black and white minimalist design is completly on point.  
+So who is this paddleboard for?  We would say that this paddle board is best suited to those who are interested in getting started in paddle boarding.  The fact that it is inflatable means that you can store it away when it is not in use, but also makes it really convenient when you want to get away and explore the big outdoors!
+
+In terms of the design, the black and white minimalist design is completly on point in our opinion.
 
 We really love it!
 
-The accessories that come with it also have the Roc branding on it, which makes this a stunning overall package to look at.  This is definitely a paddle board to be seen with, and it is nice to see a brand put so much effort into the accessories to accompany the paddle board.  Perfect for trips to the beach on the weekends!
+So what do you get with this paddle board in terms of accessories?  The accessories that come with it (and there are a few!) also have the Roc branding on it, which makes this a stunning overall package to look at.  This is definitely a paddle board to be seen with, and it is nice to see a brand put so much effort into the accessories to accompany the paddle board.  
+
+Perfect for trips to the beach on the weekends!
 
 ## So what is Included with the Paddle Board?
 
