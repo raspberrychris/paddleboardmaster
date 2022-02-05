@@ -39,6 +39,8 @@ We think that this board is great because it is easy to inflate, is well made an
 **In terms of specific features:**
 
 * Great for Beginners
+* Non Slip Deck
+* Beautiful design
 * Trusted and Durable brand
 * Can Easily hold 2 People (Has 6 Inch Thickness)
 * Comes with a Leash (Most Paddle Boards don’t include this)
