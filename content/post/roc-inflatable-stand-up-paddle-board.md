@@ -41,3 +41,17 @@ The black and white minimalist design is completly on point.
 We really love it!
 
 The accessories that come with it also have the Roc branding on it, which makes this a stunning overall package to look at.  This is definitely a paddle board to be seen with, and it is nice to see a brand put so much effort into the accessories to accompany the paddle board.  Perfect for trips to the beach on the weekends!
+
+## So what is Included with the Paddle Board?
+
+## Does it only come in Black and White colors?
+
+If you are not a fan of the monochrome design, fear not as there are multiple colour designs available.  Roc offer no less than 12 colour combinations!  
+
+That is right, 12…
+
+The colours are available are: Black, Aqua, Blue, Carbon, Charcoal, Dessert, Green, Ocean, Pink, Sangria, Seagrass and Solar.
+
+We particularly like the Solar and the Sangria color schemes.
+
+[**Click this link here to go to Amazon.com and check out the 12 different colour combinations for the Roc Inflatable Stand up Paddle Board…**](#)
