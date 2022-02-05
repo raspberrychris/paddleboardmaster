@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = ["FEATH-R-LITE"]
+categories = ["Review"]
 comments = false
 date = 2021-12-03T00:00:00Z
 description = ""
@@ -8,7 +8,7 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = ["Paddleboards", "Reviews"]
+tags = ["Feath-r-lite"]
 thumbnail = "/uploads/91mpufalwql-_ac_sx679_.jpg"
 title = "FEATH-R-LITE Inflatable Stand Up Paddle Board"
 toc = false
