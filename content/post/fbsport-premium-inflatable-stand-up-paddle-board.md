@@ -4,7 +4,6 @@ categories = ["FBSport"]
 comments = false
 date = ""
 description = ""
-draft = true
 lead = ""
 mathjax = false
 pager = false
@@ -20,9 +19,9 @@ widgets = []
 
 Ok, wow look at that colour! This is a Paddle Board that is pictured above in “Fruit Green” colors, but get this… it comes in **19** other color variations!
 
-**To check out the remaining 18 color variations click here to jump to the product listing on Amazon.com for the FBSport Paddle Board…**
+[**To check out the remaining 18 color variations click here to jump to the product listing on Amazon.com for the FBSport Paddle Board…**](#)
 
-In this review we will be taking a look at the FBSport Premium Inflatable Stand Up Paddle Board and reviewing its pros and cons.
+In this review we will be taking a look at the FBSport Premium Inflatable Stand Up Paddle Board and reviewing its pros and cons.  We will take this paddle board through its paces and understand what are its key features and understand what makes it so popular in the paddle boarding world.
 
 ![FBSPORT Premium Inflatable Stand Up Paddle Board](/uploads/eaba5f90-f7b3-4a96-91bf-74e551794d3d.jpeg "FBSPORT Premium Inflatable Stand Up Paddle Board")
 
@@ -33,6 +32,8 @@ So what makes this paddle board so great I bet you are asking!
 Well…lets take a look!
 
 #### Perfect for cruising, fitness, fishing, and exploring
+
+![FBSPORT Premium Inflatable Stand Up Paddle Board](/uploads/97cd4cb8-7255-42d9-98ea-cd75e09e6c29.jpeg "FBSPORT Premium Inflatable Stand Up Paddle Board")
 
 If exploring the world is your thing then you are going to love this paddle board.  
 
@@ -52,7 +53,7 @@ One of the best things about an inflatable paddle board is that you can safely s
 
 ## FBSPORT Premium Inflatable Stand Up Paddle Board - Who is it for?
 
-The FBSPORT Premium inflatable paddle board is perfect for anyone who wants to get into paddle boarding.  
+The [**FBSPORT Premium inflatable paddle board**](#) is perfect for anyone who wants to get into paddle boarding.  
 
 The fact that you get everything included with this paddle board really makes it an exceptional deal in our opinion.
 
@@ -62,9 +63,11 @@ And you have everything you need to get started, right out of the box.
 
 This means that when it comes to transportation you and going to have no worries what so ever with this paddle board as it can be put into your trunk and you won’t have to worry about where to store it out of season.
 
-If you love exploring the outdoors and beaches on the weekends then you really need to get a paddle board and  the **FBSPORT Premium Inflatable Paddle Board** is one of the most popular models that you can purchase this year.
+If you love exploring the outdoors and beaches on the weekends then you really need to get a paddle board and  the [**FBSPORT Premium Inflatable Paddle Board**](#) is one of the most popular models that you can purchase this year.
 
 ## What’s included with the Paddle Board?
+
+![FBSPORT Premium Inflatable Stand Up Paddle Board](/uploads/fff947b3-8d89-43f7-b9d7-d373b010f2ad.jpeg "FBSPORT Premium Inflatable Stand Up Paddle Board")
 
 1 x Paddle Board; 1 x Extendable Paddle ;1 x Pump ; 1 x Carrying Backpack ; 1 x Removable Fin ; 1 x High Pressure Pump ; 1 x Ankle Leash
 
@@ -82,4 +85,4 @@ The ease of use, ease of assembly, packing away and the fact that it is inflatab
 
 If you are looking for an inflatable paddle board then you cannot go wrong with this one if you are new to paddle boarding.  
 
-**Click here to go to the FBSPORT Inflatable Stand up Paddle Board product listing on Amazon.com…**
+[**Click here to go to the FBSPORT Inflatable Stand up Paddle Board product listing on Amazon.com…**](#)
