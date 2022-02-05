@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = ["Buying Guide"]
+categories = []
 comments = false
 date = 2021-12-03T00:00:00Z
 description = ""
@@ -8,7 +8,7 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = ["Buying Guide"]
 thumbnail = ""
 title = "Which Paddleboard is the Best For Beginners?"
 toc = false
