@@ -1,6 +1,6 @@
 +++
 authorbox = true
-categories = ["Review"]
+categories = ["SereneLife"]
 comments = false
 date = 2022-02-05T12:00:00Z
 description = "Looking for the perfect all round inflatable paddle board?  We might just have the answer!"
@@ -8,7 +8,7 @@ lead = ""
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["SereneLife"]
+tags = ["Review"]
 thumbnail = "/uploads/00136d74-75c3-475c-9de5-23c82f9403ab.jpeg"
 title = "SereneLife Inflatable Stand Up Paddle Board - The Best Beginners Board?"
 toc = true
