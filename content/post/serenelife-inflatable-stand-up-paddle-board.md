@@ -4,7 +4,6 @@ categories = ["Review"]
 comments = false
 date = 2022-02-05T12:00:00Z
 description = "Looking for the perfect all round inflatable paddle board?  We might just have the answer!"
-draft = true
 lead = ""
 mathjax = false
 pager = true
@@ -16,7 +15,7 @@ toc = true
 widgets = []
 
 +++
-![](/uploads/86dcac7f-0551-4ebe-94ea-bf9d9e02c2f4.jpeg)
+![Paddleboard-specs](/uploads/86dcac7f-0551-4ebe-94ea-bf9d9e02c2f4.jpeg "Paddleboard-specs")
 
 In this review we will be taking a look at the [**SereneLife Inflatable Stand Up Paddle Board**](#).  If you are looking to get one of the best quality paddle boards out there that punches well above its price range then we might have just the paddle board for you!  
 
@@ -24,15 +23,19 @@ We will be taking the [**SereneLife Inflatable Stand Up Paddle Board**](#) throu
 
 [**82% of customers on Amazon.com gave this paddle board a 5/5 rating**](#), which is a stunning rating from one of the leading retailers out there.
 
+## Video Review of the SereneLife Stand Up Paddle Board
+
+{{< youtube qNLmY2XbuZ8 >}}
+
 If you can’t wait and want to jump straight to the product listing, [**click here to check out this product on Amazon.com…**](#)
 
 ## SereneLife Stand Up Paddle Board - Suitable for Exploring, Touring, Fishing, Yoga
 
 [**The SereneLife Inflatable Stand Up Paddle Board**](#) is suitable for a wide range of activities, which is what makes it so great!  ThIs paddle board will really enable you to enjoy the great outdoors in ways that you have never thought of before!
 
-![](/uploads/1bcf847d-896b-456d-8c8d-70151741c862.jpeg)
+![Yoga-paddleboard](/uploads/1bcf847d-896b-456d-8c8d-70151741c862.jpeg "Yoga-paddleboard")
 
-Warning: This paddle board may find you testing your limits!
+**Warning: This paddle board may find you testing your limits!**
 
 ## Key Features
 
@@ -54,7 +57,7 @@ We think that this board is great because it is easy to inflate, is well made an
 * UV resistant double layer material
 * Thick material that protects against punctures
 
-![](/uploads/04a245e6-d9dd-44cd-9258-8dd5560a64f2.jpeg)
+![Paddleboard-specs](/uploads/04a245e6-d9dd-44cd-9258-8dd5560a64f2.jpeg "Paddleboard-specs")
 
 ## What is Included in the Package?
 
@@ -66,7 +69,7 @@ We think that this board is great because it is easy to inflate, is well made an
 * Storage Bag
 * 1 year manufacturer warranty for peace of mind
 
-![](/uploads/9be5983a-1631-4413-8b6e-45255ddb49ee.jpeg)
+![Paddleboard-easy-set-up](/uploads/9be5983a-1631-4413-8b6e-45255ddb49ee.jpeg "Paddleboard-easy-set-up")
 
 ## Verdict
 
