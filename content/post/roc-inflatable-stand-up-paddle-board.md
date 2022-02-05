@@ -16,11 +16,11 @@ toc = true
 widgets = []
 
 +++
-![](/uploads/698a6519-ba66-47a9-bcc3-33bb8249b543.jpeg)
+![Roc-inflatable-stand-up-paddle-board](/uploads/698a6519-ba66-47a9-bcc3-33bb8249b543.jpeg "Roc-inflatable-stand-up-paddle-board")
 
-In this review we will dive in the deep end and check out this stunning new paddle board from [**Roc**](#)!  
+In this review we will dive in the deep end and check out this stunning new paddle board from [**Roc**](#)!
 
-The [**Roc Inflatable Stand up Paddle board **](´#)is beautifully designed and straight away you can tell this is going to be a quality paddle board and you will be able to enjoy the outdoors that little bit more with this board.
+The \[**Roc Inflatable Stand up Paddle board **\](´#)is beautifully designed and straight away you can tell this is going to be a quality paddle board and you will be able to enjoy the outdoors that little bit more with this board.
 
 Did we say a little bit more? We mean a LOT more!
 
