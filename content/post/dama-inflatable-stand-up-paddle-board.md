@@ -16,6 +16,9 @@ toc = true
 widgets = []
 
 +++
+Welcome to the review of the Dama Inflatable Stand Up Paddle Board.  In this article we will be checking out one of the very best Paddle Boards on the market - The Dama Inflatable Stand Up Paddle Board.
+
+We will guide you through everything you need to know about this inflatable paddle board and also tell you about who we think it is best suited for, the performance and quality of the board and also explore some of the accessories that comes with it.
 
 ### Dama Inflatable Stand Up Paddle Board - Who is it for?
 
