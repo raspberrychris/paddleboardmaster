@@ -20,6 +20,8 @@ Welcome to the review of the [**Dama Inflatable Stand Up Paddle Board**](#).  In
 
 We will guide you through everything you need to know about this inflatable paddle board and also tell you about who we think it is best suited for, the performance and quality of the board and also explore some of the accessories that comes with it.
 
+![](/uploads/9c6fd4d9-dafd-4466-9522-af80e9f1586f.jpeg)
+
 [**75% of customers gave this paddle board a 5/5 rating on Amazon.com**](#), which is an amazing testimony to this paddle board and shows that customers who bought this paddle board really love using it.
 
 This is an incredible paddle board that we think you will be really excited about when get in to the features!
@@ -39,6 +41,8 @@ Ok guys, you’ll be pleased to hear that this paddle board is **absolutely perf
 ![Dama-inflatable-paddleboard](/uploads/696d1210-518b-4805-b1ad-7ecebbaf38fd.jpeg "Dama-inflatable-paddleboard")
 
 The Dama paddle board comes in three different sizes.
+
+[**Check out the sizes of the the Dama Inflatable Stand Up Paddle Board on Amazon.com…**](#)
 
 ### Key Stats
 
@@ -99,5 +103,9 @@ This DAMA inflatable stand up paddle board is an all-around multifunctional boar
 If you are on the look out for a **paddle board for yoga** then we think you can’t get much better than this!  It is really suited to Yoga and has a lot of features that make it an excellent paddle board for the money.  
 
 The included accessories are good quality and the fact this comes with a 1 year Dama warranty is a bonus and provides peace of mind incase something happens.  
+
+The great thing about this paddle board is the fact that it literally comes with everything you need!
+
+It is so easy to set up as well, which means you don’t have to waste time setting up your paddle board and can just get to the important task of relaxing and having a great time in the great outdoors! 
 
 [**Click here to check out the Dama Inflatable Stand Up Paddle Board on Amazon.com…**](#)
