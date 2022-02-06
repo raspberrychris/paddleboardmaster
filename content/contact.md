@@ -15,6 +15,8 @@ toc = false
 widgets = []
 
 +++
+# Contact Us
+
 To get in Contact with us please use the below email.
 
 Paddleboardmaster \[at\] gmail \[dot\] com
