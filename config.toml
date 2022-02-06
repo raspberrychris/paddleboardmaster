@@ -6,7 +6,7 @@ paginate = "10"
 theme = "mainroad"
 title = "Paddle Board Master"
 [Author]
-avatar = "img/avatar.png"
+avatar = "https://m.media-amazon.com/images/I/91Fqpc2uhzL._AC_SX679_.jpg"
 bio = "Chris started Paddle boarding in 2018 and got obsessed with it ever since then! In this site i wanted to provide honest reviews of paddleboards. I hope you find my reviews of paddleboards useful."
 name = "Chris"
 [Params]
@@ -17,7 +17,7 @@ customJS = ["js/custom.js"]
 dateformat = "2006-01-02"
 description = "Paddleboard Master is the place to find honest reviews about the BEST Paddleboards"
 googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"
-highlightColor = ""
+highlightColor = "red"
 mainSections = ["post", "blog", "news"]
 mathjax = true
 mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
