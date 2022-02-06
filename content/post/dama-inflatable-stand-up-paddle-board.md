@@ -21,6 +21,10 @@ widgets = []
 
 ![](/uploads/86512058-7cc0-4615-a079-4d5258fe7858.jpeg)
 
+## Dama Inflatable Stand UP Paddle Board - What sizes does it come in?
+
+![](/uploads/696d1210-518b-4805-b1ad-7ecebbaf38fd.jpeg)
+
 ### Key Stats
 
 Length: 10'6''
