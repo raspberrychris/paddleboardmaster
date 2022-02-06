@@ -20,6 +20,8 @@ Welcome to the review of the [**Dama Inflatable Stand Up Paddle Board**](#).  In
 
 We will guide you through everything you need to know about this inflatable paddle board and also tell you about who we think it is best suited for, the performance and quality of the board and also explore some of the accessories that comes with it.
 
+[**75% of customers gave this paddle board a 5/5 rating on Amazon.com**](#), which is an amazing testimony to this paddle board and shows that customers who bought this paddle board really love using it.
+
 This is an incredible paddle board that we think you will be really excited about when get in to the features!
 
 If you can’t wait and want to jump straight to the product listing click the link below to go to Amazon.
@@ -30,33 +32,31 @@ If you can’t wait and want to jump straight to the product listing click the l
 
 ![Dama-inflatable-paddleboard](/uploads/86512058-7cc0-4615-a079-4d5258fe7858.jpeg "Dama-inflatable-paddleboard")
 
-This paddle board is absolutely perfect for doing Yoga on.    It is also suitable for beginners to paddle boarding.  If you are looking for a good quality board that is easy to use then you will have a lot of fun using the Dama Inflatable Stand Up Paddle Board.
+Ok guys, you’ll be pleased to hear that this paddle board is **absolutely perfect** for Yoga.  It is also suitable for beginners to paddle boarding.  If you are looking for a good quality board that is easy to use then you will have a lot of fun using the [**Dama Inflatable Stand Up Paddle Board.**](#)
 
 ## Dama Inflatable Stand Up Paddle Board - What sizes does it come in?
 
 ![Dama-inflatable-paddleboard](/uploads/696d1210-518b-4805-b1ad-7ecebbaf38fd.jpeg "Dama-inflatable-paddleboard")
 
+The Dama paddle board comes in three different sizes.
+
 ### Key Stats
 
-Length: 10'6''
-
-Width: 32''
-
-Thickness:6''
-
-Weight:19.8lbs
-
-Max Capacity: 330lbs
+* Length: 10'6''
+* Width: 32''
+* Thickness:6''
+* Weight:19.8lbs
+* Max Capacity: 330lbs
 
 ## Dama Inflatable Stand Up Paddle Board - What are the features?
 
-This paddle board comes with some of the coolest features!
+We are not joking when we say that this paddle board comes with some of the coolest features!
 
-Check it out!
+**Check it out!**
 
 ## 🏄 Camera Bracket
 
-Want to share your life and become an online celebrity like other bloggers? Want to record your happy time with your friends on water? Still take pictures with the cell phone in your hand? Dama added a Sports camera bracket mount on their inflatable stand up paddle board, where you can install your sport camera on the paddle board directly. This updated design belong exclusively to DAMA. Start to record your fun time on water!
+Want to share your life and become an online celebrity like other bloggers? Want to record your happy time with your friends on water? Still take pictures with the cell phone in your hand? **Dama** added a Sports camera bracket mount on their inflatable stand up paddle board, where you can install your sport camera on the paddle board directly. This updated design belong exclusively to DAMA. Start to record your fun time on water!
 
 ## 🏄 Steel D Rings
 
@@ -95,3 +95,9 @@ This DAMA inflatable stand up paddle board is an all-around multifunctional boar
 ## Verdict
 
 ### 4/5
+
+If you are on the look out for a **paddle board for yoga** then we think you can’t get much better than this!  It is really suited to Yoga and has a lot of features that make it an excellent paddle board for the money.  
+
+The included accessories are good quality and the fact this comes with a 1 year Dama warranty is a bonus and provides peace of mind incase something happens.  
+
+[**Click here to check out the Dama Inflatable Stand Up Paddle Board on Amazon.com…**](#)
