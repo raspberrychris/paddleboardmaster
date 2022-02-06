@@ -25,4 +25,4 @@ Paddle Boarding is one of the best hobbies that you can take up and it really gi
 
 I hope you enjoy the site!
 
-Paddle Board Master.
+Paddle Board Master
