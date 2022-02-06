@@ -1,21 +1,21 @@
 +++
-authorbox = false
+authorbox = true
 categories = []
 comments = false
-date = ""
+date = 2022-02-05T00:00:00Z
 description = ""
 lead = ""
-mathjax = false
-pager = false
+mathjax = true
+pager = true
 sidebar = ""
 tags = []
 thumbnail = ""
 title = "About "
-toc = false
+toc = true
 widgets = []
 
 +++
-# About Paddle Board Master
+# About
 
 Paddle Board Master was started by Chris who first experienced paddle boarding while on holiday in San Diego and visiting La Jolla Cove.
 
