@@ -45,7 +45,6 @@ fields:
   name: widgets
   label: widgets
 pages:
-- content/about-1.md
 - content/affiliate-disclaimer.md
 - content/contact.md
 - content/post/are-paddle-boards-worth-it.md

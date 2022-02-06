@@ -16,17 +16,17 @@ toc = true
 widgets = []
 
 +++
-Welcome to the review of the Dama Inflatable Stand Up Paddle Board.  In this article we will be checking out one of the very best Paddle Boards on the market - The Dama Inflatable Stand Up Paddle Board.
+Welcome to the review of the [**Dama Inflatable Stand Up Paddle Board**](#).  In this article we will be checking out one of the very best Paddle Boards on the market - The Dama Inflatable Stand Up Paddle Board.
 
 We will guide you through everything you need to know about this inflatable paddle board and also tell you about who we think it is best suited for, the performance and quality of the board and also explore some of the accessories that comes with it.
 
 ### Dama Inflatable Stand Up Paddle Board - Who is it for?
 
-![](/uploads/86512058-7cc0-4615-a079-4d5258fe7858.jpeg)
+![Dama-inflatable-paddleboard](/uploads/86512058-7cc0-4615-a079-4d5258fe7858.jpeg "Dama-inflatable-paddleboard")
 
 ## Dama Inflatable Stand UP Paddle Board - What sizes does it come in?
 
-![](/uploads/696d1210-518b-4805-b1ad-7ecebbaf38fd.jpeg)
+![Dama-inflatable-paddleboard](/uploads/696d1210-518b-4805-b1ad-7ecebbaf38fd.jpeg "Dama-inflatable-paddleboard")
 
 ### Key Stats
 
@@ -41,6 +41,28 @@ Weight:19.8lbs
 Max Capacity: 330lbs
 
 ## Dama Inflatable Stand Up Paddle Board - What are the features?
+
+This paddle board comes with some of the coolest features.
+
+## 🏄 Camera Bracket
+
+Want to share your life and become an online celebrity like other bloggers? Want to record your happy time with your friends on water? Still take pictures with the cell phone in your hand? We add a Sport camera bracket mount on inflatable stand up paddle board, where you can install your sport camera on the paddle board directly. This updated design belong exclusively to DAMA. Start to record your fun time on water!
+
+## 🏄 Steel D Rings
+
+10 minutes to inflate and 5 minutes to deflate, this inflatable paddle board is very convenient to set up. In addition to the grip handle, the unique extra steel D rings on the paddle board bring extra convenience to carry. You can also use these rings to connect your sup board with your friend’s, and enjoy the traveling together. A kayak seat can also be installed on the paddle board with these rings. This is another exclusive design for DAMA.
+
+## 🏄 Everything you need to start paddle boarding
+
+It comes with everything you need to start paddling : the 10.6 inflatable paddle board, Sport camera bracket mount on the sup board, 3-piece length adjustable floating paddle, hand pump which has air pressure gauge, safety ankle leash, repair kit, removable fin, 5L waterproof bag for essentials such as keys and food, transparent waterproof cell phone bag, a large comfortable backpack to hold everything.
+
+## 🏄 All Accessories Included 
+
+Height-adjustable paddles, dual hand pumps, Leash, repairing kits, WATERPROOF BAG helps the storage of something important when outside alone and sometimes can work as life jacket briefly, SUP BOARD CARRIER helps the shipping of the board to the sea, Spring rope on the board can also help to storage paddle and bag, waterproof handphone bag , comfortable and convenient full set of elite bags, easy to carry and labor saving, hard fin that will not drop.
+
+## 🏄 1 Year Warranty
+
+This DAMA inflatable stand up paddle board is an all-around multifunctional board, with a weight capacity of 330 lbs, it is suitable for Yoga, Fishing, Surfing or carrying kids and pets together in both fresh and salt water. Dama provide a 1-year manufacturer’s warranty at no additional cost. Time will tell how perfect DAMA is in quality and fun!
 
 ## Whats included with the Dama Inflatable Stand Up Paddle Board?
 
@@ -59,3 +81,7 @@ Max Capacity: 330lbs
 7\. Shoulder Strap
 
 8\. Comfortable Backpack
+
+## Verdict
+
+### 4/5
