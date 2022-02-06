@@ -4,7 +4,6 @@ categories = ["Dama"]
 comments = false
 date = 2022-02-06T09:00:00Z
 description = "The Dama Inflatable Paddle Board Is it the perfect paddle board for Yoga?"
-draft = true
 lead = ""
 mathjax = true
 pager = true
