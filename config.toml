@@ -27,13 +27,13 @@ pager = true
 post_meta = ["author", "date", "categories", "translations"]
 readmore = true
 schema = true
-subtitle = ""
+subtitle = "Reviews of the BEST Paddle Boards"
 toc = true
 twitter_cards = true
 [Params.logo]
 image = "https://i.ibb.co/JvPMStn/paddleboardlogoicon.png"
-subtitle = ""
-title = ""
+subtitle = "reviews of the best paddle boards"
+title = "paddle board master"
 [Params.sidebar]
 home = "right"
 list = "right"
@@ -50,7 +50,7 @@ categories_counter = false
 recent_num = 5
 tags_counter = false
 [Params.widgets.social]
-email = "example@example.com"
+email = "paddleboardmaster@gmail.com"
 facebook = "username"
 instagram = "username"
 twitter = "username"
@@ -66,3 +66,11 @@ weight = 1
 name = "Brands"
 url = "https://paddleboardmaster.com/categories/"
 weight = 2
+[[menu.main]]
+name = "About"
+url = "https://paddleboardmaster.com/about/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url = "https://paddleboardmaster.com/contact/"
+weight = 5
