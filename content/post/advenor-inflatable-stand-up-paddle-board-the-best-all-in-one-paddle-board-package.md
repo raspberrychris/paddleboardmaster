@@ -2,7 +2,7 @@
 authorbox = true
 categories = ["Advenor"]
 comments = false
-date = 2022-02-07T12:00:00Z
+date = 2022-02-08T12:00:00Z
 description = "Read our review to find out whether this IS the PERFECT all round paddle board!"
 lead = ""
 mathjax = true
