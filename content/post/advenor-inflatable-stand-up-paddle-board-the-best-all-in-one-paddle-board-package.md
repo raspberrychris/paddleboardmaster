@@ -91,7 +91,7 @@ The board has a good grip and is soft to touch in the right places.  The Paddle 
 
 ![Advenor Inflatable Stand Up Paddle Board](/uploads/0a78a3d3-f924-494e-a6d6-8f6eccb62bf5.jpeg "Advenor Inflatable Stand Up Paddle Board")
 
-The pump may not be to everyone’s taste, but this is something that is easily replaced if you want to take it to the next level.
+The pump may not be to everyone’s taste, but this is something that is easily replaced if you want to take it to the next level!
 
 This is a stable board, so it is suitable for a wide range of activities.  It is also really light, which makes it perfect to pack away and transport with a minimum of fuss.
 
