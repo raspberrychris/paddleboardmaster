@@ -56,17 +56,23 @@ If you are looking for an all in one package then the [**Advenor Inflatable Stan
 
 ## Advenor Inflatable Stand Up Paddle Board - Features
 
-#### Ultra Light
+### Ultra Light
 
 Did we mention that this paddle board really is light!
 
-#### Easy Storage and Carry
+![Advenor Inflatable Stand Up Paddle Board](/uploads/5f24cd22-7c2f-43c9-8520-780fca10123e.jpeg "Advenor Inflatable Stand Up Paddle Board")
+
+### Easy Storage and Carry
 
 As the [**Advenor Paddle Paddle Board**](#) is inflatable this means that it is very easy for it to be deflated and stored away when not in use.
+
+![Advenor Inflatable Stand Up Paddle Board](/uploads/b2c7d14d-8b16-49f0-9de8-5b93acc1ef1e.jpeg "Advenor Inflatable Stand Up Paddle Board")
 
 If you are the type of person that likes exploring the great outdoors on the weekends then you are going to love this paddle board as it has literally everything you need to get started, including the pump and bag.
 
 [**Advenor**](/categories/advenor) really do go over and above with their accessories compared to other brands.  With this package you even get a water proof cell phone bag!
+
+![Advenor Inflatable Stand Up Paddle Board](/uploads/e2ddff1c-c310-4f11-8482-70311f9152e8.jpeg "Advenor Inflatable Stand Up Paddle Board")
 
 Which is super useful as who doesn’t carry their cell phone with them these days?!  
 
@@ -83,6 +89,8 @@ If you are a taller person, you will be please to know that the aluminum paddle 
 This is a great board from [**Advenor**](/categories/advenor).  There are a lot of great inflatable paddle boards out there at the moment and when everything is included like in this deal, it really makes a great overall package for beginners who want to start paddle boarding.
 
 The board has a good grip and is soft to touch in the right places.  The Paddle is well designed and can extend even if your are over 6 foot.
+
+![Advenor Inflatable Stand Up Paddle Board](/uploads/0a78a3d3-f924-494e-a6d6-8f6eccb62bf5.jpeg "Advenor Inflatable Stand Up Paddle Board")
 
 The pump may not be to everyone’s taste, but this is something that is easily replaced if you want to take it to the next level.
 
