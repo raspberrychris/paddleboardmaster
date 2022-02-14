@@ -6,8 +6,8 @@ date = 2022-02-14T12:00:00Z
 description = "The Atoll Inflatable Stand Up Paddle Board has a lot of stunning features, but how will it fare in our in review?"
 draft = true
 lead = ""
-mathjax = false
-pager = false
+mathjax = true
+pager = true
 sidebar = ""
 tags = []
 thumbnail = "/uploads/cb4f08f7-23f5-4606-99a4-afb156649efe.jpeg"
@@ -20,7 +20,7 @@ widgets = []
 
 Thank you for joining us in this review of the Atoll Inflatable Stand Up Paddle Board. In this review we will be looking at the pros and cons of this paddle board and also comparing it against competitor paddle boards to understand exactly how it performs and whether it offers real value for money.
 
-If you have a look at this paddle board you may not notice straight away that it is actually 40% lighter than most of the competitor boards out there.  
+If you have a look at this paddle board you may not be able to tell that it is actually 40% lighter than most of the competitor boards out there.  This 
 
 This is one of the ‘hidden’ not immediately obvious features about this paddle board!
 
@@ -40,4 +40,4 @@ This is a great all round paddle board package from Atoll.  You get all the esse
 
 The included pump is a decent quality high pressure pump as well so you can get the inflation done in no time.  A lot of competitors will sometimes cut costs on the pump if they include it, but this doesn’t seem to be the case with the Atoll Inflatable Paddle Board.
 
-Atoll say that the board is perfect for Fishing, Surfing, Meditation and Exploring and we would agree with this, with it being a lighter board 
+Atoll say that the board is perfect for Fishing, Surfing, Meditation and Exploring and we would agree with this, with it being a lighter board.
