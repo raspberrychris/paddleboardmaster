@@ -28,8 +28,14 @@ The Atoll Inflatable stand up paddle board comes in a range of colours so even i
 
 [**Click here to check out the colour variations of the Atoll Inflatable Stand Up Paddle Board on Amazon.com…**](#)
 
-**Atoll** have 4 colors for this paddle board: Aqua Marine (Pictured), Desert Sand, Green and Blue.  All the color variations are actually fantastic and we think Atoll has really paid close attention to the design and the colours of this paddle board.
+**Atoll** have 4 colors for this paddle board: Aqua Marine (Pictured), Desert Sand, Green and Blue.  All the color variations are actually fantastic and we think **Atoll** has really paid close attention to the design and the colours of this paddle board.
 
 The Atoll paddle board weighs 19 pounds, compared the the Funwater Paddle Board which we also reviewed **here**, that weighs 27 pounds, this is a lot easier to carry around!  (We know which we would rather be carrying on long walks to the beach!)
 
 If you are looking for a paddle board that is easy to transport, lightweight and has a fantastic design with everything included then you will be interested in the Atoll Inflatable Stand Up Paddle Board!
+
+## Atoll Inflatable Stand Up Paddle Board - Who is it for?
+
+This is a great all round package from Atoll.  You get all the essentials included straight out of the package: Paddle, Fin, Leash, Pump and travel backpack.
+
+Atoll say that the board is perfect for Fishing, Surfing, Meditation and Exploring.
