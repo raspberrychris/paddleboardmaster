@@ -3,7 +3,7 @@ authorbox = true
 categories = []
 comments = false
 date = 2022-02-14T12:00:00Z
-description = ""
+description = "The Atoll Inflatable Stand Up Paddle Board has a lot of stunning features, but how will it fare in our in review?"
 draft = true
 lead = ""
 mathjax = false
@@ -36,6 +36,8 @@ If you are looking for a paddle board that is easy to transport, lightweight and
 
 ## Atoll Inflatable Stand Up Paddle Board - Who is it for?
 
-This is a great all round package from Atoll.  You get all the essentials included straight out of the package: Paddle, Fin, Leash, Pump and travel backpack.
+This is a great all round paddle board package from Atoll.  You get all the essentials you need included straight out of the package: Paddle, Fin, Leash, Pump and travel backpack are all included.  
 
-Atoll say that the board is perfect for Fishing, Surfing, Meditation and Exploring.
+The included pump is a decent quality high pressure pump as well so you can get the inflation done in no time.  A lot of competitors will sometimes cut costs on the pump if they include it, but this doesn’t seem to be the case with the Atoll Inflatable Paddle Board.
+
+Atoll say that the board is perfect for Fishing, Surfing, Meditation and Exploring and we would agree with this, with it being a lighter board 
