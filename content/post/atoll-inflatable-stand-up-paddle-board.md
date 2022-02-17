@@ -62,6 +62,38 @@ If you are keen to understand how to set up the Atoll Inflatable Stand Up Paddle
 
 ## Atoll Inflatable Stand Up Paddle Board - What are the Key Features?
 
+### Ultra Light Materials
+
+Dual layer PVC on this inflatable paddle board – 40% lighter than comparable models while creating an extra ridged board. 
+
+### High Pressure Hand Pump (Included)
+
+Inflatable stand up paddle board comes with : High Pressure Bravo dual action hand pump (inflates when pushing down AND pulling up) 3rd generation hand pump (up to 15psi)
+
+### Adjustable Paddle
+
+ISUP also comes with 3nd Generation Black aluminum alloy adjustable lightweight ( 2 lbs 2 ounces) 3 piece paddle with nylon blade. 
+
+### Detachable Fin
+
+Detachable extra durable removable fin compatible with all universal/ US fin boxes, NO lost screws fins, no tools needed and compatible with almost all aftermarket fins.
+
+### Stylish Backpack (Included)
+
+Sleek new heavy-duty backpack nylon carry bag (large enough to fit pump, paddle and paddle board ) mesh sides allow ISUP dry while being stored.
+
+### Tri Fin Design
+
+Tri fin design enables easier and more efficient tracking.
+
+### 2 Year Warranty
+
+2 Year Warranty.  Atoll’s inflatable boards are covered from any workmanship or material defect for a period of 2 years. 
+
+### Quality Guarantee
+
+Atoll stands behind its products 100%.
+
 ## Verdict
 
 ### 5/5
