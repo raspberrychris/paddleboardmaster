@@ -67,3 +67,19 @@ If you are keen to understand how to set up the Atoll Inflatable Stand Up Paddle
 ### 5/5
 
 ###### ⭐⭐⭐⭐⭐
+
+If you are looking for a paddle board that is a cut above the rest, then we think that you will really enjoy using the Atoll Inflatable Paddle Board.  It is great for a wide range of activities and is mostly suitable for intermediate paddle board users in our opinion.
+
+The weight of the paddle board itself is obviously a key selling point here for this paddle board which makes it an absolute breeze to transport, making your life a lot easier when you are looking to relax and unwind.
+
+The included accessories with this paddle board are really high quality and the high pressure pump in particular means that you can get set up in around 15 minutes, which is fast! 
+
+If you don’t want to be hanging around beach side while everyone is making the most of the water then this is definitely the paddle board for you.  
+
+In terms of the design we really appreciate the simple but purposeful design of the Atoll, the back pack as well is sturdy and made of thick material.
+
+The icing on the cake is the 2 years manufacturers guarantee which will give you peace of mind if you are in any doubt about the quality of the board.
+
+If you are looking for a sturdy and well designed, light paddle board, then you will love this paddle board!
+
+[**Check out the Atoll Inflatable Stand Up Paddle Board on Amazon.com…**](#)
