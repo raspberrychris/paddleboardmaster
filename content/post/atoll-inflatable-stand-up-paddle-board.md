@@ -4,7 +4,6 @@ categories = ["Atoll"]
 comments = false
 date = 2022-02-14T12:00:00Z
 description = "The Atoll Inflatable Stand Up Paddle Board has a lot of stunning features, but how will it fare in our in review?"
-draft = true
 lead = ""
 mathjax = true
 pager = true
