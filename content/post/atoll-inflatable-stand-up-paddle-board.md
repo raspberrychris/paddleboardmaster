@@ -18,13 +18,13 @@ widgets = []
 +++
 ![Atoll Inflatable Stand Up Paddle Board](/uploads/6dde4d2c-3313-4cdf-b5d9-fff348f63b88.jpeg "Atoll Inflatable Stand Up Paddle Board")
 
-Thank you for joining us in this review of the **Atoll Inflatable Stand Up Paddle Board**. In this review we will be looking at the pros and cons of this paddle board and also comparing it against competitor paddle boards to understand exactly how it performs and whether it offers real value for money.
+Thank you for joining us in this review of the **Atoll Inflatable Stand Up Paddle Board**. In this review we will be looking at the pros and cons of this paddle board and also comparing it against competitor paddle boards to understand exactly how it performs and whether it offers real value for money, for you our loyal readers!
 
-If you have a look at this paddle board you may not be able to tell that it is actually 40% lighter than most of the competitor boards out there.  
+If you have a quick look at this paddle board, you may not be able to tell straight away that it is actually 40% lighter than most of the competitor boards out there.  
 
 This is obviously going to benefit you if you are keen to have a paddle board but want something that is easy to carry around.
 
-This is one of the ‘hidden’ not immediately obvious features about this paddle board!
+This is one of the ‘hidden’ not immediately obvious features about this paddle board!  If you like what you see scroll down!
 
 ![Atoll colour paddleboards range](/uploads/95bb8182-b508-4069-9439-fb4f26d06610.jpeg "Atoll colour paddleboards range")
 
@@ -51,6 +51,12 @@ Atoll say that the board is perfect for Fishing, Surfing, Meditation and Explori
 Even if you are at all worried about possible damage to the paddle board, you will be pleased to know that the Atoll Inflatable Paddle Board also comes with a two year manufacturers warranty for complete peace of mind.
 
 So who is this paddle board for? We would say if you are looking for something that is a cut above the rest, and you are not completely new to paddle boarding then you will enjoy the Atoll Inflatable Paddle Board.  This paddle board would likely suit someone of an intermediate paddle boarding level in our opinion.   Activities such as surfing with the Atoll Inflatable Stand Up Paddle board are possible, but not extremely easy to do.  It will take a bit of practice to get up to scratch with this board if you are a complete beginner to paddle boarding.
+
+## Atoll Inflatable Stand Up Paddle Board Set Up Guide (Video)
+
+If you are keen to understand how to set up the Atoll Inflatable Stand Up Paddle Board, take a look at the video  below which explains exactly how to set it up.
+
+{{< youtube HBuLCx5bNi8 >}}
 
 ## Atoll Inflatable Stand Up Paddle Board - What are the Key Features?
 
