@@ -99,7 +99,7 @@ Atoll stands behind its products 100%.
 
 ###### ⭐⭐⭐⭐⭐
 
-If you are looking for a paddle board that is a cut above the rest, then we think that you will really enjoy using the Atoll Inflatable Paddle Board.  It is great for a wide range of activities and is mostly suitable for intermediate paddle board users in our opinion.
+If you are looking for a paddle board that is a cut above the rest, then we think that you will really enjoy using the [**Atoll Inflatable Paddle Board**](https://www.amazon.com/Atoll-Inflatable-Backpack-Included-copmlete/dp/B088K518TF?pd_rd_i=B075RL8GZG&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=8542f6337eadb2a5ac4e941807c082ee&language=en_US&ref_=as_li_ss_tl).  It is great for a wide range of activities and is mostly suitable for intermediate paddle board users in our opinion.
 
 The weight of the paddle board itself is obviously a key selling point here for this paddle board which makes it an absolute breeze to transport, making your life a lot easier when you are looking to relax and unwind.
 
