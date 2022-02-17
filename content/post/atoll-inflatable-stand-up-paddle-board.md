@@ -18,13 +18,13 @@ widgets = []
 +++
 ![Atoll Inflatable Stand Up Paddle Board](/uploads/6dde4d2c-3313-4cdf-b5d9-fff348f63b88.jpeg "Atoll Inflatable Stand Up Paddle Board")
 
-Thank you for joining us in this review of the Atoll Inflatable Stand Up Paddle Board. In this review we will be looking at the pros and cons of this paddle board and also comparing it against competitor paddle boards to understand exactly how it performs and whether it offers real value for money.
+Thank you for joining us in this review of the **Atoll Inflatable Stand Up Paddle Board**. In this review we will be looking at the pros and cons of this paddle board and also comparing it against competitor paddle boards to understand exactly how it performs and whether it offers real value for money.
 
-If you have a look at this paddle board you may not be able to tell that it is actually 40% lighter than most of the competitor boards out there.  This 
+If you have a look at this paddle board you may not be able to tell that it is actually 40% lighter than most of the competitor boards out there.  This is obviously going to benefit you if you are keen to have a paddle board but want something that is easy to carry around.
 
 This is one of the ‘hidden’ not immediately obvious features about this paddle board!
 
-The Atoll Inflatable stand up paddle board comes in a range of colours so even if the Aqua Marine Vibes aren’t quite right for you (We **LOVE** this colour though!) you can check out the other colour variations on Amazon.com
+The Atoll Inflatable stand up paddle board comes in a range of colours so even if the Aqua Marine Vibes aren’t quite right for you (We **LOVE** this colour though!) you can check out the other colour variations below:
 
 [**Click here to check out the colour variations of the Atoll Inflatable Stand Up Paddle Board on Amazon.com…**](#)
 
@@ -36,7 +36,7 @@ If you are looking for a paddle board that is easy to transport, lightweight and
 
 ## Atoll Inflatable Stand Up Paddle Board - Who is it for?
 
-This is a great all round paddle board package from Atoll.  You get all the essentials you need included straight out of the package: Paddle, Fin, Leash, Pump and travel backpack are all included.  
+This is a great all round paddle board package from Atoll.  You get all the essentials you need included straight out of the package: Paddle, Fin, Leash, Pump and travel backpack are all included.
 
 The included pump is a decent quality high pressure pump as well so you can get the inflation done in no time.  A lot of competitors will sometimes cut costs on the pump if they include it, but this doesn’t seem to be the case with the Atoll Inflatable Paddle Board.
 
