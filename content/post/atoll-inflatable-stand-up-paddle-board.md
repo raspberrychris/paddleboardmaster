@@ -52,6 +52,8 @@ Even if you are at all worried about possible damage to the paddle board, you wi
 
 So who is this paddle board for? We would say if you are looking for something that is a cut above the rest, and you are not completely new to paddle boarding then you will enjoy the Atoll Inflatable Paddle Board.  This paddle board would likely suit someone of an intermediate paddle boarding level in our opinion.   Activities such as surfing with the Atoll Inflatable Stand Up Paddle board are possible, but not extremely easy to do.  It will take a bit of practice to get up to scratch with this board if you are a complete beginner to paddle boarding.
 
+![Atoll-paddleboard](/uploads/2a4122f8-01cd-46ed-97dd-346308241694.jpeg "Atoll-paddleboard")
+
 ## Atoll Inflatable Stand Up Paddle Board Set Up Guide (Video)
 
 If you are keen to understand how to set up the Atoll Inflatable Stand Up Paddle Board, take a look at the video  below which explains exactly how to set it up.
