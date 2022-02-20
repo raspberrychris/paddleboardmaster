@@ -17,9 +17,9 @@ widgets = []
 +++
 ![Atoll Inflatable Stand Up Paddle Board](/uploads/6dde4d2c-3313-4cdf-b5d9-fff348f63b88.jpeg "Atoll Inflatable Stand Up Paddle Board")
 
-Thank you for joining us in this review of the **Atoll Inflatable Stand Up Paddle Board**. In this review we will be looking at the pros and cons of this paddle board and also comparing it against competitor paddle boards to understand exactly how it performs and whether it offers real value for money, for you our loyal readers!
+Thank you for joining us in this review of the **Atoll Inflatable Stand Up Paddle Board**. In this review we will be looking at the pros and cons of this paddle board and also comparing it against competitor paddle boards to understand exactly how it performs and whether it offers real value for money, for you, our loyal readers!
 
-If you have a quick look at this paddle board, you may not be able to tell straight away that it is actually 40% lighter than most of the competitor boards out there.  
+If you have a quick look at this paddle board, you may not be able to tell straight away that it is actually 40% lighter than most of the competitor boards out there.
 
 This is obviously going to benefit you if you are keen to have a paddle board but want something that is easy to carry around.
 
@@ -39,7 +39,7 @@ If you are looking for a paddle board that is easy to transport, lightweight and
 
 ## Atoll Inflatable Stand Up Paddle Board - Who is it for?
 
-This is a great all round paddle board package from Atoll.  You get all the essentials you need included straight out of the package: Paddle, Fin, a newly designed Leash, high pressure Pump and stylish travel backpack are all included.  What is there not to like here!   
+This is a great all round paddle board package from Atoll.  You get all the essentials you need included straight out of the package: Paddle, Fin, a newly designed Leash, high pressure Pump and stylish travel backpack are all included.  What is there not to like here!
 
 ![Atoll-accessories-paddleboard](/uploads/229ae3cd-fbea-4c9e-9682-2fdf351fbe0b.jpeg "Atoll-accessories-paddleboard")
 
@@ -63,7 +63,7 @@ If you are keen to understand how to set up the Atoll Inflatable Stand Up Paddle
 
 ### Ultra Light Materials
 
-Dual layer PVC on this inflatable paddle board – 40% lighter than comparable models while creating an extra ridged board. 
+Dual layer PVC on this inflatable paddle board – 40% lighter than comparable models while creating an extra ridged board.
 
 ### High Pressure Hand Pump (Included)
 
@@ -71,7 +71,7 @@ Inflatable stand up paddle board comes with : High Pressure Bravo dual action ha
 
 ### Adjustable Paddle
 
-ISUP also comes with 3nd Generation Black aluminum alloy adjustable lightweight ( 2 lbs 2 ounces) 3 piece paddle with nylon blade. 
+ISUP also comes with 3nd Generation Black aluminum alloy adjustable lightweight ( 2 lbs 2 ounces) 3 piece paddle with nylon blade.
 
 ### Detachable Fin
 
@@ -87,7 +87,7 @@ Tri fin design enables easier and more efficient tracking.
 
 ### 2 Year Warranty
 
-2 Year Warranty.  Atoll’s inflatable boards are covered from any workmanship or material defect for a period of 2 years. 
+2 Year Warranty.  Atoll’s inflatable boards are covered from any workmanship or material defect for a period of 2 years.
 
 ### Quality Guarantee
 
@@ -103,9 +103,9 @@ If you are looking for a paddle board that is a cut above the rest, then we thin
 
 The weight of the paddle board itself is obviously a key selling point here for this paddle board which makes it an absolute breeze to transport, making your life a lot easier when you are looking to relax and unwind.
 
-The included accessories with this paddle board are really high quality and the high pressure pump in particular means that you can get set up in around 15 minutes, which is fast! 
+The included accessories with this paddle board are really high quality and the high pressure pump in particular means that you can get set up in around 15 minutes, which is fast!
 
-If you don’t want to be hanging around beach side while everyone is making the most of the water then this is definitely the paddle board for you.  
+If you don’t want to be hanging around beach side while everyone is making the most of the water then this is definitely the paddle board for you.
 
 In terms of the design we really appreciate the simple but purposeful design of the Atoll, the back pack as well is sturdy and made of thick material.
 
