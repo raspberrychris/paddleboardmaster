@@ -23,7 +23,7 @@ If you have a quick look at this paddle board, you may not be able to tell strai
 
 This is obviously going to benefit you if you are keen to have a paddle board but want something that is easy to carry around and transport to and from the beach.
 
-This is one of the ‘hidden’ not immediately obvious features about this paddle board!  If you like what you see scroll down!
+This is one of the ‘hidden’ not immediately obvious features about this paddle board!  If you like what you see  keep on scrolling down!
 
 ![Atoll colour paddleboards range](/uploads/95bb8182-b508-4069-9439-fb4f26d06610.jpeg "Atoll colour paddleboards range")
 
