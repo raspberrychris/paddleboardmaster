@@ -21,7 +21,7 @@ Thank you for joining us in this review of the **Atoll Inflatable Stand Up Paddl
 
 If you have a quick look at this paddle board, you may not be able to tell straight away that it is actually 40% lighter than most of the competitor boards out there.
 
-This is obviously going to benefit you if you are keen to have a paddle board but want something that is easy to carry around.
+This is obviously going to benefit you if you are keen to have a paddle board but want something that is easy to carry around and transport to and from the beach.
 
 This is one of the ‘hidden’ not immediately obvious features about this paddle board!  If you like what you see scroll down!
 
