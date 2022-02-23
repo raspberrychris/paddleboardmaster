@@ -32,7 +32,19 @@ If you are serious about getting into paddleboarding then you will definitely li
 
 Join us while we dive in to our review of this product and discover what we really love about this inflatable stand up paddleboard from Cooyes.
 
+[**Click here to check out the Inflatable Stand up Paddle Board from Cooyes on Amazon.com…**](#)
+
 ## What size is it?
+
+## What is the quality of the Cooyes Inflatable Stand up Paddle Board?
+
+## Who is the Cooyes Inflatable Stand up Paddleboard for?
+
+## What are the features of the Cooyes Inflatable Stand up Paddleboard?
+
+## What is included in the package?
+
+## Verdict
 
 ***
 
