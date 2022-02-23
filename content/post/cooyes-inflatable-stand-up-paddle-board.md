@@ -34,7 +34,9 @@ Join us while we dive in to our review of this product and discover what we real
 
 [**Click here to check out the Inflatable Stand up Paddle Board from Cooyes on Amazon.com…**](#)
 
-## What size is it?
+## What size is the Cooyes Paddle Board?
+
+\`The Paddleboard is 10'6"x 32" x 6"and comes in 4 different colors.
 
 ## What is the quality of the Cooyes Inflatable Stand up Paddle Board?
 
