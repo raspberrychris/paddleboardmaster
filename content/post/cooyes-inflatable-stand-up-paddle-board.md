@@ -3,7 +3,7 @@ authorbox = true
 categories = []
 comments = false
 date = 2022-02-23T12:00:00Z
-description = ""
+description = "Join us as we walk you through all the features of the Cooyes Inflatable Stand Up Paddle Board"
 draft = true
 lead = ""
 mathjax = true
@@ -36,7 +36,7 @@ Join us while we dive in to our review of this product and discover what we real
 
 ## What size is the Cooyes Paddle Board?
 
-\`The Paddleboard is 10'6"x 32" x 6"and comes in 4 different colors.
+\`The Paddleboard is 10'6"x 32" x 6"and comes in 4 different colors. (Blue, Green, Orange and White).
 
 ## What is the quality of the Cooyes Inflatable Stand up Paddle Board?
 
