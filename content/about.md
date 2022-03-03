@@ -15,8 +15,6 @@ toc = true
 widgets = []
 
 +++
-# About
-
 Paddle Board Master was started by Chris who first experienced paddle boarding while on holiday in San Diego and visiting La Jolla Cove.
 
 Since then I have been hooked on Paddle Boarding and want to share my tips and tricks for paddle boarding with the wider world!
