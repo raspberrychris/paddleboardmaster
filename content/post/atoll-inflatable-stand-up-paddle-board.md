@@ -27,7 +27,7 @@ This is one of the ‘hidden’ not immediately obvious features about this padd
 
 ![Atoll colour paddleboards range](/uploads/95bb8182-b508-4069-9439-fb4f26d06610.jpeg "Atoll colour paddleboards range")
 
-The [**Atoll**](/categories/atoll/) Inflatable stand up paddle board comes in a range of colours so even if the Aqua Marine Vibes aren’t quite right for you (We **LOVE** this colour though!) you can check out the other colour variations below:
+The [**Atoll**](/categories/atoll/) Inflatable stand up paddle board comes in a range of colours so even if the Aqua Marine Vibes aren’t quite right for you (We **LOVE** this colour though!) you can check out the other colour variations below…
 
 [![](https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f)](https://www.amazon.com/Atoll-Inflatable-Backpack-Included-copmlete/dp/B088K518TF?pd_rd_i=B075RL8GZG&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=8542f6337eadb2a5ac4e941807c082ee&language=en_US&ref_=as_li_ss_tl)
 
