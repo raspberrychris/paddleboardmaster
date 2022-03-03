@@ -26,7 +26,11 @@ If you are at all on the fence we urge you to give it a go, you won’t regret i
 
 If you are looking to get into paddleboarding then you might want to check out this paddleboard featured above from [**Cooyes**](/categories/cooyes/).
 
-The inflatable stand up [**paddleboard from Cooyes**](/categories/cooyes/) makes a big impact both on the water and the beach. In this review we will run you through some of the core features of it, see how it compares with other boards and tell you what we really think of it.  If that sounds good, then scroll on!
+The inflatable stand up [**paddleboard from Cooyes**](/categories/cooyes/) certainly makes a big impact both on the water and the beach. 
+
+In this review we will run you through some of the core features of it, see how it compares with other boards and tell you what we really think of it.  
+
+If that sounds good, then scroll down!
 
 If you are serious about getting into paddleboarding then you will definitely like this paddleboard as it comes with everything you need to get going straight away - right out of the box!
 
@@ -38,7 +42,9 @@ Join us while we dive in to our review of this product and discover what we real
 
 \`The Paddleboard is 10'6"x 32" x 6"(an extra wide paddleboard, meaning it is extra stable when using on the water) the board also comes in 4 different colors. (Blue, Green, Orange and White).
 
-## What is the quality of the Cooyes Inflatable Stand up Paddle Board?
+## What is the quality like?
+
+Overall this is a really good quality paddle board and is made of military grade materials, which means it is durable in all conditions.  The board itself is made of ‎Polyvinyl chloride.
 
 ## Who is the Cooyes Inflatable Stand up Paddleboard for?
 
