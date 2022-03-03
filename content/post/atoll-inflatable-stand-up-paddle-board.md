@@ -29,7 +29,7 @@ This is one of the ‘hidden’ not immediately obvious features about this padd
 
 The [**Atoll**](/categories/atoll/) Inflatable stand up paddle board comes in a range of colours so even if the Aqua Marine Vibes aren’t quite right for you (We **LOVE** this colour though!) you can check out the other colour variations below:
 
-[**Click here to check out the colour variations of the Atoll Inflatable Stand Up Paddle Board on Amazon.com…**](https://www.amazon.com/Atoll-Inflatable-Backpack-Included-copmlete/dp/B088K518TF?pd_rd_i=B075RL8GZG&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=8542f6337eadb2a5ac4e941807c082ee&language=en_US&ref_=as_li_ss_tl)
+[![](https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f)](https://www.amazon.com/Atoll-Inflatable-Backpack-Included-copmlete/dp/B088K518TF?pd_rd_i=B075RL8GZG&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=8542f6337eadb2a5ac4e941807c082ee&language=en_US&ref_=as_li_ss_tl)
 
 [**Atoll**](/categories/atoll/) have 4 colors for this paddle board: Aqua Marine (Pictured), Desert Sand, Green and Blue.  All the color variations are actually fantastic and we think [**Atoll**](/categories/atoll/) has really paid close attention to the design and the colours of this paddle board.
 
@@ -113,4 +113,4 @@ The icing on the cake is the 2 years manufacturers guarantee which will give you
 
 If you are looking for a sturdy and well designed, light paddle board, then you will love this paddle board!
 
-[**Check out the Atoll Inflatable Stand Up Paddle Board on Amazon.com…**](https://www.amazon.com/Atoll-Inflatable-Backpack-Included-copmlete/dp/B088K518TF?pd_rd_i=B075RL8GZG&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=8542f6337eadb2a5ac4e941807c082ee&language=en_US&ref_=as_li_ss_tl)
+[![](https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f)](https://www.amazon.com/Atoll-Inflatable-Backpack-Included-copmlete/dp/B088K518TF?pd_rd_i=B075RL8GZG&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=8542f6337eadb2a5ac4e941807c082ee&language=en_US&ref_=as_li_ss_tl)
