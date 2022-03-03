@@ -1,17 +1,17 @@
 +++
-authorbox = false
+authorbox = true
 categories = ["How To"]
-comments = false
+comments = true
 date = 2022-03-02T00:00:00Z
 description = "Learn how to SUP in 5 minutes with this fantastic video"
-lead = ""
+lead = "Learn to SUP in just 5 minutes with this video guide!"
 mathjax = false
-pager = false
+pager = true
 sidebar = ""
 tags = []
-thumbnail = ""
-title = "How to SUP In Five Minutes!"
-toc = false
+thumbnail = "/uploads/d72ea65c-8c48-4a27-9bfa-ec6f4129d044.jpeg"
+title = "How to SUP In JUST Five Minutes!"
+toc = true
 widgets = []
 
 +++
