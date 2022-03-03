@@ -20,13 +20,13 @@ widgets = []
 
 There is no doubt that paddleboarding is becoming increasingly popular and is one of the most fun outdoor water sport activities that you can try at the moment.
 
-Did we mention that getting fit from paddleboarding is also easy and also a hell of a lot of fun!
+Did we mention that getting fit from paddleboarding is also easy and also a **hell of a lot of fun!**
 
 If you are at all on the fence we urge you to give it a go, you won’t regret it!
 
-If you are looking to get into paddleboarding then you might want to check out this paddleboard featured above from Cooyes.
+If you are looking to get into paddleboarding then you might want to check out this paddleboard featured above from [**Cooyes**](/categories/cooyes/).
 
-The inflatable stand up paddleboard from Cooyes makes a big impact both on the water and the beach. In this review we will run you through some of the core features of it, see how it compares with other boards and tell you what we really think of it.  If that sounds good, then scroll on!
+The inflatable stand up [**paddleboard from Cooyes**](/categories/cooyes/) makes a big impact both on the water and the beach. In this review we will run you through some of the core features of it, see how it compares with other boards and tell you what we really think of it.  If that sounds good, then scroll on!
 
 If you are serious about getting into paddleboarding then you will definitely like this paddleboard as it comes with everything you need to get going straight away - right out of the box!
 
