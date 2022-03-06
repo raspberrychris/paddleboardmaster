@@ -4,7 +4,6 @@ categories = []
 comments = false
 date = 2022-03-06T12:00:00Z
 description = "Discover how to inflatate a stand up paddle board with this guide"
-draft = true
 lead = ""
 mathjax = false
 pager = false
@@ -16,5 +15,6 @@ toc = false
 widgets = []
 
 +++
+Check out this video below that gives you a great guide on how to inflate a stand up paddle board.
 
 {{< youtube Lm5Vhf3P-4U >}}
