@@ -2,13 +2,13 @@
 authorbox = true
 categories = ["Cooyes"]
 comments = false
-date = 2022-02-23T12:00:00Z
+date = 2022-03-06T12:00:00Z
 description = "Join us as we walk you through all the features of the Cooyes Inflatable Stand Up Paddle Board"
 lead = "High Quality Board that is SUPER quick to inflate!"
 mathjax = true
 pager = true
 sidebar = ""
-tags = []
+tags = ["Review"]
 thumbnail = "/uploads/25afea02-7425-4700-84e1-a9d21577d131.jpeg"
 title = "Cooyes Inflatable Stand Up Paddle Board"
 toc = true
