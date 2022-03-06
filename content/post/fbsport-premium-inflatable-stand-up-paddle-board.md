@@ -35,11 +35,11 @@ Well…lets take a look!
 
 ![FBSPORT Premium Inflatable Stand Up Paddle Board](/uploads/97cd4cb8-7255-42d9-98ea-cd75e09e6c29.jpeg "FBSPORT Premium Inflatable Stand Up Paddle Board")
 
-If exploring the world is your thing then you are going to love this paddle board.  
+If exploring the world is your thing then you are going to love this paddle board.
 
-The great thing about it is that it is big enough to do all kinds of activities on.  
+The great thing about it is that it is big enough to do all kinds of activities on.
 
-Whether it is a bit of fishing, or a bit of Yoga!  
+Whether it is a bit of fishing, or a bit of Yoga!
 
 (Yes… and it is even suitable for paddle boarding).
 
@@ -51,15 +51,21 @@ For peace of mind FBSPORT only use the most durable premium materials in the con
 
 One of the best things about an inflatable paddle board is that you can safely store it when it is not in use.  If you don’t have a big area to store a paddleboard this can be a major bonus.  This is certainly why we love inflatable paddle boards - the convenience of them is definitely unmatched.
 
+## FBSport Unboxing Video 
+
+Take a look at the FBSport Inflatable Stand Up paddle board for yourself by watching this video of the unboxing.
+
+{{< youtube dQBC1uh0YW4 >}}
+
 ## FBSPORT Premium Inflatable Stand Up Paddle Board - Who is it for?
 
-The [**FBSPORT Premium inflatable paddle board**](https://www.amazon.com/FBSPORT-Premium-Inflatable-Accessories-Non-Slip/dp/B097H7XCWV?pd_rd_i=B07QVJTF39&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=7f42637b613c5e8c16b388b07299d088&language=en_US&ref_=as_li_ss_tl) is perfect for anyone who wants to get into paddle boarding.  
+The [**FBSPORT Premium inflatable paddle board**](https://www.amazon.com/FBSPORT-Premium-Inflatable-Accessories-Non-Slip/dp/B097H7XCWV?pd_rd_i=B07QVJTF39&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=7f42637b613c5e8c16b388b07299d088&language=en_US&ref_=as_li_ss_tl) is perfect for anyone who wants to get into paddle boarding.
 
 The fact that you get everything included with this paddle board really makes it an exceptional deal in our opinion.
 
 And you have everything you need to get started, right out of the box.
 
-…Even the pump and a backpack! 
+…Even the pump and a backpack!
 
 This means that when it comes to transportation you and going to have no worries what so ever with this paddle board as it can be put into your trunk and you won’t have to worry about where to store it out of season.
 
@@ -75,14 +81,14 @@ If you love exploring the outdoors and beaches on the weekends then you really n
 
 ### 5/5
 
-This is a hugely popular paddle board and we know why!  Straight out of the box you get everything you need to get started in paddle boarding.  
+This is a hugely popular paddle board and we know why!  Straight out of the box you get everything you need to get started in paddle boarding.
 
 All the accessories for your inflatable paddle board are just included right out of the box, which makes this paddle board a fantastic deal.
 
-If you are looking to get away on the weekends, get out of the city and discover new beaches, then you may find that this is the perfect balance for you.  The compact footprint of this means that it can easily be hidden in a city apartment. 
+If you are looking to get away on the weekends, get out of the city and discover new beaches, then you may find that this is the perfect balance for you.  The compact footprint of this means that it can easily be hidden in a city apartment.
 
 The ease of use, ease of assembly, packing away and the fact that it is inflatable, but still performs as fast as a regular solid paddle board, means that you really do get the best of both worlds with this paddle board.
 
-If you are looking for an inflatable paddle board then you cannot go wrong with this one if you are new to paddle boarding.  
+If you are looking for an inflatable paddle board then you cannot go wrong with this one if you are new to paddle boarding.
 
 [**Click here to go to the FBSPORT Inflatable Stand up Paddle Board product listing on Amazon.com…**](https://www.amazon.com/FBSPORT-Premium-Inflatable-Accessories-Non-Slip/dp/B097H7XCWV?pd_rd_i=B07QVJTF39&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=7f42637b613c5e8c16b388b07299d088&language=en_US&ref_=as_li_ss_tl)
