@@ -58,6 +58,8 @@ The board itself is made of ‎Polyvinyl chloride so you can expect it last a lo
 
 The Cooyes Inflatable paddle board is suitable for a wide range of people the extra width of the board makes it very stable and useful for a wide range of activities, for example if you are in to yoga then you will find this paddle board will be very stable for this activity.
 
+![Cooyes Inflatable Stand Up Paddle Board](/uploads/3114505f-d18c-4951-bac8-769d0de778d9.jpeg "Cooyes Inflatable Stand Up Paddle Board")
+
 If you are into fishing you will also find that this board is a good match again for the same reasons.
 
 Ofcourse the Cooyes paddle board also excels at exploring and touring the world.  Standing up on the paddle board enables you to get a whole new perspective on the world around you.
