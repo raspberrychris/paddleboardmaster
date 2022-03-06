@@ -119,11 +119,13 @@ This means that you get peace of mind when out and about on the water and don’
 * Suitable for Beginners
 * Very Quick to inflate and deflate
 * High Quality Materials
+* Great Touring Board
 
 ### Cons:
 
 * Beach Design may not be for everyone
 * There are higher quality boards out there
+* Some customers have reported valve leaks
 * Wide Design may not be for more advanced paddle boarders
 
 [**Click here to check out the inflatable stand up paddle board from Cooyes on Amazon.com…**](#)
