@@ -1,14 +1,14 @@
 +++
 authorbox = false
-categories = []
+categories = ["Luclear"]
 comments = false
 date = 2022-05-16T11:00:00Z
-description = "If you are "
+description = "Check out the Luclear Inflatable paddleboard and discover whether what we really think of this paddleboard!"
 lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = ["Review"]
 thumbnail = "/uploads/0530cf3f-3eb7-4b76-8002-be16028fbaf7.jpeg"
 title = "Luclear Inflatable Paddle Board - Perfect for Beginners?"
 toc = false
