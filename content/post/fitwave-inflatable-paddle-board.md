@@ -18,9 +18,11 @@ widgets = []
 +++
 ## Fitwave Paddle Board 9.5ft/10ft/11ft SUP + Kit
 
-In this post I am taking a look at the [**Fitwave inflatable paddleboard**](#), which a lot of you have recommended that I review!  
+In this post I am taking a look at the [**Fitwave inflatable paddleboard**](https://www.amazon.com/FITWAVE-Paddle-Board-10x32x6-Premium/dp/B08YFKFH46?pd_rd_i=B09SZCCBP7&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=6946e160cd1663aa3b5b5869f158fb24&language=en_US&ref_=as_li_ss_tl), which a lot of you have recommended that I review!  
 
 Picture the scene: When the weather is great and you want to get into exploring the great outdoors, there really is no better way to do it than by using a paddleboard in my experience!  
+
+![Paddling-exploring-fitwave](/uploads/5b99c573-20a2-487b-8bca-05df23629772.jpeg "Paddling-exploring-fitwave")
 
 But _which_ Paddleboard?
 
@@ -30,9 +32,11 @@ This paddleboard from Fitwave has been extremely popular in 2022 so far and I th
 
 Without further ado, lets take a look at the Fitwave Inflatable paddle board features!
 
-[**Check out the Fitwave Inflatable Paddleboard on Amazon.com by clicking here…**](#)
+[**Check out the Fitwave Inflatable Paddleboard on Amazon.com by clicking here…**](https://www.amazon.com/FITWAVE-Paddle-Board-10x32x6-Premium/dp/B08YFKFH46?pd_rd_i=B09SZCCBP7&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=6946e160cd1663aa3b5b5869f158fb24&language=en_US&ref_=as_li_ss_tl)
 
 ## Features of the Fitwave
+
+![Features-fitwave-paddleboard](/uploads/65615bd2-59b9-404f-8e2d-546a3faa6867.jpeg "Features-fitwave-paddleboard")
 
 This is a paddleboard with a lot of great features, but its key features are that it is ultra lightweight (19lbs), wide, premium build quality and it is very stable.  It also has an anti-leaking air feature, triple bottom fans and an anti-slip surface, which makes it good for activities such as fishing, yoga and general paddling, where you need a bit more stability.
 
@@ -83,4 +87,4 @@ And they do make a difference!
 
 I would recommend this paddleboard from Fitwave to many different types of people - and that is what makes it so versatile really.  Where Yoga or Fishing is your jam or you just want to explore the countryside, this paddleboard could make your perfect first choice.
 
-[**If you want to check out the Fitwave Inflatable Paddle Board on Amazon.com Click here…**](#)
+[**If you want to check out the Fitwave Inflatable Paddle Board on Amazon.com Click here…**](https://www.amazon.com/FITWAVE-Paddle-Board-10x32x6-Premium/dp/B08YFKFH46?pd_rd_i=B09SZCCBP7&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=6946e160cd1663aa3b5b5869f158fb24&language=en_US&ref_=as_li_ss_tl)
