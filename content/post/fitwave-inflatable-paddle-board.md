@@ -18,7 +18,9 @@ widgets = []
 +++
 ## Fitwave Paddle Board 9.5ft/10ft/11ft SUP + Kit
 
-I am taking a look at the [**Fitwave inflatable paddleboard**](#) in this post.  When the weather is great and you want to get into exploring the great outdoors, there really is no better way to do it than by using a paddleboard in my experience.  
+In this post I am taking a look at the [**Fitwave inflatable paddleboard**](#).  
+
+When the weather is great and you want to get into exploring the great outdoors, there really is no better way to do it than by using a paddleboard in my experience!
 
 This paddleboard from Fitwave has been extremely popular in 2022 so far and I think that this is because it combines a huge amount of features into to one package that we think you will love. 
 
@@ -28,7 +30,19 @@ Without further ado, lets take a look at the Fitwave Inflatable paddle board fea
 
 ## Features of the Fitwave
 
+This is a paddleboard with a lot of great features, but its key features are that it is ultra lightweight (19lbs), wide, premium build quality and it is very stable.  It also has an anti-leaking air feature, triple bottom fans and an anti-slip surface, which makes it good for activities such as fishing, yoga and general paddling, where you need a bit more stability.
+
+The board can support a weight of up to 242lbs, so that should be more than enough for most users of the paddleboard.
+
+As this Fitwave paddleboard is also inflatable it makes it perfect to pack away and transport.  
+
 ### Accessories Included with the Fitwave Inflatable Paddleboard
+
+A lot of paddleboards in the market come with a few accessories, but you really do get the whole pack with this paddleboard from Fitwave.
+
+Everything you need to get started is included here, and I found that all of the included accessories were really good quality and well designed.  
+
+You even get accesories such as a waterproof phone case and a floating sunglasses strap - accessories that you definitely do not see included with every paddleboard!
 
 * Spacious Backpack
 * Adjustable-length Aluminium Paddle
@@ -38,3 +52,13 @@ Without further ado, lets take a look at the Fitwave Inflatable paddle board fea
 * Floating Sunglasses Strap
 * Double Clip Hoops
 * Waterproof Repair Kit
+
+## Our Verdict
+
+### 5/5
+
+### Pros:
+
+The accessories are fantastic and offer great value for money
+
+### Cons:
