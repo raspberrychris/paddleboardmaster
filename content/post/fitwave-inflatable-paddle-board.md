@@ -40,7 +40,7 @@ As this Fitwave paddleboard is also inflatable it makes it perfect to pack away 
 
 A lot of paddleboards in the market come with a few accessories, but you really do get the whole pack with this paddleboard from Fitwave.
 
-Everything you need to get started is included here, and I found that all of the included accessories were really good quality and well designed.  
+> Everything you need to get started is included here, and I found that all of the included accessories were really good quality and well designed.  
 
 You even get accesories such as a waterproof phone case and a floating sunglasses strap - accessories that you definitely do not see included with every paddleboard!
 
@@ -59,6 +59,20 @@ You even get accesories such as a waterproof phone case and a floating sunglasse
 
 ### Pros:
 
-The accessories are fantastic and offer great value for money
+* The accessories are fantastic and offer great value for money
+* Accessories again… you get useful accessories bundled
+* Wide anti-slip surface is perfect for Yoga or Fishing, where you require a wider board
 
-### Cons:
+  ### Cons:
+
+
+* Maybe could support more weight
+* Color scheme may not be to everyone’s taste
+
+In my opinion this really is a fantastic value board that is great for beginners who are just starting out.
+
+Unlike some other paddleboards out there you get a lot of actually useful accessories bundled in here.  
+
+And they make a difference!
+
+I would recommend this paddleboard from Fitwave to many different types of people - and that is what makes it so versatile really.
