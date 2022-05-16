@@ -4,7 +4,6 @@ categories = ["Fitwave"]
 comments = false
 date = 2022-05-16T11:00:00Z
 description = "Is this our number 1 paddleboard for 2022? Read our review to find out!"
-draft = true
 lead = "Is this our number 1 pick for 2022? Click to find out!"
 mathjax = false
 pager = false
@@ -46,6 +45,8 @@ As this Fitwave paddleboard is also inflatable it makes it perfect to pack away 
 
 ### Accessories Included with the Fitwave Inflatable Paddleboard
 
+![Fitwave-accesories](/uploads/865dbc01-60bd-4d21-9919-8493ee02d8b5.jpeg "Fitwave-accesories")
+
 A lot of paddleboards in the market come with a few accessories, but you really do get the whole pack with this paddleboard from Fitwave.
 
 > Everything you need to get started is included here, and I found that all of the included accessories were really good quality and well designed.  
@@ -80,6 +81,8 @@ You even get accesories such as a waterproof phone case and a floating sunglasse
 In my opinion this really is a fantastic value board that is great for beginners who are just starting out.
 
 Unlike some other paddleboards out there you get a lot of actually useful accessories bundled in here and that is really what gives it the edge on some of the other boards that we have reviewed.  
+
+![Fitwave-attention-to-detail](/uploads/c901bdb6-f635-4992-b8b4-428ffbc03058.jpeg "Fitwave-attention-to-detail")
 
 Fitwave were not content with just making a board with the basics, they have gone over and above here to give you a great first paddleboarding experience throwing in extras that you didn’t even need you needed.
 
