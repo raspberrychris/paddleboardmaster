@@ -30,4 +30,18 @@ You can also connect the electric pump to a mobile power bank or a cigarette lig
 
 ## Who is the Hapfan Inflatable Paddleboard for?
 
+This paddleboard from Hapfan is extremely versatile and will appeal to a large range of people.
+
 ## Verdict
+
+### Pros
+
+Lk;k;lklklk
+
+Fdjdjdjd
+
+### Cons
+
+jkhjkh
+
+dfdfdf
