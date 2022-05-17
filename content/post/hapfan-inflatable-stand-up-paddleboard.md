@@ -22,7 +22,7 @@ If that interests you, read on!
 
 ## Great Design & Accessories
 
-One thing that you will instantly notice about this paddleboard is the design: The plant inspired design creates a really cool laid back aesthetic and is perfect for trips out in the wilderness or your nearest lake.
+One thing that you will instantly notice about this paddleboard is the design. The plant inspired design creates a really cool laid back aesthetic and is perfect for trips out in the wilderness or your nearest lake.
 
 ### An Electric Pump Takes the Stress Out of Setting Up
 
@@ -60,7 +60,3 @@ Hapfan actually outline a number of activities which they say are suitable for t
 * Wide and Sturdy Board suitable for all
 
 ### Cons
-
-jkhjkh
-
-dfdfdf
