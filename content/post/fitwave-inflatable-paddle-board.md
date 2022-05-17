@@ -25,7 +25,7 @@ Picture the scene: When the weather is great and you want to get into exploring 
 
 But _which_ Paddleboard?
 
-This paddleboard from Fitwave has been extremely popular in 2022 so far and I think that this is because it combines a huge amount of features into to one package that we think you will love.
+This paddleboard from [**Fitwave**](/categories/fitwave/) has been extremely popular in 2022 so far and I think that this is because it combines a huge amount of features into to one package that we think you will love.
 
 …(And won’t break the bank!)
 
@@ -41,13 +41,13 @@ This is a paddleboard with a lot of great features, but its key features are tha
 
 The board can support a weight of up to 242lbs, so that should be more than enough for most users of the paddleboard.
 
-As this Fitwave paddleboard is also inflatable it makes it perfect to pack away and transport.
+As this [**Fitwave**](/categories/fitwave/) paddleboard is also inflatable it makes it perfect to pack away and transport.
 
 ### Accessories Included with the Fitwave Inflatable Paddleboard
 
 ![Fitwave-accesories](/uploads/865dbc01-60bd-4d21-9919-8493ee02d8b5.jpeg "Fitwave-accesories")
 
-A lot of paddleboards in the market come with a few accessories, but you really do get the whole pack with this paddleboard from Fitwave.
+A lot of paddleboards in the market come with a few accessories, but you really do get the whole pack with this paddleboard from [**Fitwave**](/categories/fitwave/).
 
 > Everything you need to get started is included here, and I found that all of the included accessories were really good quality and well designed.
 
@@ -82,10 +82,10 @@ Unlike some other paddleboards out there you get a lot of actually useful access
 
 ![Fitwave-attention-to-detail](/uploads/c901bdb6-f635-4992-b8b4-428ffbc03058.jpeg "Fitwave-attention-to-detail")
 
-Fitwave were not content with just making a board with the basics, they have gone over and above here to give you a great first paddleboarding experience throwing in extras that you didn’t even need you needed.
+[**Fitwave**](/categories/fitwave/) were not content with just making a board with the basics, they have gone over and above here to give you a great first paddleboarding experience throwing in extras that you didn’t even need you needed.
 
 And they do make a difference!
 
-I would recommend this paddleboard from Fitwave to many different types of people - and that is what makes it so versatile really.  Where Yoga or Fishing is your jam or you just want to explore the countryside, this paddleboard could make your perfect first choice.
+I would recommend this paddleboard from [**Fitwave**](/categories/fitwave/) to many different types of people - and that is what makes it so versatile really.  Where Yoga or Fishing is your jam or you just want to explore the countryside, this paddleboard could make your perfect first choice.
 
 [**If you want to check out the Fitwave Inflatable Paddle Board on Amazon.com Click here…**](https://www.amazon.com/FITWAVE-Paddle-Board-10x32x6-Premium/dp/B08YFKFH46?pd_rd_i=B09SZCCBP7&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=6946e160cd1663aa3b5b5869f158fb24&language=en_US&ref_=as_li_ss_tl)
