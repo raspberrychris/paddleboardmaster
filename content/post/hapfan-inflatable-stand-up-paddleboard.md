@@ -11,11 +11,17 @@ pager = true
 sidebar = ""
 tags = ["Review"]
 thumbnail = "/uploads/8a5a04d9-eee3-455b-bb56-45feaf26b486.jpeg"
-title = "Hapfan Inflatable Stand Up Paddleboard"
+title = "Hapfan Inflatable Stand Up Paddleboard - Comes with an Electric Pump!"
 toc = true
 widgets = []
 
 +++
 In this post I will be taking the [**Hapfan Inflatable Stand Up Paddleboard**](#) through its paces.
 
-One thing that you will instantly notice about this paddleboard is the design: The plant inspired design is really cool and 
+One thing that you will instantly notice about this paddleboard is the design: The plant inspired design is really cool laid back vibe and perfect for trips out in the wilderness.
+
+One of the more unique things about this particular paddleboard is the fact that it comes with an electric pump.  
+
+If you are not a fan of manual pumping, and lets face it - who is these days, then you will love how easy this paddleboard is to set up.  
+
+You can also connect the electric pump to a mobile power bank or a cigarette lighter on your vehicle, meaning you can be on the water in minutes with no sweat!
