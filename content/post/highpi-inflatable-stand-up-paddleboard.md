@@ -38,6 +38,10 @@ One of the great things about this paddleboard is that it is great for learners 
 
 Also customers have commented that it is a dog friendly board and that they have rode with their dogs on the board.  The surface of the Highpi is thick enough to stop dogs puncturing the board.
 
+## Highpi Inflatable Paddleboard Video Review
+
+{{< youtube HKye07cPqrQ >}}
+
 ## Features
 
 ### Extra Wide - Great for Pets
