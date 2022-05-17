@@ -17,7 +17,7 @@ widgets = []
 +++
 In this post I will take a look at the [**Highpi stand up Paddleboard**](https://www.amazon.com/Highpi-Inflatable-Accessories-Backpack-Non-Slip/dp/B08R38NVG6?crid=20MEHFTYVPCU2&keywords=highpi%2Binflatable%2Bstand%2Bup%2Bpaddle%2Bboard&qid=1652793543&sprefix=Highpi%2B%2Caps%2C148&sr=8-5&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=50d2f276cf10dc7c735d3d54e86a4afb&language=en_US&ref_=as_li_ss_tl) and give my honest opinion on how it performs on the water and provide an overall rating for this paddleboard.
 
-If you are looking to get into a water sport activity then you can’t go far wrong with paddleboarding. One of the awesome things about it is that people buy paddleboards for different activities.  
+If you are looking to get into a water sport activity then you can’t go far wrong with paddleboarding. One of the awesome things about it is that people buy paddleboards for different activities.
 
 Some people are looking to burn a few calories, others want to practice Yoga or go fishing and some people just want to explore the world!
 
@@ -31,11 +31,11 @@ Let’s go!
 
 ## Who is the Highpi Stand Up Paddleboard for?
 
-One of the standout features of this paddleboard is definitely the look, feel and overall design.  
+One of the standout features of this paddleboard is definitely the look, feel and overall design.
 
 The wood grain look is not something that you see that often on the designs of inflatable paddleboards, so if you are a fan of the natural wood grain look, then you will love this paddleboard.
 
-You get a choice of two types of wood grain look, what Highpi term “Classic Wood” or “Vigorous Wood”.  
+You get a choice of two types of wood grain look, what Highpi term “Classic Wood” or “Vigorous Wood”.
 
 My personal preference was the Vigorous Wood, which is a lighter shade of wood grain.
 
@@ -85,11 +85,21 @@ All Highpi paddle boards have passed SGS, CE and ISO quality certification. High
 
 ## How does the Highpi compare to other paddleboards?
 
-If you are looking for a top quality paddleboard then you are going to get that with this board.  
+If you are looking for a top quality paddleboard then you are going to get that with this board.
 
-It is not the cheapest board that we have reviewed by any means, but you do get top quality accessories included with this paddleboard as well as really high quality (military grade) materials used throughout the design.  
+It is not the cheapest board that we have reviewed by any means, but you do get top quality accessories included with this paddleboard as well as really high quality (military grade) materials used throughout the design.
 
-The choice of design is a little more complex than some of the other paddleboards we have reviewed, and the choice of wood grain colour is a nice touch for a more natural looking solid paddleboard. 
+The choice of design is a little more complex than some of the other paddleboards we have reviewed, and the choice of wood grain colour is a nice touch for a more natural looking solid paddleboard.
+
+### Pros 
+
+* Great design if you like the natural wood look
+* Military Grade Materials
+* High Quality Accessories Included
+
+### Cons
+
+* A little higher priced than some alternative paddleboards
 
 ## Verdict
 
