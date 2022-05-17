@@ -44,11 +44,9 @@ This paddleboard from Hapfan is extremely versatile and will appeal to a large r
 
 ### Pros
 
-Electric Pump means you can spend more time on the water!
-
-Great styling 
-
-Wide and Sturdy Board suitable for all
+* Electric Pump means you can spend more time on the water!
+* Great styling 
+* Wide and Sturdy Board suitable for all
 
 ### Cons
 
