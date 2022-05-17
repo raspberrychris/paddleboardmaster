@@ -10,7 +10,7 @@ pager = true
 sidebar = ""
 tags = ["Review"]
 thumbnail = "/uploads/e91e05d3-a2a5-4a57-94fc-9faa7e02b0fa.jpeg"
-title = "Highpi Inflatable Stand Up Paddleboard - A Military Grade Materials Paddleboard?"
+title = "Highpi Inflatable Stand Up Paddleboard - The Best All-Rounder?"
 toc = true
 widgets = []
 
