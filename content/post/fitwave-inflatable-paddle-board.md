@@ -17,15 +17,15 @@ widgets = []
 +++
 ## Fitwave Paddle Board 9.5ft/10ft/11ft SUP + Kit
 
-In this post I am taking a look at the [**Fitwave inflatable paddleboard**](https://www.amazon.com/FITWAVE-Paddle-Board-10x32x6-Premium/dp/B08YFKFH46?pd_rd_i=B09SZCCBP7&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=6946e160cd1663aa3b5b5869f158fb24&language=en_US&ref_=as_li_ss_tl), which a lot of you have recommended that I review!  
+In this post I am taking a look at the [**Fitwave inflatable paddleboard**](https://www.amazon.com/FITWAVE-Paddle-Board-10x32x6-Premium/dp/B08YFKFH46?pd_rd_i=B09SZCCBP7&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=6946e160cd1663aa3b5b5869f158fb24&language=en_US&ref_=as_li_ss_tl), which a lot of you have recommended that I review!
 
-Picture the scene: When the weather is great and you want to get into exploring the great outdoors, there really is no better way to do it than by using a paddleboard in my experience!  
+Picture the scene: When the weather is great and you want to get into exploring the great outdoors, there really is no better way to do it than by using a paddleboard in my experience!
 
 ![Paddling-exploring-fitwave](/uploads/5b99c573-20a2-487b-8bca-05df23629772.jpeg "Paddling-exploring-fitwave")
 
 But _which_ Paddleboard?
 
-This paddleboard from Fitwave has been extremely popular in 2022 so far and I think that this is because it combines a huge amount of features into to one package that we think you will love. 
+This paddleboard from Fitwave has been extremely popular in 2022 so far and I think that this is because it combines a huge amount of features into to one package that we think you will love.
 
 …(And won’t break the bank!)
 
@@ -41,7 +41,7 @@ This is a paddleboard with a lot of great features, but its key features are tha
 
 The board can support a weight of up to 242lbs, so that should be more than enough for most users of the paddleboard.
 
-As this Fitwave paddleboard is also inflatable it makes it perfect to pack away and transport.  
+As this Fitwave paddleboard is also inflatable it makes it perfect to pack away and transport.
 
 ### Accessories Included with the Fitwave Inflatable Paddleboard
 
@@ -49,7 +49,7 @@ As this Fitwave paddleboard is also inflatable it makes it perfect to pack away 
 
 A lot of paddleboards in the market come with a few accessories, but you really do get the whole pack with this paddleboard from Fitwave.
 
-> Everything you need to get started is included here, and I found that all of the included accessories were really good quality and well designed.  
+> Everything you need to get started is included here, and I found that all of the included accessories were really good quality and well designed.
 
 You even get accesories such as a waterproof phone case and a floating sunglasses strap - accessories that you definitely do not see included with every paddleboard!
 
@@ -73,14 +73,12 @@ You even get accesories such as a waterproof phone case and a floating sunglasse
 * Wide anti-slip surface is perfect for Yoga or Fishing, where you require a wider board
 
   ### Cons:
-
-
 * Maybe could support more weight
 * Color scheme may not be to everyone’s taste
 
 In my opinion this really is a fantastic value board that is great for beginners who are just starting out.
 
-Unlike some other paddleboards out there you get a lot of actually useful accessories bundled in here and that is really what gives it the edge on some of the other boards that we have reviewed.  
+Unlike some other paddleboards out there you get a lot of actually useful accessories bundled in here and that is really what gives it the edge on some of the other boards that we have reviewed.
 
 ![Fitwave-attention-to-detail](/uploads/c901bdb6-f635-4992-b8b4-428ffbc03058.jpeg "Fitwave-attention-to-detail")
 
