@@ -24,6 +24,8 @@ If that interests you, read on!
 
 One thing that you will instantly notice about this paddleboard is the design. The plant inspired design creates a really cool laid back aesthetic and is perfect for trips out in the wilderness or your nearest lake.
 
+Even if the green plant inspired design isn’t your jam, Hapfan offer this paddleboard in another more traditional blue colour, which I really like as well.
+
 ### An Electric Pump Takes the Stress Out of Setting Up
 
 One of the more unique things about this particular paddleboard is the fact that it comes included with an electric pump.  
