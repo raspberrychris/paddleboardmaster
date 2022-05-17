@@ -18,7 +18,11 @@ widgets = []
 +++
 In this post I will be taking the [**Hapfan Inflatable Stand Up Paddleboard**](#) through its paces and understanding why this is one of the most popular paddleboards of this year.
 
+## Great Design
+
 One thing that you will instantly notice about this paddleboard is the design: The plant inspired design creates a really cool laid back aesthetic and is perfect for trips out in the wilderness or your nearest lake.
+
+### An Electric Pump Takes the Stress Out of Setting Up
 
 One of the more unique things about this particular paddleboard is the fact that it comes included with an electric pump.
 
