@@ -24,7 +24,11 @@ If that interests you, read on!
 
 One thing that you will instantly notice about this paddleboard is the design. The plant inspired design creates a really cool laid back aesthetic and is perfect for trips out in the wilderness or your nearest lake.
 
-Even if the green plant inspired design isn’t your jam, Hapfan offer this paddleboard in another more traditional blue colour, which I really like as well.
+Even if the green plant inspired design isn’t your jam, Hapfan offer this paddleboard in another more traditional blue colour, which I really like as well. 
+
+Another cool thing with this board and the color variations is that the bag is designed in the style of the color choice that you pick. 
+
+If you are concerned about design, the blue variation offers the most color co-ordinated set, which almost everything in Blue color.
 
 ### An Electric Pump Takes the Stress Out of Setting Up
 
