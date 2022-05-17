@@ -3,9 +3,9 @@ authorbox = true
 categories = ["Highpi"]
 comments = true
 date = 2022-05-17T11:00:00Z
-description = ""
+description = "Interested in Paddleboarding? Check out our indepth review on the Highpi Inflatable Stand Up Paddleboard."
 draft = true
-lead = ""
+lead = "An SGS Certified Lightweight Paddleboard, with military grade materials "
 mathjax = true
 pager = true
 sidebar = ""
@@ -18,7 +18,9 @@ widgets = []
 +++
 In this post I will take a look at the [**Highpi stand up Paddleboard**](#) and give my honest opinion on how it performs on the water and provide an overall rating for this paddleboard.
 
-If you are looking to get into a water sport activity then you can’t go far wrong with paddleboarding. One of the awesome things about it is that people buy paddleboards for different activities.  Some people are looking to burn a few calories, others want to practice Yoga or go fishing and some people just want to explore.
+If you are looking to get into a water sport activity then you can’t go far wrong with paddleboarding. One of the awesome things about it is that people buy paddleboards for different activities.  
+
+Some people are looking to burn a few calories, others want to practice Yoga or go fishing and some people just want to explore the world!
 
 When choosing the perfect paddleboard for you it is always worth taking these things into consideration.
 
@@ -28,7 +30,9 @@ Let’s go!
 
 ## Who is the Highpi Stand Up Paddleboard for?
 
-One of the standout features of this paddleboard is definitely the look, feel and overall design.  The wood grain look is not something that you see that often on the designs of inflatable paddleboards, so if you are a fan of the natural wood grain look, then you will love this paddleboard.
+One of the standout features of this paddleboard is definitely the look, feel and overall design.  
+
+The wood grain look is not something that you see that often on the designs of inflatable paddleboards, so if you are a fan of the natural wood grain look, then you will love this paddleboard.
 
 You get a choice of two types of wood grain look, what Highpi term “Classic Wood” or “Vigorous Wood”.  My personal preference was the Vigorous Wood, which is a lighter shade of wood grain.
 
@@ -40,7 +44,11 @@ Also customers have commented that it is a dog friendly board and that they have
 
 ## Highpi Inflatable Paddleboard Video Review
 
+Check out this video review of the Highpi inflatable stand up paddleboard.
+
 {{< youtube HKye07cPqrQ >}}
+
+[**Click here to check out the Highpi inflatable stand up paddleboard on Amazon.com…**](#)
 
 ## Features
 
@@ -66,7 +74,11 @@ All  Highpi paddle boards have passed SGS, CE and ISO quality certification. Hig
 
 ## How does the Highpi compare to other paddleboards?
 
-If you are looking for
+If you are looking for a top quality paddleboard then you are going to get that with this board.  
+
+It is not the cheapest board that we have reviewed by any means, but you do get top quality accessories included with this paddleboard as well as really high quality (military grade) materials used throughout the design.  
+
+The choice of design is a little more complex than some of the other paddleboards we have reviewed, and the choice of wood grain colour is a nice touch for a more natural looking solid paddleboard. 
 
 ## Verdict
 
@@ -74,4 +86,6 @@ If you are looking for
 
 The Highpi Inflatable Stand Up Paddleboard really gave me a lot to think about in terms of its quality of offering.  It is a great paddleboard and the quality of the board speaks for itself.
 
-In my tests the board was not only stable but perfect for 
+In my tests the board was not only stable but perfect for exploring the great outdoors.  It has enough stability to make it a good beginners board as well, or one that you can use for more adventurous activities such as Yoga or Fishing.
+
+[**Click here to check out the Highpi Inflatable stand up paddleboard on Amazon.com…**](#)
