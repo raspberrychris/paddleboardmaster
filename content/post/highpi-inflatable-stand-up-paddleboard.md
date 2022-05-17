@@ -4,7 +4,6 @@ categories = ["Highpi"]
 comments = true
 date = 2022-05-17T11:00:00Z
 description = "Interested in Paddleboarding? Check out our indepth review on the Highpi Inflatable Stand Up Paddleboard."
-draft = true
 lead = "An SGS Certified Lightweight Paddleboard, with military grade materials "
 mathjax = true
 pager = true
@@ -16,7 +15,7 @@ toc = true
 widgets = []
 
 +++
-In this post I will take a look at the [**Highpi stand up Paddleboard**](#) and give my honest opinion on how it performs on the water and provide an overall rating for this paddleboard.
+In this post I will take a look at the [**Highpi stand up Paddleboard**](https://www.amazon.com/Highpi-Inflatable-Accessories-Backpack-Non-Slip/dp/B08R38NVG6?crid=20MEHFTYVPCU2&keywords=highpi%2Binflatable%2Bstand%2Bup%2Bpaddle%2Bboard&qid=1652793543&sprefix=Highpi%2B%2Caps%2C148&sr=8-5&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=50d2f276cf10dc7c735d3d54e86a4afb&language=en_US&ref_=as_li_ss_tl) and give my honest opinion on how it performs on the water and provide an overall rating for this paddleboard.
 
 If you are looking to get into a water sport activity then you can’t go far wrong with paddleboarding. One of the awesome things about it is that people buy paddleboards for different activities.  
 
@@ -52,7 +51,7 @@ Check out this video review of the Highpi inflatable stand up paddleboard.
 
 {{< youtube HKye07cPqrQ >}}
 
-[**Click here to check out the Highpi inflatable stand up paddleboard on Amazon.com…**](#)
+[**Click here to check out the Highpi inflatable stand up paddleboard on Amazon.com…**](https://www.amazon.com/Highpi-Inflatable-Accessories-Backpack-Non-Slip/dp/B08R38NVG6?crid=20MEHFTYVPCU2&keywords=highpi%2Binflatable%2Bstand%2Bup%2Bpaddle%2Bboard&qid=1652793543&sprefix=Highpi%2B%2Caps%2C148&sr=8-5&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=50d2f276cf10dc7c735d3d54e86a4afb&language=en_US&ref_=as_li_ss_tl)
 
 ## Features
 
@@ -100,4 +99,4 @@ The Highpi Inflatable Stand Up Paddleboard really gave me a lot to think about i
 
 In my tests the board was not only stable but perfect for exploring the great outdoors.  It has enough stability to make it a good beginners board as well, or one that you can use for more adventurous activities such as Yoga or Fishing.
 
-[**Click here to check out the Highpi Inflatable stand up paddleboard on Amazon.com…**](#)
+[**Click here to check out the Highpi Inflatable stand up paddleboard on Amazon.com…**](https://www.amazon.com/Highpi-Inflatable-Accessories-Backpack-Non-Slip/dp/B08R38NVG6?crid=20MEHFTYVPCU2&keywords=highpi%2Binflatable%2Bstand%2Bup%2Bpaddle%2Bboard&qid=1652793543&sprefix=Highpi%2B%2Caps%2C148&sr=8-5&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=50d2f276cf10dc7c735d3d54e86a4afb&language=en_US&ref_=as_li_ss_tl)
