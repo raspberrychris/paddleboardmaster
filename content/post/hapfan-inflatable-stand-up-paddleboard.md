@@ -16,15 +16,19 @@ toc = true
 widgets = []
 
 +++
-In this post I will be taking the [**Hapfan Inflatable Stand Up Paddleboard**](#) through its paces and understanding why this is one of the most popular paddleboards of this year.
+In this post I will be taking the [**Hapfan Inflatable Stand Up Paddleboard**](#) through its paces and understanding why this is one of the most popular paddleboards of this year so far!
 
-## Great Design
+If that interests you, read on!
+
+## Great Design & Accessories
 
 One thing that you will instantly notice about this paddleboard is the design: The plant inspired design creates a really cool laid back aesthetic and is perfect for trips out in the wilderness or your nearest lake.
 
 ### An Electric Pump Takes the Stress Out of Setting Up
 
-One of the more unique things about this particular paddleboard is the fact that it comes included with an electric pump.
+One of the more unique things about this particular paddleboard is the fact that it comes included with an electric pump.  
+
+In our tests it took around 7-8 minutes to inflate and 4 minutes to deflate (all with no stress).
 
 This is actually one of the first electric pumps included with a paddleboard that I have reviewed and was very impressed by its performance and how easy it was compared to the more traditional manual pumping.
 
@@ -40,9 +44,11 @@ This paddleboard from Hapfan is extremely versatile and will appeal to a large r
 
 ### Pros
 
-Lk;k;lklklk
+Electric Pump means you can spend more time on the water!
 
-Fdjdjdjd
+Great styling 
+
+Wide and Sturdy Board suitable for all
 
 ### Cons
 
