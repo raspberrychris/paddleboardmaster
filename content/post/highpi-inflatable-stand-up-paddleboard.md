@@ -35,7 +35,7 @@ One of the standout features of this paddleboard is definitely the look, feel an
 
 The wood grain look is not something that you see that often on the designs of inflatable paddleboards, so if you are a fan of the natural wood grain look, then you will love this paddleboard.
 
-You get a choice of two types of wood grain look, what Highpi term “Classic Wood” or “Vigorous Wood”.
+You get a choice of two types of wood grain look, what [**Highpi**](/categories/highpi/) term “Classic Wood” or “Vigorous Wood”.
 
 My personal preference was the Vigorous Wood, which is a lighter shade of wood grain.
 
@@ -43,7 +43,7 @@ Customers who have bought this paddleboard focus on the fact that it is lightwei
 
 One of the great things about this paddleboard is that it is great for learners of paddleboarding to start getting their balance easily.
 
-Also customers have commented that it is a dog friendly board and that they have rode with their dogs on the board.  The surface of the Highpi is thick enough to stop dogs puncturing the board.
+Also customers have commented that it is a dog friendly board and that they have rode with their dogs on the board.  The surface of the [**Highpi**](/categories/highpi/) is thick enough to stop dogs puncturing the board.
 
 ## Highpi Inflatable Paddleboard Video Review
 
@@ -71,7 +71,7 @@ Made of the highest quality military grade material. Soft anti-slip EVA deck pad
 
 ![Easy-to-inflatate-portable-SUP](/uploads/a2cd0180-a445-4a32-a458-b7157c816e01.jpeg "Easy-to-inflatate-portable-SUP")
 
-This paddleboard takes a mere 5 minutes for inflate and deflate. Highpi paddle boars has a weight of only 20lbs, which is 20% lighter than competitors’ inflatable SUP of the same size. It is also very easy to carry and transport.
+This paddleboard takes a mere 5 minutes for inflate and deflate. [**Highpi**](/categories/highpi/) paddleboard has a weight of only 20lbs, which is 20% lighter than competitors’ inflatable SUP of the same size. It is also very easy to carry and transport.
 
 ### Accessories and Dry Bag
 
@@ -81,7 +81,7 @@ This SUP comes with length adjustable alloy floating paddle, double action hand 
 
 ![California-design](/uploads/9c08cc0c-6c9e-448b-8b74-b38825c9ea8d.jpeg "California-design")
 
-All Highpi paddle boards have passed SGS, CE and ISO quality certification. Highpi offer a 1-year manufacturer's warranty on the paddle boards at no additional cost.
+All [**Highpi paddleboards**](/categories/highpi/) have passed SGS, CE and ISO quality certification. Highpi offer a 1-year manufacturer's warranty on the paddle boards at no additional cost.
 
 ## How does the Highpi compare to other paddleboards?
 
@@ -91,7 +91,7 @@ It is not the cheapest board that we have reviewed by any means, but you do get 
 
 The choice of design is a little more complex than some of the other paddleboards we have reviewed, and the choice of wood grain colour is a nice touch for a more natural looking solid paddleboard.
 
-### Pros 
+### Pros
 
 * Great design if you like the natural wood look
 * Military Grade Materials
@@ -105,7 +105,7 @@ The choice of design is a little more complex than some of the other paddleboard
 
 ### 5/5
 
-The Highpi Inflatable Stand Up Paddleboard really gave me a lot to think about in terms of its quality of offering.  It is a great paddleboard and the quality of the board speaks for itself.
+The [**Highpi**](/categories/highpi/) Inflatable Stand Up Paddleboard really gave me a lot to think about in terms of its quality of offering.  It is a great paddleboard and the quality of the board speaks for itself.
 
 In my tests the board was not only stable but perfect for exploring the great outdoors.  It has enough stability to make it a good beginners board as well, or one that you can use for more adventurous activities such as Yoga or Fishing.
 
