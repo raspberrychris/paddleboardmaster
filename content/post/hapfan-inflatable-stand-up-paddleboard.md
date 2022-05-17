@@ -27,3 +27,7 @@ This is actually one of the first electric pumps included with a paddleboard tha
 If you are not a fan of manual pumping, and lets face it - who is these days, then you will love how easy this paddleboard is to set up, so you can spend more time on the water.
 
 You can also connect the electric pump to a mobile power bank or a cigarette lighter on your vehicle, meaning you can be on the water in minutes with no sweat!
+
+## Who is the Hapfan Inflatable Paddleboard for?
+
+## Verdict
