@@ -40,6 +40,17 @@ You can also connect the electric pump to a mobile power bank or a cigarette lig
 
 This paddleboard from Hapfan is extremely versatile and will appeal to a large range of people.
 
+Hapfan actually outline a number of activities which they say are suitable for this paddleboard, the full list is below and covers a wide range of different activities.
+
+* SUP fishing 
+* Fitness (yoga, pilates, etc.) 
+* Surfing, Windsurfing 
+* Whitewater/river SUP 
+* SUP racing 
+* Touring and multi-day excursions 
+* Paddling around small children or pets
+* Camping, hiking, adventure travel
+
 ## Verdict
 
 ### Pros
