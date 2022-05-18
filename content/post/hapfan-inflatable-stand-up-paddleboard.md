@@ -85,7 +85,7 @@ This paddleboard from [**Hapfan**](/categories/hapfan/) is extremely versatile a
 
 Check out the video review for yourself and see what the Hapfan paddleboard is like.
 
-{{ <youtube 0QhmIER-hUI> }}
+{{< youtube 0QhmIER-hUI >}}
 
 ### What activities is the Hapfan Paddleboard suitable for?
 
