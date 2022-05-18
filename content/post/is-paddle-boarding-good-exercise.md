@@ -16,10 +16,15 @@ toc = false
 widgets = []
 
 +++
-## WHAT IS PADDLEBOARDING?
+## What is paddleboarding?
 
-  
-IS PADDLEBOARDING A GOOD WORKOUT?
+## Is Paddleboarding a good workout?
+
+Paddleboarding is great exercise for your upper body.  Unlike the gym where you can spend time staring at the clock, with paddleboarding you get to explore the world around you in ways that you never thought was possible.
+
+Bart De Zwart travelled 193.8
+
+[https://www.guinnessworldrecords.com/world-records/91425-greatest-distance-by-stand-up-paddleboard-sup-in-24-hours-still-water](https://www.guinnessworldrecords.com/world-records/91425-greatest-distance-by-stand-up-paddleboard-sup-in-24-hours-still-water#:\~:text=The%20greatest%20distance%20by%20stand,Switzerland%20on%2030%20May%202017. "https://www.guinnessworldrecords.com/world-records/91425-greatest-distance-by-stand-up-paddleboard-sup-in-24-hours-still-water#:~:text=The%20greatest%20distance%20by%20stand,Switzerland%20on%2030%20May%202017.")
 
 ##   
 Stand up paddleboarding is easy to pick up
@@ -30,21 +35,18 @@ For example, [**Emily King an SUP athlete**](https://www.instagram.com/emilyking
 
 **You can read about the article by clicking the BBC link below:**
 
-[https://www.bbc.com/news/uk-england-hampshire-61382375](https://www.bbc.com/news/uk-england-hampshire-61382375 "https://www.bbc.com/news/uk-england-hampshire-61382375")
+[**https://www.bbc.com/news/uk-england-hampshire-61382375**](https://www.bbc.com/news/uk-england-hampshire-61382375 "https://www.bbc.com/news/uk-england-hampshire-61382375")
 
-Much of the appeal of stand up paddleboarding \[SUP\] lies in its tempting simplicity. It doesn’t matter what your body size, shape or level of fitness is. It’s so easy, pretty much anyone can get involved. Don’t believe us? SUP athlete Lizzie Carr tried paddleboarding for the first time just two years before she made history as the only person to navigate the entire length of England via its canal networks. “I’m on a mission to show that anyone can have an adventure,” she said at the time. “What I’m doing is something anyone can do.”  
-**Paddleboarding can help burn calories**
-
-Did you know that paddleboarding can help you fight the fat!  Although not typically seen as a way to fight the fat, paddleboarding can actually   
+Did you know that paddleboarding can help you fight the fat!  Although not typically seen as a way to fight the fat, paddleboarding can actually help you to lose weight over time.   
 
 ## How many calories can you burn from paddleboarding?
 
-You can burn around 180-600 calories per hour from paddleboarding.  This makes it a great way to keep fit in a way that is low impact for your body.
+You can burn around 180-600 calories per hour from paddleboarding.  This makes it a great way to keep fit in a way that is low impact for your body.  
 
 The calories burnt from your workout depends on your activity whilst on the paddleboard and also how vigorously you are paddling and also your weight.  
 
 We calculated the above calories burnt estimation using the data from [**Harvard Medical School**]()**.**
 
-Improve your core strength with paddleboarding
+## Improve your core strength with paddleboarding
 
-Improve your total strength with paddleboarding
+## Improve your total strength with paddleboarding
