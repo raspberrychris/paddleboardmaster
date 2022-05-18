@@ -82,6 +82,12 @@ The package contains the following items:
 
 This paddleboard from Hapfan is extremely versatile and will appeal to a large range of people.
 
+## Hapfan Paddleboard Video Unboxing and Review
+
+Check out the video review for yourself and see what the Hapfan paddleboard is like.
+
+{{ <youtube 0QhmIER-hUI> }}
+
 ### What activities is the Hapfan Paddleboard suitable for?
 
 Hapfan actually outline a number of activities which they say are suitable for this paddleboard, the full list is below and covers a wide range of different activities.
