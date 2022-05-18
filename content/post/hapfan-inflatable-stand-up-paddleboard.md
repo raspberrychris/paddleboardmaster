@@ -22,6 +22,8 @@ If that interests you, then read on!
 
 ## What I noticed First: Great Design & Good Quality Accessories
 
+![Awesome-design-hapfan-paddleboard](/uploads/5aa7ef0c-1f33-4186-869a-a6bde9be3e0f.jpeg "Awesome-design-hapfan-paddleboard")
+
 One thing that you will instantly notice about this paddleboard is the awesome design. 
 
 The plant inspired look creates a really cool laid back aesthetic and is perfect for trips out in the wilderness or your nearest lake.
@@ -31,6 +33,8 @@ Even if the plant inspired look isn’t your jam, Hapfan offer this paddleboard 
 Another cool thing with this board and the color variations is that the bag is designed in the style of the color choice that you pick.  The attention to detail with this paddleboard is high.
 
 If you are concerned about design, the blue variation offers the most color co-ordinated set, which almost everything in Blue color.
+
+![Touring-exploring-fishing-yoga](/uploads/6795757d-8340-4fd6-b261-9d9aa933fac9.jpeg "Touring-exploring-fishing-yoga")
 
 ### It Comes with an Electric Pump that Takes the Stress Out of Setting Up
 
@@ -48,6 +52,22 @@ You can also connect the electric pump to a mobile power bank or a cigarette lig
 
 [**Click here to check out the product page for the Hapfan Inflatable Stand Up Paddleboard on Amazon.com…**](#)
 
+### What other accessories does it come with?
+
+![What-accessories-come-with-hapfan-paddleboard](/uploads/ed769685-edfe-4a17-84d3-dffcbb0df8da.jpeg "What-accessories-come-with-hapfan-paddleboard")
+
+The package contains the following items:
+
+  
+1 x Stand up paddle board   
+1 x Adjustable Paddle  
+1 x High Pressure Pump   
+1 x Slip-in Fin   
+1 x Safety Foot Leash   
+1 x Backpack   
+1 x 20L Dry Bag   
+1 x Repair Kit
+
 ## What are the Features?
 
 * EXTRA SIZE & BALANCE INFLATABLE SUP BOARD - All around inflatable stand up paddle board with an extra bigger size of 11’ x 32’’x 6’’ which made of premium military-grade PVC and drop-stitch technology. Ultra light weight of 20lbs and 350lbs max weight capacity e.g. 1 adult + 2 kids, or puppies. Perfect fits for all level paddlers under most water conditions.
@@ -56,9 +76,13 @@ You can also connect the electric pump to a mobile power bank or a cigarette lig
 * INFLATABLE STAND UP PADDLE BOARD WITH ENHANCED STRUCTURE - Hapfan SUP board featured with two-layer premium PVC material and advanced drop stitch tech to ensure the toughness and durability during frequent usage providing a hassles-free touring experiences.
 * ALL-TIME FAVOURITE PADDLE BOARD - Hapfan inflatable SUP board packed with all necessary accessories and 20L dry bag (biggest on the market). Incredible travel-friendly and convenient storage with its original high quality backpack.
 
+![Features](/uploads/9231cf37-5c8b-4c9d-9194-6179d14ed1e5.jpeg "Features")
+
 ## Who is the Hapfan Inflatable Paddleboard for?
 
 This paddleboard from Hapfan is extremely versatile and will appeal to a large range of people.
+
+### What activities is the Hapfan Paddleboard suitable for?
 
 Hapfan actually outline a number of activities which they say are suitable for this paddleboard, the full list is below and covers a wide range of different activities.
 
@@ -68,7 +92,7 @@ Hapfan actually outline a number of activities which they say are suitable for t
 * Whitewater/river SUP
 * SUP racing
 * Touring and multi-day excursions
-* Paddling around small children or pets
+* Paddling around with small children or pets
 * Camping, hiking, adventure travel
 
 ## Verdict
