@@ -4,7 +4,6 @@ categories = ["Hapfan"]
 comments = true
 date = 2022-05-17T11:00:00Z
 description = "Join us as we take a look at the Hapfan Inflatable Stand Up Paddleboard"
-draft = true
 lead = "This Paddleboard Comes with an Electric Pump!"
 mathjax = true
 pager = true
@@ -16,7 +15,7 @@ toc = true
 widgets = []
 
 +++
-In this post I will be taking the [**Hapfan Inflatable Stand Up Paddleboard**](#) through its paces and understanding why this is one of the most popular paddleboards of this year so far!
+In this post I will be taking the [**Hapfan Inflatable Stand Up Paddleboard**](https://www.amazon.com/Hapfan-Inflatable-Stand-Paddle-Board/dp/B09GTZ6L4Q?ie=UTF8&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=6145e4809fb7c67799d016293f115169&language=en_US&ref_=as_li_ss_tl) through its paces and understanding why this is one of the most popular paddleboards of this year so far!
 
 If that interests you, then read on!
 
@@ -28,7 +27,7 @@ One thing that you will instantly notice about this paddleboard is the awesome d
 
 The plant inspired look creates a really cool laid back aesthetic and is perfect for trips out in the wilderness or your nearest lake.
 
-Even if the plant inspired look isn’t your jam, Hapfan offer this paddleboard in another more traditional blue colour, which I actually really like.
+Even if the plant inspired look isn’t your jam, [**Hapfan**](/categories/hapfan/) offer this paddleboard in another more traditional blue colour, which I actually really like.
 
 Another cool thing with this board and the color variations is that the bag is designed in the style of the color choice that you pick.  The attention to detail with this paddleboard is high.
 
@@ -50,7 +49,7 @@ If you are not a fan of manual pumping, and lets face it - who is these days, th
 
 You can also connect the electric pump to a mobile power bank or a cigarette lighter on your vehicle, meaning you can be on the water in minutes with no sweat!
 
-[**Click here to check out the product page for the Hapfan Inflatable Stand Up Paddleboard on Amazon.com…**](#)
+[**Click here to check out the product page for the Hapfan Inflatable Stand Up Paddleboard on Amazon.com…**](https://www.amazon.com/Hapfan-Inflatable-Stand-Paddle-Board/dp/B09GTZ6L4Q?ie=UTF8&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=6145e4809fb7c67799d016293f115169&language=en_US&ref_=as_li_ss_tl)
 
 ### What other accessories does it come with?
 
@@ -80,7 +79,7 @@ The package contains the following items:
 
 ## Who is the Hapfan Inflatable Paddleboard for?
 
-This paddleboard from Hapfan is extremely versatile and will appeal to a large range of people.
+This paddleboard from [**Hapfan**](/categories/hapfan/) is extremely versatile and will appeal to a large range of people.
 
 ## Hapfan Paddleboard Video Unboxing and Review
 
@@ -127,6 +126,6 @@ I only noticed one negative  review that mentioned that the paddle had had some 
 
 Overall the Hapfan paddleboard works just as well as a plastic or fibreglass board, but with the advantage that at the end of the day you can quickly deflate it with the electric pump and pack it away with out any hassle.
 
-What’s not to like!
+**What’s not to like!**
 
-[**Click here to jump to the product page for the Hapfan paddleboard on Amazon.com…**](#)
+[**Click here to jump to the product page for the Hapfan paddleboard on Amazon.com…**](https://www.amazon.com/Hapfan-Inflatable-Stand-Paddle-Board/dp/B09GTZ6L4Q?ie=UTF8&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=6145e4809fb7c67799d016293f115169&language=en_US&ref_=as_li_ss_tl)
