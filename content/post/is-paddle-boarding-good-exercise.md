@@ -22,9 +22,9 @@ widgets = []
 
 Paddleboarding is great exercise for your upper body.  Unlike the gym where you can spend time staring at the clock, with paddleboarding you get to explore the world around you in ways that you never thought was possible.
 
-Bart De Zwart travelled 193.8
+**Did you Know...**
 
-[https://www.guinnessworldrecords.com/world-records/91425-greatest-distance-by-stand-up-paddleboard-sup-in-24-hours-still-water](https://www.guinnessworldrecords.com/world-records/91425-greatest-distance-by-stand-up-paddleboard-sup-in-24-hours-still-water#:\~:text=The%20greatest%20distance%20by%20stand,Switzerland%20on%2030%20May%202017. "https://www.guinnessworldrecords.com/world-records/91425-greatest-distance-by-stand-up-paddleboard-sup-in-24-hours-still-water#:~:text=The%20greatest%20distance%20by%20stand,Switzerland%20on%2030%20May%202017.")
+> [**Bart De Zwart**](https://www.guinnessworldrecords.com/world-records/91425-greatest-distance-by-stand-up-paddleboard-sup-in-24-hours-still-water) travelled 193.8KM (120.42 Miles) on a paddleboard in Lake Biel in Erlach Switzerland on the 30th May 2017.  This is the greatest distance on a stand up paddleboard and he holds a Guinness World Record for it!
 
 ##   
 Stand up paddleboarding is easy to pick up
@@ -41,11 +41,15 @@ Did you know that paddleboarding can help you fight the fat!  Although not typic
 
 ## How many calories can you burn from paddleboarding?
 
-You can burn around 180-600 calories per hour from paddleboarding.  This makes it a great way to keep fit in a way that is low impact for your body.  
+You can typically burn around 180-600 calories per hour depending on your weight from paddleboarding.  
 
-The calories burnt from your workout depends on your activity whilst on the paddleboard and also how vigorously you are paddling and also your weight.  
+This makes it a great way to keep fit and also in a way that is low impact for your body.  
 
-We calculated the above calories burnt estimation using the data from [**Harvard Medical School**]()**.**
+On average it is a lighter intensity sport than surfing for most people, which would typically burn around 410 calories per hour.
+
+The calories burnt from your workout depends on your activity whilst on the paddleboard, how vigorously you are paddling and also your weight.  
+
+We calculated the above calories burnt estimations using the data from [**Harvard Medical School**]()**.**
 
 ## Improve your core strength with paddleboarding
 
