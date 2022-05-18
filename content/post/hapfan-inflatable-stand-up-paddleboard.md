@@ -2,7 +2,7 @@
 authorbox = true
 categories = ["Hapfan"]
 comments = true
-date = 2022-05-17T11:00:00Z
+date = 2022-05-18T11:00:00Z
 description = "Join us as we take a look at the Hapfan Inflatable Stand Up Paddleboard"
 lead = "This Paddleboard Comes with an Electric Pump!"
 mathjax = true
