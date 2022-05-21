@@ -24,11 +24,13 @@ ISLE started as two San Diego surfers, Marc Miller and Doug Pate who followed th
 
 They are now one of the most premium paddleboard companies in the world and have a 15,000 square foot retail store in San Diego.
 
-I am a big fan of the design of the boards and although they are a bit pricier than some of the other boards we have reviewed on here, the attention to detail on their paddleboards is unmatched.
+I am a big fan of the design of the boards and although they are a bit pricier than some of the other boards we have reviewed on [**paddleboardmaster.com**](/), the attention to detail on their paddleboards is unmatched.
 
 ## ISLE Pioneer Inflatable Stand Up Paddle Board - Who is it For?
 
-The Isle Pioneer is described by the company itself as being suitable for beginners and all riders.  It has a rider weight of 285lbs and is best used on flat water or ocean paddling.  
+Everything from the design of the boards to the accessories are very nicely designed here and if you want something that is going to last this is also a good choice.
+
+The Isle Pioneer is described by the company itself as being suitable for beginners and all riders.  It has a rider weight of 285lbs and is best used on flat water or ocean paddling.
 
 The board uses military grade PVC, so you can be assured that you are getting a high performance paddleboard.
 
