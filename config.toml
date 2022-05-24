@@ -51,12 +51,12 @@ recent_num = 5
 tags_counter = false
 [Params.widgets.social]
 email = "paddleboardmaster@gmail.com"
-facebook = "username"
-instagram = "username"
-twitter = "username"
+facebook = "#"
+instagram = "#"
+twitter = "#"
 [[menu.main]]
-name = "Buying Guides"
-url = "https://paddleboardmaster.com/tags/buying-guides/"
+name = "Beginners Guides"
+url = "https://paddleboardmaster.com/tags/beginners-guides/"
 weight = 3
 [[menu.main]]
 name = "Home"
