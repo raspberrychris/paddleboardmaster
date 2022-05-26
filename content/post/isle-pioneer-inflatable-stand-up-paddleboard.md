@@ -17,11 +17,11 @@ widgets = []
 +++
 We have looked at a lot of high quality paddleboards in our reviews, but this next Paddleboard From [**ISLE**](/categories/isle/), is one of our favourites out there.
 
-If you haven’t heard of ISLE before you may want to hear about who is behind this company and their story of how they got started.
+If you haven’t heard of [**ISLE**](/categories/isle/) before you may want to hear about who is behind this company and their story of how they got started.
 
 ![Isle-front-detail](/uploads/49fccb7e-ffec-4720-a149-18b7d119f927.jpeg "Isle-front-detail")
 
-ISLE started as two San Diego surfers, Marc Miller and Doug Pate who followed their passion and grew a paddleboard business from 2004 that started in their parents storage unit.
+[**ISLE**](/categories/isle/) started as two San Diego surfers, Marc Miller and Doug Pate who followed their passion and grew a paddleboard business from 2004 that started in their parents storage unit.
 
 They are now one of the most premium paddleboard companies in the world and have a 15,000 square foot retail store in San Diego, US.
 
