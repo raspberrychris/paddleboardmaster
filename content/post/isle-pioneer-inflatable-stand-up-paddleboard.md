@@ -74,4 +74,18 @@ The 10'6" model is a lightweight 24 lbs when inflated and the wide deck ensures 
 
 ### 5/5
 
+Wow! What a fantastic board! I really found it hard to find anything bad about the ISLE pioneer, and that is reflected in my rating of this paddleboard.
+
+If you are after a premium board then we think this offers the whole package.  You get quality accessories, a great high quality board made from the best materials.  
+
+The design and style of the board is definitely market leading and the fact that it has been designed by two surfers really shows that they know the market and what people want.
+
+This is another board that has great attention to detail in the styling and shape of the board.  
+
+It is suitable for a wide range of activities and really any one would be suitable using it.
+
+As it is an inflatable paddleboard you can pack it all away and take it with you where ever you go.  The thing that seperates this paddleboard from some of the other paddleboards that we have looked at is I feel that this board will last a bit longer than the average paddleboard.
+
+The only negative that we can see is that it is more pricier than some of the other boards out there, but if you are looking for something that you can keep long term and from a company that has great values, then you will definitely love this paddleboard.
+
 [**Click here to check out the ISLE Pioneer Inflatable Stand Up Paddleboard on Amazon.com…**](#)
