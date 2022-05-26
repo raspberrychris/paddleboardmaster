@@ -20,6 +20,8 @@ We have looked at a lot of high quality paddleboards in our reviews, but this ne
 
 If you haven’t heard of ISLE before you may want to hear about who is behind this company and their story of how they got started.
 
+![Isle-front-detail](/uploads/49fccb7e-ffec-4720-a149-18b7d119f927.jpeg "Isle-front-detail")
+
 ISLE started as two San Diego surfers, Marc Miller and Doug Pate who followed their passion and grew a paddleboard business from 2004 that started in their parents storage unit.
 
 They are now one of the most premium paddleboard companies in the world and have a 15,000 square foot retail store in San Diego, US.
@@ -29,6 +31,8 @@ They are now one of the most premium paddleboard companies in the world and have
 I am a big fan of the design of the boards and although they are a bit pricier than some of the other boards we have reviewed on [**paddleboardmaster.com**](/), the attention to detail on their paddleboards is unmatched.
 
 Everything from the design of the boards to the accessories are very nicely done here and if you want something that is going to last this is also an excellent choice.  The quality of the materials used on the board is also fantastic.
+
+![Isle-pioneer-paddleboard-activities](/uploads/fa9f78ea-8fc8-4e8a-9ff0-f8a5bb080bc3.jpeg "Isle-pioneer-paddleboard-activities")
 
 The [**Isle Pioneer paddleboard**](https://www.amazon.com/dp/B0887Z4JP8?pd_rd_i=B0887Z4JP8&pd_rd_w=DWZoE&pf_rd_p=33c4e3fc-b90b-44ce-8b60-9caf530f918e&pd_rd_wg=YHYpC&pf_rd_r=M9V4PHTY7ZG7D6624EPV&pd_rd_r=2db332ff-b5cb-48d5-8588-9650d673266d&s=sports-and-fitness&smid=A1JEZ1O7F81YDT&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFJSkhLRFpGMFY5WFomZW5jcnlwdGVkSWQ9QTAxNTc2NDIxNlJWTk5PSDZYUUcwJmVuY3J5cHRlZEFkSWQ9QTAzMzcwODU2STVBTTJKSENMSjMmd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWMmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1&psc=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=ecfb279bc8fc0739e5c1ce81a3f93aea&language=en_US&ref_=as_li_ss_tl) is described by the company itself as being suitable for beginners and all riders.  It has a rider weight of 285lbs and is best used on flat water or ocean paddling.
 
@@ -60,9 +64,13 @@ Its a versatile board for all-around, top-rated fun. The stylish design makes th
 
 ### Wide Stance Board
 
+![Wide-stance-pioneer-isle](/uploads/c7ccc15f-d234-45cc-a572-cecb706f5418.jpeg "Wide-stance-pioneer-isle")
+
 Run it over with your vehicle, throw it off the roof or ram it into rocks or a pier; Constructed with military-grade PVC making this board rigid enough for all paddle board activities and durable enough to last. This wide stance inflatable paddle board is six inches thick helping you stay balanced while you're paddle boarding.
 
 ### High Quality Accessories
+
+![Isle-pioneer-accessories](/uploads/b080e34c-cbfc-4206-8fc4-591dbaaa835f.jpeg "Isle-pioneer-accessories")
 
 All inflatable stand up paddle boards come with a complete package of paddle board accessories for compact carry and travel. This includes a paddleboard backpack, adjustable carbon shaft/nylon blade paddle, high-pressure pump, snap-in travel fin, coil leash, ISLE sticker pack & manual.
 
