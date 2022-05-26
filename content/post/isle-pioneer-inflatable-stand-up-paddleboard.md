@@ -48,11 +48,14 @@ You can use this SUP for a wide range of activities.  ISLE recommend that this b
 
 The Pioneer is ISLE's most versatile board for all-around, top-rated fun. The stylish design makes this a great beginner paddleboard for adults and riders of all sizes who are looking for a versatile board. This shape is perfect for both flat water (lakes, ponds, etc), river runs, small surf performance, and everything in between. With room for cargo, pets, and kids!
 
-LIGHTWEIGHT, DURABLE DESIGN
+### Wide Stance Board
 
 Run it over with your vehicle, throw it off the roof or ram it into rocks or a pier; Constructed with military-grade PVC making this board rigid enough for all paddle board activities and durable enough to last. This wide stance inflatable paddle board is six inches thick helping you stay balanced while you're paddle boarding.
 
-* INCLUDES iSUP PUMP AND ACCESSORY BUNDLE: All inflatable stand up paddle boards come with a complete package of paddle board accessories for compact carry and travel. This includes a paddleboard backpack, adjustable carbon shaft/nylon blade paddle, high-pressure pump, snap-in travel fin, coil leash, ISLE sticker pack & manual.
+### High Quality Accessories
+
+All inflatable stand up paddle boards come with a complete package of paddle board accessories for compact carry and travel. This includes a paddleboard backpack, adjustable carbon shaft/nylon blade paddle, high-pressure pump, snap-in travel fin, coil leash, ISLE sticker pack & manual.
+
 * SIZE SPECS: The 10'6" model is a lightweight 24 lbs when inflated and the wide deck ensures standing stability for fishing, yoga, and family activities; grooved, EVA traction deck pad adds comfort for additional rider or dog, plus room for equipment; Up to 285 lb. weight capacity. Great for men, women, and teens.
 * WHY SHOP ISLE? Born and bred on the water in San Diego, California since 2004. Our team is committed to bringing you the best quality paddle boards designed and tested by people who surf and paddle daily. Ride it and love it for 60 days or return it! If you don’t love your board we will take it back + 2 YEAR WARRANTY ON MATERIALS!
 
