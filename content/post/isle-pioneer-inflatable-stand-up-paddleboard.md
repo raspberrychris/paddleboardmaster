@@ -46,6 +46,8 @@ We think this paddleboard with its wide stance would be great if you are into Yo
 
 ## Video Review of the Isle Pioneer Paddleboard
 
+Check out this video of the Pioneer Paddleboard and see how it performs for yourself.
+
 {{< youtube TpcZn2xXtnw >}}
 
 [**Click here to check out the Isle Pioneer Inflatable Stand Up Paddleboard on Amazon.com…**](#)
