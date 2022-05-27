@@ -83,6 +83,18 @@ The 10'6" model is a lightweight 24 lbs when inflated and the wide deck ensures 
 
 ### ⭐⭐⭐⭐⭐
 
+### Pros
+
+* Easy to pack away
+* Stylish design and good quality materials
+* Great accessories
+* Great Company
+
+### Cons
+
+* No electric pump yet
+* Price is more than other SUPs
+
 Wow! What a fantastic board! I really found it hard to find anything bad about the ISLE pioneer, and that is reflected in my rating of this paddleboard.
 
 If you are after a premium board then we think this offers the whole package.  You get quality accessories, a great high quality board made from the best materials.
@@ -96,17 +108,5 @@ It is suitable for a wide range of activities and really any one would be suitab
 As it is an inflatable paddleboard you can pack it all away and take it with you where ever you go.  The thing that seperates this paddleboard from some of the other paddleboards that we have looked at is I feel that this board will last a bit longer than the average paddleboard.
 
 The only negative that we can see is that it is more pricier than some of the other boards out there, but if you are looking for something that you can keep long term and from a company that has great values and philosophy, then you will definitely love this paddleboard!
-
-## Pros
-
-* Easy to pack away
-* Stylish design and good quality materials
-* Great accessories
-* Great Company
-
-## Cons
-
-* No electric pump yet
-* Price is more than other SUPs
 
 [**Click here to check out the ISLE Pioneer Inflatable Stand Up Paddleboard on Amazon.com…**](https://www.amazon.com/dp/B0887Z4JP8?pd_rd_i=B0887Z4JP8&pd_rd_w=DWZoE&pf_rd_p=33c4e3fc-b90b-44ce-8b60-9caf530f918e&pd_rd_wg=YHYpC&pf_rd_r=M9V4PHTY7ZG7D6624EPV&pd_rd_r=2db332ff-b5cb-48d5-8588-9650d673266d&s=sports-and-fitness&smid=A1JEZ1O7F81YDT&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFJSkhLRFpGMFY5WFomZW5jcnlwdGVkSWQ9QTAxNTc2NDIxNlJWTk5PSDZYUUcwJmVuY3J5cHRlZEFkSWQ9QTAzMzcwODU2STVBTTJKSENMSjMmd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWMmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1&psc=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=ecfb279bc8fc0739e5c1ce81a3f93aea&language=en_US&ref_=as_li_ss_tl)
