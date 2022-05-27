@@ -16,6 +16,9 @@ toc = false
 widgets = []
 
 +++
+If you are searching for an SUP with a unique design then you will love this next board from SereneLife.
+
+The design is going to be the first thing you notice with this paddleboard.  The grafitti 
 
 * UPGRADED PREMIUM MATERIAL: The upgraded premium inflatable paddle board is made of the highest quality of military grade material. We provide the most durable and stable paddle boards on the market!!!
 * UPGRADED WIDE SUP DESIGN FOR BETTER BALANCE: measuring 10’6 feet long & 32 inches wide, balancing & stabilizing on top of our SUP board is a breeze, These board can be used in the ocean, fresh water lakes, and rivers.
