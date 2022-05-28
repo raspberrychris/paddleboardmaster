@@ -32,11 +32,11 @@ As it is inflatable it is a great SUP that you can pack away and throw in the ca
 
 In terms of set up is is also very simple and you don’t need any special experience to set up the board, everything is very self explanatory.
 
-This SUP has two thoughtful features which I really love.  
+**This SUP has two thoughtful features which I really love.**  
 
-Firstly it has an action camera or GoPro holder.  This makes it easy to secure your camera to the board, so you can record your adventures without having to be concerned about losing your camera.
+Firstly, it has an action camera or GoPro holder.  This makes it easy to secure your camera to the board, so you can record your adventures without having to be concerned about losing your camera.
 
-Secondly this SUP also comes with a water proof cellphone holder which is included in the accessories.
+Secondly, this SUP also comes with a water proof cellphone holder which is included in the accessories.
 
 All the usual safety features are included and you also get a repair kit included, which is useful if you were to damage the board.
 
