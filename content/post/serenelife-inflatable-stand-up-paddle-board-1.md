@@ -22,6 +22,10 @@ If you want to make a statement, then there really is no better way to do it tha
 
 ## SereneLife inflatable Stand Up Paddle Board - Who is it for?
 
+### What is the quality of the materials like?
+
+### What activities is the SereneLife Inflatable SUP suitable for?
+
 ## What’s included in the box?
 
 ## Features
@@ -36,6 +40,6 @@ If you want to make a statement, then there really is no better way to do it tha
 
 ### 4/5
 
-### Pros 
+### Pros
 
 ### Cons
