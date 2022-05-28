@@ -22,11 +22,13 @@ This SUP has a completely unique design, which I absolutely love and couldn’t 
 
 If you want to make a statement on the water, then there really is no better way to do it than with a board with a graffiti inspired design like this one.
 
-Join me as I walk you through the pros and cons of this board and find how exactly it stacks up against the competition.
+Join me as I walk you through the pros and cons of the [**SereneLife Inflatable Standup Paddleboard**](#) and find how exactly it stacks up against the competition.
 
 ## SereneLife inflatable Stand Up Paddle Board - Who is it for?
 
 If you are looking for a paddleboard with a unique design, that is light and good quality then you are likely to be interested in this SUP.  
+
+![Steady-paddleboard-serenelife-graffiti](/uploads/70ea33ed-e9ca-45ab-becf-d02dd131199b.jpeg "Steady-paddleboard-serenelife-graffiti")
 
 It is a paddleboard that can be used by beginners right up to the more advanced.  It is a wide, stable board that can be used by anyone of any age.
 
@@ -36,7 +38,7 @@ In terms of set up is is also very simple and you don’t need any special exper
 
 **This SUP has two thoughtful features which I really love.**  
 
-Firstly, it has an action camera or GoPro holder.  This makes it easy to secure your camera to the board, so you can record your adventures without having to be concerned about losing your camera.
+> Firstly, it has an action camera or GoPro holder.  This makes it easy to secure your camera to the board, so you can record your adventures without having to be concerned about losing your camera.
 
 Secondly, this SUP also comes with a water proof cellphone holder which is included in the accessories.
 
@@ -57,7 +59,7 @@ SereneLife don’t explicitly say what activities this SUP is suitable for, but 
 * Paddling 
 * Carrying Pets 
 * Exploring the water
-* Recording Videos
+* Recording Videos of your adventures / Vlogging
 
 ## What’s included in the box?
 
