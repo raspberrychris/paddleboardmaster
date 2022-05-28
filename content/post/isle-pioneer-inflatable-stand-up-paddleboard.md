@@ -35,7 +35,11 @@ Everything from the design of the boards to the accessories are very nicely done
 
 The [**Isle Pioneer paddleboard**](https://www.amazon.com/dp/B0887Z4JP8?pd_rd_i=B0887Z4JP8&pd_rd_w=DWZoE&pf_rd_p=33c4e3fc-b90b-44ce-8b60-9caf530f918e&pd_rd_wg=YHYpC&pf_rd_r=M9V4PHTY7ZG7D6624EPV&pd_rd_r=2db332ff-b5cb-48d5-8588-9650d673266d&s=sports-and-fitness&smid=A1JEZ1O7F81YDT&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFJSkhLRFpGMFY5WFomZW5jcnlwdGVkSWQ9QTAxNTc2NDIxNlJWTk5PSDZYUUcwJmVuY3J5cHRlZEFkSWQ9QTAzMzcwODU2STVBTTJKSENMSjMmd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWMmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1&psc=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=ecfb279bc8fc0739e5c1ce81a3f93aea&language=en_US&ref_=as_li_ss_tl) is described by the company itself as being suitable for beginners and all riders.  It has a rider weight of 285lbs and is best used on flat water or ocean paddling.
 
+### What is the quality of materials Like?
+
 The board uses military grade PVC, so you can be assured that you are getting a high performance paddleboard.
+
+### What activities is this SUP suitable for?
 
 You can use this SUP for a wide range of activities.  ISLE recommend that this board is however best suited to the below activities:
 
