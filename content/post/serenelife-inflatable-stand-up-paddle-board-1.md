@@ -3,15 +3,14 @@ authorbox = true
 categories = ["SereneLife"]
 comments = true
 date = 2022-05-26T11:00:00Z
-description = ""
-draft = true
-lead = ""
+description = "Join us as we take a look at the SereneLife Inflatable SUP and discover what we really think about this paddleboard."
+lead = "Incredible Design, Lightweight.  What’s not to like!"
 mathjax = true
 pager = true
 sidebar = ""
 tags = ["Review"]
 thumbnail = "/uploads/70073e40-9ff2-4c54-94e3-d4cae00fca1e.jpeg"
-title = "SereneLife Inflatable Stand Up Paddle Board"
+title = "SereneLife Inflatable Stand Up Paddle Board (Graffiti) - Is this the best designed SUP?"
 toc = true
 widgets = []
 
@@ -44,6 +43,8 @@ Secondly, this SUP also comes with a water proof cellphone holder which is inclu
 
 All the usual safety features are included and you also get a repair kit included, which is useful if you were to damage the board.
 
+[**Click here to check out the SereneLife Inflatable Stand Up Paddleboard on Amazon.com…**](#)
+
 ### What is the quality of the materials like?
 
 The board itself has drop stitch reinforced PVC.  Making it water proof and resistant to corrosion.  Like some of the other SUPs I have reviewed the quality level is described as “Military grade”.  The paddleboard also has a UV resistant coating.  It also features double layer fabric and space yarn.
@@ -65,6 +66,10 @@ SereneLife don’t explicitly say what activities this SUP is suitable for, but 
 
 What exactly do you get in the box?
 
+Everything you need included (including leash and pump).  There is also a place to store your cellphone, which is handy as well as a repair kit.
+
+![Accessories](/uploads/65410126-cca2-48d5-b009-f0c153ed4d43.jpeg "Accessories")
+
 ## Features
 
 ### Premium Materials
@@ -77,7 +82,7 @@ Measuring 10’6 feet long & 32 inches wide, balancing & stabilizing on top of o
 
 This board can be used in the ocean, fresh water lakes, and rivers.
 
-### Easy to Steer
+### Really Easy to Steer
 
 The triple bottom panel fins help board improve overall speed, handling and steering for easier use by kids, teens and adults alike
 
@@ -88,6 +93,8 @@ The triple bottom panel fins help board improve overall speed, handling and stee
 ### All the Accessories you Need are included
 
 Complete with must have paddle board accessories, our SUP paddle board will have you ready to hit the waves Includes 10'6 board, coiled ankle cuff safety leash, Aluminum paddle, manual air pump & storage bag and waterproof bag
+
+![Lightweight](/uploads/922264e7-71ae-46ae-9f7a-154dd74b0e71.jpeg "Lightweight")
 
 ## Verdict
 
@@ -100,6 +107,7 @@ Complete with must have paddle board accessories, our SUP paddle board will have
 * High quality military grade material
 * Travel Friendly
 * GoPro attachment
+* Double Action Pump
 
 ### Cons
 
