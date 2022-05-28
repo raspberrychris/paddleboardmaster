@@ -102,6 +102,8 @@ Complete with must have paddle board accessories, our SUP paddle board will have
 
 ### 4/5
 
+### ⭐⭐⭐⭐
+
 ### Pros
 
 * Show stopping design!
