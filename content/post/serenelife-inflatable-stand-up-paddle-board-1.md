@@ -61,11 +61,27 @@ SereneLife don’t explicitly say what activities this SUP is suitable for, but 
 
 ## Features
 
-* UPGRADED PREMIUM MATERIAL: The upgraded premium inflatable paddle board is made of the highest quality of military grade material. We provide the most durable and stable paddle boards on the market!!!
-* UPGRADED WIDE SUP DESIGN FOR BETTER BALANCE: measuring 10’6 feet long & 32 inches wide, balancing & stabilizing on top of our SUP board is a breeze, These board can be used in the ocean, fresh water lakes, and rivers.
-* SUPERIOR MANEUVERABILITY – The triple bottom panel fins help board improve overall speed, handling and steering for easier use by kids, teens and adults alike
-* PORTABLE & INFLATABLE SUP BOARD: 100 percent travel friendly, this unique SUP inflatable paddle board is preferred by those who have a knack for adventure Take it with you on surfing excursions or keep it in your car for those times you want to explore
-* ALL IN 1 PADDLE BOARD KIT: Complete with must have paddle board accessories, our SUP paddle board will have you ready to hit the waves Includes 10'6 board, coiled ankle cuff safety leash, Aluminum paddle, manual air pump & storage bag and waterproof bag
+### Premium Materials
+
+Highest quality of military grade material are used with the construction of this board.  A lot of other boards often describe themselves as using ‘military grade’ materials, but the materials and the techniques to put this board together really go over and above what we have seen from some other SUPs out there.
+
+### Wide Design
+
+Measuring 10’6 feet long & 32 inches wide, balancing & stabilizing on top of our SUP board is a breeze. 
+
+This board can be used in the ocean, fresh water lakes, and rivers.
+
+### Easy to Steer
+
+The triple bottom panel fins help board improve overall speed, handling and steering for easier use by kids, teens and adults alike
+
+### Light and Travel Friendly
+
+100 percent travel friendly, this unique SUP inflatable paddle board is preferred by those who have a knack for adventure Take it with you on surfing excursions or keep it in your car for those times you want to explore
+
+### All the Accessories you Need are included
+
+Complete with must have paddle board accessories, our SUP paddle board will have you ready to hit the waves Includes 10'6 board, coiled ankle cuff safety leash, Aluminum paddle, manual air pump & storage bag and waterproof bag
 
 ## Verdict
 
@@ -73,10 +89,29 @@ SereneLife don’t explicitly say what activities this SUP is suitable for, but 
 
 ### Pros
 
-Show stopping design
-
-Lightweight and easy to transport
-
-High quality military grade material
+* Show stopping design!
+* Lightweight and easy to transport
+* High quality military grade material
+* Travel Friendly
+* GoPro attachment
 
 ### Cons
+
+* Cheaper boards are available
+* No Electric pump included
+
+This is a well thought out paddleboard from SereneLife and interestingly is described as being suitable for all ages.  
+
+I think this board would be best suited towards someone who wants to adventure outdoors and record their adventures on their SUP.  The included GoPro holder makes it a breeze to ensure you get the best footage you can from and SUP, without being worried that you are going to lose your camera.
+
+Another more obvious selling point of this board is the design.  It is eye catching graffiti inspired that carries all the way through to the accessories as well.
+
+I really love it when the bag and the paddleboard feature the same design aesthetic, it just makes it feel like you are buying the complete package.
+
+There aren’t too many negatives about this board to mention.  The price may be a limiting factor for some, and the design may not be for everyone.  The SUP doesn’t include an electric pump, but again, for me this wasn’t particularly a deal breaker.
+
+Overall this is a great SUP from SereneLife and the aesthetic of the full package is actually amazing,  This is a SUP that you will be proud of any will keep for the long term.
+
+Ultimately if you are looking to invest in a quality board and you love the design then this is a board that you will love from a brand that you can trust.
+
+[**Click here to check out the SereneLife Inflatable Stand Up Paddleboard on Amazon.com…**](#)
