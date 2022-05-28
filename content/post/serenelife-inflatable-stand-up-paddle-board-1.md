@@ -63,6 +63,8 @@ SereneLife don’t explicitly say what activities this SUP is suitable for, but 
 
 ## What’s included in the box?
 
+What exactly do you get in the box?
+
 ## Features
 
 ### Premium Materials
@@ -104,7 +106,9 @@ Complete with must have paddle board accessories, our SUP paddle board will have
 * Cheaper boards are available
 * No Electric pump included
 
-This is a well thought out paddleboard from SereneLife and interestingly is described as being suitable for all ages.  
+This is a well thought out paddleboard from SereneLife and interestingly is described as being suitable for all ages, which I haven’t seen before.
+
+The bottom line with this board is if you are looking for a good value high quality board, then this is going to interest you.
 
 I think this board would be best suited towards someone who wants to adventure outdoors and record their adventures on their SUP.  The included GoPro holder makes it a breeze to ensure you get the best footage you can from and SUP, without being worried that you are going to lose your camera.
 
