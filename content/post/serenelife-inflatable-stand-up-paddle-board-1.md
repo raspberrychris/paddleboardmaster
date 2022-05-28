@@ -21,7 +21,7 @@ This SUP has a completely unique design, which I absolutely love and couldn’t 
 
 If you want to make a statement on the water, then there really is no better way to do it than with a board with a graffiti inspired design like this one.
 
-Join me as I walk you through the pros and cons of the [**SereneLife Inflatable Standup Paddleboard**](#) and find how exactly it stacks up against the competition.
+Join me as I walk you through the pros and cons of the [**SereneLife Inflatable Standup Paddleboard**](https://www.amazon.com/dp/B0892HRPSB?pd_rd_i=B0892HRPSB&pd_rd_w=6B0lw&content-id=amzn1.sym.e620829b-a408-427e-99ea-7ac734a316f7&pf_rd_p=e620829b-a408-427e-99ea-7ac734a316f7&pf_rd_r=ACP2XA74GCQ2WBR0TYFP&pd_rd_wg=SSSur&pd_rd_r=5731f1f4-611c-4ca5-b088-917312f4ee22&s=sporting-goods&smid=A3PAV43I12A2F0&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzT0VQNzZEN1c3WDdIJmVuY3J5cHRlZElkPUExMDAzMDQxMlZQMllJNVQ4M09SUSZlbmNyeXB0ZWRBZElkPUEwMjg4MDgzMU5PRjRUWEdPT1hINiZ3aWRnZXROYW1lPXNwX2RldGFpbF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=8766fa40f7b7fd656fb981beb4140072&language=en_US&ref_=as_li_ss_tl) and find how exactly it stacks up against the competition.
 
 ## SereneLife inflatable Stand Up Paddle Board - Who is it for?
 
@@ -43,7 +43,7 @@ Secondly, this SUP also comes with a water proof cellphone holder which is inclu
 
 All the usual safety features are included and you also get a repair kit included, which is useful if you were to damage the board.
 
-[**Click here to check out the SereneLife Inflatable Stand Up Paddleboard on Amazon.com…**](#)
+[**Click here to check out the SereneLife Inflatable Stand Up Paddleboard on Amazon.com…**](https://www.amazon.com/dp/B0892HRPSB?pd_rd_i=B0892HRPSB&pd_rd_w=6B0lw&content-id=amzn1.sym.e620829b-a408-427e-99ea-7ac734a316f7&pf_rd_p=e620829b-a408-427e-99ea-7ac734a316f7&pf_rd_r=ACP2XA74GCQ2WBR0TYFP&pd_rd_wg=SSSur&pd_rd_r=5731f1f4-611c-4ca5-b088-917312f4ee22&s=sporting-goods&smid=A3PAV43I12A2F0&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzT0VQNzZEN1c3WDdIJmVuY3J5cHRlZElkPUExMDAzMDQxMlZQMllJNVQ4M09SUSZlbmNyeXB0ZWRBZElkPUEwMjg4MDgzMU5PRjRUWEdPT1hINiZ3aWRnZXROYW1lPXNwX2RldGFpbF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=8766fa40f7b7fd656fb981beb4140072&language=en_US&ref_=as_li_ss_tl)
 
 ### What is the quality of the materials like?
 
@@ -132,4 +132,4 @@ Overall this is a great SUP from [**SereneLife**](/categories/serenelife/) and t
 
 Ultimately if you are looking to invest in a quality board and you love the design then this is a board that you will love from a brand that you can trust.
 
-[**Click here to check out the SereneLife Inflatable Stand Up Paddleboard on Amazon.com…**](#)
+[**Click here to check out the SereneLife Inflatable Stand Up Paddleboard on Amazon.com…**](https://www.amazon.com/dp/B0892HRPSB?pd_rd_i=B0892HRPSB&pd_rd_w=6B0lw&content-id=amzn1.sym.e620829b-a408-427e-99ea-7ac734a316f7&pf_rd_p=e620829b-a408-427e-99ea-7ac734a316f7&pf_rd_r=ACP2XA74GCQ2WBR0TYFP&pd_rd_wg=SSSur&pd_rd_r=5731f1f4-611c-4ca5-b088-917312f4ee22&s=sporting-goods&smid=A3PAV43I12A2F0&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzT0VQNzZEN1c3WDdIJmVuY3J5cHRlZElkPUExMDAzMDQxMlZQMllJNVQ4M09SUSZlbmNyeXB0ZWRBZElkPUEwMjg4MDgzMU5PRjRUWEdPT1hINiZ3aWRnZXROYW1lPXNwX2RldGFpbF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=8766fa40f7b7fd656fb981beb4140072&language=en_US&ref_=as_li_ss_tl)
