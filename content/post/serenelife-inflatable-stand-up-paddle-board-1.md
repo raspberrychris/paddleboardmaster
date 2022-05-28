@@ -53,7 +53,7 @@ The board itself has drop stitch reinforced PVC.  Making it water proof and resi
 
 ### What activities is the SereneLife Inflatable SUP suitable for?
 
-SereneLife don’t explicitly say what activities this SUP is suitable for, but in my opinion it would be fine to use for the following activities as it is a wide, steady board.
+[**SereneLife**](/categories/serenelife/) don’t explicitly say what activities this SUP is suitable for, but in my opinion it would be fine to use for the following activities as it is a wide, steady board.
 
 * Yoga
 * Fishing
@@ -74,7 +74,9 @@ Everything you need included (including leash and pump).  There is also a place 
 
 ### Premium Materials
 
-Highest quality of military grade material are used with the construction of this board.  A lot of other boards often describe themselves as using ‘military grade’ materials, but the materials and the techniques to put this board together really go over and above what we have seen from some other SUPs out there.
+Highest quality of military grade material are used with the construction of this board.  
+
+A lot of other boards often describe themselves as using ‘military grade’ materials, but the materials and the techniques to put this board together really go over and above what we have seen from some other SUPs out there.
 
 ### Wide Design
 
@@ -126,7 +128,7 @@ I really love it when the bag and the paddleboard feature the same design aesthe
 
 There aren’t too many negatives about this board to mention.  The price may be a limiting factor for some, and the design may not be for everyone.  The SUP doesn’t include an electric pump, but again, for me this wasn’t particularly a deal breaker.
 
-Overall this is a great SUP from SereneLife and the aesthetic of the full package is actually amazing,  This is a SUP that you will be proud of any will keep for the long term.
+Overall this is a great SUP from [**SereneLife**](/categories/serenelife/) and the aesthetic of the full package is actually amazing,  This is a SUP that you will be proud of any will keep for the long term.
 
 Ultimately if you are looking to invest in a quality board and you love the design then this is a board that you will love from a brand that you can trust.
 
