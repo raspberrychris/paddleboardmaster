@@ -22,6 +22,8 @@ This SUP has a completely unique design, which I absolutely love and couldn’t 
 
 If you want to make a statement on the water, then there really is no better way to do it than with a board with a graffiti inspired design like this one.
 
+Join me as I walk you through the pros and cons of this board and find how exactly it stacks up against the competition.
+
 ## SereneLife inflatable Stand Up Paddle Board - Who is it for?
 
 If you are looking for a paddleboard with a unique design, that is light and good quality then you are likely to be interested in this SUP.  
