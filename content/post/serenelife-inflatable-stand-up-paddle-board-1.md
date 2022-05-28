@@ -24,6 +24,8 @@ If you want to make a statement, then there really is no better way to do it tha
 
 ### What is the quality of the materials like?
 
+The board itself has drop stitch reinforced PVC.  Making it water proof and resistant to corrosion.  Like some of the other SUPs I have reviewed the quality level is described as “Military grade”.  The paddleboard also has a UV resistant coating.
+
 ### What activities is the SereneLife Inflatable SUP suitable for?
 
 ## What’s included in the box?
