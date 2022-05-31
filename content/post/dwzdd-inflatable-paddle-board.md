@@ -16,4 +16,4 @@ toc = true
 widgets = []
 
 +++
-In this post I will be taking a look
+In this post I will be taking a look at the [**Dwzdd Inflatable Paddle Board**](#)**.**  Dwzdd is not a typo, I haven’t just mashed the keyboard, this is a 
