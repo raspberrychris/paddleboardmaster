@@ -30,7 +30,9 @@ Join me while a take an indepth look at the Dwzdd inflatable paddleboard as I ta
 
 ## Dwzdd Inflatable Paddleboard - Who is it for?
 
-In terms of the affordability of this board, straight away you feel like you are getting a good deal.
+If you are looking for a first SUP and you don’t want to break the bank then this would be a good option in my opinion.  
+
+As I have mentioned Dwzdd is a fairly new brand on the market, but the paddleboard is high quality and comes with all the essential accessories you will need and also a pump that you can inflate and deflate your SUP with.
 
 ### What activities is the Dwzdd SUP suitable for?
 
