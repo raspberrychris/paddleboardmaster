@@ -16,23 +16,23 @@ toc = true
 widgets = []
 
 +++
-In this post I will be taking a look at the [**Dwzdd Inflatable Paddle Board**](#)**.**  
+In this post I will be taking a look at the [**Dwzdd Inflatable Paddle Board **](#)and giving my honest review of how I think it performs in terms of its features and against other paddleboards.
 
-[**Dwzdd**](#) is not a typo, I haven’t just mashed the keyboard by mistake!  
+**By the way…** [**Dwzdd**](#) is not a typo, I haven’t just mashed the keyboard by mistake!
 
-[**Dwzdd**](#) are a relatively new brand to the paddleboard scene, which is why you may not heard of them yet, but their boards are quickly gaining traction and have a number of positive reviews from customers who have bought their paddleboards.  
+[**Dwzdd**](#) are a relatively new brand to the paddleboard scene, which is why you may not heard of them yet, but their boards are quickly gaining traction and have a number of positive reviews from customers who have bought their paddleboards.
 
 At a first look their SUPs offer great value, high quality materials and are suitable for a wide range of people and activities.
 
 The brand in general has got a lot of positive feedback so far.  They have two product lines at the time of writing, Gymastic tumbling mats and this line of inflatable paddleboard boards, this means they are very much focused on this type of market.
 
-It goes without saying that a Gymnastic tumble mat is something that you would demand a high level of durability from, so it is interesting to see whether this follows through into their inflatable SUPs. 
+It goes without saying that a Gymnastic tumble mat is something that you would demand a high level of durability from, so it is interesting to see whether this follows through into their inflatable SUPs.
 
 Join me while a take an indepth look at the Dwzdd inflatable paddleboard as I take it through its paces.
 
 ## Dwzdd Inflatable Paddleboard - Who is it for?
 
-If you are looking for a first SUP and you don’t want to break the bank then this would be a good option in my opinion.  
+If you are looking for a first SUP and you don’t want to break the bank then this would be a good option in my opinion.
 
 As I have mentioned Dwzdd is a fairly new brand on the market, but the paddleboard is high quality and comes with all the essential accessories you will need and also a double action pump that you can inflate and deflate your SUP with.  (It took around 10 minutes for me to inflate the board for reference).
 
@@ -47,7 +47,7 @@ Like many of the paddleboards we have reviewed this comes with an anti slip surf
 * Yoga
 * Sunbathing
 * Touring
-* Fishing 
+* Fishing
 * Exploring
 * Meditation
 * Surfing
@@ -59,14 +59,14 @@ Like many of the paddleboards we have reviewed this comes with an anti slip surf
 
 * Backpack
 * Adjustable Travel Paddle
-* Handpump 
+* Handpump
 * Repair Kit
 * Centre Fin
 * Safety Leash
 
 ![](/uploads/5b9822aa-1004-4d7a-983f-fdeab8ba919a.jpeg)
 
-## Video Review of the Dwzdd Inflatable Paddleboard 
+## Video Review of the Dwzdd Inflatable Paddleboard
 
 Check out what Dr Ariel Foster thinks of the Dwzdd Paddleboard in her review below.
 
