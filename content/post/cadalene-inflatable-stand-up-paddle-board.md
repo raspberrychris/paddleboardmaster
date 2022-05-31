@@ -11,7 +11,7 @@ pager = true
 sidebar = ""
 tags = ["Review"]
 thumbnail = "/uploads/72e7701a-4ca3-4346-99f3-609550f373bb.jpeg"
-title = "CADALENE Inflatable Stand Up Paddle Board"
+title = "Cadalene Inflatable Stand Up Paddle Board"
 toc = true
 widgets = []
 
