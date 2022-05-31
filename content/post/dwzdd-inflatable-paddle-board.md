@@ -32,13 +32,24 @@ Join me while a take an indepth look at the Dwzdd inflatable paddleboard as I ta
 
 If you are looking for a first SUP and you don’t want to break the bank then this would be a good option in my opinion.  
 
-As I have mentioned Dwzdd is a fairly new brand on the market, but the paddleboard is high quality and comes with all the essential accessories you will need and also a pump that you can inflate and deflate your SUP with.
+As I have mentioned Dwzdd is a fairly new brand on the market, but the paddleboard is high quality and comes with all the essential accessories you will need and also a double action pump that you can inflate and deflate your SUP with.  (It took around 10 minutes for me to inflate the board for reference).
+
+The Dwzdd inflatable paddleboard also has a anti slip EVA surface which is perfect for those who need a bit more traction on the board for their activities, for example if you want to use your paddleboard for Yoga.
+
+In terms of the design of this board it is not overly flashy, it has a simple elegance to the design.  The logo is fairly large on the board which may detract for some, but I  like the bold styling here from Dwzdd.
 
 ### What activities is the Dwzdd SUP suitable for?
 
-Yoga
+Like many of the paddleboards we have reviewed this comes with an anti slip surface and is wide in its design, meaning it is perfect for a number of activities such as:
 
-Sunbathing
+* Yoga
+* Sunbathing
+* Touring
+* Fishing 
+* Exploring
+* Meditation
+* Surfing
+* Paddling
 
 ## Video Review of the Dwzdd Inflatable Paddleboard 
 
@@ -48,8 +59,16 @@ Check out what Dr Ariel Foster thinks of the Dwzdd Paddleboard in her review bel
 
 ## Features
 
-Verdict
+## Verdict
 
-Pros
+### 4/5
 
-Cons
+### ⭐⭐⭐⭐
+
+## Pros
+
+Affordable paddleboard with great features and accessories
+
+Simple, sleek design
+
+## Cons
