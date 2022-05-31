@@ -51,6 +51,8 @@ Like many of the paddleboards we have reviewed this comes with an anti slip surf
 * Surfing
 * Paddling
 
+![List-of-dwdd-paddleboard-activities](/uploads/b27a079f-bb66-472c-9b18-542a47b9278c.jpeg "List-of-dwdd-paddleboard-activities")
+
 ## Video Review of the Dwzdd Inflatable Paddleboard 
 
 Check out what Dr Ariel Foster thinks of the Dwzdd Paddleboard in her review below.
