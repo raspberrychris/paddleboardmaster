@@ -16,3 +16,4 @@ toc = true
 widgets = []
 
 +++
+In this post we will be taking a look at the Cadalene inflatable Stand up Paddleboard.
