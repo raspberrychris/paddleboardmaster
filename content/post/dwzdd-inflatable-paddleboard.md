@@ -11,7 +11,7 @@ pager = true
 sidebar = ""
 tags = ["Review"]
 thumbnail = "/uploads/2954a53d-eece-42f2-a091-5f7ee606e40d.jpeg"
-title = "Dwzdd Inflatable Paddle Board - Best Newcomer Paddleboard Brand?"
+title = "Dwzdd Inflatable Paddleboard - Best Newcomer Paddleboard Brand?"
 toc = true
 widgets = []
 
@@ -41,6 +41,8 @@ As I have mentioned Dwzdd is a fairly new brand on the market, but the paddleboa
 > The Dwzdd inflatable paddleboard also has a anti slip EVA surface which is perfect for those who need a bit more traction on the board for their activities, for example if you want to use your paddleboard for Yoga.
 
 In terms of the design of this board it is not overly flashy, it has a simple elegance to the design.  The logo is fairly large on the board which may detract for some, but I  like the bold styling here from Dwzdd.
+
+[**Click here to check out the Dwzdd Inflatable Paddleboard on Amazon.com…**](#)
 
 ### What activities is the Dwzdd SUP suitable for?
 
@@ -101,3 +103,5 @@ This would make a really good beginners SUP or someone who was just looking to e
 The paddleboard comes with all the essentials and the double action pump can deflate as well as inflate the board so you can be assured that you won’t be wasting any time.  It took 10 minutes for me to inflatate the board which is impressive at this price point!
 
 Only cons that we could find is that the design may not be to everyone’s taste.  Obviously style is a personal choice, but with a wealth of designs and brands available, we though the design was more on the functional side than the style side.  Although saying that, there is an elegance to the simplicity of the design that I like.
+
+[**Click here to check out the Dwzdd Inflatable Paddle Board on Amazon.com…**](#)
