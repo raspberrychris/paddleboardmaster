@@ -2,7 +2,7 @@
 authorbox = true
 categories = ["Cadalene"]
 comments = true
-date = 2022-05-18T11:00:00Z
+date = 2022-05-31T11:00:00Z
 description = ""
 draft = true
 lead = ""
@@ -22,12 +22,24 @@ In this post we will be taking a look at the Cadalene inflatable Stand up Paddle
 
 ## Features
 
-## **Verdict**
+High quality material all-around board】 Inflatable paddle is made of special materials. It can be collapsible in the backpack after deflation and is portable to carry. It is durable, light, easy to enter the river. It is the first choice for surfing, fishing, travel and other leisure activities.Loved by youth and adults
+
+Ergonomic cushioning for everyone】Inflatable surfboards have advantages in reducing fatigue and injury. Relaxe the feet to make body more comfortable and not too painful to fall. Not only boards for adults, but also suitable for kids, beginners ，teens and junior players.
+
+Applicable to different environments】Inflatable paddleboards are great fun and a beach essentials when touring with pets and kids. We recommend inflating the board to a pressure of 13 psi up to a maximum of 15 psi for use in different environments such as ocean, lake, ponds, salt water and pool
+
+* 
+
+  Comprehensive guarantee of quality service】Inflatable surfboard has complete accessories, and the detachable fin device provides greater traction, overall speed and control to ensure the stability of snorkeling in the seas. In addition, we provide one-year warranty service
+
+  Extra wide and detailed description】Stand-up paddle board dimensions are 10' long by 33” wide and 6” thick with a weight limit of 264 pounds. Package contains 1 isup inflatable paddle board, 1 adjustable paddle,1 removable fin, 1 hand pump, 1 backpack, 1 leash.
+
+## Verdict
 
 ### 4/5
 
 ### ⭐⭐⭐⭐
 
-### **Pros** 
+### **Pros**
 
 ### **Cons**
