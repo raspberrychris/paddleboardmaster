@@ -18,6 +18,10 @@ widgets = []
 +++
 In this post we will be taking a look at the Cadalene inflatable Stand up Paddleboard.
 
+## Cadalene Inflatable Paddleboard - Who is it For?
+
+## Features
+
 ## **Verdict**
 
 ### 4/5
