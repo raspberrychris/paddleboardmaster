@@ -16,7 +16,9 @@ toc = true
 widgets = []
 
 +++
-In this post I will be taking a look at the [**Dwzdd Inflatable Paddle Board**](#)**.**  Dwzdd is not a typo, I haven’t just mashed the keyboard!  
+In this post I will be taking a look at the [**Dwzdd Inflatable Paddle Board**](#)**.**  
+
+[**Dwzdd**](#) is not a typo, I haven’t just mashed the keyboard by mistake!  
 
 [**Dwzdd**](#) are a relatively new brand to the paddleboard scene, which is why you may not heard of them yet, but their boards are quickly gaining traction and have a number of positive reviews from customers who have bought their paddleboards.  
 
@@ -34,7 +36,7 @@ If you are looking for a first SUP and you don’t want to break the bank then t
 
 As I have mentioned Dwzdd is a fairly new brand on the market, but the paddleboard is high quality and comes with all the essential accessories you will need and also a double action pump that you can inflate and deflate your SUP with.  (It took around 10 minutes for me to inflate the board for reference).
 
-The Dwzdd inflatable paddleboard also has a anti slip EVA surface which is perfect for those who need a bit more traction on the board for their activities, for example if you want to use your paddleboard for Yoga.
+> The Dwzdd inflatable paddleboard also has a anti slip EVA surface which is perfect for those who need a bit more traction on the board for their activities, for example if you want to use your paddleboard for Yoga.
 
 In terms of the design of this board it is not overly flashy, it has a simple elegance to the design.  The logo is fairly large on the board which may detract for some, but I  like the bold styling here from Dwzdd.
 
@@ -53,6 +55,17 @@ Like many of the paddleboards we have reviewed this comes with an anti slip surf
 
 ![List-of-dwdd-paddleboard-activities](/uploads/b27a079f-bb66-472c-9b18-542a47b9278c.jpeg "List-of-dwdd-paddleboard-activities")
 
+### Whats in the box?
+
+* Backpack
+* Adjustable Travel Paddle
+* Handpump 
+* Repair Kit
+* Centre Fin
+* Safety Leash
+
+![](/uploads/5b9822aa-1004-4d7a-983f-fdeab8ba919a.jpeg)
+
 ## Video Review of the Dwzdd Inflatable Paddleboard 
 
 Check out what Dr Ariel Foster thinks of the Dwzdd Paddleboard in her review below.
@@ -69,8 +82,10 @@ Check out what Dr Ariel Foster thinks of the Dwzdd Paddleboard in her review bel
 
 ## Pros
 
-Affordable paddleboard with great features and accessories
-
-Simple, sleek design
+* Affordable paddleboard with great features and accessories
+* Simple, sleek design
+* Nice overall package
 
 ## Cons
+
+Design may not be to everyone’s taste
