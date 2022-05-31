@@ -18,7 +18,9 @@ widgets = []
 +++
 In this post I will be taking a look at the [**Dwzdd Inflatable Paddle Board**](#)**.**  Dwzdd is not a typo, I haven’t just mashed the keyboard!  
 
-[**Dwzdd**](#) are a relatively new brand to the paddleboard scene, which is why you may not heard of them yet, but their boards are quickly gaining traction and have a number of positive reviews from customers who have bought their paddleboards.
+[**Dwzdd**](#) are a relatively new brand to the paddleboard scene, which is why you may not heard of them yet, but their boards are quickly gaining traction and have a number of positive reviews from customers who have bought their paddleboards.  
+
+At a first look their SUPs offer great value, high quality materials and are suitable for a wide range of people and activities.
 
 The brand in general has got a lot of positive feedback so far.  They have two product lines at the time of writing, Gymastic tumbling mats and this line of inflatable paddleboard boards, this means they are very much focused on this type of market.
 
