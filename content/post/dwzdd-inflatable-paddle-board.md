@@ -18,6 +18,8 @@ widgets = []
 +++
 In this post I will be taking a look at the [**Dwzdd Inflatable Paddle Board **](#)and giving my honest review of how I think it performs in terms of its features and against other paddleboards.
 
+![Dwzdd-SUP](/uploads/d22349e7-edf3-41f6-ac94-338cc0f9bac5.jpeg "Dwzdd-SUP")
+
 **By the way…** [**Dwzdd**](#) is not a typo, I haven’t just mashed the keyboard by mistake!
 
 [**Dwzdd**](#) are a relatively new brand to the paddleboard scene, which is why you may not heard of them yet, but their boards are quickly gaining traction and have a number of positive reviews from customers who have bought their paddleboards.
@@ -88,4 +90,4 @@ Check out what Dr Ariel Foster thinks of the Dwzdd Paddleboard in her review bel
 
 ## Cons
 
-Design may not be to everyone’s taste
+* Design may not be to everyone’s taste
