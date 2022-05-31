@@ -4,7 +4,6 @@ categories = ["Dwzdd"]
 comments = true
 date = 2022-05-31T11:00:00Z
 description = "Check out our review of the Dwzdd Inflatable Paddleboard.  Click here to find out what we really think about the Dwzdd Inflatable Paddleboard."
-draft = true
 lead = "Is this the best starter paddleboard?"
 mathjax = true
 pager = true
@@ -23,6 +22,8 @@ In this post I will be taking a look at the [**Dwzdd Inflatable Paddle Board**](
 **By the way…** [**Dwzdd**](/categories/dwzdd/) is not a typo, I haven’t just mashed the keyboard by mistake, this is the actual brand name.
 
 [**Dwzdd**](/categories/dwzdd/) are a relatively new brand to the paddleboard scene, which is why you may not heard of them yet, but their boards are quickly gaining traction and have a number of positive reviews from customers who have bought their paddleboards.
+
+![Measurements-dwzdd](/uploads/e3f31822-4ab4-4ede-b72f-0f27f2f4b9c4.jpeg "Measurements-dwzdd")
 
 At a first look their SUPs offer great value, high quality materials and are suitable for a wide range of people and activities.
 
