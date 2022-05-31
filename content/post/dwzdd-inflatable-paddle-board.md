@@ -87,7 +87,17 @@ Check out what Dr Ariel Foster thinks of the Dwzdd Paddleboard in her review bel
 * Affordable paddleboard with great features and accessories
 * Simple, sleek design
 * Nice overall package
+* Great Customer Service
 
 ## Cons
 
 * Design may not be to everyone’s taste
+* No Electric Pump
+
+In terms of value for money you are getting a really good overall deal for this paddleboard from Dwzdd.
+
+This would make a really good beginners SUP or someone who was just looking to enjoy SUPing on the weekends.
+
+The paddleboard comes with all the essentials and the double action pump can deflate as well as inflate the board so you can be assured that you won’t be wasting any time.  It took 10 minutes for me to inflatate the board which is impressive at this price point!
+
+Only cons that we could find is that the design may not be to everyone’s taste.  Obviously style is a personal choice, but with a wealth of designs and brands available, we though the design was more on the functional side than the style side.  Although saying that, there is an elegance to the simplicity of the design that I like.
