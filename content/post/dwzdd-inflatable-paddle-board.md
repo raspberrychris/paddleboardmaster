@@ -20,7 +20,7 @@ In this post I will be taking a look at the [**Dwzdd Inflatable Paddle Board **]
 
 ![Dwzdd-SUP](/uploads/d22349e7-edf3-41f6-ac94-338cc0f9bac5.jpeg "Dwzdd-SUP")
 
-**By the way…** [**Dwzdd**](#) is not a typo, I haven’t just mashed the keyboard by mistake!
+**By the way…** [**Dwzdd**](#) is not a typo, I haven’t just mashed the keyboard by mistake, this is the actual brand name.
 
 [**Dwzdd**](#) are a relatively new brand to the paddleboard scene, which is why you may not heard of them yet, but their boards are quickly gaining traction and have a number of positive reviews from customers who have bought their paddleboards.
 
