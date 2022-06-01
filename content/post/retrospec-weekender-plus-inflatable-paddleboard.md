@@ -10,7 +10,7 @@ pager = true
 sidebar = ""
 tags = ["Review"]
 thumbnail = "/uploads/166e4acc-031d-446f-b487-b521e8346474.jpeg"
-title = "Retrospec weekender plus inflatable paddleboard"
+title = "Retrospec weekender plus inflatable paddleboard - The Most Portable SUP?"
 toc = true
 widgets = []
 
