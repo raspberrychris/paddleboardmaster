@@ -4,7 +4,6 @@ categories = ["Retrospec"]
 comments = true
 date = 2022-06-01T11:00:00Z
 description = "Join us as we take a look at the Retrospec Weekender Plus Inflatable Paddleboard "
-draft = true
 lead = "Ultralight board, with high quality accessories"
 mathjax = true
 pager = true
@@ -19,6 +18,8 @@ widgets = []
 In this post I will be taking a look at the Retrospec weekender plus inflatable SUP.  The Retrospec is an ultralight portable board that you can really take anywhere with you without any hassle and this is one its major selling points.
 
 Scroll down to hear more about my honest opinion of the [**Retrospec Weekender Plus Inflatable Paddleboard**](https://www.amazon.com/Retrospec-Weekender-Inflatable-Paddleboard-Adjustable/dp/B08XN58RX8?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=fb19e552969f5111bb88dfe3b939d2a3&language=en_US&ref_=as_li_ss_tl) and see how it compares to other paddleboards on the market.
+
+![Retrospec-stable-ride](/uploads/8b23e4b8-586c-46d6-9348-9eb45516fefe.jpeg "Retrospec-stable-ride")
 
 What you are getting here is an ultra portable SUP that can be stored away in a small space in the back of the car and can travel with you where ever you chose to visit on your weekends.
 
