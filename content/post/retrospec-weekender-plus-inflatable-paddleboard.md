@@ -77,15 +77,27 @@ One of the best features of this board in my opinion is that you can inflate and
 
 If you want to store your stuff on the board, you can do this with the 6 point bungee.  Its a useful way to make sure your belongings are safe and secure.
 
-* Designed for every excursion. 10' x 30" x 6" and can hold up to 275 lbs. Weighs an ultralight 17 lbs when inflated for easy transport.
-* Topped with a textured and comfortable EVA deck for secure paddling while on deck. Plus, Weekender-10' is dog-friendly!
-* Easily deflate and roll your board when not in use. When deflated and rolled, Weekender-10' measures at only 11"x36". Stash it anywhere from your Prius, your closet, to your garage.
-* Constructed from durable, ArmorStrength PVC. A tough build means tough riding. Compared to traditional SUPs, Retrospec iSUPs fare better when in contact with rocks, shoals, and any dings that occur along the way.
-* Includes everything you need to get your afloat. An adjustable lightweight paddle, carry bag, high-pressure dual action pump, removable fins, leash, and waterproof phone case.
+### Ultralight Design
+
+Designed for every excursion. 10' x 30" x 6" and can hold up to 275 lbs. Weighs an ultralight 17 lbs when inflated for easy transport.
+
+### Anti-Slip Design - Dog Friendly!
+
+Topped with a textured and comfortable EVA deck for secure paddling while on deck. Plus, Weekender-10' is dog-friendly!
+
+### East to inflate and deflate
+
+Easily deflate and roll your board when not in use. When deflated and rolled, Weekender-10' measures at only 11"x36". Stash it anywhere from your Prius, your closet, to your garage.
+
+### All the accessories you need to get started
+
+Includes everything you need to get your afloat. An adjustable lightweight paddle, carry bag, high-pressure dual action pump, removable fins, leash, and waterproof phone case.
 
 ## Verdict
 
 ### 5/5
+
+### ⭐⭐⭐⭐⭐
 
 ### Pros
 
