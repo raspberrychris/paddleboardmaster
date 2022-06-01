@@ -5,7 +5,7 @@ comments = true
 date = 2022-06-01T11:00:00Z
 description = ""
 draft = true
-lead = ""
+lead = "Ultralight board, with high quality accessories"
 mathjax = true
 pager = true
 sidebar = ""
@@ -37,7 +37,7 @@ I like the orange or “Creamsicle” color scheme.  It is a bright and fresh de
 ### What’s included in the box?
 
 * Waterproof phone case
-* 3 remova
+* 3 removable fins
 
 ## Features
 
@@ -49,8 +49,12 @@ I like the orange or “Creamsicle” color scheme.  It is a bright and fresh de
 
 ## Verdict
 
-### 3/5
+### 5/5
 
 ### Pros
+
+* One of the lightest boards at this price point
+* Easily transportable
+* High quality accessories
 
 ### Cons
