@@ -16,9 +16,9 @@ toc = true
 widgets = []
 
 +++
-In this post I will be taking a look at the Retrospec weekender plus inflatable SUP.  
+In this post I will be taking a look at the Retrospec weekender plus inflatable SUP.  The Retrospec is an ultralight portable board that you can really take anywhere with you with out any hassle and this is one its major selling points.
 
-Scroll down to hear my honest opinion of the Retrospec Weekender Plus Inflatable Paddleboard.
+Scroll down to hear more about my honest opinion of the Retrospec Weekender Plus Inflatable Paddleboard and see how it compares to other paddleboards on the market.
 
 What you are getting here is an ultra portable SUP that can be stored away in a small space in the back of the car and can travel with you where ever you chose to visit on your weekends.
 
@@ -84,3 +84,7 @@ You really do get a lot included
 ### Cons
 
 [**Click here to check out the Retrospec Weekender Plus Inflatable Paddleboard on Amazon.com…**](#)
+
+I really loved this board straight away for its bold and uncompromising design.  The bright colors look even better than the photos in real life and it is really an amazing board to have if you want to get away on the weekends and explore the world around you.
+
+The strength and durability of the materials used on the Retrospec Weekender Plus also show that it is 
