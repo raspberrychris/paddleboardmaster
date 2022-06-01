@@ -30,7 +30,11 @@ All the accessories are made to a high quality and they also have the benefit of
 
 ## Retrospec Weekender Plus Inflatable Paddleboard - Who is it for?
 
-The Retrospect SUP comes in five different colors or themes. (Creamsicle, Nautical Blue, Navy Zion, Seafoam Stripes & Wild Spruce). There really is something for everyone in terms of the design choices here, which makes it a versatile board in terms of appearance.
+The Retrospect SUP comes in five different colors or themes - with slightly adventurous names. (Creamsicle, Nautical Blue, Navy Zion, Seafoam Stripes & Wild Spruce). 
+
+There really is something for everyone in terms of the design choices here, which makes it a versatile board in terms of appearance.
+
+If you are looking for a paddleboard with a fresh, clean and vibrant design then this is probably one of the paddleboards you should be considering!
 
 The SUP designs really are quite different and it is worth having a look at each one to ensure you get the one that you like.
 
