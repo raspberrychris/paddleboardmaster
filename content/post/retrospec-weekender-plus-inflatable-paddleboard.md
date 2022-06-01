@@ -38,6 +38,10 @@ There really is something for everyone in terms of the design choices here, whic
 
 The SUP designs really are quite different and it is worth having a look at each one to ensure you get the one that you like.
 
+### Retrospec Weekender Plus Unboxing Video
+
+{{< youtube mUKr4LNpTWo >}}
+
 [**Click here to check out the Retrospec Weekender Plus Inflatable Paddleboard on Amazon.com…**](https://www.amazon.com/Retrospec-Weekender-Inflatable-Paddleboard-Adjustable/dp/B08XN58RX8?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=fb19e552969f5111bb88dfe3b939d2a3&language=en_US&ref_=as_li_ss_tl)
 
 I like the orange or “Creamsicle” color scheme.  It is a bright and fresh design, which I really love.
@@ -58,6 +62,8 @@ You really do get a lot included with this SUP which means that you will have ev
 * 3 Piece adjustable paddle
 * Dual action Pump
 * Rucksack
+
+![Retrospec-accessories](/uploads/80754521-2a62-4271-bccb-7b1396666a49.jpeg "Retrospec-accessories")
 
 ## Features
 
