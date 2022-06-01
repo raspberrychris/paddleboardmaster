@@ -59,9 +59,11 @@ You really do get a lot included
 
 ### Durable Materials
 
+The Retrospec is made out of really durable materials including dual layer PVC, which ensures a smooth and steady ride on the SUP.
+
 ### Textured Deck Pad
 
-The textured deck pad means that this SUP is perfect for activities such as Yoga or bringing your Pet on the paddleboard.  The anti-slip surface
+The textured deck pad means that this SUP is perfect for activities such as Yoga or bringing your Pet on the paddleboard.  The anti-slip surface is also useful for embarking and disembarking from the paddleboard.
 
 ### Easy to Inflate
 
