@@ -16,13 +16,15 @@ toc = true
 widgets = []
 
 +++
-In this post I will be taking a look at the Retrospec weekender plus inflatable SUP.
+In this post I will be taking a look at the Retrospec weekender plus inflatable SUP.  
+
+Scroll down to hear my honest opinion of the Retrospec Weekender Plus Inflatable Paddleboard.
 
 What you are getting here is an ultra portable SUP that can be stored away in a small space in the back of the car and can travel with you where ever you chose to visit on your weekends.
 
-The double layer PVC design means this is a strong board that will withstand most knocks and you can be safe in the knowledge that this is a secure SUP that won’t let you down!
+The double layer PVC design means this is a strong board that will withstand most knocks and you can be safe in the knowledge that this is a secure SUP that won’t let you down when you come into contact with the rocky shores.
 
-It also comes with a dual action pump and a 3 part paddle  which can be dismantled. 
+It also comes with a dual action pump and a 3 part paddle  which can be dismantled.
 
 All the accessories are made to a high quality and they also have the benefit of being easily transportable.
 
@@ -36,11 +38,15 @@ The SUP designs really are quite different and it is worth having a look at each
 
 I like the orange or “Creamsicle” color scheme.  It is a bright and fresh design, which I really love.
 
-As the name suggests I think this is the perfect SUP for your weekends, it weighs an mere 17 lbs and supports a maximum weight of 275 lbs.  
+As the name suggests I think this is the perfect SUP for your weekends, it weighs an mere 17 lbs and supports a maximum weight of 275 lbs.
+
+### Is this SUP suitable for beginners?
+
+Yes, the Retrospec weekender Plus Inflatable Paddleboard is suitable for both beginners and serious seafarers.
 
 ### What’s included in the box?
 
-You really do get a lot included 
+You really do get a lot included
 
 * Waterproof phone case
 * 3 removable fins
