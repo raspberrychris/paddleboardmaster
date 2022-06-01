@@ -34,7 +34,7 @@ The Retrospect SUP comes in five different colors or themes - with slightly adve
 
 There really is something for everyone in terms of the design choices here, which makes it a versatile board in terms of appearance.
 
-If you are looking for a paddleboard with a fresh, clean and vibrant design then this is probably one of the paddleboards you should be considering!
+> If you are looking for a paddleboard with a fresh, clean and vibrant design then this is probably one of the paddleboards you should be considering!
 
 The SUP designs really are quite different and it is worth having a look at each one to ensure you get the one that you like.
 
