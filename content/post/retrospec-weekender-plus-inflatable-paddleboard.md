@@ -46,7 +46,7 @@ Yes, the Retrospec weekender Plus Inflatable Paddleboard is suitable for both be
 
 ### What’s included in the box?
 
-You really do get a lot included
+You really do get a lot included with this SUP which means that you will have everything you need to get started paddleboarding.  If you are looking for a board that it is quick to get started on then you will love this paddleboard from Retrospec.
 
 * Waterproof phone case
 * 3 removable fins
