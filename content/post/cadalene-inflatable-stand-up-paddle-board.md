@@ -16,13 +16,15 @@ toc = true
 widgets = []
 
 +++
-In this post we will be taking a look at the Cadalene inflatable Stand up Paddleboard.
+In this post we will be taking a look at the Cadalene inflatable Stand up Paddleboard.  This great looking board 
 
 This SUP comes with a load of accessories and for the price point is competitive with boards of twice is price.
 
 ## Cadalene Inflatable Paddleboard - Who is it For?
 
 If you are looking for a high quality board that doesn’t break the bank then the Cadalene Inflatable SUP may be the paddleboard that you are looking for.
+
+The great thing about this board is that it comes with everything you need to get started and is very easy to inflate and deflate.
 
 ## Features
 
@@ -32,11 +34,9 @@ Ergonomic cushioning for everyone】Inflatable surfboards have advantages in red
 
 Applicable to different environments】Inflatable paddleboards are great fun and a beach essentials when touring with pets and kids. We recommend inflating the board to a pressure of 13 psi up to a maximum of 15 psi for use in different environments such as ocean, lake, ponds, salt water and pool
 
-* 
+Comprehensive guarantee of quality service】Inflatable surfboard has complete accessories, and the detachable fin device provides greater traction, overall speed and control to ensure the stability of snorkeling in the seas. In addition, we provide one-year warranty service
 
-  Comprehensive guarantee of quality service】Inflatable surfboard has complete accessories, and the detachable fin device provides greater traction, overall speed and control to ensure the stability of snorkeling in the seas. In addition, we provide one-year warranty service
-
-  Extra wide and detailed description】Stand-up paddle board dimensions are 10' long by 33” wide and 6” thick with a weight limit of 264 pounds. Package contains 1 isup inflatable paddle board, 1 adjustable paddle,1 removable fin, 1 hand pump, 1 backpack, 1 leash.
+Extra wide and detailed description】Stand-up paddle board dimensions are 10' long by 33” wide and 6” thick with a weight limit of 264 pounds. Package contains 1 isup inflatable paddle board, 1 adjustable paddle,1 removable fin, 1 hand pump, 1 backpack, 1 leash.
 
 ## Verdict
 
@@ -46,6 +46,6 @@ Applicable to different environments】Inflatable paddleboards are great fun and
 
 ### **Pros**
 
-High Quality SUP that punches above its weight
+* High Quality SUP that punches above its weight
 
 ### **Cons**
