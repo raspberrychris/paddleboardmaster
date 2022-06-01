@@ -18,7 +18,7 @@ widgets = []
 +++
 In this post I will be taking a look at the Retrospec weekender plus inflatable SUP.  The Retrospec is an ultralight portable board that you can really take anywhere with you without any hassle and this is one its major selling points.
 
-Scroll down to hear more about my honest opinion of the [**Retrospec Weekender Plus Inflatable Paddleboard**](#) and see how it compares to other paddleboards on the market.
+Scroll down to hear more about my honest opinion of the [**Retrospec Weekender Plus Inflatable Paddleboard**](https://www.amazon.com/Retrospec-Weekender-Inflatable-Paddleboard-Adjustable/dp/B08XN58RX8?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=fb19e552969f5111bb88dfe3b939d2a3&language=en_US&ref_=as_li_ss_tl) and see how it compares to other paddleboards on the market.
 
 What you are getting here is an ultra portable SUP that can be stored away in a small space in the back of the car and can travel with you where ever you chose to visit on your weekends.
 
@@ -38,7 +38,7 @@ There really is something for everyone in terms of the design choices here, whic
 
 The SUP designs really are quite different and it is worth having a look at each one to ensure you get the one that you like.
 
-[**Click here to check out the Retrospec Weekender Plus Inflatable Paddleboard on Amazon.com…**](#)
+[**Click here to check out the Retrospec Weekender Plus Inflatable Paddleboard on Amazon.com…**](https://www.amazon.com/Retrospec-Weekender-Inflatable-Paddleboard-Adjustable/dp/B08XN58RX8?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=fb19e552969f5111bb88dfe3b939d2a3&language=en_US&ref_=as_li_ss_tl)
 
 I like the orange or “Creamsicle” color scheme.  It is a bright and fresh design, which I really love.
 
@@ -119,4 +119,4 @@ The only con of this board as I can see it is that there are more affordable boa
 
 One of the main reasons for buying this SUP would be if you wanted an ultralight board that was tough enough to withstand blows against rocky shores
 
-[**Click here to check out the Retrospec Weekender Plus Inflatable Paddleboard on Amazon.com…**](#)
+[**Click here to check out the Retrospec Weekender Plus Inflatable Paddleboard on Amazon.com…**](https://www.amazon.com/Retrospec-Weekender-Inflatable-Paddleboard-Adjustable/dp/B08XN58RX8?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=fb19e552969f5111bb88dfe3b939d2a3&language=en_US&ref_=as_li_ss_tl)
