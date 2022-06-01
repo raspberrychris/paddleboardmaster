@@ -123,6 +123,8 @@ The strength and durability of the materials used on the Retrospec Weekender Plu
 
 The only con of this board as I can see it is that there are more affordable boards available that will have similar performance at this level.
 
-One of the main reasons for buying this SUP would be if you wanted an ultralight board that was tough enough to withstand blows against rocky shores
+One of the main reasons for buying this SUP would be if you wanted an ultralight board that was tough enough to withstand blows against rocky shores.
+
+Overall it is hard to see to many negatives in such an excellent SUP.  If you are a beginner or seasoned paddleboarder then there is something for everyone in this particular paddleboard from Retrospec.
 
 [**Click here to check out the Retrospec Weekender Plus Inflatable Paddleboard on Amazon.com…**](https://www.amazon.com/Retrospec-Weekender-Inflatable-Paddleboard-Adjustable/dp/B08XN58RX8?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=fb19e552969f5111bb88dfe3b939d2a3&language=en_US&ref_=as_li_ss_tl)
