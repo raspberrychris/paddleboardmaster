@@ -3,7 +3,7 @@ authorbox = true
 categories = ["Retrospec"]
 comments = true
 date = 2022-06-01T11:00:00Z
-description = ""
+description = "Join us as we take a look at the Retrospec Weekender Plus Inflatable Paddleboard "
 draft = true
 lead = "Ultralight board, with high quality accessories"
 mathjax = true
@@ -76,3 +76,5 @@ You really do get a lot included
 * High quality accessories
 
 ### Cons
+
+[**Click here to check out the Retrospec Weekender Plus Inflatable Paddleboard on Amazon.com…**](#)
