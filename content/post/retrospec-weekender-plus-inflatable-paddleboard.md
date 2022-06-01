@@ -80,11 +80,15 @@ You really do get a lot included
 * One of the lightest boards at this price point
 * Easily transportable
 * High quality accessories
+* Tough enough for Dogs
+* Suitable for the whole family
 
 ### Cons
 
-[**Click here to check out the Retrospec Weekender Plus Inflatable Paddleboard on Amazon.com…**](#)
+* Not the most affordable SUP out there
 
 I really loved this board straight away for its bold and uncompromising design.  The bright colors look even better than the photos in real life and it is really an amazing board to have if you want to get away on the weekends and explore the world around you.
 
 The strength and durability of the materials used on the Retrospec Weekender Plus also show that it is 
+
+[**Click here to check out the Retrospec Weekender Plus Inflatable Paddleboard on Amazon.com…**](#)
