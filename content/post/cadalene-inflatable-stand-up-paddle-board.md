@@ -5,7 +5,7 @@ comments = true
 date = 2022-05-31T11:00:00Z
 description = ""
 draft = true
-lead = ""
+lead = "Is this one of the best all round SUPs?"
 mathjax = true
 pager = true
 sidebar = ""
@@ -18,7 +18,11 @@ widgets = []
 +++
 In this post we will be taking a look at the Cadalene inflatable Stand up Paddleboard.
 
+This SUP comes with a load of accessories and for the price point is competitive with boards of twice is price.
+
 ## Cadalene Inflatable Paddleboard - Who is it For?
+
+If you are looking for a high quality board that doesn’t break the bank then the Cadalene Inflatable SUP may be the paddleboard that you are looking for.
 
 ## Features
 
@@ -36,10 +40,12 @@ Applicable to different environments】Inflatable paddleboards are great fun and
 
 ## Verdict
 
-### 4/5
+### 5/5
 
-### ⭐⭐⭐⭐
+### ⭐⭐⭐⭐⭐
 
 ### **Pros**
+
+High Quality SUP that punches above its weight
 
 ### **Cons**
