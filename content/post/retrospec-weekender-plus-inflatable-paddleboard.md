@@ -51,6 +51,14 @@ You really do get a lot included
 
 ## Features
 
+### Durable Materials
+
+### Textured Deck Pad
+
+### Easy to Inflate
+
+### 6-Point Front Bungee
+
 * Designed for every excursion. 10' x 30" x 6" and can hold up to 275 lbs. Weighs an ultralight 17 lbs when inflated for easy transport.
 * Topped with a textured and comfortable EVA deck for secure paddling while on deck. Plus, Weekender-10' is dog-friendly!
 * Easily deflate and roll your board when not in use. When deflated and rolled, Weekender-10' measures at only 11"x36". Stash it anywhere from your Prius, your closet, to your garage.
