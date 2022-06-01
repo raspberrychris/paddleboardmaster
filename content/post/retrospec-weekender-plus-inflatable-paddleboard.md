@@ -16,7 +16,7 @@ toc = true
 widgets = []
 
 +++
-In this post I will be taking a look at the Retrospec weekender plus inflatable SUP.  The Retrospec is an ultralight portable board that you can really take anywhere with you with out any hassle and this is one its major selling points.
+In this post I will be taking a look at the Retrospec weekender plus inflatable SUP.  The Retrospec is an ultralight portable board that you can really take anywhere with you without any hassle and this is one its major selling points.
 
 Scroll down to hear more about my honest opinion of the [**Retrospec Weekender Plus Inflatable Paddleboard**](#) and see how it compares to other paddleboards on the market.
 
@@ -30,7 +30,7 @@ All the accessories are made to a high quality and they also have the benefit of
 
 ## Retrospec Weekender Plus Inflatable Paddleboard - Who is it for?
 
-The Retrospect SUP comes in five different colors or themes - with slightly adventurous names. (Creamsicle, Nautical Blue, Navy Zion, Seafoam Stripes & Wild Spruce). 
+The Retrospect SUP comes in five different colors or themes - with slightly adventurous names. (Creamsicle, Nautical Blue, Navy Zion, Seafoam Stripes & Wild Spruce).
 
 There really is something for everyone in terms of the design choices here, which makes it a versatile board in terms of appearance.
 
@@ -113,10 +113,10 @@ Includes everything you need to get your afloat. An adjustable lightweight paddl
 
 I really loved this board straight away for its bold and uncompromising design.  The bright colors look even better than the photos in real life and it is really an amazing board to have if you want to get away on the weekends and explore the world around you.
 
-The strength and durability of the materials used on the Retrospec Weekender Plus also show that it is 
+The strength and durability of the materials used on the Retrospec Weekender Plus also show that it is
 
 The only con of this board as I can see it is that there are more affordable boards available that will have similar performance at this level.
 
-One of the main reasons for buying this SUP would be if you wanted an ultralight board that was tough enough to withstand blows against rocky shores 
+One of the main reasons for buying this SUP would be if you wanted an ultralight board that was tough enough to withstand blows against rocky shores
 
 [**Click here to check out the Retrospec Weekender Plus Inflatable Paddleboard on Amazon.com…**](#)
