@@ -16,7 +16,11 @@ toc = true
 widgets = []
 
 +++
-In this post we will be taking a look at the Cadalene inflatable Stand up Paddleboard.  This great looking board
+In this post I will be taking a look at the [**Cadalene inflatable Stand up Paddleboard**](#).  This great looking board that comes in a variety of different sizes and colors.
+
+If you want a smaller or bigger board there is an option to get a 10.7ft version in yellow, or if you want something smaller there is a 9.8ft blue version available.
+
+The SUP that we have decided to review is the black 10ft version.  
 
 This SUP comes with a load of accessories and for the price point is competitive with boards of twice is price.
 
@@ -37,9 +41,13 @@ The Cadalene Inflatable Paddleboard is suitable for a number of different activi
 
 ## Features
 
-High quality material all-around board】 Inflatable paddle is made of special materials. It can be collapsible in the backpack after deflation and is portable to carry. It is durable, light, easy to enter the river. It is the first choice for surfing, fishing, travel and other leisure activities.Loved by youth and adults
+### High quality materials
 
-Ergonomic cushioning for everyone】Inflatable surfboards have advantages in reducing fatigue and injury. Relaxe the feet to make body more comfortable and not too painful to fall. Not only boards for adults, but also suitable for kids, beginners ，teens and junior players.
+Inflatable paddle is made of special materials. It can be collapsible in the backpack after deflation and is portable to carry. It is durable, light, easy to enter the river. It is the first choice for surfing, fishing, travel and other leisure activities.Loved by youth and adults
+
+### Ergonomic cushioning for everyone
+
+Inflatable surfboards have advantages in reducing fatigue and injury. Relax the feet to make body more comfortable and not too painful to fall. Not only boards for adults, but also suitable for kids, beginners, teens and junior players.
 
 Applicable to different environments】Inflatable paddleboards are great fun and a beach essentials when touring with pets and kids. We recommend inflating the board to a pressure of 13 psi up to a maximum of 15 psi for use in different environments such as ocean, lake, ponds, salt water and pool
 
