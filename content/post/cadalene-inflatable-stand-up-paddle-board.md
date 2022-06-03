@@ -16,7 +16,7 @@ toc = true
 widgets = []
 
 +++
-In this post we will be taking a look at the Cadalene inflatable Stand up Paddleboard.  This great looking board 
+In this post we will be taking a look at the Cadalene inflatable Stand up Paddleboard.  This great looking board
 
 This SUP comes with a load of accessories and for the price point is competitive with boards of twice is price.
 
@@ -25,6 +25,15 @@ This SUP comes with a load of accessories and for the price point is competitive
 If you are looking for a high quality board that doesn’t break the bank then the Cadalene Inflatable SUP may be the paddleboard that you are looking for.
 
 The great thing about this board is that it comes with everything you need to get started and is very easy to inflate and deflate.
+
+## What activities is it suitable for?
+
+The Cadalene Inflatable Paddleboard is suitable for a number of different activities, the recommended activities suggested by the manufacturer are listed below.
+
+* Yoga
+* Exploring
+* Fishing
+* Touring
 
 ## Features
 
