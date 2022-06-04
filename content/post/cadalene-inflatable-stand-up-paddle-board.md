@@ -20,15 +20,19 @@ In this post I will be taking a look at the [**Cadalene inflatable Stand up Padd
 
 If you want a smaller or bigger board there is an option to get a 10.7ft version in yellow, or if you want something smaller there is a 9.8ft blue version available.
 
-The SUP that we have decided to review is the black 10ft version.  
+The SUP that we have decided to review is the black 10ft version.
 
-This SUP comes with a load of accessories and for the price point is competitive with boards of twice is price.
+This SUP comes with a lot of accessories and for the price point is competitive with boards of twice is price.
 
 ## Cadalene Inflatable Paddleboard - Who is it For?
 
 If you are looking for a high quality board that doesn’t break the bank then the Cadalene Inflatable SUP may be the paddleboard that you are looking for.
 
 The great thing about this board is that it comes with everything you need to get started and is very easy to inflate and deflate.
+
+### Unboxing Video of the Cadalene Inflatable SUP 10.7ft 
+
+{{< youtube W3EKN1Jp7lE }}>
 
 ## What activities is it suitable for?
 
