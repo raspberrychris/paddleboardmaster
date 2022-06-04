@@ -16,7 +16,9 @@ toc = true
 widgets = []
 
 +++
-In this post I will be taking a look at the [**Cadalene inflatable Stand up Paddleboard**](#).  This great looking board that comes in a variety of different sizes and colors.
+In this post I will be taking a look at the [**Cadalene inflatable Stand up Paddleboard**](#).  
+
+This great looking board that comes in a variety of different sizes and colors.
 
 If you want a smaller or bigger board there is an option to get a 10.7ft version in yellow, or if you want something smaller there is a 9.8ft blue version available.
 
@@ -59,7 +61,14 @@ Applicable to different environments】Inflatable paddleboards are great fun and
 
 Comprehensive guarantee of quality service】Inflatable surfboard has complete accessories, and the detachable fin device provides greater traction, overall speed and control to ensure the stability of snorkeling in the seas. In addition, we provide one-year warranty service
 
-Extra wide and detailed description】Stand-up paddle board dimensions are 10' long by 33” wide and 6” thick with a weight limit of 264 pounds. Package contains 1 isup inflatable paddle board, 1 adjustable paddle,1 removable fin, 1 hand pump, 1 backpack, 1 leash.
+### Lots of Accessories
+
+* Adjustable aluminum paddle:between 68 and 82 inches
+* Manual air pump
+* Removable fins
+* Coil safety belt
+* Backpack
+* Repair Kit
 
 ## Verdict
 
@@ -70,5 +79,7 @@ Extra wide and detailed description】Stand-up paddle board dimensions are 10' l
 ### **Pros**
 
 * High Quality SUP that punches above its weight
+* Light and Portable board 
+* Suitable for Beginners and Experts alike
 
 ### **Cons**
