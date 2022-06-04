@@ -32,7 +32,7 @@ The great thing about this board is that it comes with everything you need to ge
 
 ### Unboxing Video of the Cadalene Inflatable SUP 10.7ft 
 
-{{< youtube W3EKN1Jp7lE }}>
+{{< youtube W3EKN1Jp7lE >}}
 
 ## What activities is it suitable for?
 
