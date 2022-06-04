@@ -51,17 +51,17 @@ The Cadalene Inflatable Paddleboard is suitable for a number of different activi
 
 ## Features
 
+![Board-features-cadalene](/uploads/557050ba-0d2e-409f-943c-8207c30f8241.jpeg "Board-features-cadalene")
+
 ### High quality materials
 
 Inflatable paddle is made of special materials. It can be collapsible in the backpack after deflation and is portable to carry. It is durable, light, easy to enter the river. It is the first choice for surfing, fishing, travel and other leisure activities.Loved by youth and adults
 
 ### Ergonomic cushioning for everyone
 
-Inflatable surfboards have advantages in reducing fatigue and injury. Relax the feet to make body more comfortable and not too painful to fall. Not only boards for adults, but also suitable for kids, beginners, teens and junior players.
+The Cadalene Inflatable Stand Up Paddleboard is suitable for a wide range of people and is suitable for kids and pets.  
 
-Applicable to different environments】Inflatable paddleboards are great fun and a beach essentials when touring with pets and kids. We recommend inflating the board to a pressure of 13 psi up to a maximum of 15 psi for use in different environments such as ocean, lake, ponds, salt water and pool
-
-Comprehensive guarantee of quality service】Inflatable surfboard has complete accessories, and the detachable fin device provides greater traction, overall speed and control to ensure the stability of snorkeling in the seas. In addition, we provide one-year warranty service
+The board has a recommended pressure of 13-15 PSI and can be used on many different water types.
 
 ### Lots of Accessories
 
@@ -80,8 +80,13 @@ Comprehensive guarantee of quality service】Inflatable surfboard has complete a
 
 ### **Pros**
 
+* Easy to setup and easy to use
 * High Quality SUP that punches above its weight
 * Light and Portable board
 * Suitable for Beginners and Experts alike
 
 ### **Cons**
+
+The Cadalene Inflatable SUP is one of the easiest paddleboards we have found to get going with.
+
+Its ease of use, ease of setup and the fact that it comes with all the essentials 
