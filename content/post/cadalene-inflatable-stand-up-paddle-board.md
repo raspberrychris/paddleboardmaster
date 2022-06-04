@@ -63,13 +63,19 @@ The Cadalene Inflatable Stand Up Paddleboard is suitable for a wide range of peo
 
 The board has a recommended pressure of 13-15 PSI and can be used on many different water types.
 
+### Wide and Stable Paddleboard
+
+Non-slip handles and bottom fins ensure stable sliding
+
 ### Lots of Accessories
 
-* Adjustable aluminum paddle:between 68 and 82 inches
+* Adjustable aluminum paddle: 68 to 82 inches
 * Manual air pump
 * Removable fins
 * Coil safety belt
-* Backpack
+* Safety Leash
+* Grab Handle
+* Backpack (L x W x H is 18 x 8.7 x 35 inches)
 * Repair Kit
 
 ## Verdict
