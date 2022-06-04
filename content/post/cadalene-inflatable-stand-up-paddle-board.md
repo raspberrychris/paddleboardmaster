@@ -16,7 +16,7 @@ toc = true
 widgets = []
 
 +++
-In this post I will be taking a look at the [**Cadalene inflatable Stand up Paddleboard**](#).  
+In this post I will be taking a look at the [**Cadalene inflatable Stand up Paddleboard**](#).
 
 This great looking board that comes in a variety of different sizes and colors.
 
@@ -32,11 +32,13 @@ If you are looking for a high quality board that doesn’t break the bank then t
 
 The great thing about this board is that it comes with everything you need to get started and is very easy to inflate and deflate.
 
-### Unboxing Video of the Cadalene Inflatable SUP 10.7ft 
+### Unboxing Video of the Cadalene Inflatable SUP 10.7ft
 
 Check out this video review of the Cadalene Inflatable SUP (10.7ft yellow version).
 
 {{< youtube W3EKN1Jp7lE >}}
+
+[**Click here to check out the Cadalene Inflatable SUP on Amazon.com…**](#)
 
 ## What activities is it suitable for?
 
@@ -79,7 +81,7 @@ Comprehensive guarantee of quality service】Inflatable surfboard has complete a
 ### **Pros**
 
 * High Quality SUP that punches above its weight
-* Light and Portable board 
+* Light and Portable board
 * Suitable for Beginners and Experts alike
 
 ### **Cons**
