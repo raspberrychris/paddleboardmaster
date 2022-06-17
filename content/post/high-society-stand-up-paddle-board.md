@@ -16,7 +16,7 @@ toc = false
 widgets = []
 
 +++
-In this blog we will be taking a look at the High Society Inflatable Stand Up Paddle Board  We will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition.
+In this blog we will be taking a look at the [**High Society Inflatable Stand Up Paddle Board**](#)  We will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition.
 
 ## High Society Inflatable Stand Up Paddle Board - Who is it for?
 
