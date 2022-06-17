@@ -3,7 +3,7 @@ authorbox = true
 categories = ["Cadalene"]
 comments = true
 date = 2022-05-31T11:00:00Z
-description = ""
+description = "Check out our full review of the Cadalene Inflatable Stand Up Paddle Board."
 draft = true
 lead = "Is this one of the best all round SUPs?"
 mathjax = true
@@ -26,17 +26,17 @@ The SUP that we have decided to review is the black 10ft version.
 
 This SUP comes with a lot of accessories and for the price point is competitive with boards of twice is price.
 
-Scroll down to find out exactly what we think of the Cadalene Inflatable Stand Up Paddleboard and how it compares against the competition…
+Scroll down the page to find out exactly what we think of the Cadalene Inflatable Stand Up Paddleboard and how it compares against the competition…
 
 ## Cadalene Inflatable Paddleboard - Who is it For?
 
-If you are looking for a high quality board that doesn’t break the bank then the Cadalene Inflatable SUP may be the paddleboard that you are looking for.
+If you are looking for a high quality SUP that doesn’t break the bank then the Cadalene Inflatable SUP may be the paddleboard that you are looking for.
 
 The great thing about this board is that it comes with everything you need to get started and is very easy to inflate and deflate.
 
 ### Unboxing Video of the Cadalene Inflatable SUP 10.7ft
 
-Check out this video review of the Cadalene Inflatable SUP (10.7ft yellow version).
+Want to see it in action? Take a quick look at this SUP below.  Check out this video review of the Cadalene Inflatable SUP (10.7ft yellow version).
 
 {{< youtube W3EKN1Jp7lE >}}
 
@@ -95,6 +95,15 @@ Non-slip handles and bottom fins ensure stable sliding
 
 ### **Cons**
 
-The Cadalene Inflatable SUP is one of the easiest paddleboards we have found to get going with.
+* The Cadalene Inflatable SUP is one of the easiest paddleboards we have found to get going with.
+* Its ease of use, ease of setup and the fact that it comes with all the essentials
 
-Its ease of use, ease of setup and the fact that it comes with all the essentials
+If you are after a SUP that is super easy to get started with and comes with all the accessories included and is one of the most light and portable SUPs out there, then we think you will like this board.  It is why we gave it 5 stars.
+
+The [**Cadalene**](#) is great for beginners and experts alike and  is made of high quality materials.
+
+I really like the design of the board as well it is the right balance of minimalism with functional design as well.
+
+I think the only improvement that I could suggest would be if it came with an electric pump.  Other than that this is a fantastic all rounder that isn’t going to break the bank (…or your back carrying it, as it is so light)!
+
+[**Click here to check out the Caldalene Inflatable Stand Up Paddleboard on Amazon.com…**](#)
