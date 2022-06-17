@@ -16,7 +16,7 @@ toc = false
 widgets = []
 
 +++
-Welcome to this article today I will be taking a look at the Aqua Plus Inflatable SUP paddleboard. Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
+Welcome to this article today I will be taking a look at the [**Aqua Plus Inflatable SUP paddleboard.**](#) Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
 
 # Aqua Plus Inflatable SUP - Who is it for?
 
