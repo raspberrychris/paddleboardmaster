@@ -38,4 +38,4 @@ Welcome to this review today on paddleboardmaster.com.  Today I will be taking a
 
 ## Cons
 
-**Click here to check out the UICE Inflatable Stand Up Paddle Board on Amazon.com...**
+[**Click here to check out the UICE Inflatable Stand Up Paddle Board on Amazon.com...**](#)
