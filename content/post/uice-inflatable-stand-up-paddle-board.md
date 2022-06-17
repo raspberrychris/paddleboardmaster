@@ -2,7 +2,7 @@
 authorbox = false
 categories = []
 comments = false
-date = ""
+date = 2022-06-16T23:00:00Z
 description = "Join us as we review the UICE Inflatable Stand Up Paddle Board  and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
 draft = true
 lead = ""
