@@ -3,7 +3,7 @@ authorbox = false
 categories = []
 comments = false
 date = ""
-description = ""
+description = "Join us as we review the UICE Inflatable Stand Up Paddle Board  and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
 draft = true
 lead = ""
 mathjax = false
@@ -18,7 +18,7 @@ widgets = []
 +++
 Welcome to this review today on paddleboardmaster.com.  Today I will be taking a look at the **UICE Inflatable Stand Up Paddle Board** . Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
 
-Let’s get into this!
+**Let’s get into this!**
 
 ## UICE Inflatable Stand Up Paddle Board - Who is it for?
 
