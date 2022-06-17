@@ -26,6 +26,8 @@ The SUP that we have decided to review is the black 10ft version.
 
 This SUP comes with a lot of accessories and for the price point is competitive with boards of twice is price.
 
+Scroll down to find out exactly what we think of the Cadalene Inflatable Stand Up Paddleboard and how it compares against the competition…
+
 ## Cadalene Inflatable Paddleboard - Who is it For?
 
 If you are looking for a high quality board that doesn’t break the bank then the Cadalene Inflatable SUP may be the paddleboard that you are looking for.
@@ -59,7 +61,7 @@ Inflatable paddle is made of special materials. It can be collapsible in the bac
 
 ### Ergonomic cushioning for everyone
 
-The Cadalene Inflatable Stand Up Paddleboard is suitable for a wide range of people and is suitable for kids and pets.  
+The Cadalene Inflatable Stand Up Paddleboard is suitable for a wide range of people and is suitable for kids and pets.
 
 The board has a recommended pressure of 13-15 PSI and can be used on many different water types.
 
@@ -95,4 +97,4 @@ Non-slip handles and bottom fins ensure stable sliding
 
 The Cadalene Inflatable SUP is one of the easiest paddleboards we have found to get going with.
 
-Its ease of use, ease of setup and the fact that it comes with all the essentials 
+Its ease of use, ease of setup and the fact that it comes with all the essentials
