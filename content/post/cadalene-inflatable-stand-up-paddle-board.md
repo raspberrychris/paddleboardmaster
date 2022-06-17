@@ -4,7 +4,6 @@ categories = ["Cadalene"]
 comments = true
 date = 2022-05-31T11:00:00Z
 description = "Check out our full review of the Cadalene Inflatable Stand Up Paddle Board."
-draft = true
 lead = "Is this one of the best all round SUPs?"
 mathjax = true
 pager = true
@@ -16,7 +15,7 @@ toc = true
 widgets = []
 
 +++
-In this post I will be taking a look at the [**Cadalene inflatable Stand up Paddleboard**](#).
+In this post I will be taking a look at the [**Cadalene inflatable Stand up Paddleboard**](https://www.amazon.com/CADALENE-Inflatable-Accessories-Backpack-Non-Slip/dp/B09JZCDTLM?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=c5afb6bf8a52bf26d7830bd1bc48ded6&language=en_US&ref_=as_li_ss_tl).
 
 This great looking board that comes in a variety of different sizes and colors.
 
@@ -40,7 +39,7 @@ Want to see it in action? Take a quick look at this SUP below.  Check out this v
 
 {{< youtube W3EKN1Jp7lE >}}
 
-[**Click here to check out the Cadalene Inflatable SUP on Amazon.com…**](#)
+[**Click here to check out the Cadalene Inflatable SUP on Amazon.com…**](https://www.amazon.com/CADALENE-Inflatable-Accessories-Backpack-Non-Slip/dp/B09JZCDTLM?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=c5afb6bf8a52bf26d7830bd1bc48ded6&language=en_US&ref_=as_li_ss_tl)
 
 ## What activities is it suitable for?
 
@@ -100,10 +99,10 @@ Non-slip handles and bottom fins ensure stable sliding
 
 If you are after a SUP that is super easy to get started with and comes with all the accessories included and is one of the most light and portable SUPs out there, then we think you will like this board.  It is why we gave it 5 stars.
 
-The [**Cadalene**](#) is great for beginners and experts alike and  is made of high quality materials.
+The [**Cadalene**](/categories/cadalene/) is great for beginners and experts alike and  is made of high quality materials.
 
 I really like the design of the board as well it is the right balance of minimalism with functional design as well.
 
 I think the only improvement that I could suggest would be if it came with an electric pump.  Other than that this is a fantastic all rounder that isn’t going to break the bank (…or your back carrying it, as it is so light)!
 
-[**Click here to check out the Caldalene Inflatable Stand Up Paddleboard on Amazon.com…**](#)
+[**Click here to check out the Caldalene Inflatable Stand Up Paddleboard on Amazon.com…**](https://www.amazon.com/CADALENE-Inflatable-Accessories-Backpack-Non-Slip/dp/B09JZCDTLM?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=c5afb6bf8a52bf26d7830bd1bc48ded6&language=en_US&ref_=as_li_ss_tl)
