@@ -20,7 +20,7 @@ In this blog we will be taking a look at the [**High Society Inflatable Stand Up
 
 ## High Society Inflatable Stand Up Paddle Board - Who is it for?
 
-If you are looking for something that is a bit special then you may be interested in the High Society stand up paddleboard.
+If you are looking for something that is a bit special, that has a more unique design then you may be interested in the **High Society** stand up paddleboard.
 
 This SUP’s great design is actually designed by local artists, which makes these boards pretty special.
 
