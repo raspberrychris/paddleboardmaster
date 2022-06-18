@@ -1,18 +1,18 @@
 +++
-authorbox = false
-categories = ["Review"]
-comments = false
+authorbox = true
+categories = ["Aqua Plus"]
+comments = true
 date = 2022-06-16T23:00:00Z
 description = "Join us as we review the Aqua Plus Inflatable SUP and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
 draft = true
 lead = ""
-mathjax = false
-pager = false
+mathjax = true
+pager = true
 sidebar = ""
-tags = []
+tags = ["Review"]
 thumbnail = ""
 title = "Aqua Plus Inflatable SUP"
-toc = false
+toc = true
 widgets = []
 
 +++
