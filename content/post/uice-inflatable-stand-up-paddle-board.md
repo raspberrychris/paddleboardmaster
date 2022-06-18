@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = []
+categories = ["Uice"]
 comments = false
 date = 2022-06-16T23:00:00Z
 description = "Join us as we review the UICE Inflatable Stand Up Paddle Board  and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
@@ -9,7 +9,7 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = ["Review"]
 thumbnail = "/uploads/1de8239e-ff69-48bb-81b5-cdb0b2ae1550.png"
 title = "UICE Inflatable Stand Up Paddle Board "
 toc = false
