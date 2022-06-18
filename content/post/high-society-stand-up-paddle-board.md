@@ -1,18 +1,18 @@
 +++
-authorbox = false
-categories = ["Review"]
-comments = false
+authorbox = true
+categories = ["High Society"]
+comments = true
 date = 2022-06-16T23:00:00Z
 description = "Join us as we review the High Society Stand Up Paddle Board and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
 draft = true
 lead = ""
-mathjax = false
-pager = false
+mathjax = true
+pager = true
 sidebar = ""
-tags = []
-thumbnail = ""
+tags = ["Review"]
+thumbnail = "/uploads/0e64f8eb-d11f-4a1a-813b-9e9a6bc51a0d.png"
 title = "High Society Stand Up Paddle Board"
-toc = false
+toc = true
 widgets = []
 
 +++
