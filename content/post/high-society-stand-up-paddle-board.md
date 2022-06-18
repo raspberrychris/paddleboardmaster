@@ -20,6 +20,12 @@ In this blog we will be taking a look at the [**High Society Inflatable Stand Up
 
 ## High Society Inflatable Stand Up Paddle Board - Who is it for?
 
+If you are looking for something that is a bit special then you may be interested in the High Society stand up paddleboard.
+
+This SUP’s great design is actually designed by local artists, which makes these boards pretty special.
+
+This SUP’s look was designed by Robert Maestas.
+
 The High Society paddle board is perfect for beginners or experienced riders who want a board for all conditions. It comes packed in an easy to carry backpack and inflates to 10’6” x 32” x 6” - which is more than enough room to sit comfortably for yoga, bring your dog, and even pack a cooler for drinks!
 
 ## Unboxing Video of High Society Inflatable Stand Up Paddle Board
