@@ -20,11 +20,20 @@ In this blog we will be taking a look at the [**High Society Inflatable Stand Up
 
 ## High Society Inflatable Stand Up Paddle Board - Who is it for?
 
+The High Society paddle board is perfect for beginners or experienced riders who want a board for all conditions. It comes packed in an easy to carry backpack and inflates to 10’6” x 32” x 6” - which is more than enough room to sit comfortably for yoga, bring your dog, and even pack a cooler for drinks!
+
 ## Unboxing Video of High Society Inflatable Stand Up Paddle Board
 
 [**Click here to check out the High Society Inflatable Stand Up Paddle Board on Amazon.com...**](#)
 
 ## What Activities is it Suitable For?
+
+There are a wide variety of ways in which you can use this SUP from High Society, but I think it would be best suited to the following activities:
+
+* Yoga
+* Treking
+* Exploring
+* Travelling with Pets
 
 ## Features
 
