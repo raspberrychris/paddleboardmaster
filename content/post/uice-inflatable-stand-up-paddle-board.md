@@ -76,9 +76,12 @@ UICE SUP own the maxium pressre 15psi,can load up to 340lbs,it is friendly for a
 
 ## Verdict
 
-## 5/5
+## 4/5
 
 ## Pros
+
+* Fantastic SUP if you have kids or pets as it is extremely stable
+* 
 
 ## Cons
 
