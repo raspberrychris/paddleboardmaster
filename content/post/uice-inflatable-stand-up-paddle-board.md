@@ -34,6 +34,8 @@ One of the best things about this paddleboard is that the included pump that you
 
 ## Unboxing Video of UICE Inflatable Stand Up Paddle Board
 
+{{< youtube/aZjWmUzyrVg >}}
+
 [**Click here to check out the UICE Inflatable Stand Up Paddle Board on Amazon.com...**](#)
 
 ## What Activities is it Suitable For?
