@@ -16,7 +16,7 @@ toc = true
 widgets = []
 
 +++
-Welcome to this review today on [**paddleboardmaster.com**](/).  Today I will be taking a look at the **UICE Inflatable Stand Up Paddle Board** . 
+Welcome to this review today on [**paddleboardmaster.com**](/).  Today I will be taking a look at the [**UICE Inflatable Stand Up Paddle Board**](#). 
 
 Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
 
@@ -40,12 +40,18 @@ One of the best things about this paddleboard is that the included pump that you
 
 ## What Activities is it Suitable For?
 
+The Uice Inflatable SUP is suitable for a number of different activities and the manufacturers of the paddleboard say that it is a great all rounder, but specifically suited to the following activities:
+
 * Fishing 
 * Yoga
 * Surfing
 * Cruising
 
 ## What’s included in the box?
+
+A lot of the time when you buy a paddleboard it is more about the accessories that you get included than the paddleboard itself.
+
+Luckily the Uice Inflatable SUP comes with a full set of high quality accessories.
 
 * UICE Inflatable Stand Up Paddle Board
 * UICE Coil Surf Leash
