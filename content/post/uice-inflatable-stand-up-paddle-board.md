@@ -16,7 +16,9 @@ toc = true
 widgets = []
 
 +++
-Welcome to this review today on [**paddleboardmaster.com**](/).  Today I will be taking a look at the **UICE Inflatable Stand Up Paddle Board** . Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
+Welcome to this review today on [**paddleboardmaster.com**](/).  Today I will be taking a look at the **UICE Inflatable Stand Up Paddle Board** . 
+
+Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
 
 **Right, let’s get into this!**
 
@@ -24,11 +26,11 @@ Welcome to this review today on [**paddleboardmaster.com**](/).  Today I will be
 
 If you are looking for a super stable paddleboard then this will be a really good option for you.  The anti slip deck as well enables you to stand easily and not slip, perfect for activities where stability is really required, such as Yoga or Fishing.
 
-Children, teenagers and adults alike will be fully supported on this SUP, as it supports up to 170kg.  
+Did I mention that children, teenagers and adults alike will be fully supported on this SUP, as it supports up to 170kg.  
 
 This board is also great for riding with pets as the material is strong and durable and won’t easily rip or tear.
 
-One of the best things about this paddleboard is that the included pump that you get with the Uice Inflatable SUP enables you to inflate and deflate the paddleboard in 3 minutes.  This is very fast!
+One of the best things about this paddleboard is that the included pump that you get with the Uice Inflatable SUP, enables you to inflate and deflate the paddleboard in 3 minutes.  This is very fast! (Even when compared to some of the more expensive paddleboards we have reviewed).
 
 ## Unboxing Video of UICE Inflatable Stand Up Paddle Board
 
