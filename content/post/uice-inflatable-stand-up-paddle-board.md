@@ -22,9 +22,13 @@ Welcome to this review today on [**paddleboardmaster.com**](/).  Today I will be
 
 ## UICE Inflatable Stand Up Paddle Board - Who is it for?
 
-If you are looking for a super stable paddleboard then this will be a really good option for you.
+If you are looking for a super stable paddleboard then this will be a really good option for you.  The anti slip deck as well enables you to stand easily and not slip, perfect for activities where stability is really required, such as Yoga or Fishing.
 
 Children, teenagers and adults alike will be fully supported on this SUP, as it supports up to 170kg.  
+
+This board is also great for riding with pets as the material is strong and durable and won’t easily rip or tear.
+
+One of the best things about this paddleboard is that the included pump that you get with the Uice Inflatable SUP enables you to inflate and deflate the paddleboard in 3 minutes.  This is very fast!
 
 ## Unboxing Video of UICE Inflatable Stand Up Paddle Board
 
