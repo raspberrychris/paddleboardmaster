@@ -90,14 +90,17 @@ Deflated it's only 1 foot in diameter by 38". Inflated size : 11'x33"x6" Thick. 
 * Great entry level board suitable for beginners
 * Lightweight and easy to transport - can even take on an airplane!
 * Lots of accessories included with the SUP
-* Stable board
+* Well designed bag with drain vent
 
 ### Cons
 
 * There are better SUPs out there 
+* Made in China (although advertised as Designed in the USA).
 
 Overall I think that the Aqua Plus Inflatable SUP is a really good package for anyone that is new to paddleboarding or looking for a new hobby.
 
-The paddleboard is light, comes with a lot of accessories and is very stable.
+The paddleboard is light, comes with a lot of accessories and is very stable. 
+
+It inflates and deflates very quickly so if you don’t like hanging around this is a great choice.
 
 [**Click here to check out the Aqua Plus Inflatable SUP on Amazon.com...**](https://www.amazon.com/Aqua-Plus-Inflatable-Backpack-Shoulder/dp/B07PLXK7WL?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=89e5e6a45844be45e876190dd8fc55f2&language=en_US&ref_=as_li_ss_tl)
