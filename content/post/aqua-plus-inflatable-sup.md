@@ -40,11 +40,15 @@ If you are looking for onboard storage as well there is a bungee cord at the fro
 
 ## Unboxing Video of Aqua Plus Inflatable SUP
 
+For a full look at the Aqua Plus, take a look at the below  video.
+
 {{< youtube/5GdL5UW-5so >}}
 
 [**Click here to check out the Aqua Plus Inflatable SUP on Amazon.com...**](https://www.amazon.com/Aqua-Plus-Inflatable-Backpack-Shoulder/dp/B07PLXK7WL?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=89e5e6a45844be45e876190dd8fc55f2&language=en_US&ref_=as_li_ss_tl)
 
 ## What Activities is it Suitable For?
+
+This board is suitable for a variety of activities and it will  be perfect for the below activities which have been tried and tested.
 
 * Yoga
 * Exploring
@@ -58,11 +62,13 @@ If you are looking for onboard storage as well there is a bungee cord at the fro
 
 ### 1 Year Warranty
 
-Get total peace of mind with this paddleboard as it comes with a 1 year warranty.
+Get total peace of mind with this paddleboard, as it comes with a 1 year warranty.
 
 ### Strong, High Quality Design
 
-You might find that it hard to tell the difference with this Inflatable SUP from Aqua Plus and a more traditional hard board.  The ultra light PVC drop stitch fabric means that not only is this board really light to travel with but it is high quality and won’t let you down.
+You might find that it hard to tell the difference with this Inflatable SUP from Aqua Plus and a more traditional hard board.  
+
+The ultra light PVC drop stitch fabric means that not only is this board really light to travel with but it is high quality and won’t let you down.
 
 ### Super Portable
 
@@ -99,10 +105,11 @@ Deflated it's only 1 foot in diameter by 38". Inflated size : 11'x33"x6" Thick. 
 
 * There are better SUPs out there 
 * Made in China (although advertised as Designed in the USA).
+* Pump does not show PSI
 
-Overall I think that the Aqua Plus Inflatable SUP is a really good package for anyone that is new to paddleboarding or looking for a new hobby.
+Overall I think that the Aqua Plus Inflatable SUP is a really good package for anyone that is new to paddleboarding or looking for a new hobby and it is hard not to give it a good rating.  There are only a few issues where it falls short and I have mentioned those above.
 
-The paddleboard is light, comes with a lot of accessories and is very stable. 
+**Great things:** The paddleboard is light, comes with a lot of accessories and is very stable. 
 
 The Aqua Plus Inflatable SUP also inflates and deflates very quickly so if you don’t like hanging around this is a great choice.  And if you are worried about the SUP losing pressure, you won’t have to as this board keeps its pressure very well compared to some of the other SUPs that we have reviewed.
 
