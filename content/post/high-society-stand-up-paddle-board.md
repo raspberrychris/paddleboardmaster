@@ -16,25 +16,27 @@ toc = true
 widgets = []
 
 +++
-In this blog we will be taking a look at the [**High Society Inflatable Stand Up Paddle Board**](#)  We will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition.
+In this blog we will be taking a look at the [**High Society Inflatable Stand Up Paddle Board**](https://www.amazon.com/dp/B07PJB9768?&linkCode=ll1&tag=paddleboardmaster-20&linkId=a3c6b497fad2a191431df77395df4224&language=en_US&ref_=as_li_ss_tl)  We will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition and whether or not it represents good value for money.
+
+**Right, let’s get into it! Let’s go!**
 
 ## High Society Inflatable Stand Up Paddle Board - Who is it for?
 
 If you are looking for something that is a bit special, that has a more unique design then you may be interested in the [**High Society**](/categories/high-society/) stand up paddleboard.
 
-This SUP’s great design is actually designed by local artists, which makes these boards pretty special.
+> This SUP’s great design is actually designed by local artists, which makes these boards pretty special in my opinion.
 
-This SUP’s look was designed by artist [**Robert Maestas**](https://www.robertmaestas.com/).
+This SUP’s look was designed by artist [**Robert Maestas**](https://www.robertmaestas.com/) for example.
 
-The High Society paddle board is perfect for beginners or experienced riders who want a board for all conditions. It comes packed in an easy to carry backpack and inflates to 10’6” x 32” x 6” - which is more than enough room to sit comfortably for yoga, bring your dog, and even pack a cooler for drinks!
+The [**High Society**](/categories/high-society/) paddle board is perfect for beginners or experienced riders who want a board for all conditions. It comes packed in an easy to carry backpack and inflates to 10’6” x 32” x 6” - which is more than enough room to sit comfortably for yoga, bring your dog, and even pack a cooler for drinks!
 
 ## Unboxing Video of High Society Inflatable Stand Up Paddle Board
 
-[**Click here to check out the High Society Inflatable Stand Up Paddle Board on Amazon.com...**](#)
+[**Click here to check out the High Society Inflatable Stand Up Paddle Board on Amazon.com...**](https://www.amazon.com/dp/B07PJB9768?&linkCode=ll1&tag=paddleboardmaster-20&linkId=a3c6b497fad2a191431df77395df4224&language=en_US&ref_=as_li_ss_tl)
 
 ## What Activities is it Suitable For?
 
-There are a wide variety of ways in which you can use this SUP from High Society, but I think it would be best suited to the following activities:
+There are a wide variety of ways in which you can use this SUP from [**High Society**](/categories/high-society/), but I think it would be best suited to the following activities:
 
 * Yoga
 * Treking
@@ -67,6 +69,17 @@ With the [**High Society**](/categories/high-society/) SUP they make a special p
 
 ## Pros
 
+* Fantastic design that will make you stand out wherever you are.
+* High quality materials 
+* A paddleboard from a brand with a fantastic reputation
+* Look is designed by local artists
+
 ## Cons
 
-**Click here to check out the High Society Inflatable Stand Up Paddle Board on Amazon.com...**
+* A little less affordable than some of the other paddleboards that we have reviewed
+
+This paddleboard from High Society really is an exceptional paddleboard for the money.  In terms of its performance, look and design it scores top marks from me.
+
+If you are looking for a SUP that looks as good as it performs and is from a good company with an excellent track record of looking after its customers then this may be the paddleboard for you.
+
+[**Click here to check out the High Society Inflatable Stand Up Paddle Board on Amazon.com...**](https://www.amazon.com/dp/B07PJB9768?&linkCode=ll1&tag=paddleboardmaster-20&linkId=a3c6b497fad2a191431df77395df4224&language=en_US&ref_=as_li_ss_tl)
