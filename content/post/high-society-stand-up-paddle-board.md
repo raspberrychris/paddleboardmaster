@@ -4,7 +4,6 @@ categories = ["High Society"]
 comments = true
 date = 2022-06-16T23:00:00Z
 description = "Join us as we review the High Society Stand Up Paddle Board and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
-draft = true
 lead = ""
 mathjax = true
 pager = true
@@ -79,7 +78,9 @@ Hassle free 3 Year Warranty; High Society is available for support beyond your p
 
 ### Seven Layers of Materials
 
-With the [**High Society**](/categories/high-society/) SUP they make a special point of detailing all the different layers of the board.  Although a lot of SUPs talk about ‘military grade’ materials, I think this is one of the most detailed examples of high quality design I have seen.
+With the [**High Society**](/categories/high-society/) SUP they make a special point of detailing all the different layers of the board.  Although a lot of SUPs talk about ‘military grade’ materials, I think this is one of the most detailed examples of high quality design I have seen.  
+
+**It really is very impressive!**
 
 * Outer Layer Protective PVC
 * Deck Pad
@@ -111,11 +112,13 @@ This paddleboard from High Society really is an exceptional paddleboard for the 
 
 If you are looking for a SUP that looks as good as it performs and is from a good company with an excellent track record of looking after its customers then this may be the paddleboard for you.
 
-One of the strengths of this board in our opinion is the fairly rare 3 year warranty.  
+> One of the strengths of this board in our opinion is the fairly rare 3 year warranty.  
 
 As you have seen other manufacturers are prepared to back their paddleboard with a 1 year warranty generally, but to get a 3 year warranty really is going over and above what we have seen here on [**paddleboardmaster.com**](/)**.**
 
 Ultimately it seems that [**High Society**](/categories/high-society/) as a brand are a very customer focused company and they are willing to do everything they can to create the perfect paddleboard, and I think they have created something really special here with this particular SUP!  
+
+As mentioned above, you get a ton of accessories with this paddleboard, so you really have everything you need to get started in paddleboarding.  This is a paddleboard that anyone could get started with, although as it is less affordable than some of the other paddleboards we have reviewed it may mean that this is your second paddleboard or a more portable version of your existing hard top paddleboard.
 
 If you are interested in this paddleboard you can click through to the product page for more details. I hope you found this review useful.
 
