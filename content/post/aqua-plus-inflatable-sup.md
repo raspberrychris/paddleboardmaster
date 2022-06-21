@@ -32,17 +32,11 @@ This board is very transportable its weight is just 20lbs and it can be stored i
 
 This SUP is suitable for both fresh water and salt water, so wherever you want to use it you can.
 
-I would describe this SUP as one that is a perfect entry level paddleboard.  If you are looking to get into paddleboarding then you will find everything you need in this package to get going and really have some fun on the water.
+The double action pump is actually really fast way to inflate and deflate this paddleboard.
 
-An inflatable SUP board for water fun, fitness and frolic.   
-Everything for fun on the water. Take it anywhere.   
-Explore waterways from backyard ponds to the Gulf, from the Great Lakes to lazy springs.   
-Inflatable SUPs perform as well as their rigid SUP board counterparts, yet have the extra advantages of lighter weight, portability, and ease while traveling. Roll up the Inflatable SUP and stow it in the backpack carry bag with its accessories. There is no need for a special car rack as the board will fit in the trunk or back seat of any vehicle.   
-Our SUP boards fall well under the weight for checked airline luggage too. Our new navigator inflatable SUP features top foam and non-slip grip. This board weight 20 lbs, maximum capacity is up to 330 lbs, stable and great for all conditions. Due to manual measurement,please allow 1-3cm tolerance.   
-Great for both Fresh and Saltwater. Bring along a Dog or Cooler. It is ideal for fit all skill levels, with its length and proportion the board can provide excellent glides for cruising, fitness, fishing, and exploring.   
-Our Inflatable SUPs make awesome starter boards or perfect second boards for rigid board owners who are on-the-go.   
-Deck Features : 5mm Comfort diamond groove traction for grip. 11pcs of 316Stainless Steel D-Rings and bungee on front deck for storage.   
-Complete Package : Board, Fully adjustable aluminium paddle measures from 65-82inches long, Navigator ISUP travel backpack, Shoulder Strap, Coiled leash, Waterproof bag, Removable fin, Double Action Pump : during the 1st phase of the inflation use double action:clip closed Fig.1, when the pressure arrives to a relatively higher value, use single action:clip open Fig.2.inflatable paddle boards,paddle board,inflatable paddle board,stand up paddle board,aqua plus inflatable paddle board,inflatalbe sup,paddle boards,standup paddle board,blow up paddle board,stand up paddle board inflatable,inflatable stand up paddle board,sup
+I would describe this SUP as one that is a perfect entry level paddleboard.  If you are looking to get into paddleboarding then you will find everything you need in this package to get going and really have some fun on the water.  Another great thing about this SUP is that the tough materials make it great if you want to take your dog with you.
+
+If you are looking for onboard storage as well there is a bungee cord at the front of the board where you can store your things.
 
 ## Unboxing Video of Aqua Plus Inflatable SUP
 
@@ -52,13 +46,40 @@ Complete Package : Board, Fully adjustable aluminium paddle measures from 65-82i
 
 ## What Activities is it Suitable For?
 
+* Yoga
+* Exploring
+* Treking
+* Travelling with Pets
+* Learning to Paddleboard
+
 ## Features
 
-* 1 YEAR WARRANTY ON MATERIALS.inflatable paddle boards,paddle board,inflatable paddle board,stand up paddle board,aqua plus inflatable paddle board,inflatalbe sup,paddle boards,standup paddle board,blow up paddle board,stand up paddle board inflatable,inflatable stand up paddle board,sup inflatable paddle board,portable paddle board,paddle boards for adults,sup paddle board,standing paddle board inflatable,stand-up paddle boards,standing paddle board,isup paddle board,paddle board inflatable
-* Rigid Design :It feels very similar to a hard board.The board is made of high grade Military Ultra Light PVC Drop Stitch Fabric. Constructed with additional PVC layer of board rails are highly strengthened the board.
-* Ultra Portable : Deflated it's only 1 foot in diameter by 38". Inflated size : 11'x33"x6" Thick. Weight 20.3lbs, Maximum capactiy is up to 350lbs, Stable and great for all skill levels and conditions.
-* Deck Features : 5mm Comfort diamond groove traction for grip. 11pcs of 316 Stainless Steel D-Rings and bungee on front deck for storage.
-* Complete Package : Board, Adjustable aluminium paddle, Voyager ISUP travel backpack, Shoulder Strap, Coiled leash, Waterproof bag, Removable fin, Double Action Pump : during the 1st phase of the inflation use double action:clip closed,Fig.1, when the pressure arrives to a relatively higher value, use single action:clip open,Fig.2.
+### 1 Year Warranty
+
+Get total peace of mind with this paddleboard as it comes with a 1 year warranty.
+
+### Strong, High Quality Design
+
+You might find that it hard to tell the difference with this Inflatable SUP from Aqua Plus and a more traditional hard board.  The ultra light PVC drop stitch fabric means that not only is this board really light to travel with but it is high quality and won’t let you down.
+
+### Super Portable
+
+Deflated it's only 1 foot in diameter by 38". Inflated size : 11'x33"x6" Thick. Weight 20.3lbs, the maximum capactiy is up to 350lbs, Stable and great for all skill levels and conditions.
+
+### Deck Features
+
+5mm Comfort diamond groove traction for grip. 11pcs of 316 Stainless Steel D-Rings and bungee on front deck for storage.
+
+## Whats in the box?
+
+* Aqua Plus Paddle Board
+* Adjustable aluminium paddle
+* Voyager ISUP travel backpack
+* Shoulder Strap
+* Coiled leash
+* Waterproof bag
+* Removable fin
+* Double Action Pump
 
 ## Verdict
 
