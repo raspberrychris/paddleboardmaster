@@ -2,7 +2,7 @@
 authorbox = true
 categories = ["High Society"]
 comments = true
-date = 2022-06-16T23:00:00Z
+date = 2022-06-21T11:00:00Z
 description = "Join us as we review the High Society Stand Up Paddle Board and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
 lead = ""
 mathjax = true
