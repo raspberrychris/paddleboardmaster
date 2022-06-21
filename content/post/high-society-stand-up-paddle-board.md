@@ -53,9 +53,13 @@ There are a wide variety of ways in which you can use this SUP from [**High Soci
 
 ## Features
 
+![High-society-features](/uploads/872c928f-43d8-4a6f-8bc3-9725463566b4.jpeg "High-society-features")
+
 ### High quality non slip design
 
-Inflatable SUP board with heavy duty drop stitch construction providing layers of military grade protection from damage; comfortable no-slip traction pad for standing or sitting; 10 feet 6 inches long; 32 inches wide; 6 inches thick; 275 lbs weight limit; 28.66 lb board weight; 41 lb total package weight including backpack, paddle board, fins, paddle and repair kit
+Inflatable SUP board with heavy duty drop stitch construction providing layers of military grade protection from damage; comfortable no-slip traction pad for standing or sitting; 10 feet 6 inches long; 32 inches wide; 6 inches thick; 275 lbs weight limit; 28.66 lb board weight; 41 lb total package weight including backpack, paddle board, fins, paddle and repair kit.
+
+![High-sociey-strong-design](/uploads/b07382e7-98c6-4857-9e84-a84511746fa1.png "High-sociey-strong-design")
 
 ### Fast inflate, deflate times
 
@@ -102,6 +106,8 @@ With the [**High Society**](/categories/high-society/) SUP they make a special p
 * A little less affordable than some of the other paddleboards that we have reviewed
 
 This paddleboard from High Society really is an exceptional paddleboard for the money.  In terms of its performance, look and design it scores top marks from me.
+
+![High-society-paddleboard](/uploads/83097597-786c-470e-aa4d-3a9da956cff0.jpeg "High-society-paddleboard")
 
 If you are looking for a SUP that looks as good as it performs and is from a good company with an excellent track record of looking after its customers then this may be the paddleboard for you.
 
