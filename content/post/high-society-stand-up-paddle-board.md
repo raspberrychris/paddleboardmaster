@@ -10,7 +10,7 @@ pager = true
 sidebar = ""
 tags = ["Review"]
 thumbnail = "/uploads/0e64f8eb-d11f-4a1a-813b-9e9a6bc51a0d.png"
-title = "High Society Stand Up Paddle Board - Paddleboard wih a 3 year warranty"
+title = "High Society Stand Up Paddle Board - The Paddleboard with a 3 year warranty"
 toc = true
 widgets = []
 
