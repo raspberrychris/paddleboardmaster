@@ -18,6 +18,8 @@ widgets = []
 +++
 Welcome to this review today on [**paddleboardmaster.com**](/).  Today I will be taking a look at the [**UICE Inflatable Stand Up Paddle Board**](https://www.amazon.com/UICE-Inflatable-Advanced-Standard-Accessories/dp/B09PG1GKPT?c=ts&keywords=Stand-Up+Paddleboards&qid=1655818653&refinements=p_89%3AUICE&s=sports-and-fitness&sr=1-2&ts_id=5522381011&linkCode=ll1&tag=paddleboardmaster-20&linkId=bdb471e119579ab44c1291ebad0a6996&language=en_US&ref_=as_li_ss_tl) and seeing how it performs against other SUPs.
 
+![Uice-paddleboard-specs](/uploads/1682b5af-60b0-401b-b28c-0a2d75e964ab.jpeg "Uice-paddleboard-specs")
+
 Join us as we take an indepth look at this paddle board to see how it compares against similar paddle boards!
 
 **Right, let’s get into this!**
@@ -25,6 +27,8 @@ Join us as we take an indepth look at this paddle board to see how it compares a
 ## UICE Inflatable Stand Up Paddle Board - Who is it for?
 
 If you are looking for a super stable paddleboard then this will be a really good option for you, this is one of the most stable boards I have reviewed, so it would be perfect for activities such as Yoga, Fishing or general exploring.
+
+![Uice-paddleboard-kids-pets](/uploads/1c1295e8-56a2-456e-8aaf-ac2be8113d97.jpeg "Uice-paddleboard-kids-pets")
 
 The [**Uice**](/categories/uice/) has an anti slip deck as well enables you to stand easily and not slip, perfect for activities where stability is really required, as we mentioned this is perfect if you are into activities like Yoga or Fishing.
 
@@ -54,6 +58,8 @@ The Uice Inflatable SUP is suitable for a number of different activities and the
 ## What’s included in the box?
 
 A lot of the time when you buy a paddleboard it is more about the accessories that you get included than the paddleboard itself.
+
+![Features](/uploads/e01d1eee-970c-456e-b8d5-b04830a31fa1.jpeg "Features")
 
 Luckily the Uice Inflatable SUP comes with a full set of high quality accessories - (you really go get a lot for your money here).
 
@@ -112,6 +118,8 @@ You can use it through oceans, lakes or rivers and it is perfect for all types o
 * Not as wide as some other boards
 
 This is an absolutely fantastic paddleboard for the money and you really go get a step up in terms of quality compared to some of the other paddleboards that we have reviewed.
+
+![Uice-cutaway-design](/uploads/846bc9b8-2faa-4408-b303-deb32c4a3114.jpeg "Uice-cutaway-design")
 
 The materials used and the way the board is put together really mean it is is a great deal, even though it is a little bit less affordable than some of the other boards out there.
 
