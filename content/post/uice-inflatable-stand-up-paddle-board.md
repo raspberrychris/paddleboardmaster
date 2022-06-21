@@ -16,17 +16,19 @@ toc = true
 widgets = []
 
 +++
-Welcome to this review today on [**paddleboardmaster.com**](/).  Today I will be taking a look at the [**UICE Inflatable Stand Up Paddle Board**](#). 
+Welcome to this review today on [**paddleboardmaster.com**](/).  Today I will be taking a look at the [**UICE Inflatable Stand Up Paddle Board**](#) and seeing how it performs against other SUPs.
 
-Join us as we take an indepth look at this paddle board to see how it compares against similar products in the market.
+Join us as we take an indepth look at this paddle board to see how it compares against similar paddle boards!
 
 **Right, let’s get into this!**
 
 ## UICE Inflatable Stand Up Paddle Board - Who is it for?
 
-If you are looking for a super stable paddleboard then this will be a really good option for you.  The anti slip deck as well enables you to stand easily and not slip, perfect for activities where stability is really required, such as Yoga or Fishing.
+If you are looking for a super stable paddleboard then this will be a really good option for you.  
 
-Did I mention that children, teenagers and adults alike will be fully supported on this SUP, as it supports up to 170kg.  
+The [**Uice**](/categories/uice/) has an anti slip deck as well enables you to stand easily and not slip, perfect for activities where stability is really required, such as Yoga or Fishing.
+
+Did I mention that children, teenagers and adults alike will be fully supported on this SUP, as it supports up to 374lbs (170kg).
 
 This board is also great for riding with pets as the material is strong and durable and won’t easily rip or tear.
 
@@ -42,7 +44,7 @@ One of the best things about this paddleboard is that the included pump that you
 
 The Uice Inflatable SUP is suitable for a number of different activities and the manufacturers of the paddleboard say that it is a great all rounder, but specifically suited to the following activities:
 
-* Fishing 
+* Fishing
 * Yoga
 * Surfing
 * Cruising
