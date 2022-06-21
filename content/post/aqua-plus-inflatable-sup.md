@@ -24,13 +24,15 @@ We have had many requests to review this board and people have praised the fact 
 
 # Aqua Plus Inflatable SUP - Who is it for?
 
-Aqua Plus describe this paddleboard as a paddleboard for “water fun, fitness and frolic”.  This rather formal description of the board basically means its a lot of fun!
+[**Aqua Plus**](/categories/aqua-plus/) describe this paddleboard as a paddleboard for “water fun, fitness and frolic”.  This rather formal description of the board basically means its a lot of fun!
 
 If you like having fun, then the chances are you will probably like this SUP!
 
 This board is very transportable its weight is just 20lbs and it can be stored in the backpack and is also falls under the limit for checked luggage so you can take it on an airplane without any hassle.  The maximum capacity for the Aqua Plus Inflatable SUP is 330lbs, so it is stable and can suit a number of different types of people.
 
 This SUP is suitable for both fresh water and salt water, so wherever you want to use it you can.
+
+I would describe this SUP as one that is a perfect entry level paddleboard.  If you are looking to get into paddleboarding then you will find everything you need in this package to get going and really have some fun on the water.
 
 An inflatable SUP board for water fun, fitness and frolic.   
 Everything for fun on the water. Take it anywhere.   
