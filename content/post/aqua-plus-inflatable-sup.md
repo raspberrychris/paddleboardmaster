@@ -87,6 +87,13 @@ Deflated it's only 1 foot in diameter by 38". Inflated size : 11'x33"x6" Thick. 
 
 ### Pros
 
+* Great entry level board suitable for beginners
+* Lightweight and easy to transport - can even take on an airplane!
+* Lots of accessories included with the SUP
+* Stable board
+
 ### Cons
+
+* There are better SUPs out there 
 
 [**Click here to check out the Aqua Plus Inflatable SUP on Amazon.com...**](https://www.amazon.com/Aqua-Plus-Inflatable-Backpack-Shoulder/dp/B07PLXK7WL?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=89e5e6a45844be45e876190dd8fc55f2&language=en_US&ref_=as_li_ss_tl)
