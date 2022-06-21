@@ -28,9 +28,9 @@ Aqua Plus describe this paddleboard as a paddleboard for “water fun, fitness a
 
 If you like having fun, then the chances are you will probably like this SUP!
 
-This board is very transportable its weight is just 9kg and it can be stored in the backpack and is also falls under the limit for checked luggage so you can take it on an airplane without any hassle.
+This board is very transportable its weight is just 20lbs and it can be stored in the backpack and is also falls under the limit for checked luggage so you can take it on an airplane without any hassle.  The maximum capacity for the Aqua Plus Inflatable SUP is 330lbs, so it is stable and can suit a number of different types of people.
 
-The SUP actually falls under t
+This SUP is suitable for both fresh water and salt water, so wherever you want to use it you can.
 
 An inflatable SUP board for water fun, fitness and frolic.   
 Everything for fun on the water. Take it anywhere.   
