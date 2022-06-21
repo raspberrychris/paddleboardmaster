@@ -96,4 +96,8 @@ Deflated it's only 1 foot in diameter by 38". Inflated size : 11'x33"x6" Thick. 
 
 * There are better SUPs out there 
 
+Overall I think that the Aqua Plus Inflatable SUP is a really good package for anyone that is new to paddleboarding or looking for a new hobby.
+
+The paddleboard is light, comes with a lot of accessories and is very stable.
+
 [**Click here to check out the Aqua Plus Inflatable SUP on Amazon.com...**](https://www.amazon.com/Aqua-Plus-Inflatable-Backpack-Shoulder/dp/B07PLXK7WL?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=89e5e6a45844be45e876190dd8fc55f2&language=en_US&ref_=as_li_ss_tl)
