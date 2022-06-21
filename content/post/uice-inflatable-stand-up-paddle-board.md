@@ -119,6 +119,8 @@ If you are looking for a wide board - and this is a particular focus for you, yo
 
 If this is a deal breaker, then you may want to look at some of our other paddleboard reviews to find a wider board.
 
-One of my favourite things about this SUP is the UV printing.  This really is a step above most of the other boards out there, and it means that the design that you get on the board is not going to fade away.
+One of my favourite things about this SUP is the UV printing.  
+
+This really is a step above most of the other boards out there, and it means that the design that you get on the board is not going to fade away.  This means that this board from UICE really is going to last, and even though you are paying a little bit more here, I think this is one of the better investments if you are looking for a SUP that you can keep in the longer term.
 
 [**Click here to check out the UICE Inflatable Stand Up Paddle Board on Amazon.com...**](https://www.amazon.com/UICE-Inflatable-Advanced-Standard-Accessories/dp/B09PG1GKPT?c=ts&keywords=Stand-Up+Paddleboards&qid=1655818653&refinements=p_89%3AUICE&s=sports-and-fitness&sr=1-2&ts_id=5522381011&linkCode=ll1&tag=paddleboardmaster-20&linkId=bdb471e119579ab44c1291ebad0a6996&language=en_US&ref_=as_li_ss_tl)
