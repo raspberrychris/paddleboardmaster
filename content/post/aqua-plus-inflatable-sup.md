@@ -49,6 +49,8 @@ If you are looking for onboard storage as well there is a bungee cord at the fro
 * Yoga
 * Exploring
 * Treking
+* Touring
+* Fishing
 * Travelling with Pets
 * Learning to Paddleboard
 
@@ -91,6 +93,7 @@ Deflated it's only 1 foot in diameter by 38". Inflated size : 11'x33"x6" Thick. 
 * Lightweight and easy to transport - can even take on an airplane!
 * Lots of accessories included with the SUP
 * Well designed bag with drain vent
+* Maintains the pressure well
 
 ### Cons
 
@@ -101,6 +104,8 @@ Overall I think that the Aqua Plus Inflatable SUP is a really good package for a
 
 The paddleboard is light, comes with a lot of accessories and is very stable. 
 
-It inflates and deflates very quickly so if you don’t like hanging around this is a great choice.
+The Aqua Plus Inflatable SUP also inflates and deflates very quickly so if you don’t like hanging around this is a great choice.  And if you are worried about the SUP losing pressure, you won’t have to as this board keeps its pressure very well compared to some of the other SUPs that we have reviewed.
+
+The 1 year warranty with this SUP will also give you peace of mind when it comes to any potential damage you may incur whilst out and about on the water.  I think that the materials used on this board are actually really high quality and many of the reviews online actually discuss the fact that they have had their dogs on the [**Aqua Plus**](/categories/aqua-plus/) with no issues.
 
 [**Click here to check out the Aqua Plus Inflatable SUP on Amazon.com...**](https://www.amazon.com/Aqua-Plus-Inflatable-Backpack-Shoulder/dp/B07PLXK7WL?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=89e5e6a45844be45e876190dd8fc55f2&language=en_US&ref_=as_li_ss_tl)
