@@ -91,6 +91,7 @@ With the [**High Society**](/categories/high-society/) SUP they make a special p
 * High quality materials 
 * A paddleboard from a brand with a fantastic reputation
 * Look is designed by local artists
+* 3 year warranty
 
 ## Cons
 
