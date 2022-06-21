@@ -4,13 +4,13 @@ categories = ["High Society"]
 comments = true
 date = 2022-06-21T11:00:00Z
 description = "Join us as we review the High Society Stand Up Paddle Board and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
-lead = ""
+lead = "Great designed SUP by local artists"
 mathjax = true
 pager = true
 sidebar = ""
 tags = ["Review"]
 thumbnail = "/uploads/0e64f8eb-d11f-4a1a-813b-9e9a6bc51a0d.png"
-title = "High Society Stand Up Paddle Board"
+title = "High Society Stand Up Paddle Board - Paddleboard wih a 3 year warranty"
 toc = true
 widgets = []
 
