@@ -18,6 +18,8 @@ widgets = []
 +++
 In this blog we will be taking a look at the [**High Society Inflatable Stand Up Paddle Board**](https://www.amazon.com/dp/B07PJB9768?&linkCode=ll1&tag=paddleboardmaster-20&linkId=a3c6b497fad2a191431df77395df4224&language=en_US&ref_=as_li_ss_tl)  We will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition and whether or not it represents good value for money.
 
+![High-society-paddleboard](/uploads/e122ce9b-ce98-4f43-a7ba-16166dd395c0.jpeg "High-society-paddleboard")
+
 **Right, let’s get into it! Let’s go!**
 
 ## High Society Inflatable Stand Up Paddle Board - Who is it for?
@@ -27,6 +29,8 @@ If you are looking for something that is a bit special, that has a more unique d
 > This SUP’s great design is actually designed by local artists, which makes these boards pretty special in my opinion.
 
 This SUP’s look was designed by artist [**Robert Maestas**](https://www.robertmaestas.com/) for example.
+
+![High-society-look](/uploads/1e80ae76-1f93-4338-b6fa-b6934ee8adf9.png "High-society-look")
 
 The [**High Society**](/categories/high-society/) paddle board is perfect for beginners or experienced riders who want a board for all conditions. It comes packed in an easy to carry backpack and inflates to 10’6” x 32” x 6” - which is more than enough room to sit comfortably for yoga, bring your dog, and even pack a cooler for drinks!
 
@@ -67,7 +71,7 @@ Carry your 28.66 lb inflated board with the conveniently located handle in the c
 
 ### Long 3 year warranty for peace of mind
 
-Hassle free 3 Year Warranty; High Society is available for support beyond your purchase; we will happily fix or replace your inflatable paddle board set if you run into any issues
+Hassle free 3 Year Warranty; High Society is available for support beyond your purchase; High Society will happily fix or replace your inflatable paddle board set if you run into any issues
 
 ### Seven Layers of Materials
 
