@@ -20,11 +20,11 @@ In this blog we will be taking a look at the [**High Society Inflatable Stand Up
 
 ## High Society Inflatable Stand Up Paddle Board - Who is it for?
 
-If you are looking for something that is a bit special, that has a more unique design then you may be interested in the **High Society** stand up paddleboard.
+If you are looking for something that is a bit special, that has a more unique design then you may be interested in the [**High Society**](/categories/high-society/) stand up paddleboard.
 
 This SUP’s great design is actually designed by local artists, which makes these boards pretty special.
 
-This SUP’s look was designed by Robert Maestas.
+This SUP’s look was designed by artist [**Robert Maestas**](https://www.robertmaestas.com/).
 
 The High Society paddle board is perfect for beginners or experienced riders who want a board for all conditions. It comes packed in an easy to carry backpack and inflates to 10’6” x 32” x 6” - which is more than enough room to sit comfortably for yoga, bring your dog, and even pack a cooler for drinks!
 
@@ -51,15 +51,15 @@ There are a wide variety of ways in which you can use this SUP from High Society
 
 ### Seven Layers of Materials
 
-With the High Society SUP they make a special point of detailing all the different layers of the board.  Although a lot of SUPs talk about ‘military grade’ materials, I think this is one of the most detailed examples of high quality design I have seen.
+With the [**High Society**](/categories/high-society/) SUP they make a special point of detailing all the different layers of the board.  Although a lot of SUPs talk about ‘military grade’ materials, I think this is one of the most detailed examples of high quality design I have seen.
 
-* 1. Outer Layer Protective PVC
-* 2. Deck Pad
-* 3. Mid Layer PVC
-* 4. PVC Mesh
-* 5. Inner PVC Sub Layer
-* 6. Drop Stitch Core Base Cloth
-* 7. Drop Stitch Core
+* Outer Layer Protective PVC
+* Deck Pad
+* Mid Layer PVC
+* PVC Mesh
+* Inner PVC Sub Layer
+* Drop Stitch Core Base Cloth
+* Drop Stitch Core
 
 ## Verdict
 
