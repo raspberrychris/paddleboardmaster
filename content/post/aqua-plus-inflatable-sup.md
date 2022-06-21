@@ -4,7 +4,6 @@ categories = ["Aqua Plus"]
 comments = true
 date = 2022-06-16T23:00:00Z
 description = "Join us as we review the Aqua Plus Inflatable SUP and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
-draft = true
 lead = ""
 mathjax = true
 pager = true
@@ -34,6 +33,8 @@ This SUP is suitable for both fresh water and salt water, so wherever you want t
 
 The double action pump is actually really fast way to inflate and deflate this paddleboard.
 
+![Accessories-included](/uploads/c1cb1bfd-466a-4b9f-871d-a2ff6eec9fc7.jpeg "Accessories-included")
+
 I would describe this SUP as one that is a perfect entry level paddleboard.  If you are looking to get into paddleboarding then you will find everything you need in this package to get going and really have some fun on the water.  Another great thing about this SUP is that the tough materials make it great if you want to take your dog with you.
 
 If you are looking for onboard storage as well there is a bungee cord at the front of the board where you can store your things.
@@ -57,6 +58,8 @@ This board is suitable for a variety of activities and it will  be perfect for t
 * Fishing
 * Travelling with Pets
 * Learning to Paddleboard
+
+![Aqua-plus-activities](/uploads/d2ece4ce-897a-413e-bbe2-f5ee9f00356e.jpeg "Aqua-plus-activities")
 
 ## Features
 
@@ -111,7 +114,7 @@ Overall I think that the Aqua Plus Inflatable SUP is a really good package for a
 
 **Great things:** The paddleboard is light, comes with a lot of accessories and is very stable. 
 
-The Aqua Plus Inflatable SUP also inflates and deflates very quickly so if you don’t like hanging around this is a great choice.  And if you are worried about the SUP losing pressure, you won’t have to as this board keeps its pressure very well compared to some of the other SUPs that we have reviewed.
+The [**Aqua Plus**](/categories/aqua-plus/) Inflatable SUP also inflates and deflates very quickly so if you don’t like hanging around this is a great choice.  And if you are worried about the SUP losing pressure, you won’t have to as this board keeps its pressure very well compared to some of the other SUPs that we have reviewed.
 
 The 1 year warranty with this SUP will also give you peace of mind when it comes to any potential damage you may incur whilst out and about on the water.  I think that the materials used on this board are actually really high quality and many of the reviews online actually discuss the fact that they have had their dogs on the [**Aqua Plus**](/categories/aqua-plus/) with no issues.
 
