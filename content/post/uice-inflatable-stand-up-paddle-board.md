@@ -24,7 +24,7 @@ Join us as we take an indepth look at this paddle board to see how it compares a
 
 ## UICE Inflatable Stand Up Paddle Board - Who is it for?
 
-If you are looking for a super stable paddleboard then this will be a really good option for you.  
+If you are looking for a super stable paddleboard then this will be a really good option for you, this is one of the most stable boards I have reviewed, so it would be perfect for activities such as Yoga.
 
 The [**Uice**](/categories/uice/) has an anti slip deck as well enables you to stand easily and not slip, perfect for activities where stability is really required, such as Yoga or Fishing.
 
@@ -68,13 +68,13 @@ Luckily the Uice Inflatable SUP comes with a full set of high quality accessorie
 
 ## Features
 
-### Real Double Technology
+### Thick Design, Double Layer
 
-UICE Inflatable Paddle Board is made of excellent drop stitch and thicker PVC, reinforced with one more layer of real material than other brands, our board is thicker but still lightweight as we uses the most advanced technology:Double Layer/Double Wall/Double Fusion,also known as "3 DOUBLE Technology".We provide the strongest and durable board,because we hope every customer who uses our product will stand out from the ocean,and be proud to stand by with UICE.
+UICE Inflatable Paddle Board is made of excellent drop stitch and thicker PVC, reinforced with one more layer of real material than other brands, the board is thicker but still lightweight as Uice uses the most advanced technology.
 
 ### UV-Printing Technology
 
-UICE Inflatable Paddle Board is very attractive so that people will recognize you at the first glance.It is a combination of classic black and fashion color,but you do not worry about the color fading problem because we use the updated UV-Printing Technology to make sure the color is permanent.
+UV printing technology used by Uice means that the colors on this paddleboard won’t fade.  The design of this board is vibrant and this means that you can be sure that that design won’t fade way.
 
 ### Premium Accessories
 
