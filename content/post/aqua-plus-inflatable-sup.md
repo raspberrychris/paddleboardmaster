@@ -10,7 +10,7 @@ pager = true
 sidebar = ""
 tags = ["Review"]
 thumbnail = "/uploads/4dc0acce-7577-421b-a497-51978f1155a9.jpeg"
-title = "Aqua Plus Inflatable SUP"
+title = "Aqua Plus Inflatable SUP - A Super Fun SUP!"
 toc = true
 widgets = []
 
@@ -21,7 +21,7 @@ We have had many requests to review this board and people have praised the fact 
 
 **Right, with out any further ado lets get stuck into the review!**
 
-# Aqua Plus Inflatable SUP - Who is it for?
+## Aqua Plus Inflatable SUP - Who is it for?
 
 [**Aqua Plus**](/categories/aqua-plus/) describe this paddleboard as a paddleboard for “water fun, fitness and frolic”.  This rather formal description of the board basically means its a lot of fun!
 
