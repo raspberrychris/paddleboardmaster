@@ -16,7 +16,7 @@ toc = true
 widgets = []
 
 +++
-Welcome to this article today I will be taking a look at the [**Aqua Plus Inflatable SUP paddleboard.**](#) Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
+Welcome to this article today I will be taking a look at the [**Aqua Plus Inflatable SUP paddleboard.**](https://www.amazon.com/Aqua-Plus-Inflatable-Backpack-Shoulder/dp/B07PLXK7WL?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=89e5e6a45844be45e876190dd8fc55f2&language=en_US&ref_=as_li_ss_tl) Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
 
 We have had many requests to review this board and people have praised the fact that it is easy to inflate, comes with with a high quality pump, is well made and is light to carry.
 
@@ -28,7 +28,7 @@ We have had many requests to review this board and people have praised the fact 
 
 {{< youtube/5GdL5UW-5so >}}
 
-[**Click here to check out the Aqua Plus Inflatable SUP on Amazon.com...**](#)
+[**Click here to check out the Aqua Plus Inflatable SUP on Amazon.com...**](https://www.amazon.com/Aqua-Plus-Inflatable-Backpack-Shoulder/dp/B07PLXK7WL?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=89e5e6a45844be45e876190dd8fc55f2&language=en_US&ref_=as_li_ss_tl)
 
 ## What Activities is it Suitable For?
 
@@ -42,10 +42,10 @@ We have had many requests to review this board and people have praised the fact 
 
 ## Verdict
 
-## 5/5
+### 4/5
 
-## Pros
+### Pros
 
-## Cons
+### Cons
 
-**Click here to check out the Aqua Plus Inflatable SUP on Amazon.com...**
+[**Click here to check out the Aqua Plus Inflatable SUP on Amazon.com...**](https://www.amazon.com/Aqua-Plus-Inflatable-Backpack-Shoulder/dp/B07PLXK7WL?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=89e5e6a45844be45e876190dd8fc55f2&language=en_US&ref_=as_li_ss_tl)
