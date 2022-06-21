@@ -78,11 +78,21 @@ UV printing technology used by Uice means that the colors on this paddleboard wo
 
 ### Premium Accessories
 
-Everything you need to enjoy your day on water including:UICE designed safty big leash;double action adjustable hand pump;3-piece easy to install alumimum paddle;5L UICE designed black dry bags;a special mesh bag for storage;an upgraded no screw 9" fin;two detachable side fins /removable center fin;a thick,soft and big storage backpack.
+You get some decent accessories with this paddleboard.  UICE designed safty big leash
 
-### Excellent Performance
+* Double action adjustable hand pump
+* 3-piece easy to install alumimum paddle
+* 5L UICE designed black dry bags
+* A special mesh bag for storage
+* An upgraded no screw 9" fin
+* Two detachable side fins /removable center fin
+* A thick,soft big storage backpack.
 
-The paddle board reinforced with carbon fiber are more stable.The shape of our paddle board is not the usual all-around,it is with a special pointy nose, and with 10 degree perk. Its wider and bigger eva space make you feel more comfortable and no problem to allow one more person and pet.It is also perfect for all skill levels and suits in most water environments.You can take a cruise through oceans, lakes or rivers.
+### Excellent Performance for all skill levels
+
+This paddle board is reinforced with carbon fiber which allows it to be extremely stable and means that it has great all round performance.
+
+You can use it through oceans, lakes or rivers and it is perfect for all types of people, whether you are brand new to paddleboarding or you are looking for something that has a bit more performance to it, the UICE SUP really delivers.
 
 ### High Performanced Board
 
