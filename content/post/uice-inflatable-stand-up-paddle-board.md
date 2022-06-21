@@ -66,23 +66,23 @@ Luckily the Uice Inflatable SUP comes with a full set of high quality accessorie
 
 ## Features
 
-Real Double Technology
+### Real Double Technology
 
 UICE Inflatable Paddle Board is made of excellent drop stitch and thicker PVC, reinforced with one more layer of real material than other brands, our board is thicker but still lightweight as we uses the most advanced technology:Double Layer/Double Wall/Double Fusion,also known as "3 DOUBLE Technology".We provide the strongest and durable board,because we hope every customer who uses our product will stand out from the ocean,and be proud to stand by with UICE.
 
-UV-Printing Technology
+### UV-Printing Technology
 
 UICE Inflatable Paddle Board is very attractive so that people will recognize you at the first glance.It is a combination of classic black and fashion color,but you do not worry about the color fading problem because we use the updated UV-Printing Technology to make sure the color is permanent.
 
-Premium Accessories
+### Premium Accessories
 
 Everything you need to enjoy your day on water including:UICE designed safty big leash;double action adjustable hand pump;3-piece easy to install alumimum paddle;5L UICE designed black dry bags;a special mesh bag for storage;an upgraded no screw 9" fin;two detachable side fins /removable center fin;a thick,soft and big storage backpack.
 
-Excellent Performance
+### Excellent Performance
 
 The paddle board reinforced with carbon fiber are more stable.The shape of our paddle board is not the usual all-around,it is with a special pointy nose, and with 10 degree perk. Its wider and bigger eva space make you feel more comfortable and no problem to allow one more person and pet.It is also perfect for all skill levels and suits in most water environments.You can take a cruise through oceans, lakes or rivers.
 
-High Performanced Board
+### High Performanced Board
 
 UICE SUP own the maxium pressre 15psi,can load up to 340lbs,it is friendly for all of our family and pet, no matter beginners or surfers,people love it!We have full confidence in our products.Any questions,please feel free to contact us.We provide 1-year warranty for paddle board, and 1-year warranty for accessories.
 
