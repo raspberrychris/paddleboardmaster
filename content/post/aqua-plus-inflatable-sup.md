@@ -10,13 +10,17 @@ mathjax = true
 pager = true
 sidebar = ""
 tags = ["Review"]
-thumbnail = ""
+thumbnail = "/uploads/4dc0acce-7577-421b-a497-51978f1155a9.jpeg"
 title = "Aqua Plus Inflatable SUP"
 toc = true
 widgets = []
 
 +++
 Welcome to this article today I will be taking a look at the [**Aqua Plus Inflatable SUP paddleboard.**](#) Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
+
+We have had many requests to review this board and people have praised the fact that it is easy to inflate, comes with with a high quality pump, is well made and is light to carry.
+
+**Right, lets get stuck into the review!**
 
 # Aqua Plus Inflatable SUP - Who is it for?
 
