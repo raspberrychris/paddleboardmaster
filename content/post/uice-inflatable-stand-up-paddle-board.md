@@ -2,7 +2,7 @@
 authorbox = true
 categories = ["Uice"]
 comments = true
-date = 2022-06-16T23:00:00Z
+date = 2022-06-21T11:00:00Z
 description = "Join us as we review the UICE Inflatable Stand Up Paddle Board  and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
 lead = "Super Stable Great All-Rounder SUP"
 mathjax = true
