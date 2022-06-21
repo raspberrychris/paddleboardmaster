@@ -32,6 +32,10 @@ The [**High Society**](/categories/high-society/) paddle board is perfect for be
 
 ## Unboxing Video of High Society Inflatable Stand Up Paddle Board
 
+If you want to get a proper look of what this SUP looks like in the flesh, take a look at the unboxing video below.
+
+{{< youtube 1zPwsW_6oFk >}}
+
 [**Click here to check out the High Society Inflatable Stand Up Paddle Board on Amazon.com...**](https://www.amazon.com/dp/B07PJB9768?&linkCode=ll1&tag=paddleboardmaster-20&linkId=a3c6b497fad2a191431df77395df4224&language=en_US&ref_=as_li_ss_tl)
 
 ## What Activities is it Suitable For?
@@ -45,11 +49,25 @@ There are a wide variety of ways in which you can use this SUP from [**High Soci
 
 ## Features
 
-* Inflatable SUP board with heavy duty drop stitch construction providing layers of military grade protection from damage; comfortable no-slip traction pad for standing or sitting; 10 feet 6 inches long; 32 inches wide; 6 inches thick; 275 lbs weight limit; 28.66 lb board weight; 41 lb total package weight including backpack, paddle board, fins, paddle and repair kit
-* Inflate your board in just 3-5 minutes with the dual action pump; includes a PSI gauge to indicate when fully inflated; extra thick 6 inch width rides and feels like hard foam boards
-* Experience peak performance in all conditions with a versatile rocker profile and triple bottom 2x1 fins; improved speed and steering for extreme whitewater river surfing as well as calm lake or ocean paddling
-* Carry your 28.66 lb inflated board with the conveniently located handle in the center of the board; deflate your board with one simple push and fit inside backpack with the rest of your accessory set; easy to carry entire kit from car to water at just 41 pounds
-* Hassle free 3 Year Warranty; High Society is available for support beyond your purchase; we will happily fix or replace your inflatable paddle board set if you run into any issues
+### High quality non slip design
+
+Inflatable SUP board with heavy duty drop stitch construction providing layers of military grade protection from damage; comfortable no-slip traction pad for standing or sitting; 10 feet 6 inches long; 32 inches wide; 6 inches thick; 275 lbs weight limit; 28.66 lb board weight; 41 lb total package weight including backpack, paddle board, fins, paddle and repair kit
+
+### Fast inflate, deflate times
+
+Inflate your board in just 3-5 minutes with the dual action pump; includes a PSI gauge to indicate when fully inflated; extra thick 6 inch width rides and feels like hard foam boards
+
+### Fast, Fun and great all round performance
+
+Experience peak performance in all conditions with a versatile rocker profile and triple bottom 2x1 fins; improved speed and steering for extreme whitewater river surfing as well as calm lake or ocean paddling
+
+### Fits in your backpack
+
+Carry your 28.66 lb inflated board with the conveniently located handle in the center of the board; deflate your board with one simple push and fit inside backpack with the rest of your accessory set; easy to carry entire kit from car to water at just 41 pounds
+
+### Long 3 year warranty for peace of mind
+
+Hassle free 3 Year Warranty; High Society is available for support beyond your purchase; we will happily fix or replace your inflatable paddle board set if you run into any issues
 
 ### Seven Layers of Materials
 
