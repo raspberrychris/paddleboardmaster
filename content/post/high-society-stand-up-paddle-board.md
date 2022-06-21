@@ -105,6 +105,8 @@ One of the strengths of this board in our opinion is the fairly rare 3 year warr
 
 As you have seen other manufacturers are prepared to back their paddleboard with a 1 year warranty generally, but to get a 3 year warranty really is going over and above what we have seen here on [**paddleboardmaster.com**](/)**.**
 
-Ulimately it seems that High Society are a very customer focused company and they are willing to do everything they can to create the perfect paddleboard, and I think they have created something really special here with this particular SUP!  If you are interested in this paddleboard you can click through to the product page for more details.
+Ultimately it seems that [**High Society**](/categories/high-society/) as a brand are a very customer focused company and they are willing to do everything they can to create the perfect paddleboard, and I think they have created something really special here with this particular SUP!  
+
+If you are interested in this paddleboard you can click through to the product page for more details. I hope you found this review useful.
 
 [**Click here to check out the High Society Inflatable Stand Up Paddle Board on Amazon.com...**](https://www.amazon.com/dp/B07PJB9768?&linkCode=ll1&tag=paddleboardmaster-20&linkId=a3c6b497fad2a191431df77395df4224&language=en_US&ref_=as_li_ss_tl)
