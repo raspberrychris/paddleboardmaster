@@ -18,6 +18,10 @@ widgets = []
 +++
 Welcome to this review today I will be taking a look at the [**Leader Accessories Inflatable Stand Up Paddle Board**](#) paddleboard Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market
 
+Leader Accessories describes itself as a “fast growing brand” which focuses on Automotive Sports & Outdoors and Home products.  But how does their inflatable paddle board fare? 
+
+**Let’s find out! Scroll down to find out how the Leader Accessories Inflatable SUP performs against the competition.**
+
 [**Click here to check out the Leader Accessories Inflatable Stand Up Paddle Board on Amazon.com...**](#)
 
 ## Leader Accessories Inflatable Stand Up Paddle Board  - Who is it for?
