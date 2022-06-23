@@ -58,10 +58,15 @@ Please lock the fin when installing to avoid the fin falling in the water. The i
 
 ## Verdict
 
-## 5/5
+## 3/5
 
 ## Pros
 
+* Good Starter SUP
+
 ## Cons
+
+* Unsure as to where it was made - not completely clear from the pacakaging
+* Some customers have reported issues with the SUP
 
 **Click here to check out the Leader Accessories Inflatable Stand Up Paddle Board  on Amazon.com...**
