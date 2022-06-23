@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = []
+categories = ["Leader Accessories"]
 comments = false
 date = 2022-06-18T23:00:00Z
 description = "Join us as we review the Leader Accessories Inflatable Stand Up Paddle Board and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
@@ -9,18 +9,20 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = ["Review"]
 thumbnail = ""
 title = "Leader Accessories Inflatable Stand Up Paddle Board "
 toc = false
 widgets = []
 
 +++
-Welcome to this review today I will be taking a look at the Leader Accessories Inflatable Stand Up Paddle Board paddleboard Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market
+Welcome to this review today I will be taking a look at the [**Leader Accessories Inflatable Stand Up Paddle Board**](#) paddleboard Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market
 
-Click here to check out the Leader Accessories Inflatable Stand Up Paddle Board on Amazon.com...
+[**Click here to check out the Leader Accessories Inflatable Stand Up Paddle Board on Amazon.com...**](#)
 
 ## Leader Accessories Inflatable Stand Up Paddle Board  - Who is it for?
+
+If you are looking for a paddleboard 
 
 ## Unboxing Video of Leader Accessories Inflatable Stand Up Paddle Board
 
