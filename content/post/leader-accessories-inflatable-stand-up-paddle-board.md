@@ -16,7 +16,7 @@ toc = true
 widgets = []
 
 +++
-Hello and welcome to this paddleboard review! Today I will be taking a look at the [**Leader Accessories Inflatable Stand Up Paddle Board**](#) paddleboard. Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
+Hello and welcome to this paddleboard review! Today I will be taking a look at the [**Leader Accessories Inflatable Stand Up Paddle Board**](#). Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
 
 [**Leader Accessories**](/categories/leader-accessories/) describes itself as a “fast growing brand” which focuses on Automotive Sports & Outdoors and Home products.  But how does their inflatable paddle board fare? 
 
@@ -31,6 +31,8 @@ Hello and welcome to this paddleboard review! Today I will be taking a look at t
 If you are new to paddleboarding then you may be checking out reviews of this paddleboard.  This is an entry level board at an affordable price and it appears as though everything  
 
 ## Unboxing Video of Leader Accessories Inflatable Stand Up Paddle Board
+
+{{< youtube X5O1aTTDMrE >}}
 
 **Click here to check out the Leader Accessories Inflatable Stand Up Paddle Board  on Amazon.com...**
 
