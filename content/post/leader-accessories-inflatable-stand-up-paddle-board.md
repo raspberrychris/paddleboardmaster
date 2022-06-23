@@ -1,18 +1,18 @@
 +++
-authorbox = false
+authorbox = true
 categories = ["Leader Accessories"]
-comments = false
+comments = true
 date = 2022-06-18T23:00:00Z
 description = "Join us as we review the Leader Accessories Inflatable Stand Up Paddle Board and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
 draft = true
 lead = ""
-mathjax = false
-pager = false
+mathjax = true
+pager = true
 sidebar = ""
 tags = ["Review"]
-thumbnail = ""
+thumbnail = "/uploads/fd294188-2a70-49f2-9781-d11af10b7664.jpeg"
 title = "Leader Accessories Inflatable Stand Up Paddle Board "
-toc = false
+toc = true
 widgets = []
 
 +++
