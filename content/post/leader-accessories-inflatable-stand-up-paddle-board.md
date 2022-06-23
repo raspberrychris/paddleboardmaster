@@ -2,7 +2,7 @@
 authorbox = true
 categories = ["Leader Accessories"]
 comments = true
-date = 2022-06-18T23:00:00Z
+date = 2022-06-23T11:00:00Z
 description = "Join us as we review the Leader Accessories Inflatable Stand Up Paddle Board and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
 draft = true
 lead = ""
