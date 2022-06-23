@@ -16,27 +16,26 @@ toc = false
 widgets = []
 
 +++
-Title:
-10'6"x33"x6" ISup for All Skill Levels with SUP Accessories Including Adjustable Paddle, Backpack, Leash, Hand Pump
 
-Description:
-【HIGH QUALITY】
+## Features:
 
-Leader Accessories inflatable stand up paddle board is made of high-quality PVC material and mesh structure with unmatched strength, Soft non-slip EVA foam deck pad for greatly improving stability while standing. Strong construction make the sup paddle board safe and stable in the water and can be used well by people of all skill level., 
+### High Quality Materials
 
-【Premium Accessories】
+Leader Accessories inflatable stand up paddle board is made of high-quality PVC material and mesh structure with unmatched strength, Soft non-slip EVA foam deck pad for greatly improving stability while standing. Strong construction make the sup paddle board safe and stable in the water and can be used well by people of all skill level.,
 
-Inflatable paddle board accessories include adjustable paddle, backpacks, ankle leash, repair kits, pump with gauge. Once you arrive at your destination,you can quickly inflate your board with the pump and get in the water in minutes., 
+### Premium Accessories
 
-【WELL MADE】
+Inflatable paddle board accessories include adjustable paddle, backpacks, ankle leash, repair kits, pump with gauge. Once you arrive at your destination,you can quickly inflate your board with the pump and get in the water in minutes.,
 
-The triple bottom panel fins help board improve overall speed, made it easiler for handling and steering. Size 10'6" long 32" wide and 6" thick with a weight limit of 300 pounds. Our paddle boards can be used in the ocean, fresh water lakes, and rivers. Ideal for yoga, fishing, touring, snorkeling, or recreational paddling., 
+### Triple Bottom Panel Fins for Speed
 
-【EASY TO CARRY】
+The triple bottom panel fins help board improve overall speed, made it easiler for handling and steering. Size 10'6" long 32" wide and 6" thick with a weight limit of 300 pounds. Our paddle boards can be used in the ocean, fresh water lakes, and rivers. Ideal for yoga, fishing, touring, snorkeling, or recreational paddling.,
 
-The inflatable sup stand up paddle board can be quickly inflated or deflated, it can be folded into a travel bag, you can take the bag with you wherever you go. The convenient deck handle can easily carry the SUP to the beach or lake. Allowing you to experience the joy of travel anywhere., 
+### Quick to Inflate and Deflate
 
-【TIPS】
+The inflatable sup stand up paddle board can be quickly inflated or deflated, it can be folded into a travel bag, you can take the bag with you wherever you go. The convenient deck handle can easily carry the SUP to the beach or lake. Allowing you to experience the joy of travel anywhere.,
+
+### TIPS
 
 Please lock the fin when installing to avoid the fin falling in the water. The inflation valve will be after multiple inflation and deflation loose, if there is air leakage, please use the valve wrench to tighten the valve. If you have any problems with the paddle board, please feel free to contact us, we are always here to help you. Hope our paddle board will bring you a great experience!
 
