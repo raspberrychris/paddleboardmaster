@@ -18,9 +18,11 @@ widgets = []
 +++
 Hello and welcome to this paddleboard review! Today I will be taking a look at the [**Leader Accessories Inflatable Stand Up Paddle Board**](#). Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
 
-[**Leader Accessories**](/categories/leader-accessories/) describes itself as a “fast growing brand” which focuses on Automotive Sports & Outdoors and Home products.  But how does their inflatable paddle board fare? 
+[**Leader Accessories**](/categories/leader-accessories/) describes itself as a “fast growing brand” which focuses on Automotive Sports & Outdoors and Home products.  From a quick look at their website you can see that inflatable paddleboard is just one of the many categories of products they focus on, so right from the outset you should be aware that this is not a specialised paddleboard company.
 
-**Let’s find out!** 
+But how does their inflatable paddle board fare on the water?
+
+**Let’s find out!**
 
 **Scroll down to find out how the Leader Accessories Inflatable SUP performs against the competition.**
 
@@ -28,7 +30,7 @@ Hello and welcome to this paddleboard review! Today I will be taking a look at t
 
 ## Leader Accessories Inflatable Stand Up Paddle Board  - Who is it for?
 
-If you are new to paddleboarding then you may be checking out reviews of this paddleboard.  This is an entry level board at an affordable price and it appears as though everything  
+If you are new to paddleboarding then you may be checking out reviews of this paddleboard.  This is an entry level board at an affordable price and it appears as though everything
 
 ## Unboxing Video of Leader Accessories Inflatable Stand Up Paddle Board
 
@@ -55,10 +57,6 @@ The triple bottom panel fins help board improve overall speed, made it easiler f
 ### Quick to Inflate and Deflate
 
 The inflatable sup stand up paddle board can be quickly inflated or deflated, it can be folded into a travel bag, you can take the bag with you wherever you go. The convenient deck handle can easily carry the SUP to the beach or lake. Allowing you to experience the joy of travel anywhere.
-
-### TIPS
-
-Please lock the fin when installing to avoid the fin falling in the water. The inflation valve will be after multiple inflation and deflation loose, if there is air leakage, please use the valve wrench to tighten the valve. If you have any problems with the paddle board, please feel free to contact us, we are always here to help you. Hope our paddle board will bring you a great experience!
 
 ## Verdict
 
