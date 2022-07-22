@@ -11,14 +11,23 @@ pager = false
 sidebar = ""
 tags = []
 thumbnail = ""
-title = "Reasons why Paddleboarding is so popular right now"
+title = "Reasons why Paddleboarding SUP is so popular right now"
 toc = false
 widgets = []
 
 +++
-Home/Paddleboard Lifestyle/7 Reasons Why Stand Up Paddleboarding is Exploding in Popularity
 
-While it may come as a shock to many, stand up paddleboarding (SUP) is currently one of the fastest-growing sports in the world. Over the past several years, paddleboarding has experienced a surge in popularity as individuals from all over the world are being exposed to the sport for the very first time.
+Paddleboarding is one of the most popular sports in the world right now.  You can see from the Google Trends graph below that the scale of the worldwide interest in paddleboarding is only getting stronger in 2022.
+
+![](/uploads/paddleboarding-trends-popularity-worldwide.png)
+
+So why exactly has paddleboarding become such a popular sport and one of the most searched for on the internet?
+
+There are many reasons for Paddleboarding's impressive growth in recent years.  I have put together a list of some of the top reasons that I believe paddleboarding has become a go-to sport for many people around the world.
+
+1. Everyone can get involved in paddleboarding
+
+Paddleboarding is a sport that everyone can get involved in, your whole family (including the dog) can all get involved and you can explore the world together.
 
 In this article, we’ll take a look at 7 top reasons why the sport of stand up paddleboarding is growing at such a rapid pace. While there are obviously many other contributing factors to the sport’s impressive growth, the following list includes several of the major ones that we’ve personally taken note of over the years.
 
@@ -28,7 +37,7 @@ Paddleboarding is a family-friendly activity that all ages and skill levels can 
 
 best all around sup board
 
-Inflatable Boarder caught the whole paddle fam coming back to shore with their Waterwalker and Prodigy paddleboards. 
+Inflatable Boarder caught the whole paddle fam coming back to shore with their Waterwalker and Prodigy paddleboards.
 
 REASON #2: Stand up paddleboarding has numerous health benefits.
 
