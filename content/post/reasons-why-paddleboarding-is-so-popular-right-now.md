@@ -39,14 +39,6 @@ There is a false perception among some people that Paddleboarding is an expensiv
 
 You no longer need a pickup, roof rack or any other expensive equipment to get into this sport.  If you are happy to part with a few hundred dollars then you can get a few high quality board, with every accessory you will need included.
 
-REASON #3: Paddleboarding is very affordable.
-
-Far from being a sport that is only accessible to wealthy individuals, stand up paddleboarding is a truly affordable activity that anyone can enjoy. SUP doesn’t require expensive lift tickets, high-priced travel arrangements, or costly gear to participate. Inflatable paddle boards are less expensive than hard boards and since they pack down to a fraction of their size, you don’t need a roof rack or any special equipment to travel with them. With a travel bag, included with any of our SUP package, you can literally paddle anywhere in the world.
-
-best all around sup board
-
-Connor and friends living it up on Lake Nighthorse, Durango, Colorado.
-
 REASON #4: SUP is a great activity for socializing.
 
 Thanks to the sport’s mass appeal, there are an endless number of local paddling clubs, meet-ups, and events that make it super easy to make new friends. Whether you’re a dog owner, river SUP enthusiast, advocate for ocean cleanup and conservation, or fitness buff, there are plenty of local outlets for meeting like-minded people who share your interests.
