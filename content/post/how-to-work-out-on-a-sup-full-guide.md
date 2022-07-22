@@ -16,8 +16,9 @@ toc = false
 widgets = []
 
 +++
+Paddleboarding as well as being incredibly fun is actually really good exercise as well.  Did you know that you can burn around 300-400 calories every hour just doing paddleboarding?
 
-By now you know that standup paddleboards are a fun and fitness-y way to traverse a body of water. “Simply paddling requires lots of upper-body, leg, and core strength,” says Larry Cain, a former Olympian and co-founder of Paddle Monster, an online SUP coaching site. Even when you’re cruising at a moderate clip, you may be looking at a cardio burn of up to 700 calories an hour.
+So what parts of the body are getting the work out when you are on your paddleboard just paddling?  Your upper body, legs and core are the main parts of your body that will get a workout from paddleboarding.
 
 But paddling is only one way to get fit on an SUP. The paddleboard also is an effective cross-training tool. From the moment you step on, you’re forcing your body to make constant adjustments—shifting weight between feet, shuffling around the deck, crouching slightly to ride out a wave or wake. These elements all help to build what is known as proprioception—the body’s sense of where it is in space.
 
