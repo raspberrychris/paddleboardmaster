@@ -39,9 +39,9 @@ There is a false perception among some people that Paddleboarding is an expensiv
 
 You no longer need a pickup, roof rack or any other expensive equipment to get into this sport.  If you are happy to part with a few hundred dollars then you can get a few high quality board, with every accessory you will need included.
 
-REASON #4: SUP is a great activity for socializing.
+## 4. Paddleboarding is a naturally social sport
 
-Thanks to the sport’s mass appeal, there are an endless number of local paddling clubs, meet-ups, and events that make it super easy to make new friends. Whether you’re a dog owner, river SUP enthusiast, advocate for ocean cleanup and conservation, or fitness buff, there are plenty of local outlets for meeting like-minded people who share your interests.
+With everyone out on the water together its inevitable that you will bump into lots of new people with similar interests, some of which might even become your new friends!  One of the great things about paddleboarding is that there is a strong community of likeminded people and wherever you are in the world you are never too far away from a SUP club or meetup.
 
 REASON #5: Surf culture without the need for surf.
 
