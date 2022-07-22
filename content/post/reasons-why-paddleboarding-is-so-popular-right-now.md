@@ -1,27 +1,28 @@
 +++
-authorbox = false
+authorbox = true
 categories = []
-comments = false
+comments = true
 date = 2022-07-22T11:00:00Z
-description = ""
-draft = true
-lead = ""
+description = "In this article we run through some of the top reasons why paddleboarding has become so insanely popular the past few years."
+lead = "Why is Paddleboarding SO Popular RN?"
 mathjax = false
-pager = false
+pager = true
 sidebar = ""
-tags = []
-thumbnail = ""
+tags = ["Beginners Guides"]
+thumbnail = "/uploads/tower-paddle-boards-4djbmr-l1uk-unsplash.jpg"
 title = "Reasons why Paddleboarding SUP is so popular right now"
-toc = false
+toc = true
 widgets = []
 
 +++
 
-Paddleboarding is one of the most popular sports in the world right now.  You can see from the Google Trends graph below that the scale of the worldwide interest in paddleboarding is only getting stronger in 2022.
+Paddleboarding is one of the most insanely popular sports in the world right now!  You can see from the Google Trends graph below that the scale of the worldwide interest in paddleboarding is only getting stronger in 2022.
 
 ![](/uploads/paddleboarding-trends-popularity-worldwide.png)
 
-So why exactly has paddleboarding become such a popular sport and one of the most searched for on the internet?
+[https://trends.google.com/trends/explore?q=paddleboarding](https://trends.google.com/trends/explore?q=paddleboarding "https://trends.google.com/trends/explore?q=paddleboarding")
+
+**So why exactly has paddleboarding become such a popular sport and one of the most searched for on the internet?**
 
 There are many reasons for Paddleboarding's impressive growth in recent years.  I have put together a list of some of the top reasons that I believe paddleboarding has become a go-to sport for many people around the world.
 
@@ -43,18 +44,22 @@ You no longer need a pickup, roof rack or any other expensive equipment to get i
 
 With everyone out on the water together its inevitable that you will bump into lots of new people with similar interests, some of which might even become your new friends!  One of the great things about paddleboarding is that there is a strong community of likeminded people and wherever you are in the world you are never too far away from a SUP club or meetup.
 
-REASON #5: Surf culture without the need for surf.
+## 5. Accessibility 
 
-The surf industry’s trendy, laid back culture is undeniably contagious, but the vast majority of people can’t participate due to the fact that it is centered around surf breaks and beach life. Stand up paddleboarding is much more accessible to people anywhere and the culture is comparable. — as long as you’re within driving distance of water, you can enjoy SUP’s fun lifestyle. Additionally, SUP is much easier to get started than surfing which takes lots of practice.
+The accessibility of paddleboarding and the fact that almost anyone can get involved in it and have fun straight away, is one of the things that I believe has propelled it to increased popularity in recent years.  It can be a solitary activity where you explore the world on your own and unwind, or it can be a group activity where you navigate together as a unit of either family or friends.  
 
-best all around sup board
+The bottom line is that anyone can get involved in paddleboarding and that is what makes it so fun.  Unlike surfing for example, which has a higher boundary for entry paddleboarding is a much more accessible sport than surfing without the high boundary for getting involved and having fun.
 
-Kristine of Hikes Near Vancouver soaking up the gorgeous scenery of E. C. Manning Provincial Park, British Columbia, Canada.
+## 6. Paddleboarding is the best way to explore the water and the outdoors
 
-REASON #6: It’s a great way to explore the outdoors.
+Some of the lakes in the US and around the world are unbelievably beautiful and full of jaw dropping scenery.  Exploring the world by paddleboard can give you a whole new perspective on the world and seeing the world from the water gives you a whole new view.
 
-If exploring the outdoors is your thing, stand up paddleboarding will give you unparalleled access to some of the most amazing spots in existence. A paddle board will allow you to explore stunningly beautiful areas that would be otherwise inaccessible. The sights you’ll experience while paddling are simply breathtaking.
+## 7. Paddleboarding can assist in Weight loss 
 
-REASON #7: Paddleboarding is a fun way to lose weight.
+Paddleboarding is not the most extremely active sport out there, but it is one that over time can help you maintain your weight and help fight the flab!  If you are looking for a low to medium intensity sport that doesn't involve running on a treadmill in a Gym staring at the clock, then you may be interested to try Paddleboarding.
 
-If you’re tired of fad diets, non-effective weight loss supplements, and expensive gym memberships, stand up paddleboarding will be right up your alley. SUP is a fantastic activity for burning fat and losing weight. Plus, it’s far more enjoyable than spending the afternoon in a crowded gym.
+## 8. Paddleboarding creates great opporunties for videos and photography
+
+If you are a video or photography enthusiast then you will discover that paddleboarding can open up a whole new level of photographic and filming opportunities when you are exploring.  
+
+When you are out on the water exploring the world, you get a unique perspective and this is something that is very hard to re-create any other way.  This provides lots of creative opportunities for you to share your passion for the water and exploration with other people (All while having loads of fun paddleboarding)!
