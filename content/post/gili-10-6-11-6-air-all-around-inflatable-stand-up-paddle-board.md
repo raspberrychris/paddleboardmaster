@@ -1,18 +1,18 @@
 +++
-authorbox = false
+authorbox = true
 categories = []
-comments = false
-date = ""
+comments = true
+date = 2022-07-22T11:00:00Z
 description = ""
 draft = true
 lead = ""
-mathjax = false
-pager = false
+mathjax = true
+pager = true
 sidebar = ""
 tags = []
 thumbnail = ""
 title = "GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board"
-toc = false
+toc = true
 widgets = []
 
 +++
