@@ -25,23 +25,19 @@ So why exactly has paddleboarding become such a popular sport and one of the mos
 
 There are many reasons for Paddleboarding's impressive growth in recent years.  I have put together a list of some of the top reasons that I believe paddleboarding has become a go-to sport for many people around the world.
 
-1. Everyone can get involved in paddleboarding
+## 1. Everyone can get involved in (SUP) paddleboarding
 
-Paddleboarding is a sport that everyone can get involved in, your whole family (including the dog) can all get involved and you can explore the world together.
+Paddleboarding is a sport that everyone can get involved in, your whole family (including the dog!) can all get involved and you can explore the world together on your paddleboards. One of the great things about paddleboarding is that it is very easy to get to grips with and it has a universal appeal with children and adults alike!
 
-In this article, we’ll take a look at 7 top reasons why the sport of stand up paddleboarding is growing at such a rapid pace. While there are obviously many other contributing factors to the sport’s impressive growth, the following list includes several of the major ones that we’ve personally taken note of over the years.
+## 2. Paddleboarding can improve your health! 
 
-REASON #1: SUP is something the whole family can enjoy.
+From a physical healthy perspective SUP paddleboarding gives you a great workout, it helps strengthen your core and keen your cardiovascular health in check.  On a mental health perspective paddleboarding can provide you with a good way to release stress from your life and become more connected to the outside world and nature around you.  If you need to unwind, replenish and relax then paddleboarding can certainly help improve your overall fitness both mentally and physically.
 
-Paddleboarding is a family-friendly activity that all ages and skill levels can enjoy. It’s an incredibly easy sport to pick up and something that children love just as much as seniors. If you’re looking for a great way to spend an afternoon with the family, SUP is a wonderful choice!
+## 3. Paddleboarding is no longer expensive
 
-best all around sup board
+There is a false perception among some people that Paddleboarding is an expensive hobby only available to the rich.  This is however far from true and since the introduction of inflatable paddleboards prices of high quality SUPs have become extremely affordable. Inflatable SUPs also have a distinct advantage in that they can be easily stored away when not in use and transported in a backpack.
 
-Inflatable Boarder caught the whole paddle fam coming back to shore with their Waterwalker and Prodigy paddleboards.
-
-REASON #2: Stand up paddleboarding has numerous health benefits.
-
-In addition to providing outstanding physical health benefits, SUP is also great for mental health. Physically, paddleboarding gives you a great full-body workout. It’s an excellent activity for cardiovascular health and core strengthening. Mentally, it provides an effective outlet for stress management. Paddleboarding allows you to unplug from the stresses of daily life and gives you access to scenic, serene paddling spots. There’s no better way to refresh and recharge.
+You no longer need a pickup, roof rack or any other expensive equipment to get into this sport.  If you are happy to part with a few hundred dollars then you can get a few high quality board, with every accessory you will need included.
 
 REASON #3: Paddleboarding is very affordable.
 
