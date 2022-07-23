@@ -24,7 +24,7 @@ In this article I will be taking a look at the GILI 10'6/11'6 AIR All Around Inf
 
 ## GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board - Who is it for?
 
-This is not the best value 
+This is not the best value paddleboard out there, 
 
 ### Quick Deflation
 
