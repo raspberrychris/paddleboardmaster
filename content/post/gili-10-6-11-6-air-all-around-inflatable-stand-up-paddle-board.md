@@ -95,4 +95,14 @@ You also get a 60 day guarantee and 2 year warranty for peace of mind.
 
 * Made in China
 
+We think this is a great board for someone who has an existing hard board but wants something that they can use on the weekends.  
+
+It is a little less affordable than some of the other SUPs that we have reviewed, but the quality of the materials and the overall package is extremely good.
+
+The only negative point that we could find really was that this SUP is not made in the US.  It is actually made in China, contrary to some of the listings of this product on the internet.  
+
+One of the things that makes this inflatable paddle board quite special is the quality of the accessories and how they fit together to be one overall package.  Also the weight of the board is just 19lbs.  Considering most SUPs weigh 25lbs this is a considerable reduction.
+
+You will likely need an electric pump to pump up this SUP.  The **Villanova pump** is our recommendation 
+
 [**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**](#)
