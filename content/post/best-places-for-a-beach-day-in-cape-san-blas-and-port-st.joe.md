@@ -50,11 +50,11 @@ At the time of writing rates start at $35 for half a day rental for a paddleboar
 
 ## 1. T.H. Stone Memorial St. Joseph Peninsula State Park
 
-One of the crown jewels of the Forgotten Coast, T.H. Stone Memorial St. Joseph Peninsula State Park not only protects important maritime hammock forest, sand-pine scrub, and some downright towering dunes, but also a beautiful Gulf of Mexico beachfront. Along with some of the region’s best camping and fishing, the state park offers multiple access points for the beach, providing unspoiled sands for sunbathing, shelling, and swimming (though be aware of rip tides and other hazards).
+![T.H. Stone Memorial St. Joseph Peninsula State Park](/uploads/beach-th-stone-memorial-st-joseph-peninsula.png "T.H. Stone Memorial St. Joseph Peninsula State Park")
 
-At the Eagle Harbor Boat Basin within the park, Scallop Cove Too offers beach umbrella and beach chair rentals, plus stand-up paddleboards, kayaks, and pontoon boats for rent and sunscreen and other beach essentials for sale.
+Possibly one of the most beautiful beaches you will ever walk on the T.H. Stone Memorial St. Joseph Peninsula State Park is mind blowingly beautiful.  This state park really offers the best of everything in terms of swimming, paddleboarding, camping, fishing.  ... You get the idea!
 
-A heads up: As of this writing, the northern portion of St. Joseph Peninsula State Park—that stretch north of the Eagle Harbor boat ramp—is not accessible on account of a breach opened between St. Joseph Bay and the Gulf by Hurricane Michael in 2018.
+If you are looking for completely unspoiled beaches it is going to be hard to beach the T.H. Stone Memorial St. Joseph Peninsula State Park beaches.  Hiring deckchairs, umbrellas and paddleboards is a breeze as well with many local shops nearby that can help you.  (We have listed our favourites at the bottom of the article).
 
 Cape Palms Park
 
