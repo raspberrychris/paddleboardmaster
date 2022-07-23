@@ -16,7 +16,7 @@ toc = false
 widgets = []
 
 +++
-**If you are looking for the best places for a beach day in Cape San Blas and Port St Joe, then it's your lucky day, we have got you covered!**
+**If you are looking for the best places for a beach day in Cape San Blas and Port St Joe, then it's your lucky day, we have got you covered.  Check out our full article below to get the inside scoop into this beautiful part of the world.**
 
 **Question:**
 
