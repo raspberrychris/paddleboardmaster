@@ -24,15 +24,19 @@ Does Port St. Joe have a beach?
 
 **Answer:**
 
-Yes.  St. Joe Beach and WindMark Beach is often called “The Beaches” and is the best place for a quick trip out to white sand beaches from Port St. Joe, just 10 minutes away.
+Yes, it certainly does.  Port St. Joe Beach and WindMark Beach is often called “The Beaches” and is the best place for a quick trip out to white sand beaches from Port St. Joe, just 10 minutes away.
 
 Port St Joe is without a doubt one of the best destinations for fun times on Florida's forgotten coast.
 
 Below are our picks for top places to go if you are looking for an awesome day trip to the beach in Port St Joe.
 
-## T.H. Stone Memorial St. Joseph Peninsula State Park
+## Money Beach
 
-a couple of people walking along the shoreline during sunset at T.H Stone Memorial St. Joseph Peninsula State Park
+![money-beach](/uploads/money-beach.png "money-beach")
+
+The money beach has equisite white sands and is sometimes also referred to as the Money Bayou Beach.  It has been nicknamed "Money Beach" due to the legend that there is hidden pirate treasure somewhere in the area.  The Money Beach is now a bit quieter than it used to be and makes an excellent place these days to walk with a dog or friends and family whilst taking in the beautiful scenery. 
+
+## 1. T.H. Stone Memorial St. Joseph Peninsula State Park
 
 One of the crown jewels of the Forgotten Coast, T.H. Stone Memorial St. Joseph Peninsula State Park not only protects important maritime hammock forest, sand-pine scrub, and some downright towering dunes, but also a beautiful Gulf of Mexico beachfront. Along with some of the region’s best camping and fishing, the state park offers multiple access points for the beach, providing unspoiled sands for sunbathing, shelling, and swimming (though be aware of rip tides and other hazards).
 
@@ -46,11 +50,7 @@ waves washing on the beach on a sunny day at Cape Palms Park
 
 South of St. Joseph Peninsula State Park, Cape Palms Park provides free beach access to the peninsula’s Gulf shore. Here you’ll find some plush and powdery sands for classic Sunshine State R&R, plus a covered pavilion, grills, picnic tables, a boardwalk, and other improvements. You’ll often enjoy a surprising amount of elbow room at the Cape Palms beach, which is a superb place to soak up one of the marvelous sunsets the Forgotten Coast specializes in.
 
-Money Beach
-
-Near the western side of Saint Vincent Sound and along the southeastern base of Cape San Blas, Money Beach (or Money Bayou Beach) unfurls snowy white sands at the mouth of Money Bayou. (The “money” name for the bayou and the beach come from rumors of a stash of pirate booty in the area.) Once a more developed beachfront hosting a resort and nightclubs, Money Beach is now a quieter strand fronted by beach houses and calling out for a stroll along the swash.
-
-William J. Rish Park
+## William J. Rish Park
 
 view of the beach with calm waters at William J. Rish Park in Florida
 
