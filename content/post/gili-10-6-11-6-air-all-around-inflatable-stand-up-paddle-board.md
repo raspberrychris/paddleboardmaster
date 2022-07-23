@@ -1,15 +1,15 @@
 +++
 authorbox = true
-categories = []
+categories = ["Gili"]
 comments = true
 date = 2022-07-22T11:00:00Z
-description = ""
+description = "Join us in this article as we take the GILI AIR SUP through its paces to find out how it performs against the competition."
 draft = true
 lead = ""
 mathjax = true
 pager = true
 sidebar = ""
-tags = []
+tags = ["Review"]
 thumbnail = ""
 title = "GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board"
 toc = true
