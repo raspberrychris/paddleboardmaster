@@ -1,18 +1,17 @@
 +++
-authorbox = false
+authorbox = true
 categories = []
-comments = false
+comments = true
 date = 2022-07-23T11:00:00Z
-description = ""
-draft = true
-lead = ""
+description = "If you are looking for the best places for a beach day in Cape San Blas and Port St Joe, then it's your lucky day, we have got you covered. "
+lead = "We check out the best places for a beach day in Cape San Blas!"
 mathjax = false
-pager = false
+pager = true
 sidebar = ""
-tags = []
-thumbnail = ""
+tags = ["Beginners Guides"]
+thumbnail = "/uploads/beach-th-stone-memorial-st-joseph-peninsula.png"
 title = "Best Places for a Beach Day in Cape San Blas and Port St. Joe"
-toc = false
+toc = true
 widgets = []
 
 +++
@@ -56,22 +55,22 @@ Hiring deckchairs, umbrellas and paddleboards is a breeze as well with many loca
 
 ## William J. Rish Park
 
-William J. Rish Park is a special beach destination, offering full ADA accessibility and open only to Florida residents who have disabilities or special needs as well as their family and/or caretakers. Owned by the Agency for Persons With Disabilities, the park includes wheelchair beach access as well as a multipurpose event hall with a spacious kitchen and dining facility. Overnight cabins and cottages give visitors to William J. Rish Park the chance to extend their beachgoing idyll over multiple days.
+![william j rish park](/uploads/william-j-rish-park.png "william j rish park")
+
+[**William J. Rish Park**](https://goo.gl/maps/N7sGsT5TDzy2XQpE8) is open for only Florida residents who have disabilities or special needs, the park has wheelchair beach access and cabins and cottages are available for overnight stays.
 
 ## Salinas Park
 
 ![Salinas Park](/uploads/salinas-park.png "Salinas Park")
 
-[**Salinas Park**](https://goo.gl/maps/exAHMF2xTJzVgn3o8) has many different facilities such as a playground, bathrooms with rest rooms, and picnic tables, and is one of the more calmer beaches in the area, making it great for paddling, paddleboarding or just generally chilling with friends and family on the beautiful sun kissed sandy beaches.
-
-Incidentally, one of the premier outfitters for beach horseback riding, Two-bit Stable, is situated here.
+[**Salinas Park**](https://goo.gl/maps/exAHMF2xTJzVgn3o8) has many different facilities such as a playground, bathrooms with rest rooms, and picnic tables, and is one of the more calmer beaches in the area, making it great for paddling, paddle boarding or just generally chilling with friends and family on the beautiful sun kissed sandy beaches.  If you want something that is a bit more active, you can even go horse riding here.  Overall Salinas park is a great choice for the whole family and fantastic if you want to get your SUP out and explore the coastline.
 
 ## Ok, so where is the BEST place to rent a paddleboard in Cape San Blas?
 
 [**San Flea Rentals**](https://www.sanflearentals.com/products--rates.html) is a locally owned business with great customer service and has some really great equipment that you can rent for the day, including paddleboards!   They get our pick for being the best place to rent a paddleboard for a few hours or even a few days!
 
-**At the time of writing rates start at $35 for half a day rental for a paddleboard and go up to $130 for 4-7 days rental.**
+> **At the time of writing rates start at $35 for half a day rental for a paddleboard and go up to $130 for 4-7 days rental.**
 
 **Check their website out below for more details:** 
 
-[https://www.sanflearentals.com](https://www.sanflearentals.com/products--rates.html "https://www.sanflearentals.com/products--rates.html")
+[**https://www.sanflearentals.com**](https://www.sanflearentals.com/products--rates.html "https://www.sanflearentals.com/products--rates.html")
