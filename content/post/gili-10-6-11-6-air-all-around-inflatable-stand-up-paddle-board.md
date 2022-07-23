@@ -24,6 +24,8 @@ In this article I will be taking a look at the GILI 10'6/11'6 AIR All Around Inf
 
 ## GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board - Who is it for?
 
+![Gili-who-is-it-for](/uploads/585155f8-e2a9-4c29-83bd-0f1ecba86e77.jpeg "Gili-who-is-it-for")
+
 This is not the best value paddleboard out there, but it represents good value for money if you are looking for a high performance SUP that is lighter than a traditional hard board.
 
 The board itself packs away into the provided bag and is flight safe, fits in to your car or pick up and can be stored easily away in your house when not in use.
@@ -32,7 +34,9 @@ The board itself packs away into the provided bag and is flight safe, fits in to
 
 The width of the GILI has been extended to 32 inches to provide the ultimate stability when out on the water.  This is really going to be important if you are looking for a paddleboard that you need for activities that require a certain degree of stability such as fishing or Yoga for example.
 
-### Quick Deflation
+### Quick Deflation and Inflation
+
+![Gili-inflates-in-10-minutes](/uploads/b981d37d-3e02-4d4c-b0a6-6855d086914f.jpeg "Gili-inflates-in-10-minutes")
 
 If you are looking for a SUP that is quick to deflate then it might be worth taking a look at the GILI which deflates in around 5-10 minutes, this is a fast time and you can re-inflate it to around 12-15 PSI when you need to use it.
 
@@ -65,6 +69,8 @@ The dimensions: 11'6 x 32" x 6” - the perfect blend of balance, weight & size.
 
 ### All the accessories you need
 
+![Gili-accessories](/uploads/d4e4346e-625d-4f47-b78c-e8012459a151.jpeg "Gili-accessories")
+
 Extra large diamond traction pad: bring a 4-legged friend or use for SUP Yoga. 6-Point Front Bungee for quick access to your gear. Nose and Center Grab Handle for easy transport and maneuverability. Our 9” Snap-In fin attaches quickly and easy with our ultra secure fin box - no tools needed. 2 Stage Pump for fast and easy inflation. Adjustable Travel Paddle breaks down in 3 pieces and adjusts to your height. Comfy iSUP Backpack carries the board and accessories
 
 ### What’s in the box?
@@ -81,6 +87,8 @@ Extra large diamond traction pad: bring a 4-legged friend or use for SUP Yoga. 6
 You also get a 60 day guarantee and 2 year warranty for peace of mind.
 
 ## Verdict
+
+![Gili-on-beach](/uploads/b5ffede0-712c-4c47-91ad-289fbab4e4fc.jpeg "Gili-on-beach")
 
 ## 4/5
 
