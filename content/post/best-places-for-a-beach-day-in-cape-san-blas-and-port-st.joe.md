@@ -50,7 +50,7 @@ Hiring deckchairs, umbrellas and paddleboards is a breeze as well with many loca
 
 ## Cape Palms Park
 
-South of St. Joseph Peninsula State Park, Cape Palms Park provides free beach access to the peninsula’s Gulf shore. Here you’ll find some plush and powdery sands for classic Sunshine State R&R, plus a covered pavilion, grills, picnic tables, a boardwalk, and other improvements. You’ll often enjoy a surprising amount of elbow room at the Cape Palms beach, which is a superb place to soak up one of the marvelous sunsets the Forgotten Coast specializes in.
+[**Cape Palms Park**](https://goo.gl/maps/pa6qhc29LjyBbnCe6) has free beach access to the Gulf shore.  It is a dog friendly beach, so you can take your dog there so long as it is on a leash.  Cape Palms Park has a friendly local community vibe and it is filled with white sands, picnic tables, a boardwalk, and other entertainment. You’ll find a lot of things to love about Cape Palms Park.  Oh, did we mention it is also the **PERFECT** place to watch the sunset?
 
 ## William J. Rish Park
 
