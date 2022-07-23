@@ -50,6 +50,8 @@ Hiring deckchairs, umbrellas and paddleboards is a breeze as well with many loca
 
 ## Cape Palms Park
 
+![cape palms park](/uploads/cape-palm.png "cape palms park")
+
 [**Cape Palms Park**](https://goo.gl/maps/pa6qhc29LjyBbnCe6) has free beach access to the Gulf shore.  It is a dog friendly beach, so you can take your dog there so long as it is on a leash.  Cape Palms Park has a friendly local community vibe and it is filled with white sands, picnic tables, a boardwalk, and other entertainment. You’ll find a lot of things to love about Cape Palms Park.  Oh, did we mention it is also the **PERFECT** place to watch the sunset?
 
 ## William J. Rish Park
