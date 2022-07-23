@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://paddleboardmaster.com"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
