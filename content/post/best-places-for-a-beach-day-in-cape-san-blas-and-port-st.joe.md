@@ -60,20 +60,18 @@ William J. Rish Park is a special beach destination, offering full ADA accessibi
 
 ## Salinas Park
 
-One spot that puts the beauty of Cape San Blas on fully display, Salinas Park include frontage on both St. Joseph Bay and the Gulf of Mexico, and supports some lovely pine stands and coastal scrub. The Gulf-side portion is where you’ll go for a free beach day just minutes from Port St. Joe, reaching the surf-caressed sands via a boardwalk through the scrub. The park includes a playground, bathrooms, and picnic tables, and is a good place for wading and swimming when conditions are calm (as they often are here).
+![Salinas Park](/uploads/salinas-park.png "Salinas Park")
+
+[**Salinas Park**](https://goo.gl/maps/exAHMF2xTJzVgn3o8) has many different facilities such as a playground, bathrooms with rest rooms, and picnic tables, and is one of the more calmer beaches in the area, making it great for paddling, paddleboarding or just generally chilling with friends and family on the beautiful sun kissed sandy beaches.
 
 Incidentally, one of the premier outfitters for beach horseback riding, Two-bit Stable, is situated here.
 
-## A Beach Day on Cape San Blas & the St. Joseph Peninsula
+## Ok, so where is the BEST place to rent a paddleboard in Cape San Blas?
 
-From the small but sweet Cape Palms Park to the long sandy carpet of St. Joseph Peninsula State Park, you’ve got multiple options for beachgoing bliss on a Port St. Joe-area getaway. Our advice? Hit ‘em all up for maximum sand-between-your-toes vacationing on the Forgotten Coast!
+[**San Flea Rentals**](https://www.sanflearentals.com/products--rates.html) is a locally owned business with great customer service and has some really great equipment that you can rent for the day, including paddleboards!   They get our pick for being the best place to rent a paddleboard for a few hours or even a few days!
 
-## Ok, so where is the best place to rent a paddleboard in Cape San Blas?
+**At the time of writing rates start at $35 for half a day rental for a paddleboard and go up to $130 for 4-7 days rental.**
 
-San Flea Rentals is a locally owned business with great customer service and has some really great equipment that you can rent for the day, including paddleboards!   
+**Check their website out below for more details:** 
 
-At the time of writing rates start at $35 for half a day rental for a paddleboard and go up to $130 for 4-7 days rental.
-
-**Check their website out below:** 
-
-[https://www.sanflearentals.com/products--rates.html](https://www.sanflearentals.com/products--rates.html "https://www.sanflearentals.com/products--rates.html")
+[https://www.sanflearentals.com](https://www.sanflearentals.com/products--rates.html "https://www.sanflearentals.com/products--rates.html")
