@@ -34,7 +34,19 @@ Below are our picks for top places to go if you are looking for an awesome day t
 
 ![money-beach](/uploads/money-beach.png "money-beach")
 
-The money beach has equisite white sands and is sometimes also referred to as the Money Bayou Beach.  It has been nicknamed "Money Beach" due to the legend that there is hidden pirate treasure somewhere in the area.  The Money Beach is now a bit quieter than it used to be and makes an excellent place these days to walk with a dog or friends and family whilst taking in the beautiful scenery. 
+The Money Beach has exquisite white sands and is sometimes also referred to as the Money Bayou Beach.  It has been nicknamed "Money Beach" due to the legend that there is hidden pirate treasure somewhere in the area...who knows, maybe you will find it when you visit!  
+
+The Money Beach is now a bit quieter than it used to be and makes an excellent place to walk with a dog or friends and family while taking in the beautiful scenery all around you.
+
+## Where to rent a paddleboard in Cape San Blas?
+
+San Flea Rentals is a locally owned business with great customer service and has some really great equipment that you can rent for the day, including paddleboards!   
+
+At the time of writing rates start at $35 for half a day rental for a paddleboard and go up to $130 for 4-7 days rental.
+
+**Check their website out below:** 
+
+[https://www.sanflearentals.com/products--rates.html](https://www.sanflearentals.com/products--rates.html "https://www.sanflearentals.com/products--rates.html")
 
 ## 1. T.H. Stone Memorial St. Joseph Peninsula State Park
 
