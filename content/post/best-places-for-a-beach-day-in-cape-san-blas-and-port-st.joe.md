@@ -56,7 +56,7 @@ Hiring deckchairs, umbrellas and paddleboards is a breeze as well with many loca
 
 ## William J. Rish Park
 
-Easily reached from Port St. Joe and close to both Cape Palms Park and St. Joseph Peninsula State Park, William J. Rish Park is a special beach destination, offering full ADA accessibility and open only to Florida residents who have disabilities or special needs as well as their family and/or caretakers. Owned by the Agency for Persons With Disabilities, the park includes wheelchair beach access as well as a multipurpose event hall with a spacious kitchen and dining facility. Overnight cabins and cottages give visitors to William J. Rish Park the chance to extend their beachgoing idyll over multiple days.
+William J. Rish Park is a special beach destination, offering full ADA accessibility and open only to Florida residents who have disabilities or special needs as well as their family and/or caretakers. Owned by the Agency for Persons With Disabilities, the park includes wheelchair beach access as well as a multipurpose event hall with a spacious kitchen and dining facility. Overnight cabins and cottages give visitors to William J. Rish Park the chance to extend their beachgoing idyll over multiple days.
 
 ## Salinas Park
 
