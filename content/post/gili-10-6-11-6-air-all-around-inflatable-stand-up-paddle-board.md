@@ -24,11 +24,13 @@ In this article I will be taking a look at the GILI 10'6/11'6 AIR All Around Inf
 
 ## GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board - Who is it for?
 
-This is not the best value paddleboard out there, 
+This is not the best value paddleboard out there, but it represents good value for money if you are looking for a high performance SUP that is lighter than a traditional hard board.
+
+The board itself packs away into the provided bag and is flight safe, fits in to your car or pick up and can be stored easily away in your house when not in use.
 
 ### Quick Deflation
 
-If you are looking for a SUP that is quick to deflate then it might be worth taking a look at the GILI which deflates in around 5-10 minutes.  
+If you are looking for a SUP that is quick to deflate then it might be worth taking a look at the GILI which deflates in around 5-10 minutes, this is a fast time and you can re-inflate it to around 12-15 PSI when you need to use it.
 
 ### How to deflate:
 
