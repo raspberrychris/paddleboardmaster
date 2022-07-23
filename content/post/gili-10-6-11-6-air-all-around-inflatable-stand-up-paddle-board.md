@@ -4,7 +4,6 @@ categories = ["Gili"]
 comments = true
 date = 2022-07-22T11:00:00Z
 description = "Join us in this article as we take the GILI AIR SUP through its paces to find out how it performs against the competition."
-draft = true
 lead = ""
 mathjax = true
 pager = true
@@ -16,11 +15,13 @@ toc = true
 widgets = []
 
 +++
-In this article I will be taking a look at the GILI 10'6/11'6 AIR All Around Inflatable stand up paddleboard. I will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition.
+In this article I will be taking a look at the [**GILI**](/categories/gili/) 10'6/11'6 AIR All Around Inflatable stand up paddleboard. I will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition.
 
 **Let’s get in to this!**
 
-[**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**](#)
+If you want to jump straight to the product listing you can click the link below:
+
+[**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**](https://www.amazon.com/Gili-Around-Inflatable-Stand-Paddle/dp/B0987XRY11?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=316234526beb63b88791f60db302c1ba&language=en_US&ref_=as_li_ss_tl)
 
 ## GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board - Who is it for?
 
@@ -30,6 +31,8 @@ I’m going to jump straight in with the elephant in the room:  This is not the 
 
 The board itself packs away into the provided bag and is flight safe, fits in to your car or pick up and can be stored easily away in your house when not in use.
 
+In terms of design and colors you can get two variations the blue (pictured) or a Camo version.  We like both designs, but I think the blue is our favorite.
+
 ### Extra Wide design
 
 The width of the GILI has been extended to 32 inches to provide the ultimate stability when out on the water.  This is really going to be important if you are looking for a paddleboard that you need for activities that require a certain degree of stability such as fishing or Yoga for example.
@@ -38,7 +41,7 @@ The width of the GILI has been extended to 32 inches to provide the ultimate sta
 
 ![Gili-inflates-in-10-minutes](/uploads/b981d37d-3e02-4d4c-b0a6-6855d086914f.jpeg "Gili-inflates-in-10-minutes")
 
-If you are looking for a SUP that is quick to deflate then it might be worth taking a look at the GILI, which deflates in around 5-10 minutes, this is a fast time and you can re-inflate it to around 12-15 PSI when you need to use it.
+If you are looking for a SUP that is quick to deflate then it might be worth taking a look at the [**GILI**](/categories/gili/), which deflates in around 5-10 minutes, this is a fast time and you can re-inflate it to around 12-15 PSI when you need to use it.
 
 ### How to deflate the GILI:
 
@@ -49,11 +52,11 @@ If you are looking for a SUP that is quick to deflate then it might be worth tak
 
 ## Unboxing Video of GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board
 
-If you want to check out a full review of the GILI check out the video below:
+If you want to check out a full review of the [**GILI**](/categories/gili/) check out the video below:
 
 {{< youtube SrqrWWQ-Rq0 >}}
 
-[**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**](#)
+[**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**](https://www.amazon.com/Gili-Around-Inflatable-Stand-Paddle/dp/B0987XRY11?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=316234526beb63b88791f60db302c1ba&language=en_US&ref_=as_li_ss_tl)
 
 ## What Activities is it Suitable For?
 
@@ -117,6 +120,8 @@ The only negative point that we could find really was that this SUP is not made 
 
 One of the things that makes this inflatable paddle board quite special is the quality of the accessories and how they fit together to be one overall package.  Also the weight of the board is just 19lbs.  Considering most SUPs weigh 25lbs this is a considerable reduction.
 
-You will likely need an electric pump to pump up this SUP.  The **Villanova pump** is our recommendation 
+Lastly, you will likely need an electric pump to pump up this SUP.
 
-[**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**](#)
+We hope you enjoyed this review, let us know what you think of this SUP in the comments.
+
+[**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**](https://www.amazon.com/Gili-Around-Inflatable-Stand-Paddle/dp/B0987XRY11?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=316234526beb63b88791f60db302c1ba&language=en_US&ref_=as_li_ss_tl)
