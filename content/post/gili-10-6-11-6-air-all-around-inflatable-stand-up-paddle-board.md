@@ -45,6 +45,8 @@ If you are looking for a SUP that is quick to deflate then it might be worth tak
 
 ## Unboxing Video of GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board
 
+If you want to check out a full review of the GILI check out the video below:
+
 {{< youtube SrqrWWQ-Rq0 >}}
 
 [**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**](#)
@@ -80,10 +82,17 @@ You also get a 60 day guarantee and 2 year warranty for peace of mind.
 
 ## Verdict
 
-## 5/5
+## 4/5
 
 ## Pros
 
+* Super Lightweight transportable board
+* Easy to Inflate
+* Good Quality Board
+* Good alternative to a hard board
+
 ## Cons
 
-**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**
+* Made in China
+
+[**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**](#)
