@@ -24,9 +24,11 @@ In this article I will be taking a look at the GILI 10'6/11'6 AIR All Around Inf
 
 ## GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board - Who is it for?
 
-Quick Deflation
+This is not the best value 
 
-If you are looking for a SUP that is quick to deflate then it might be worth taking a look at the GILI which deflates in around 5-10 minutes 
+### Quick Deflation
+
+If you are looking for a SUP that is quick to deflate then it might be worth taking a look at the GILI which deflates in around 5-10 minutes.  
 
 ### How to deflate:
 
