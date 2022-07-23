@@ -28,11 +28,15 @@ This is not the best value paddleboard out there, but it represents good value f
 
 The board itself packs away into the provided bag and is flight safe, fits in to your car or pick up and can be stored easily away in your house when not in use.
 
+### Extra Wide design
+
+The width of the GILI has been extended to 32 inches to provide the ultimate stability when out on the water.  This is really going to be important if you are looking for a paddleboard that you need for activities that require a certain degree of stability such as fishing or Yoga for example.
+
 ### Quick Deflation
 
 If you are looking for a SUP that is quick to deflate then it might be worth taking a look at the GILI which deflates in around 5-10 minutes, this is a fast time and you can re-inflate it to around 12-15 PSI when you need to use it.
 
-### How to deflate:
+### How to deflate the GILI:
 
 * Make sure the board is dry and dust-fre
 * Slowly, push down on the valve pin, and turn clockwise until the pin is locked in the DOWN position.
@@ -41,7 +45,9 @@ If you are looking for a SUP that is quick to deflate then it might be worth tak
 
 ## Unboxing Video of GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board
 
-**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**
+{{< youtube SrqrWWQ-Rq0 >}}
+
+[**Click here to check out the GILI 10'6/11'6 AIR All Around Inflatable Stand Up Paddle Board on Amazon.com...**](#)
 
 ## What Activities is it Suitable For?
 
