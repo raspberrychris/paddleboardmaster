@@ -15,7 +15,7 @@ toc = true
 widgets = []
 
 +++
-### Is Paddleboarding considered good exercise?
+## Is Paddleboarding considered good exercise?
 
 Is paddleboarding a good workout? Yes it is, SUP (Stand up paddleboarding) is a great strength workout. Not many activities provide both upper body training, leg work and core strength building at the same time.  So it is perfect for building up your strength.
 
