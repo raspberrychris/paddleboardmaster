@@ -44,4 +44,10 @@ SUP surfing is a more active way to burn calories and is a fun at the same time.
 
 ## How many calories can you burn from SUP Racing? 
 
+If you are looking for the most intense paddleboard workout possible then you need to try paddleboard racing.  
+
+With Paddleboard racing you can typically burn at the top end of the spectrum: Around 750-1000 calories an hour would be realistic for Paddleboard racing.
+
+Paddleboard racing is a great way to increase your strength and endurance and enables everyone to get involohohgjj g
+
 On average, stand up paddle board racing burns between 750-to-1,000 calories per hour. Of course, this depends on how much effort you’re putting into the sport. If you’re paddling with all your might, trying to cross the finish line first, then you’ll definitely burn more calories than if you were casually making your way through the water. SUP racing is great for those who are looking for a full-body workout that works on both strength and endurance. You’ll be burning calories while toning and strengthening muscles throughout your entire body.
