@@ -34,4 +34,6 @@ Let's jump into how many calories you can burn from specific activities whilst p
 
 ## How many calories can you burn from Yoga Paddleboarding?
 
-Yoga on a paddleboard is definitely not the easiest activity and the instability of the board can really help work your core muscles.  We estimate that if you were doing Yoga on a paddleboard you are likely to burn at the higher end of the calorie scale, so around 500-600 calories per hour whilst doing Yoga on a paddleboard.
+Yoga on a paddleboard is definitely not the easiest activity to do and the instability of the board can really help work your core muscles.  
+
+We estimate that if you were doing Yoga on a paddleboard and know your downward-facing dog from your tree pose you are likely to burn at the higher end of the calorie scale, so around 500-600 calories per hour whilst doing Yoga on a paddleboard.
