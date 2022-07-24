@@ -40,9 +40,27 @@ A: Yes. Visitors can climb the tower five days a week at 10 a.m. and 1 p.m. The 
 
 ## **CRANDON PARK**
 
+![CRANDON PARK](/uploads/crandon-park.png "CRANDON PARK")
+
+**Address**
+
+[6747 Crandon Boulevard, Key Biscayne, FL](https://maps.google.com/?q=Crandon%20Park,Miami+FL)
+
+**Hours of Operation**  
+Sunrise - Sunset  
+**Office Hours**  
+8 a.m. - 5 p.m., seven days a week
+
+**Park Office**  
+305-365-2320
+
 Heading more to the north there is another beautiful park - [**Crandon Park**](https://goo.gl/maps/P4f53K9J4x87UXar5).  Crandon Park is full of fun, activities and adventure featuring its own roller skating park, golf course, volleyball, bike trails and places of picnic areas with BBQs.  The park also has a number of peacocks walking around to make the whole experience even more enjoyable.
 
+**_Please note_** _- personal paddleboards/kayaks are prohibited to launch from the beach unless they are through an EcoAdventures tour or rented through concession. Personal ones have to launch from the Marina._
+
 ## **VIRGINIA KEY**
+
+![VIRGINIA KEY](/uploads/virginia-key.png "VIRGINIA KEY")
 
 Another well recognized beach is Virginia Key Beach Park. It is located on Virginia Key, north of Key Biscayne, and offers crystal blue waters and beautiful views of Biscayne Bay. This is the perfect getaway from the city. This beach is exactly what you need if you want some quiet and relaxing time at the beach, but you can also enjoy its nature boardwalks and trails, and bike path if you are feeling up for it. There is no better combination than a national park and a beach, and that is Key Biscayne’s specialty.
 
