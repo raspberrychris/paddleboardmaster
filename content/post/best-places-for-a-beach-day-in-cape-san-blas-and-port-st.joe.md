@@ -33,7 +33,7 @@ Below are our picks for top places to go if you are looking for an awesome day t
 
 ![money-beach](/uploads/money-beach.png "money-beach")
 
-The [**Money Beach**](https://goo.gl/maps/3xNexKS1qb8XNDCo8) has exquisite white sands and is sometimes also referred to as the Money Bayou Beach.  It has been nicknamed "Money Beach" due to the legend that there is hidden pirate treasure somewhere in the area...who knows, maybe you will find it when you visit!  
+The [**Money Beach**](https://goo.gl/maps/3xNexKS1qb8XNDCo8) has exquisite white sands and is sometimes also referred to as the Money Bayou Beach.  It has been nicknamed "Money Beach" due to the legend that there is hidden pirate treasure somewhere in the area...who knows, maybe you will find it when you visit!
 
 The Money Beach is now a bit quieter than it used to be and makes an excellent place to walk with a dog or friends and family while taking in the beautiful scenery all around you.
 
@@ -41,9 +41,9 @@ The Money Beach is now a bit quieter than it used to be and makes an excellent p
 
 ![T.H. Stone Memorial St. Joseph Peninsula State Park](/uploads/beach-th-stone-memorial-st-joseph-peninsula.png "T.H. Stone Memorial St. Joseph Peninsula State Park")
 
-Possibly one of the most beautiful beaches you will ever walk on the [**T.H. Stone Memorial St. Joseph Peninsula State Park **](https://goo.gl/maps/y2AGi3fYj5v2Xq3t5)is mind blowingly beautiful.  This state park really offers the best of everything in terms of swimming, paddleboarding, camping, fishing.  ... You get the idea!
+Possibly one of the most beautiful beaches you will ever walk on the [**T.H. Stone Memorial St. Joseph Peninsula State Park**](https://goo.gl/maps/y2AGi3fYj5v2Xq3t5) is mind blowingly beautiful.  This state park really offers the best of everything in terms of swimming, paddleboarding, camping, fishing.  ... You get the idea!
 
-If you are looking for completely unspoiled beaches it is going to be hard to beat the T.H. Stone Memorial St. Joseph Peninsula State Park area.  
+If you are looking for completely unspoiled beaches it is going to be hard to beat the T.H. Stone Memorial St. Joseph Peninsula State Park area.
 
 Hiring deckchairs, umbrellas and paddleboards is a breeze as well with many local shops nearby that can help you.  (We have listed our favourites at the bottom of the article).
 
@@ -71,6 +71,6 @@ Hiring deckchairs, umbrellas and paddleboards is a breeze as well with many loca
 
 > **At the time of writing rates start at $35 for half a day rental for a paddleboard and go up to $130 for 4-7 days rental.**
 
-**Check their website out below for more details:** 
+**Check their website out below for more details:**
 
 [**https://www.sanflearentals.com**](https://www.sanflearentals.com/products--rates.html "https://www.sanflearentals.com/products--rates.html")
