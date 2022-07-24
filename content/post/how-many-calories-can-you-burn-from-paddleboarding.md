@@ -51,3 +51,7 @@ With Paddleboard racing you can typically burn at the top end of the spectrum: A
 Paddleboard racing is a great way to increase your strength and endurance and enables everyone to get involohohgjj g
 
 On average, stand up paddle board racing burns between 750-to-1,000 calories per hour. Of course, this depends on how much effort you’re putting into the sport. If you’re paddling with all your might, trying to cross the finish line first, then you’ll definitely burn more calories than if you were casually making your way through the water. SUP racing is great for those who are looking for a full-body workout that works on both strength and endurance. You’ll be burning calories while toning and strengthening muscles throughout your entire body.
+
+### Is Paddleboarding considered good exercise?
+
+Is paddleboarding a good workout? Yes SUP is a great strength workout. Few activities provide such an extensive range, from upper body training to leg work and core strength building. At the same time, it's also a fairly low-intensity and fun thing to do.4 Mar 2020
