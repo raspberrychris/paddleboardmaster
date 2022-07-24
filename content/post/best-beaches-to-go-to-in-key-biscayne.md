@@ -35,7 +35,7 @@ A: Yes. Visitors can climb the tower five days a week at 10 a.m. and 1 p.m. The 
 
 ## Bill Baggs Cape Florida State Park Lighthouse Video
 
-{{< youtu.be GWItEJjFLcY >}}
+{{< youtube GWItEJjFLcY >}}
 
 ## **CRANDON PARK**
 
