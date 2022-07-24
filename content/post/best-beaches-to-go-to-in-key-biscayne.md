@@ -28,7 +28,7 @@ Ok lets dive into this!  Below is our recommendations for the Best beaches in Ke
 
 ![BILL BAGGS CAPE FLORIDA STATE PARK](/uploads/bill-baggs-cape-florida-state-park.png "BILL BAGGS CAPE FLORIDA STATE PARK")
 
-[**Bill Baggs Cape Florida State Park**](https://goo.gl/maps/QAVFiRkGx9sd6Bkw8), is situated on the south of Key Biscayne.  It has a beautiful historic 95ft tall [**lighthouse**](https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park/cape-florida-light) that was built in 1825 and is really a key part of the landscape of Miami-Dade County.  The Lighthouse itself has survived many hurricanes, errosion and even an attack by the Seminole Native Americans.
+[**Bill Baggs Cape Florida State Park**](https://goo.gl/maps/QAVFiRkGx9sd6Bkw8), is situated on the south of Key Biscayne.  It has a beautiful historic 95ft tall [**lighthouse**](https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park/cape-florida-light) that was built in 1825 and is really a key part of the landscape of Miami-Dade County.  The Lighthouse itself has survived many hurricanes, erosion and even an attack by the Seminole Native Americans.
 
 Q: Can you climb the lighthouse Key Biscayne?
 
