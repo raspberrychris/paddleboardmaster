@@ -1,18 +1,17 @@
 +++
-authorbox = false
+authorbox = true
 categories = []
-comments = false
+comments = true
 date = 2022-07-24T11:00:00Z
-description = ""
-draft = true
-lead = ""
+description = "Want to go to Key Biscayne, but not sure of the best beaches?  Don't worry we have you got you covered with our guide to the best beaches in Key Biscayne!"
+lead = "Discover the Best Beaches in Key Biscayne that you never knew about..."
 mathjax = false
-pager = false
+pager = true
 sidebar = ""
-tags = []
-thumbnail = ""
+tags = ["Beginners Guides"]
+thumbnail = "/uploads/bill-baggs-cape-florida-state-park.png"
 title = "Best Beaches to go to in Key Biscayne"
-toc = false
+toc = true
 widgets = []
 
 +++
@@ -44,7 +43,7 @@ A: Yes. Visitors can climb the tower five days a week at 10 a.m. and 1 p.m. The 
 
 **Address**
 
-[6747 Crandon Boulevard, Key Biscayne, FL](https://maps.google.com/?q=Crandon%20Park,Miami+FL)
+[**6747 Crandon Boulevard, Key Biscayne, FL**](https://maps.google.com/?q=Crandon%20Park,Miami+FL)
 
 **Hours of Operation**  
 Sunrise - Sunset  
@@ -68,12 +67,20 @@ Another well recognized beach is Virginia Key Beach Park. It is located on Virgi
 
 ## **HOBIE BEACH**
 
-**Address**[  
+![hobie beach](/uploads/hobie-park.png "hobie beach")
+
+**Address**[**  
 South end (north side of Rickenbacker Causeway)  
-Key Biscayne, FL 33149](https://maps.google.com/?ll=25.7462120000,-80.1924310000)
+Key Biscayne, FL 33149**](https://maps.google.com/?ll=25.7462120000,-80.1924310000)
 
-[(305) 361-2833](tel:3053612833)
+[**(305) 361-2833**](tel:3053612833)
 
-Hobie beach also known as "Windsurfer Beach" is generally thought to be the best location for water sports and particularly windsurfing.  This is the beach where you can rent paddleboards, kayaks and wind surf.  You are sure to have a lot of fun here.  It is also notable for being one of the few beaches in the area where you can let your dog run around without a leash on.
+Hobie beach also known as "Windsurfer Beach" is generally thought to be the best location for water sports and particularly windsurfing.  This is the beach where you can rent paddleboards, kayaks and wind surf.  
 
-For all of you who don’t like to lay around all day at the beach and want to have some fun, especially with your dogs, Hobie Beach is the place to go. It is one of the only beaches where dogs are allowed to run around without a leash. It is also a great place to windsurf, and you can also rent paddleboards and kayaks.
+You are sure to have a lot of fun here.  It is also notable for being one of the few beaches in the area where you can let your dog run around without a leash on.
+
+I hope you enjoyed this list of the best beaches to go to in Key Biscayne.  
+
+There really are a fantastic selection of relaxing beaches you can visit that have a whole host of exciting activities you can get involved in.  
+
+Remember to do your research around the area before travelling and check that using your own paddleboard is allowed (if this is what you are planning to do), or why not just support the local community and rent one from one of the local businesses in Key Biscayne.  Whatever you decide to do we hope you have a great time and this article was helpful for you.
