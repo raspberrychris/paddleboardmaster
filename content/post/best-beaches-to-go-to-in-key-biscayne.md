@@ -58,9 +58,11 @@ Heading more to the north there is another beautiful park - [**Crandon Park**](h
 
 **_Please note_** _- personal paddleboards/kayaks are prohibited to launch from the beach unless they are through an EcoAdventures tour or rented through concession. Personal ones have to launch from the Marina._
 
-## **VIRGINIA KEY**
+## **VIRGINIA KEY BEACH PARK**
 
 ![VIRGINIA KEY](/uploads/virginia-key.png "VIRGINIA KEY")
+
+One of the top beaches is Virginia Key Beach Park and has some of the most beautiful blue waters you will ever see.
 
 Another well recognized beach is Virginia Key Beach Park. It is located on Virginia Key, north of Key Biscayne, and offers crystal blue waters and beautiful views of Biscayne Bay. This is the perfect getaway from the city. This beach is exactly what you need if you want some quiet and relaxing time at the beach, but you can also enjoy its nature boardwalks and trails, and bike path if you are feeling up for it. There is no better combination than a national park and a beach, and that is Key Biscayne’s specialty.
 
