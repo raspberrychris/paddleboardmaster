@@ -1,18 +1,17 @@
 +++
-authorbox = false
+authorbox = true
 categories = []
-comments = false
+comments = true
 date = 2022-07-24T11:00:00Z
 description = "How many calories can you actually burn from paddleboarding?  Find out as we take you through this topic in our latest article."
-draft = true
-lead = ""
+lead = "How many calories can you burn while paddleboarding? We find out!"
 mathjax = false
-pager = false
+pager = true
 sidebar = ""
 tags = ["Beginners Guides"]
-thumbnail = ""
+thumbnail = "/uploads/b5ffede0-712c-4c47-91ad-289fbab4e4fc.jpeg"
 title = "How many calories can you burn from paddleboarding"
-toc = false
+toc = true
 widgets = []
 
 +++
@@ -50,7 +49,7 @@ We estimate that if you were doing Yoga on a paddleboard and know your downward-
 
 ## How many calories can you burn from Paddleboard Surfing?
 
-SUP surfing is a more active way to burn calories and is a fun at the same time.  Typically we would class SUP surfing as a more intense activity than SUP Yoga, meaning you would realistically be able to burn upwards of 500-700 calories per hour, dependent on the water condititions.
+SUP surfing is a more active way to burn calories and is a fun at the same time.  Typically we would class SUP surfing as a more intense activity than SUP Yoga, meaning you would realistically be able to burn upwards of 500-700 calories per hour, dependent on the water conditions.
 
 ## How many calories can you burn from SUP Racing? 
 
@@ -58,10 +57,16 @@ If you are looking for the most intense paddleboard workout possible then you ne
 
 With Paddleboard racing you can typically burn at the top end of the spectrum: Around 750-1000 calories an hour would be realistic for Paddleboard racing.
 
-Paddleboard racing is a great way to increase your strength and endurance and enables everyone to get involohohgjj g
+Paddleboard racing is a great way to increase your strength and endurance and enables everyone to get involved.
 
 On average, stand up paddle board racing burns between 750-to-1,000 calories per hour. Of course, this depends on how much effort you’re putting into the sport. If you’re paddling with all your might, trying to cross the finish line first, then you’ll definitely burn more calories than if you were casually making your way through the water. SUP racing is great for those who are looking for a full-body workout that works on both strength and endurance. You’ll be burning calories while toning and strengthening muscles throughout your entire body.
 
 If you are looking to burn even more calories by paddleboarding, you can use it as your main form of exercise and can extend the amount on time that you are paddleboarding.  Once you have mastered paddleboarding you can focus on stronger paddling and more higher intensity activities which will mean that you naturally burn more calories than you would do if you were a beginner learning how to paddleboard.
+
+## Get your dream body with paddleboarding
+
+If you want some "fit-spiration" on what is possible just from doing paddleboarding, check out this video from a guy who said he has never gone to the gym even once!
+
+{{< youtube JOChGOMpWBA >}}
 
 We hope you found this guide on how many calories you can burn from paddleboarding useful.  Let us know what you think in the comments.
