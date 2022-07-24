@@ -16,18 +16,23 @@ toc = false
 widgets = []
 
 +++
-
-**You're going to Miami!**  
+**You're going to Miami!**
 
 But what are the best beaches in Miami?
 
-South Beach is one of the most popular options when it comes to beaches in Miami, but if you are looking for something a little bit special then you might want to look in Key Biscayne.  This is one of the most beautiful islands in the area and whether you want to walk the dog, kick back and relax or get up to some paddleboarding you are sure to find some good options here.
+South Beach is one of the most popular options when it comes to beaches in Miami, but if you are looking for something a little bit special then you might want to look in Key Biscayne.  This is one of the most beautiful islands in the area and whether you want to walk the dog, kick back and relax or get up to some paddleboarding you are sure to find some good options here.  If you are looking for an active weekend as well there are no shortage of activities to do in this area such as bike trails, nature walks and so on.
 
 Ok lets dive into this!  Below is our recommendations for the Best beaches in Key Bisayne.
 
 ## **BILL BAGGS CAPE FLORIDA STATE PARK**
 
-Bill Baggs Cape Florida State Park, located on the south end of Key Biscayne, has been a key image of the island. It is home to the oldest standing structure in Miami-Dade County: the historic lighthouse. It was first built in 1825, and today, when picturing Key Biscayne, this beautiful lighthouse pops in our heads. You will not get bored here. You can find beautiful bike paths, nature trails, and a sea wall for fishing if you are looking for an active day. You can also climb the 109 steps of the lighthouse for an amazing view. If you are looking to just relax, you can just chill by the beach and go swimming in crystal clear waters. And after, you can enjoy a picnic, or enjoy some food at the two restaurants located inside the park:the Lighthouse Café and Boater’s Grill. This beautiful state park has it all.It is no wonder this beach has been named one of the top beaches in the country.
+![BILL BAGGS CAPE FLORIDA STATE PARK](/uploads/bill-baggs-cape-florida-state-park.png "BILL BAGGS CAPE FLORIDA STATE PARK")
+
+[**Bill Baggs Cape Florida State Park**](https://goo.gl/maps/QAVFiRkGx9sd6Bkw8), is situated on the south of Key Biscayne.  It has a beautiful historic [**lighthouse**](https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park/cape-florida-light) that was built in 1825 and is really a key part of the landscape of Miami-Dade County.  The Lighthouse itself has survived many hurricanes, errosion and even an attack by the Seminole Native Americans.
+
+Q: Can you climb the lighthouse Key Biscayne?
+
+A: Yes. Visitors can climb the tower five days a week at 10 a.m. and 1 p.m. The tower is closed on Tuesdays and Wednesdays. Guests must be able to climb 109 spiral steps with narrow spaces and heights. Children must be 42 inches tall (106 cm) and able to climb independently.
 
 ## **CRANDON PARK**
 
