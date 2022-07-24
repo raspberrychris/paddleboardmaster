@@ -40,7 +40,7 @@ A: Yes. Visitors can climb the tower five days a week at 10 a.m. and 1 p.m. The 
 
 ## **CRANDON PARK**
 
-Heading more to the north there is another beautiful park - Crandon Park.  Crandon Park is full of fun, activities and adventure featuring its own roller skating park, golfcourse, volleyball, bike trails and places of picnic areas with BBQs.  The park also has a number of peacocks walking around to make the whole experience even more enjoyable.
+Heading more to the north there is another beautiful park - [**Crandon Park**](https://goo.gl/maps/P4f53K9J4x87UXar5).  Crandon Park is full of fun, activities and adventure featuring its own roller skating park, golf course, volleyball, bike trails and places of picnic areas with BBQs.  The park also has a number of peacocks walking around to make the whole experience even more enjoyable.
 
 ## **VIRGINIA KEY**
 
