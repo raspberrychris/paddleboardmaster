@@ -17,7 +17,7 @@ widgets = []
 +++
 **You're going to Miami!**
 
-But what are the best beaches in Miami? Join us as we 
+But what are the best beaches in Miami? Join us as we take a look at some of the best beaches that Miami has to offer!
 
 South Beach is one of the most popular options when it comes to beaches in Miami, but if you are looking for something a little bit special then you might want to look in Key Biscayne.  This is one of the most beautiful islands in the area and whether you want to walk the dog, kick back and relax or get up to some paddleboarding you are sure to find some good options here.  If you are looking for an active weekend as well there are no shortage of activities to do in this area such as bike trails, nature walks and so on.
 
@@ -61,7 +61,7 @@ Heading more to the north there is another beautiful park - [**Crandon Park**](h
 
 ![VIRGINIA KEY](/uploads/virginia-key.png "VIRGINIA KEY")
 
-One of the top beaches in Key Biscayne is Virginia Key Beach Park.  It has some of the most beautiful blue waters you will ever see!  
+One of the top beaches in Key Biscayne is Virginia Key Beach Park.  It has some of the most beautiful blue waters you will ever see!
 
 Another well recognized beach is Virginia Key Beach Park. It is located on Virginia Key, north of Key Biscayne, and offers crystal blue waters and beautiful views of Biscayne Bay. This is the perfect getaway from the city. This beach is exactly what you need if you want some quiet and relaxing time at the beach, but you can also enjoy its nature boardwalks and trails, and bike path if you are feeling up for it. There is no better combination than a national park and a beach, and that is Key Biscayne’s specialty.
 
@@ -69,18 +69,18 @@ Another well recognized beach is Virginia Key Beach Park. It is located on Virgi
 
 ![hobie beach](/uploads/hobie-park.png "hobie beach")
 
-**Address**[**  
+**Address__[**  
 South end (north side of Rickenbacker Causeway)  
 Key Biscayne, FL 33149**](https://maps.google.com/?ll=25.7462120000,-80.1924310000)
 
 [**(305) 361-2833**](tel:3053612833)
 
-Hobie beach also known as "Windsurfer Beach" is generally thought to be the best location for water sports and particularly windsurfing.  This is the beach where you can rent paddleboards, kayaks and wind surf.  
+Hobie beach also known as "Windsurfer Beach" is generally thought to be the best location for water sports and particularly windsurfing.  This is the beach where you can rent paddleboards, kayaks and wind surf.
 
 You are sure to have a lot of fun here.  It is also notable for being one of the few beaches in the area where you can let your dog run around without a leash on.
 
-I hope you enjoyed this list of the best beaches to go to in Key Biscayne.  
+I hope you enjoyed this list of the best beaches to go to in Key Biscayne.
 
-There really are a fantastic selection of relaxing beaches you can visit that have a whole host of exciting activities you can get involved in.  
+There really are a fantastic selection of relaxing beaches you can visit that have a whole host of exciting activities you can get involved in.
 
 Remember to do your research around the area before travelling and check that using your own paddleboard is allowed (if this is what you are planning to do), or why not just support the local community and rent one from one of the local businesses in Key Biscayne.  Whatever you decide to do we hope you have a great time and this article was helpful for you.
