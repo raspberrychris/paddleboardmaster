@@ -22,7 +22,7 @@ But what are the best beaches in Miami?
 
 South Beach is one of the most popular options when it comes to beaches in Miami, but if you are looking for something a little bit special then you might want to look in Key Biscayne.  This is one of the most beautiful islands in the area and whether you want to walk the dog, kick back and relax or get up to some paddleboarding you are sure to find some good options here.  If you are looking for an active weekend as well there are no shortage of activities to do in this area such as bike trails, nature walks and so on.
 
-Ok lets dive into this!  Below is our recommendations for the Best beaches in Key Bisayne.
+Ok lets dive into this!  Below is our recommendations for the Best beaches in Key Biscayne.
 
 ## **BILL BAGGS CAPE FLORIDA STATE PARK**
 
