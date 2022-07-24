@@ -28,7 +28,7 @@ Ok lets dive into this!  Below is our recommendations for the Best beaches in Ke
 
 ![BILL BAGGS CAPE FLORIDA STATE PARK](/uploads/bill-baggs-cape-florida-state-park.png "BILL BAGGS CAPE FLORIDA STATE PARK")
 
-[**Bill Baggs Cape Florida State Park**](https://goo.gl/maps/QAVFiRkGx9sd6Bkw8), is situated on the south of Key Biscayne.  It has a beautiful historic 95ft tall [**lighthouse**](https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park/cape-florida-light) that was built in 1825 and is really a key part of the landscape of Miami-Dade County.  The Lighthouse itself has survived many hurricanes, erosion and even an attack by the Seminole Native Americans.
+[**Bill Baggs Cape Florida State Park**](https://goo.gl/maps/QAVFiRkGx9sd6Bkw8), is situated on the south of Key Biscayne.  It has a beautiful historic 95ft tall [**lighthouse**](https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park/cape-florida-light) that was built in 1825 and is a key part of the landscape of Miami-Dade County.  The Lighthouse itself has survived many hurricanes, erosion and even an attack by the Seminole Native Americans.
 
 Q: Can you climb the lighthouse Key Biscayne?
 
@@ -40,7 +40,7 @@ A: Yes. Visitors can climb the tower five days a week at 10 a.m. and 1 p.m. The 
 
 ## **CRANDON PARK**
 
-On the northern part of the island, you can find another iconic national park, Crandon Park. This beach can also be enjoyed with some adventure. It offers bike trails, a roller skating area, a playground, a golf course, tennis courts, beach volleyball courts, and picnic areas with bbq grills. You might just have a few snacks with some beautiful peacocks walking around the park as well. What better way to spend a Sunday with your loved ones?
+Heading more to the north there is another beautiful park - Crandon Park.  Crandon Park is full of fun, activities and adventure featuring its own roller skating park, golfcourse, volleyball, bike trails and places of picnic areas with BBQs.  The park also has a number of peacocks walking around to make the whole experience even more enjoyable.
 
 ## **VIRGINIA KEY**
 
