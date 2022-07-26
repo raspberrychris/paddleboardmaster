@@ -16,3 +16,4 @@ toc = false
 widgets = []
 
 +++
+Colarado has to be one of the best states in the US for paddleboarding in our opinion.  With no shortage of fresh water lakes, rivers and extensive countryside views and mountainous terrain in almost every direction it is an explorer's dream.  And will provide enough to keep even the most ardent outdoor enthusiast entertained.
