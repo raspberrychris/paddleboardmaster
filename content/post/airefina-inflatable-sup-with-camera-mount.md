@@ -26,11 +26,15 @@ The Airefina is one of the top new inflatable paddleboards of 2022 so far.  We h
 
 **But what is it that people really love about this SUP?**
 
-The sturdiness, durability of the materials and the fact that it is really easy to inflate came out as the top reasons why customers who bought this paddleboard really loved it and would recommend it to others.
+The sturdiness, durability of the materials and the fact that it is really easy to inflate came out as the top reasons why customers who bought this paddleboard really loved it and would recommend it to others.  
+
+Also the fact that it "literally comes with everything you need" is an absolute bonus here, especially at this price point.  I would almost go as far as to say I am not sure how they are doing this for the money.
 
 ## Unboxing Video of Airefina Inflatable SUP with Camera Mount
 
-**Click here to check out the Airefina Inflatable SUP with Camera Mount  on Amazon.com...**
+{{< youtube.com watch?v=i4mLoorDy0M >}}
+
+[**Click here to check out the Airefina Inflatable SUP with Camera Mount  on Amazon.com...**](#)
 
 ## What Activities is it Suitable For?
 
