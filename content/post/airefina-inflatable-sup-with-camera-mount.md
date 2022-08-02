@@ -20,6 +20,10 @@ In this blog we will be taking a look at the Airefina Inflatable SUP with Camera
 
 ## Airefina Inflatable SUP with Camera Mount  - Who is it for?
 
+The Airefina is one of the top new inflatable paddleboards of 2022 so far.  We have been very impressed with its instant popularity with all different types of people.  
+
+But what is it that people really love about this SUP?
+
 ## Unboxing Video of Airefina Inflatable SUP with Camera Mount
 
 **Click here to check out the Airefina Inflatable SUP with Camera Mount  on Amazon.com...**
