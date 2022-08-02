@@ -32,7 +32,7 @@ Also the fact that it "literally comes with everything you need" is an absolute 
 
 ## Unboxing Video of Airefina Inflatable SUP with Camera Mount
 
-{{< youtube.com watch?v=i4mLoorDy0M >}}
+{{< youtube watch?v=i4mLoorDy0M >}}
 
 [**Click here to check out the Airefina Inflatable SUP with Camera Mount  on Amazon.com...**](#)
 
