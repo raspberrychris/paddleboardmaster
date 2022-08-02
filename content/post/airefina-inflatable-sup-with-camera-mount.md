@@ -28,7 +28,7 @@ To start we will take you through the pros and cons of this paddleboard and will
 
 The [**Airefina**](#) is one of the top new inflatable paddleboards of 2022 so far.  
 
-We have been very impressed with its instant popularity with all different types of people.  
+We have been very impressed with its instant popularity with all different types of people, both young and old.
 
 **But what is it EXACTLY that people really love about this SUP?!**
 
@@ -113,13 +113,17 @@ You can inflate or deflate the inflatable paddle board quickly by the two way in
 
 ## Verdict
 
-Well, what can we say.  We absolutely love this paddleboard from Airefina!
+Well, what can we say...  
+
+We absolutely love this paddleboard from Airefina!
 
 I think that this board really does provide great value for money and almost gives you the hard board experience at a much more affordable price point.  
 
 The sturdiness of the board coupled with the fact that it is lightweight comparatively and portable make this the perfect option for your weekend getaway to the lakes or the coast!
 
 This means that this paddleboard will enable a lot more people to enjoy exploring on their SUP, which we think is a great thing for paddleboarding. 
+
+The only negative thing we could find about this particular SUP was the fact that it is a relatively new brand and it may put some people off it for this reason, but if that doesn't bother you then this is an excellent choice of paddleboard in our opininon.
 
 ## 5/5
 
