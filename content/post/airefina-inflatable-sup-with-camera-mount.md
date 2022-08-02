@@ -1,17 +1,17 @@
 +++
-authorbox = false
+authorbox = true
 categories = ["Airefina"]
-comments = false
+comments = true
 date = 2022-08-02T11:00:00Z
 description = "Join us as we review the Airefina Inflatable SUP with Camera Mount  and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
-lead = ""
+lead = "Is this SUP an Affordable Hard board Alternative?"
 mathjax = false
-pager = false
+pager = true
 sidebar = ""
 tags = ["Review"]
 thumbnail = "/uploads/44e41613-b7d9-43e7-94ec-0712c35ef765.jpeg"
 title = "Airefina Inflatable SUP with Camera Mount"
-toc = false
+toc = true
 widgets = []
 
 +++
