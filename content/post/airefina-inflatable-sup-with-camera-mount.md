@@ -16,19 +16,27 @@ toc = false
 widgets = []
 
 +++
-In this blog we will be taking a look at the [**Airefina Inflatable SUP**](#) with Camera Mount  paddleboard We will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition.
+In this blog we will be taking a look at the [**Airefina Inflatable SUP**](#) with Camera Mount paddleboard.
+
+To start we will take you through the pros and cons of this paddleboard and will give you my genuine honest opinion on how it performs against the competition.
+
+**Ok right, let's get started!**
 
 ## Airefina Inflatable SUP with Camera Mount  - Who is it for?
 
 ![airefina paddle board](https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e5b350b-9ac2-46a3-b457-d1d595dd162b.__CR0,0,970,600_PT0_SX970_V1___.png "airefina paddle board")
 
-The Airefina is one of the top new inflatable paddleboards of 2022 so far.  We have been very impressed with its instant popularity with all different types of people.  
+The [**Airefina**](#) is one of the top new inflatable paddleboards of 2022 so far.  
 
-**But what is it that people really love about this SUP?**
+We have been very impressed with its instant popularity with all different types of people.  
+
+**But what is it EXACTLY that people really love about this SUP?!**
 
 The sturdiness, durability of the materials and the fact that it is really easy to inflate came out as the top reasons why customers who bought this paddleboard really loved it and would recommend it to others.  
 
-Also the fact that it "literally comes with everything you need" is an absolute bonus here, especially at this price point.  I would almost go as far as to say I am not sure how they are doing this for the money.
+Also the fact that it "literally comes with everything you need" is an absolute bonus here, especially at this price point.  
+
+I would almost go as far as to say I am not sure how they are doing this for the money.
 
 ## Unboxing Video of Airefina Inflatable SUP with Camera Mount
 
