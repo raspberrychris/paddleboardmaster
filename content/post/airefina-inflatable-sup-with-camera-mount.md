@@ -16,7 +16,7 @@ toc = false
 widgets = []
 
 +++
-In this blog we will be taking a look at the Airefina Inflatable SUP with Camera Mount  paddleboard We will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition
+In this blog we will be taking a look at the Airefina Inflatable SUP with Camera Mount  paddleboard We will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition.
 
 ## Airefina Inflatable SUP with Camera Mount  - Who is it for?
 
@@ -31,6 +31,10 @@ But what is it that people really love about this SUP?
 **Click here to check out the Airefina Inflatable SUP with Camera Mount  on Amazon.com...**
 
 ## What Activities is it Suitable For?
+
+## What's included in the box?
+
+![airefina paddle board accessories](https://m.media-amazon.com/images/S/aplus-media-library-service-media/2e7bf996-d3ac-4678-8392-7c28b15f1376.__CR0,0,970,600_PT0_SX970_V1___.png "airefina paddle board accessories")
 
 ## Features
 
