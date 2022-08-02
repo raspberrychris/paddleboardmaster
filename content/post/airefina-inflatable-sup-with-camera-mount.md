@@ -43,7 +43,7 @@ I would almost go as far as to say I am not sure how they are doing this for the
 
 Check out the unboxing video of the [**Airefina**](/categories/airefina/) below and see what [**The Great adventures**](https://www.youtube.com/channel/UCCd6isPH18-iAkueB12pdOQ) thinks of it in their fun video.
 
-{{< youtube watch?v=i4mLoorDy0M >}}
+{{< youtube i4mLoorDy0M >}}
 
 [**Click here to check out the Airefina Inflatable SUP with Camera Mount  on Amazon.com...**](https://www.amazon.com/Airefina-Inflatable-Paddleboard-Accessories-Extra-Light/dp/B09LC1GD64?keywords=airefina+paddleboard&qid=1659474529&sprefix=Airefina%2Caps%2C501&sr=8-5&linkCode=ll1&tag=paddleboardmaster-20&linkId=354f3803d1f22d6053ac7fc53b3f8fa9&language=en_US&ref_=as_li_ss_tl)
 
