@@ -113,10 +113,25 @@ You can inflate or deflate the inflatable paddle board quickly by the two way in
 
 ## Verdict
 
+Well, what can we say.  We absolutely love this paddleboard from Airefina!
+
+I think that this board really does provide great value for money and almost gives you the hard board experience at a much more affordable price point.  
+
+The sturdiness of the board coupled with the fact that it is lightweight comparatively and portable make this the perfect option for your weekend getaway to the lakes or the coast!
+
+This means that this paddleboard will enable a lot more people to enjoy exploring on their SUP, which we think is a great thing for paddleboarding. 
+
 ## 5/5
 
 ## Pros
 
+* ✅ Durable Materials
+* ✅ Very Sturdy Board almost equal to a hard board
+* ✅ Lightweight
+* ✅ High quality at this price point
+
 ## Cons
 
-**Click here to check out the Airefina Inflatable SUP with Camera Mount  on Amazon.com...**
+* ❌ Relatively new brand may put some buyers off. 
+
+[**Click here to check out the Airefina Inflatable SUP with Camera Mount  on Amazon.com...**](#)
