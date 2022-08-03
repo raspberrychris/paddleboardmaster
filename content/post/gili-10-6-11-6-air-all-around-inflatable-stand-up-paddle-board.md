@@ -15,6 +15,8 @@ toc = true
 widgets = []
 
 +++
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
 In this article I will be taking a look at the [**GILI**](/categories/gili/) 10'6/11'6 AIR All Around Inflatable stand up paddleboard. I will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition.
 
 **Let’s get in to this!**
@@ -74,7 +76,7 @@ The dimensions: 11'6 x 32" x 6” - the perfect blend of balance, weight & size.
 
 ### Durable and very stable design
 
- Constructed from Cross Stitched, Reinforced PVC so you don't have to worry about dings, dents or damage. 6" Thick for stability. Super portable iSUP package: everything fits in the included backpack. Just throw in your car or on an airplane - no roof rack or garage needed!
+Constructed from Cross Stitched, Reinforced PVC so you don't have to worry about dings, dents or damage. 6" Thick for stability. Super portable iSUP package: everything fits in the included backpack. Just throw in your car or on an airplane - no roof rack or garage needed!
 
 ### All the accessories you need
 
@@ -91,7 +93,7 @@ Extra large diamond traction pad: bring a 4-legged friend or use for SUP Yoga. 6
 * 9" Snap-in center fin
 * Pair of snap-in side fins
 
-### Guarantee 
+### Guarantee
 
 You also get a 60 day guarantee and 2 year warranty for peace of mind.
 
@@ -112,11 +114,11 @@ You also get a 60 day guarantee and 2 year warranty for peace of mind.
 
 * Made in China
 
-We think this is a great board for someone who has an existing hard board but wants something that they can use on the weekends.  
+We think this is a great board for someone who has an existing hard board but wants something that they can use on the weekends.
 
 It is a little less affordable than some of the other SUPs that we have reviewed, but the quality of the materials and the overall package is extremely good.
 
-The only negative point that we could find really was that this SUP is not made in the US.  It is actually made in China, contrary to some of the listings of this product on the internet.  
+The only negative point that we could find really was that this SUP is not made in the US.  It is actually made in China, contrary to some of the listings of this product on the internet.
 
 One of the things that makes this inflatable paddle board quite special is the quality of the accessories and how they fit together to be one overall package.  Also the weight of the board is just 19lbs.  Considering most SUPs weigh 25lbs this is a considerable reduction.
 
