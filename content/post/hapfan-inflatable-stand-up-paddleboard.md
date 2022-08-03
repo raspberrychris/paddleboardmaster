@@ -15,6 +15,10 @@ toc = true
 widgets = []
 
 +++
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
+
 In this post I will be taking the [**Hapfan Inflatable Stand Up Paddleboard**](https://www.amazon.com/Hapfan-Inflatable-Stand-Paddle-Board/dp/B09GTZ6L4Q?ie=UTF8&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=6145e4809fb7c67799d016293f115169&language=en_US&ref_=as_li_ss_tl) through its paces and understanding why this is one of the most popular paddleboards of this year so far!
 
 If that interests you, then read on!
@@ -23,7 +27,7 @@ If that interests you, then read on!
 
 ![Awesome-design-hapfan-paddleboard](/uploads/5aa7ef0c-1f33-4186-869a-a6bde9be3e0f.jpeg "Awesome-design-hapfan-paddleboard")
 
-One thing that you will instantly notice about this paddleboard is the awesome design. 
+One thing that you will instantly notice about this paddleboard is the awesome design.
 
 The plant inspired look creates a really cool laid back aesthetic and is perfect for trips out in the wilderness or your nearest lake.
 
@@ -37,7 +41,7 @@ If you are concerned about design, the blue variation offers the most color co-o
 
 ### It Comes with an Electric Pump that Takes the Stress Out of Setting Up
 
-One of the more unique things about this particular paddleboard is the fact that it comes included with an electric pump.  
+One of the more unique things about this particular paddleboard is the fact that it comes included with an electric pump.
 
 **Yes, you read that right, an ELECTRIC pump!**
 
@@ -57,14 +61,13 @@ You can also connect the electric pump to a mobile power bank or a cigarette lig
 
 The package contains the following items:
 
-  
-1 x Stand up paddle board   
+1 x Stand up paddle board  
 1 x Adjustable Paddle  
-1 x High Pressure Pump   
-1 x Slip-in Fin   
-1 x Safety Foot Leash   
-1 x Backpack   
-1 x 20L Dry Bag   
+1 x High Pressure Pump  
+1 x Slip-in Fin  
+1 x Safety Foot Leash  
+1 x Backpack  
+1 x 20L Dry Bag  
 1 x Repair Kit
 
 ## What are the Features?
@@ -120,7 +123,7 @@ The paddleboard itself has thoughtful styling and is suitable for a wide range o
 
 It is a sturdy and fun board to use and would make a great board for beginners and more experienced paddleboarders alike.
 
-The materials on the board are high quality and there aren’t really that many cons of this paddleboard in our opinion.  
+The materials on the board are high quality and there aren’t really that many cons of this paddleboard in our opinion.
 
 I only noticed one negative  review that mentioned that the paddle had had some problems for a particular customer.  I would assume that this is an isolated case, but something to be aware of.
 
