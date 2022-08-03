@@ -15,7 +15,9 @@ toc = true
 widgets = []
 
 +++
-![Advenor Inflatable Stand Up Paddle Board ](/uploads/5b91a5f4-ba28-4d6a-a8f8-48fb5351a19e.jpeg "Advenor Inflatable Stand Up Paddle Board ")
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
 
 Is this the complete paddle boarding package that you have been dreaming of?
 
