@@ -15,6 +15,10 @@ toc = true
 widgets = []
 
 +++
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
+
 In this blog we will be taking a look at the [**High Society Inflatable Stand Up Paddle Board**](https://www.amazon.com/dp/B07PJB9768?&linkCode=ll1&tag=paddleboardmaster-20&linkId=a3c6b497fad2a191431df77395df4224&language=en_US&ref_=as_li_ss_tl)  We will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition and whether or not it represents good value for money.
 
 ![High-society-paddleboard](/uploads/e122ce9b-ce98-4f43-a7ba-16166dd395c0.jpeg "High-society-paddleboard")
@@ -78,7 +82,7 @@ Hassle free 3 Year Warranty; High Society is available for support beyond your p
 
 ### Seven Layers of Materials
 
-With the [**High Society**](/categories/high-society/) SUP they make a special point of detailing all the different layers of the board.  Although a lot of SUPs talk about ‘military grade’ materials, I think this is one of the most detailed examples of high quality design I have seen.  
+With the [**High Society**](/categories/high-society/) SUP they make a special point of detailing all the different layers of the board.  Although a lot of SUPs talk about ‘military grade’ materials, I think this is one of the most detailed examples of high quality design I have seen.
 
 **It really is very impressive!**
 
@@ -97,7 +101,7 @@ With the [**High Society**](/categories/high-society/) SUP they make a special p
 ## Pros
 
 * Fantastic design that will make you stand out wherever you are.
-* High quality materials 
+* High quality materials
 * A paddleboard from a brand with a fantastic reputation
 * Look is designed by local artists
 * 3 year warranty
@@ -112,11 +116,11 @@ This paddleboard from High Society really is an exceptional paddleboard for the 
 
 If you are looking for a SUP that looks as good as it performs and is from a good company with an excellent track record of looking after its customers then this may be the paddleboard for you.
 
-> One of the strengths of this board in our opinion is the fairly rare 3 year warranty.  
+> One of the strengths of this board in our opinion is the fairly rare 3 year warranty.
 
 As you have seen other manufacturers are prepared to back their paddleboard with a 1 year warranty generally, but to get a 3 year warranty really is going over and above what we have seen here on [**paddleboardmaster.com**](/)**.**
 
-Ultimately it seems that [**High Society**](/categories/high-society/) as a brand are a very customer focused company and they are willing to do everything they can to create the perfect paddleboard, and I think they have created something really special here with this particular SUP!  
+Ultimately it seems that [**High Society**](/categories/high-society/) as a brand are a very customer focused company and they are willing to do everything they can to create the perfect paddleboard, and I think they have created something really special here with this particular SUP!
 
 As mentioned above, you get a ton of accessories with this paddleboard, so you really have everything you need to get started in paddleboarding.  This is a paddleboard that anyone could get started with, although as it is less affordable than some of the other paddleboards we have reviewed it may mean that this is your second paddleboard or a more portable version of your existing hard top paddleboard.
 
