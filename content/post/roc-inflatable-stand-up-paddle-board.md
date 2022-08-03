@@ -15,7 +15,9 @@ toc = true
 widgets = []
 
 +++
-![Roc-inflatable-stand-up-paddle-board](/uploads/698a6519-ba66-47a9-bcc3-33bb8249b543.jpeg "Roc-inflatable-stand-up-paddle-board")
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
 
 In this review we will dive in the deep end and check out this stunning new paddle board from [**Roc**](#)!
 
@@ -41,7 +43,7 @@ In terms of the design, the black and white minimalist design is completly on po
 
 We really love it!
 
-So what do you get with this paddle board in terms of accessories?  The accessories that come with it (and there are a few!) also have the Roc branding on it, which makes this a stunning overall package to look at.  This is definitely a paddle board to be seen with, and it is nice to see a brand put so much effort into the accessories to accompany the paddle board.  
+So what do you get with this paddle board in terms of accessories?  The accessories that come with it (and there are a few!) also have the Roc branding on it, which makes this a stunning overall package to look at.  This is definitely a paddle board to be seen with, and it is nice to see a brand put so much effort into the accessories to accompany the paddle board.
 
 Perfect for trips to the beach on the weekends!
 
@@ -54,7 +56,7 @@ Perfect for trips to the beach on the weekends!
 
 ## Does it only come in Black and White colors?
 
-If you are not a fan of the monochrome design, fear not as there are multiple colour designs available.  Roc offer no less than 12 colour combinations!  
+If you are not a fan of the monochrome design, fear not as there are multiple colour designs available.  Roc offer no less than 12 colour combinations!
 
 That is right, 12…
 
