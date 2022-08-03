@@ -15,6 +15,10 @@ toc = true
 widgets = []
 
 +++
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
+
 ## Fitwave Paddle Board 9.5ft/10ft/11ft SUP + Kit
 
 In this post I am taking a look at the [**Fitwave inflatable paddleboard**](https://www.amazon.com/FITWAVE-Paddle-Board-10x32x6-Premium/dp/B08YFKFH46?pd_rd_i=B09SZCCBP7&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=6946e160cd1663aa3b5b5869f158fb24&language=en_US&ref_=as_li_ss_tl), which a lot of you have recommended that I review!
