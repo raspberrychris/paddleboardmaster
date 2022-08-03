@@ -15,6 +15,10 @@ toc = true
 widgets = []
 
 +++
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
+
 In this post I will be taking a look at the [**Cadalene inflatable Stand up Paddleboard**](https://www.amazon.com/CADALENE-Inflatable-Accessories-Backpack-Non-Slip/dp/B09JZCDTLM?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=c5afb6bf8a52bf26d7830bd1bc48ded6&language=en_US&ref_=as_li_ss_tl).
 
 This great looking board that comes in a variety of different sizes and colors.
