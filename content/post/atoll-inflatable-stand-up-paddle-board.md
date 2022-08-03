@@ -15,7 +15,9 @@ toc = true
 widgets = []
 
 +++
-![Atoll Inflatable Stand Up Paddle Board](/uploads/6dde4d2c-3313-4cdf-b5d9-fff348f63b88.jpeg "Atoll Inflatable Stand Up Paddle Board")
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
 
 Thank you for joining us in this review of the **Atoll Inflatable Stand Up Paddle Board**. In this review we will be looking at the pros and cons of this paddle board and also comparing it against competitor paddle boards to understand exactly how it performs and whether it offers real value for money, for you, our loyal readers!
 
