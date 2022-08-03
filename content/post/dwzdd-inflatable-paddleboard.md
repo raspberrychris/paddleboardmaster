@@ -15,6 +15,10 @@ toc = true
 widgets = []
 
 +++
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
+
 In this post I will be taking a look at the [**Dwzdd Inflatable Paddle Board**](https://www.amazon.com/Inflatable-Paddleboard-Accessories-Adjustable-Backpack/dp/B09MVLJ8KJ?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=700d31734847731d57bb35946bd99e8d&language=en_US&ref_=as_li_ss_tl) and giving my honest review of how I think it performs in terms of its features and against other paddleboards in the market.
 
 ![Dwzdd-SUP](/uploads/d22349e7-edf3-41f6-ac94-338cc0f9bac5.jpeg "Dwzdd-SUP")
@@ -119,7 +123,7 @@ This would make a really good beginners SUP or someone who was just looking to e
 
 The paddleboard comes with all the essentials and the double action pump can deflate as well as inflate the board so you can be assured that you won’t be wasting any time.  It took 10 minutes for me to inflatate the board which is impressive at this price point.
 
-Only cons that we could find is that the design may not be to everyone’s taste.  
+Only cons that we could find is that the design may not be to everyone’s taste.
 
 Obviously style is a personal choice, but with a wealth of designs and brands available, we though the design was more on the functional side than the style side.  Although saying that, there is an elegance to the simplicity of the design that I like.
 
