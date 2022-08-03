@@ -17,6 +17,8 @@ widgets = []
 +++
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
+***
+
 In this article I will be taking a look at the [**GILI**](/categories/gili/) 10'6/11'6 AIR All Around Inflatable stand up paddleboard. I will take you through the pros and cons of this paddleboard and will give my honest opinion on how it performs against the competition.
 
 **Let’s get in to this!**
