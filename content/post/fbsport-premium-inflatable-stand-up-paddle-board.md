@@ -15,7 +15,9 @@ toc = true
 widgets = []
 
 +++
-![FBSPORT Premium Inflatable Stand Up Paddle Board](/uploads/7fbc144e-fe7b-4245-9741-33bfe59ffc73.jpeg "FBSPORT Premium Inflatable Stand Up Paddle Board")
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
 
 Ok, wow look at that colour! This is a Paddle Board that is pictured above in “Fruit Green” colors, but get this… it comes in **19** other color variations!
 
@@ -51,7 +53,7 @@ For peace of mind FBSPORT only use the most durable premium materials in the con
 
 One of the best things about an inflatable paddle board is that you can safely store it when it is not in use.  If you don’t have a big area to store a paddleboard this can be a major bonus.  This is certainly why we love inflatable paddle boards - the convenience of them is definitely unmatched.
 
-## FBSport Unboxing Video 
+## FBSport Unboxing Video
 
 Take a look at the FBSport Inflatable Stand Up paddle board for yourself by watching this video of the unboxing.
 
