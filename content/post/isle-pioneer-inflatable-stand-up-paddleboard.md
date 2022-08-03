@@ -15,6 +15,10 @@ toc = true
 widgets = []
 
 +++
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
+
 We have looked at a lot of high quality paddleboards in our reviews, but this next Paddleboard From [**ISLE**](/categories/isle/), is one of our favourites out there.
 
 If you haven’t heard of [**ISLE**](/categories/isle/) before you may want to hear about who is behind this company and their story of how they got started.
