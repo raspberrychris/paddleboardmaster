@@ -15,6 +15,10 @@ toc = true
 widgets = []
 
 +++
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
+
 Welcome to the review of the [**Dama Inflatable Stand Up Paddle Board**](https://www.amazon.com/DAMA-Inflatable-Repairing-Waterproof-Professional/dp/B07N67Y3BP?pd_rd_i=B093C8CCRJ&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=9db9d0ac005bd565c02fa2ba7b5076da&language=en_US&ref_=as_li_ss_tl).  In this article we will be checking out one of the very best Paddle Boards on the market - The [**Dama Inflatable Stand Up Paddle Board**](https://www.amazon.com/DAMA-Inflatable-Repairing-Waterproof-Professional/dp/B07N67Y3BP?pd_rd_i=B093C8CCRJ&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=9db9d0ac005bd565c02fa2ba7b5076da&language=en_US&ref_=as_li_ss_tl).
 
 We will guide you through everything you need to know about this inflatable paddle board and also tell you about who we think it is best suited for, the performance and quality of the board and also explore some of the accessories that comes with it.
