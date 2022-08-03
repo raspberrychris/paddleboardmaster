@@ -15,6 +15,10 @@ toc = true
 widgets = []
 
 +++
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
+
 In this post I will take a look at the [**Highpi stand up Paddleboard**](https://www.amazon.com/Highpi-Inflatable-Accessories-Backpack-Non-Slip/dp/B08R38NVG6?crid=20MEHFTYVPCU2&keywords=highpi%2Binflatable%2Bstand%2Bup%2Bpaddle%2Bboard&qid=1652793543&sprefix=Highpi%2B%2Caps%2C148&sr=8-5&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=50d2f276cf10dc7c735d3d54e86a4afb&language=en_US&ref_=as_li_ss_tl) and give my honest opinion on how it performs on the water and provide an overall rating for this paddleboard.
 
 If you are looking to get into a water sport activity then you can’t go far wrong with paddleboarding. One of the awesome things about it is that people buy paddleboards for different activities.
