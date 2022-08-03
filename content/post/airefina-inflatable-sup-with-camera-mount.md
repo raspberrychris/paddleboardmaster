@@ -17,6 +17,8 @@ widgets = []
 +++
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
+***
+
 In this post we will be taking a look at the [**Airefina Inflatable SUP**](https://www.amazon.com/Airefina-Inflatable-Paddleboard-Accessories-Extra-Light/dp/B09LC1GD64?keywords=airefina+paddleboard&qid=1659474529&sprefix=Airefina%2Caps%2C501&sr=8-5&linkCode=ll1&tag=paddleboardmaster-20&linkId=354f3803d1f22d6053ac7fc53b3f8fa9&language=en_US&ref_=as_li_ss_tl) with Camera Mount paddleboard.
 
 To start we will take you through the pros and cons of this paddleboard and will give you my genuine honest opinion on how it performs against the competition.
