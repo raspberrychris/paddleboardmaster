@@ -15,6 +15,10 @@ toc = false
 widgets = []
 
 +++
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
+
 If you are looking for a premium looking paddleboard (without the premium price tag!) then you may find the [**Lucear Inflatable Paddle Board**](https://www.amazon.com/Paddle-Board-Inflatable-Boards-Adults/dp/B09ZL7XTL3?pd_rd_i=B09NVG2C9G&th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=98148a21ee5e9c75027d900a09fdef71&language=en_US&ref_=as_li_ss_tl) a great choice, just like I do.  So what exactly do you get with this paddleboard?
 
 The [**Lucear paddleboard**](/categories/lucear/) is a wide board that has a non-slip SUP design.  It is suitable for a wide range of activities, which is what I love about it - it makes it really versatile and if you are not a regular user of your paddleboard then you can share it with friends or family and they can also get enjoyment from the paddleboard.
