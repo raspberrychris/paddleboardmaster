@@ -1,6 +1,3 @@
 User-agent: *
 
-Disallow:/tags/
-Disallow:/categories/
-
 Sitemap: https://paddleboardmaster.com/sitemap.xml
