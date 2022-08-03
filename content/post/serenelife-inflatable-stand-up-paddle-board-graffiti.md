@@ -15,6 +15,10 @@ toc = true
 widgets = []
 
 +++
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
+
 If you are searching for an SUP with a difference then you are in the right place!
 
 This SUP has a completely unique design, which I absolutely love and couldn’t wait to get my hands on it to test it out.
@@ -25,7 +29,7 @@ Join me as I walk you through the pros and cons of the [**SereneLife Inflatable 
 
 ## SereneLife inflatable Stand Up Paddle Board - Who is it for?
 
-If you are looking for a paddleboard with a unique design, that is light and good quality then you are likely to be interested in this SUP.  
+If you are looking for a paddleboard with a unique design, that is light and good quality then you are likely to be interested in this SUP.
 
 ![Steady-paddleboard-serenelife-graffiti](/uploads/70ea33ed-e9ca-45ab-becf-d02dd131199b.jpeg "Steady-paddleboard-serenelife-graffiti")
 
@@ -35,7 +39,7 @@ As it is inflatable it is a great SUP that you can pack away and throw in the ca
 
 In terms of set up is is also very simple and you don’t need any special experience to set up the board, everything is very self explanatory.
 
-**This SUP has two thoughtful features which I really love.**  
+**This SUP has two thoughtful features which I really love.**
 
 > Firstly, it has an action camera or GoPro holder.  This makes it easy to secure your camera to the board, so you can record your adventures without having to be concerned about losing your camera.
 
@@ -57,8 +61,8 @@ The board itself has drop stitch reinforced PVC.  Making it water proof and resi
 
 * Yoga
 * Fishing
-* Paddling 
-* Carrying Pets 
+* Paddling
+* Carrying Pets
 * Exploring the water
 * Recording Videos of your adventures / Vlogging
 
@@ -74,13 +78,13 @@ Everything you need included (including leash and pump).  There is also a place 
 
 ### Premium Materials
 
-Highest quality of military grade material are used with the construction of this board.  
+Highest quality of military grade material are used with the construction of this board.
 
 A lot of other boards often describe themselves as using ‘military grade’ materials, but the materials and the techniques to put this board together really go over and above what we have seen from some other SUPs out there.
 
 ### Wide Design
 
-Measuring 10’6 feet long & 32 inches wide, balancing & stabilizing on top of our SUP board is a breeze. 
+Measuring 10’6 feet long & 32 inches wide, balancing & stabilizing on top of our SUP board is a breeze.
 
 This board can be used in the ocean, fresh water lakes, and rivers.
 
