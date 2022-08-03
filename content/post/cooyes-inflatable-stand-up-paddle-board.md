@@ -15,7 +15,9 @@ toc = true
 widgets = []
 
 +++
-![Cooyes Inflatable Stand Up Paddle Board](/uploads/4f50530e-bef4-46b0-9b40-7fcb8a402da3.jpeg "Cooyes Inflatable Stand Up Paddle Board")
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
+
+***
 
 There is no doubt that paddle boarding is becoming increasingly popular and is one of the most fun outdoor water sport activities that you can try this year.
 
