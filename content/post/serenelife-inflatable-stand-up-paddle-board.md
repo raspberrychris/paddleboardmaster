@@ -15,9 +15,11 @@ toc = true
 widgets = []
 
 +++
-![Paddleboard-specs](/uploads/86dcac7f-0551-4ebe-94ea-bf9d9e02c2f4.jpeg "Paddleboard-specs")
+_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
-In this review we will be taking a look at the [**SereneLife Inflatable Stand Up Paddle Board**](https://www.amazon.com/gp/product/B0728DF739/ref=as_li_tl?ie=UTF8&tag=paddleboardmaster-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0728DF739&linkId=318ba788575a83687beb3c7c173a0758).  If you are looking to get one of the best quality paddle boards out there that punches well above its price range then we might have just the paddle board for you!  
+***
+
+In this review we will be taking a look at the [**SereneLife Inflatable Stand Up Paddle Board**](https://www.amazon.com/gp/product/B0728DF739/ref=as_li_tl?ie=UTF8&tag=paddleboardmaster-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0728DF739&linkId=318ba788575a83687beb3c7c173a0758).  If you are looking to get one of the best quality paddle boards out there that punches well above its price range then we might have just the paddle board for you!
 
 We will be taking the [**SereneLife Inflatable Stand Up Paddle Board**](https://www.amazon.com/gp/product/B0728DF739/ref=as_li_tl?ie=UTF8&tag=paddleboardmaster-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0728DF739&linkId=318ba788575a83687beb3c7c173a0758) through its paces to find out exactly why it is one of the most popular paddle boards out there and see why people just like you, rave about this paddle board!
 
@@ -39,7 +41,7 @@ If you can’t wait and want to jump straight to the product listing, [**click h
 
 ## Key Features
 
-We think that this board is great because it is easy to inflate, is well made and high quality, it is easy to set up and transport and folds away really nicely.  
+We think that this board is great because it is easy to inflate, is well made and high quality, it is easy to set up and transport and folds away really nicely.
 
 **In terms of specific features:**
 
