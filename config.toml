@@ -12,8 +12,6 @@ name = "Chris"
 [Params]
 authorbox = true
 copyright = "PADDLEBOARDMASTER.COM ARE A PARTICIPANT IN THE AMAZON SERVICES LLC ASSOCIATES PROGRAM, AN AFFILIATE ADVERTISING PROGRAM DESIGNED TO PROVIDE A MEANS FOR US TO EARN FEES BY LINKING TO AMAZON.COM AND AFFILIATED SITES."
-customCSS = false
-customJS = false
 dateformat = "2006-01-02"
 description = "Paddleboard Master is the place to find honest reviews about the BEST Paddleboards"
 googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"
