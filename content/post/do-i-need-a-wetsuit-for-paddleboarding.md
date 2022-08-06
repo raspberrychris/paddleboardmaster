@@ -25,23 +25,23 @@ You can find wetsuits in various thicknesses to suit your needs, ranging from ve
 
 Most wetsuits are made of neoprene, which is naturally insulating and helps keep water out, so these suits keep you warm both in and out of the water. Wetsuits are great for swimmers, divers, and water sports enthusiasts who want to stay warm and enjoy protection from the elements.
 
-A wetsuit will keep water out of your suit thanks to its neoprene material and will keep you warm as well thanks to its insulating properties. You can also choose a wetsuit with sleeves to keep your arms warm as well. 
+A wetsuit will keep water out of your suit thanks to its neoprene material and will keep you warm as well thanks to its insulating properties. You can also choose a wetsuit with sleeves to keep your arms warm as well.
 
 Wetsuits come in many different styles and designs, so you can pick the one that suits you best. Wetsuits are a good choice for any water temperature.
 
-**There are three main types of materials used to make wetsuits: standard (neoprene), semi-solid, and solid.** 
+**There are three main types of materials used to make wetsuits: standard (neoprene), semi-solid, and solid.**
 
-While **standard neoprene** is the most affordable, it is also the least warm. 
+While **standard neoprene** is the most affordable, it is also the least warm.
 
-**Semi-solid neoprenes** are a little bit warmer than standard neoprenes but more expensive than standard neoprenes. 
+**Semi-solid neoprenes** are a little bit warmer than standard neoprenes but more expensive than standard neoprenes.
 
 **Solid neoprenes** are the warmest, but also the most expensive.
 
 The easiest and quickest way to dry your wetsuit is to hang it up somewhere warm and dry. It will dry within a day or two, and will quickly be ready to use again. Many divers also choose to rinse their wetsuits out with fresh water after every dive. This will help to prevent salt buildup and also leave it smelling fresh.
 
-One of the best ways to extend the life of a wetsuit is to make sure that you do not store it folded up. 
+One of the best ways to extend the life of a wetsuit is to make sure that you do not store it folded up.
 
-Ideally, it should be hung up and allowed to air out. If you do not have space to hang it up, then at least leave it open and flat so that it can air out. 
+Ideally, it should be hung up and allowed to air out. If you do not have space to hang it up, then at least leave it open and flat so that it can air out.
 
 > **Pro Tip:** It is a good idea to allow your wetsuit to air out every time you use it.
 
@@ -71,10 +71,12 @@ Our skin cells may absorb water, resulting in cold feet and poor health. When we
 
 ## Then vs Now
 
-When I was a child I used to go swimming in the sea every morning before it got too dark for us to swim without a wetsuit, and then I would change my clothes and sit on the beach with the other kids.  I used to catch so many colds back then. 
+When I was a child I used to go swimming in the sea every morning before it got too dark for us to swim without a wetsuit, and then I would change my clothes and sit on the beach with the other kids.  I used to catch so many colds back then.
 
 Don't be me!  Nowadays you can buy a wetsuit that is not only waterproof but also breathable and therefore you can get warm without getting cold or catching a cold. The wetsuit is also much lighter than when we were children and therefore you don't have to worry about getting wet feet again.
 
 With all of these tips, I hope that this article has helped your friend or family member who is wearing one of these wetsuits become a more comfortable and safe wearer of the wetsuit!
 
 Thank you for reading :) Share this article if you love wetsuits and paddleboarding and want to help others.
+
+Photo by [Susan Flynn](https://unsplash.com/@misssusanflynn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/wetsuit?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
