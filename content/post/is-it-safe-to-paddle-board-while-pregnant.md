@@ -17,9 +17,13 @@ widgets = []
 +++
 Is it safe to [**paddleboard**](https://paddleboardmaster.com) while pregnant? That's the question many pregnant women want to know the answer to.
 
-[**Paddleboarding**](https://paddleboardmaster.com) is a very low-impact activity and is suitable for pregnant women in the later stages of pregnancy, as long as they are medically cleared and have the right gear. 
+[**Paddleboarding**](https://paddleboardmaster.com) is a very low-impact activity and is suitable for pregnant women in the later stages of pregnancy, as long as they are medically cleared and have the right gear.
 
 You should also make sure that you’re in a safe location with easy access to medical care if you’re in the water. If you’re on a [**SUP**](https://paddleboardmaster.com), make sure that you have a strap to hold the board against the current if the water is moving quickly. You should also be sure to avoid being in the water if there are any signs of a storm, like increasing winds.
+
+Check out this video below from [**Danielle H.**](https://www.youtube.com/user/mauiagent)
+
+{{< youtube JSy5i3LgZjE >}}
 
 Throughout the pregnancy, exercise helps to prepare the body for labor and delivery by increasing blood flow and decreasing stress. During the last few months of pregnancy, it also helps with weight management and improved posture. Furthermore, exercise during this time of pregnancy is also said to improve the postpartum recovery process. It reduces stress, improves muscle tone, and increases blood flow to the pelvic area, which can help with quicker healing after delivery.
 
@@ -51,12 +55,12 @@ Paddleboarding while pregnant is not necessarily unsafe, but your doctor should 
 
 There are some obvious ways to have a safer and smoother SUP experience while pregnant.
 
-* Avoid paddling in areas with high water traffic. 
-* It is important to wear a leash when paddle boarding. 
+* Avoid paddling in areas with high water traffic.
+* It is important to wear a leash when paddle boarding.
 * Stay near the shore and pay attention to the currents.
 * Wear sunscreen to protect yourself from the sun.
-* It is crucial to wear a life jacket and keep a whistle with you when paddleboarding. 
-* Always remain hydrated; remember, you're drinking for two!  
+* It is crucial to wear a life jacket and keep a whistle with you when paddleboarding.
+* Always remain hydrated; remember, you're drinking for two!
 * Always follow proper common sense rules and procedures when paddleboarding in order to have a safe experience.
 
 ## Stand Up Paddle Board While Pregnant During The Last Trimester
