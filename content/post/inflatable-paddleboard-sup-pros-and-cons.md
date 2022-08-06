@@ -118,3 +118,5 @@ Inflatable SUPs are comfortable, especially compared to other SUPs. The soft edg
 They are durable. The materials used in their construction are strong enough to last for years.
 
 They are easy to repair. Even if you have a puncture in your SUP, you will be able to fix it with a repair kit.
+
+Photo by [Holly Mandarich](https://unsplash.com/@hollymandarich?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/paddleboard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
