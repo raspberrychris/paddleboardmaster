@@ -16,7 +16,7 @@ widgets = []
 
 +++
 
-![paddleboardmaster](uploads/paddle-north-BDK_ytyH-PA-unsplash.jpg)
+![paddleboardmaster](static/uploads/paddle-north-BDK_ytyH-PA-unsplash.jpg)
 
 [**Paddle Board Master**](/) was started by Chris who first experienced paddle boarding while on holiday in San Diego and visiting La Jolla Cove.
 
