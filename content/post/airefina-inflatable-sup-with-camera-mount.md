@@ -35,8 +35,6 @@ We have been very impressed with its instant popularity with all different types
 
 **But what is it EXACTLY that people really love about this SUP?!**
 
-![](/uploads/backgrounds.jpg)
-
 The sturdiness, durability of the materials and the fact that it is really easy to inflate came out as the top reasons why customers who bought this paddleboard really loved it and would recommend it to others.
 
 Also the fact that it "literally comes with everything you need" is an absolute bonus here, especially at this price point.
@@ -102,9 +100,7 @@ It comes with a camera mount (for GoPros or equivalent.)
 
 You can use it to record and share every moment on the water with your friends and family.
 
-### Hight Quality Materials and Light
-
-![](/uploads/a3c07832-5366-48db-b3b4-468ad103aecf.jpeg)
+### High Quality Materials and Light Weight
 
 Made using wire drawing material and dual PVC construction, the inflatable SUP weighs only 28lbs but can load 350lbs.
 
