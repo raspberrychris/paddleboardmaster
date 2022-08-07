@@ -11,7 +11,7 @@ pager = false
 sidebar = ""
 tags = ["Beginners Guides"]
 thumbnail = ""
-title = "Paddle Boarding vs Kayaking"
+title = "Paddle Boarding vs Kayaking: Which one is right for you?"
 toc = false
 widgets = []
 
@@ -25,3 +25,9 @@ I will provide the arguments for and against paddleboards and kayaks so you can 
 ### Mobility and freedom to move around
 
 Some people like a SUP for their the mobility.  For example if you can't sit for long periods of time then you may find a Kayak is not the right choice for you, in this way the Paddleboard wins every time, if you want to move about then 
+
+## Why do people like Kayaks?
+
+With a Kayak you do get a certain degree of storage space.  Most kayaks (but not all) provide considerably more storage than paddleboards.
+
+## Paddleboarding or Kayaking: Which one is right for you?
