@@ -2,14 +2,14 @@
 authorbox = false
 categories = []
 comments = false
-date = ""
-description = ""
+date = 2022-08-07T11:00:00Z
+description = "Paddleboards or Kayaks?  Join me as I compare these two side by side and discover which is the right one for you."
 draft = true
 lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = ["Beginners Guides"]
 thumbnail = ""
 title = "Paddle Boarding vs Kayaking"
 toc = false
