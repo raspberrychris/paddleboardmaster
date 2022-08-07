@@ -23,7 +23,7 @@ To help you make the best decision, we've outlined the top pros and cons of SUPs
 
 Let's begin with the advantages of owning an paddleboard.
 
-## Pros
+## Pros ✅
 
 ### **Take it with you anywhere!**
 
