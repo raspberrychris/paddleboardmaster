@@ -84,7 +84,7 @@ Scan the list below to see what you get, I would say that there is everything yo
 * 5x D-Rings
 * 1x Inflatable Stand-Up Paddleboard
 
-![airefina paddle board accessories](https://m.media-amazon.com/images/S/aplus-media-library-service-media/2e7bf996-d3ac-4678-8392-7c28b15f1376.__CR0,0,970,600_PT0_SX970_V1___.png "airefina paddle board accessories")
+![everything-you-need-accessories](/uploads/backgrounds.png "everything-you-need-accessories")
 
 ## Features
 
@@ -122,7 +122,7 @@ You can inflate or deflate the inflatable paddle board quickly by the two way in
 
 ## Final Verdict
 
-Well, what can we say...
+Well, what can I say...
 
 We absolutely love this paddleboard from Airefina!
 
@@ -134,7 +134,7 @@ This means that this paddleboard will enable a lot more people to enjoy explorin
 
 The only negative thing we could find about this particular SUP was the fact that it is a relatively new brand and it may put some people off it for this reason, but if that doesn't bother you then this is an excellent choice of paddleboard in our opinion.
 
-## 5/5
+## 5/5 ⭐⭐⭐⭐⭐
 
 ## Pros
 
