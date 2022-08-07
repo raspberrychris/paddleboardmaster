@@ -31,3 +31,5 @@ Some people like a SUP for their the mobility.  For example if you can't sit for
 With a Kayak you do get a certain degree of storage space.  Most kayaks (but not all) provide considerably more storage than paddleboards.
 
 ## Paddleboarding or Kayaking: Which one is right for you?
+
+[https://www.reddit.com/r/Sup/comments/3e2lo4/paddleboards_vs_kayaks/](https://www.reddit.com/r/Sup/comments/3e2lo4/paddleboards_vs_kayaks/ "https://www.reddit.com/r/Sup/comments/3e2lo4/paddleboards_vs_kayaks/")
