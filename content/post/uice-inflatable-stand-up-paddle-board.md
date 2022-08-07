@@ -21,7 +21,7 @@ _We use affiliate links on this site and we may earn a small commission if you c
 
 Welcome to this review today on [**paddleboardmaster.com**](/).  Today I will be taking a look at the [**UICE Inflatable Stand Up Paddle Board**](https://www.amazon.com/UICE-Inflatable-Advanced-Standard-Accessories/dp/B09PG1GKPT?c=ts&keywords=Stand-Up+Paddleboards&qid=1655818653&refinements=p_89%3AUICE&s=sports-and-fitness&sr=1-2&ts_id=5522381011&linkCode=ll1&tag=paddleboardmaster-20&linkId=bdb471e119579ab44c1291ebad0a6996&language=en_US&ref_=as_li_ss_tl) and seeing how it performs against other SUPs.
 
-![Uice-paddleboard-specs](/uploads/1682b5af-60b0-401b-b28c-0a2d75e964ab.jpeg "Uice-paddleboard-specs")
+![](/uploads/designed-by-italian-designer.jpg)
 
 Join us as we take an indepth look at this paddle board to see how it compares against similar paddle boards!
 
