@@ -81,7 +81,7 @@ That inflatable board has been perfect for her. It is stable and the surface pre
 
 Puppies make the perfect companion for SUPing!
 
-## Cons
+## Cons ❌
 
 ### Rigidity
 
