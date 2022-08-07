@@ -27,7 +27,9 @@ To start we will take you through the pros and cons of this paddleboard and will
 
 ## Airefina Inflatable SUP with Camera Mount  - Who is it for?
 
-![](/uploads/deee9a2c-bcbc-4067-8104-87e7b92e3cb1.webp)The [**Airefina**](/categories/airefina/) is one of the top new inflatable paddleboards of 2022 so far.
+![airefina-inflatable-sup-yoga-woman](/uploads/backgrounds.jpg "airefina-inflatable-sup-yoga-woman")
+
+The [**Airefina**](/categories/airefina/) is one of the top new inflatable paddleboards of 2022 so far.
 
 We have been very impressed with its instant popularity with all different types of people, both young and old.
 
