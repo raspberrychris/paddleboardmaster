@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = []
+categories = ["Drift"]
 comments = false
 date = 2022-08-15T11:00:00Z
 description = ""
@@ -9,8 +9,8 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
-thumbnail = ""
+tags = ["Review"]
+thumbnail = "/uploads/71-wafawgfl-_ac_sx425_.jpg"
 title = "Drift Inflatable Stand Up Paddle Board"
 toc = false
 widgets = []
