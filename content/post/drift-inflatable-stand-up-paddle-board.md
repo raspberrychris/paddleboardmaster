@@ -2,7 +2,7 @@
 authorbox = false
 categories = []
 comments = false
-date = ""
+date = 2022-08-15T11:00:00Z
 description = ""
 draft = true
 lead = ""
