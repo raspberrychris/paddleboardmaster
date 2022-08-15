@@ -16,11 +16,13 @@ toc = true
 widgets = []
 
 +++
-## Drift Inflatable Stand Up Paddle Board - Who is it for?
+https://www.amazon.com/DRIFT-Inflatable-Accessories-Lightweight-Backpack/dp/B082MVY4PL/ref=zg_bs_5522381011_sccl_4/141-7453513-5181116?pd_rd_i=B0B355VH6C&th=1&psc=1
 
 Welcome to this review today I will be taking a look at the Drift Inflatable Stand Up Paddle Board. 
 
 Join us as we take an in depth look at this paddleboard to see how it compares against similar paddleboards in the market.
+
+## Drift Inflatable Stand Up Paddle Board - Who is it for?
 
 ## Unboxing Video of Drift Inflatable Stand Up Paddle Board
 
