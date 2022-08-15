@@ -18,6 +18,10 @@ widgets = []
 +++
 ## Drift Inflatable Stand Up Paddle Board  - Who is it for?
 
+Welcome to this review today I will be taking a look at the Drift Inflatable Stand Up Paddle Board paddleboard. 
+
+Join us as we take an indepth look at this paddleboard to see how it compares against similar paddleboards in the market.
+
 ## Unboxing Video of Drift Inflatable Stand Up Paddle Board
 
 **Click here to check out the Drift Inflatable Stand Up Paddle Board  on Amazon.com...**
