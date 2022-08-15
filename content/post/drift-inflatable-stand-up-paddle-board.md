@@ -16,7 +16,7 @@ toc = true
 widgets = []
 
 +++
-## Drift Inflatable Stand Up Paddle Board  - Who is it for?
+## Drift Inflatable Stand Up Paddle Board - Who is it for?
 
 Welcome to this review today I will be taking a look at the Drift Inflatable Stand Up Paddle Board. 
 
