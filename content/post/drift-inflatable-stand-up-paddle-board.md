@@ -3,7 +3,7 @@ authorbox = true
 categories = ["Drift"]
 comments = true
 date = 2022-08-15T11:00:00Z
-description = ""
+description = "Join me as I take an in depth look at the Drift paddleboard to see how it compares against similar paddleboards in the market.  "
 draft = true
 lead = "Is this the best all rounder Paddle board?"
 mathjax = false
@@ -18,9 +18,9 @@ widgets = []
 +++
 Welcome to this review, today I will be taking a look at the [**Drift Inflatable Stand Up Paddle Board**](#) and walking you through the features: Who it's for and also seeing how it really performs on the water.
 
-Join us as I take an in depth look at this paddleboard to see how it compares against similar paddleboards in the market.  
+Join me as I take an in depth look at the Drift paddleboard to see how it compares against similar paddleboards in the market.  
 
-We will take a look at the pros and cons of this board and provide an ultimate score for how we think this board performs overall.
+I will take a look at the pros and cons of this board and provide an ultimate score for how we think this board performs overall.
 
 **Ready? Let's go!**
 
