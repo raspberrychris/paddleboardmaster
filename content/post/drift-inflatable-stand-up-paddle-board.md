@@ -26,6 +26,8 @@ Join us as we take an in depth look at this paddleboard to see how it compares a
 
 Drift say that this paddleboard is suitable for experts and beginners alike.  At a push it can actually support two adults at a time as the board is very stable. (One sitting and one standing).  The durable design means that you can take your dog with you and it should withstand the scratching from your dog's nails.
 
+In short if you prioritise comfort, sturdiness and stability then you will like this board.  
+
 ## Unboxing Video of Drift Inflatable Stand Up Paddle Board
 
 **Click here to check out the Drift Inflatable Stand Up Paddle Board  on Amazon.com...**
@@ -54,11 +56,20 @@ Comes with all essential paddle board accessories, including coiled leash, remov
 
 Based in Destin, Florida - we stand by the quality of our boards. All Drift paddle boards are covered by a 1-year manufacturer’s warranty at no additional cost. Please feel free to contact us with any questions or issues!
 
+## What accessories does it come with?
+
+* Coiled leash
+* Removable fin
+* Repair kit
+* 3-piece aluminum paddle
+* Paddle board pump
+* Backpack
+
 ## Verdict
 
 ## 5/5
 
-## Pros 
+## Pros
 
 Easy to store, takes up the same amount of space as a piece of luggage
 
