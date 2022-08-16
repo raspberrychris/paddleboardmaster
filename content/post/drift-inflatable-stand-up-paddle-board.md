@@ -24,9 +24,13 @@ Join us as we take an in depth look at this paddleboard to see how it compares a
 
 ## Drift Inflatable Stand Up Paddle Board - Who is it for?
 
-Drift say that this paddleboard is suitable for experts and beginners alike.  At a push it can actually support two adults at a time as the board is very stable. (One sitting and one standing).  The durable design means that you can take your dog with you and it should withstand the scratching from your dog's nails.
+Drift say that this paddleboard is suitable for experts and beginners alike.  
 
-In short if you prioritise comfort, sturdiness and stability then you will like this board.  
+At a push it can actually support two adults at a time as the board is very stable. (One sitting and one standing).  
+
+The durable design means that you can take your dog with you and it should withstand the scratching from your dog's nails.
+
+> In short if you prioritise comfort, sturdiness and stability then you will love this board!
 
 ## Unboxing Video of Drift Inflatable Stand Up Paddle Board
 
