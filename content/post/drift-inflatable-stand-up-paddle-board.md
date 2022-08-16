@@ -2,9 +2,8 @@
 authorbox = true
 categories = ["Drift"]
 comments = true
-date = 2022-08-15T11:00:00Z
+date = 2022-08-16T11:00:00Z
 description = "Join me as I take an in depth look at the Drift paddleboard to see how it compares against similar paddleboards in the market.  "
-draft = true
 lead = "Is this the best all rounder Paddle board?"
 mathjax = false
 pager = true
@@ -16,11 +15,9 @@ toc = true
 widgets = []
 
 +++
-https://www.amazon.com/DRIFT-Inflatable-Accessories-Lightweight-Backpack/dp/B082MVY4PL/ref=zg_bs_5522381011_sccl_4/141-7453513-5181116?pd_rd_i=B0B355VH6C&th=1&psc=1
+Welcome to this review, today I will be taking a look at the [**Drift Inflatable Stand Up Paddle Board**](https://www.amazon.com/DRIFT-Inflatable-Accessories-Lightweight-Backpack/dp/B082MVY4PL?pd_rd_i=B0B355VH6C&th=1&psc=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=66ea454556d174eea75fca0df085cdb8&language=en_US&ref_=as_li_ss_tl) and walking you through the features: Who it's for and also seeing how it really performs on the water.
 
-Welcome to this review, today I will be taking a look at the [**Drift Inflatable Stand Up Paddle Board**](#) and walking you through the features: Who it's for and also seeing how it really performs on the water.
-
-Join me as I take an in depth look at the Drift paddleboard to see how it compares against similar paddleboards in the market.  
+Join me as I take an in depth look at the Drift paddleboard to see how it compares against similar paddleboards in the market.
 
 I will take a look at the pros and cons of this board and provide an ultimate score for how we think this board performs overall.
 
@@ -32,9 +29,9 @@ Drift say that this paddleboard is suitable for experts and beginners alike. But
 
 For me the answer to the above question is yes.  The board is really a good mix of a lot of factors.  It is good value, comes with a lot of high quality accessories and is designed in a way that makes it appealing to both beginners and more experienced users.
 
-### How much weight can the drift iSUP support? 
+### How much weight can the drift iSUP support?
 
-At a push in my opinion it can actually support two adults at a time as the board is very stable. (One sitting and one standing).  
+At a push in my opinion it can actually support two adults at a time as the board is very stable. (One sitting and one standing).
 
 The hard wearing durable design means that you can take your dog with you and it should withstand the scratching from your dog's nails!  (I thought that was pretty incredible).
 
@@ -42,11 +39,13 @@ The hard wearing durable design means that you can take your dog with you and it
 
 ## Video of the Drift Inflatable Stand Up Paddle Board
 
-See what the Drift inflatable SUP actually looks like on the water.  We think you'll love it!
+See what the Drift inflatable SUP actually looks like on the water.  
+
+We think you'll love it!
 
 {{< youtube lESBM6SzBso >}}
 
-[**Click here to check out the Drift Inflatable Stand Up Paddle Board  on Amazon.com...**](#)
+[**Click here to check out the Drift Inflatable Stand Up Paddle Board  on Amazon.com...**](https://www.amazon.com/DRIFT-Inflatable-Accessories-Lightweight-Backpack/dp/B082MVY4PL?pd_rd_i=B0B355VH6C&th=1&psc=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=66ea454556d174eea75fca0df085cdb8&language=en_US&ref_=as_li_ss_tl)
 
 ## What Activities is it Suitable For?
 
@@ -54,7 +53,7 @@ Being a stable and fairly well sized SUP, we think this paddleboard is suitable 
 
 * Fishing
 * Yoga
-* Exploring 
+* Exploring
 * Paddling
 * SUPing
 * Travelling with pets
@@ -67,7 +66,7 @@ The Drift board measures 10'8" x 33" x 6", the wide deck and performance shape m
 
 ### Inflatable & Portable
 
-The drift board can inflates or deflates quickly and packs down to 38" x 18" x 12" and weights 19 lbs. 
+The drift board can inflates or deflates quickly and packs down to 38" x 18" x 12" and weights 19 lbs.
 
 ### Highly Durable
 
@@ -75,11 +74,11 @@ Drift use a High Tech process to transform military-grade PVC into a rock-solid 
 
 ### 1 Year Manufacturers Warranty
 
-All Drift paddle boards are covered by a 1-year manufacturer’s warranty at no additional cost. 
+All Drift paddle boards are covered by a 1-year manufacturer’s warranty at no additional cost.
 
 ## What accessories does it come with?
 
-The Drift iSUP accessories really are fantastic quality and you get some 
+The Drift iSUP accessories really are fantastic quality and you get some
 
 * Coiled leash
 * Removable fin
@@ -110,7 +109,7 @@ All in all, a great paddleboard and I am pleased to award it 5/5 stars.
 
 * Easy to store, takes up the same amount of space as a piece of luggage
 * Durable materials used make it a purchase for the long term.
-* Fantastic accessories 
+* Fantastic accessories
 * Great high quality bag
 * Perfect for a wide range of activities
 
@@ -118,4 +117,4 @@ All in all, a great paddleboard and I am pleased to award it 5/5 stars.
 
 * Color scheme may not be to everyone's taste
 
-[**Click here to check out the Drift Inflatable Stand Up Paddle Board  on Amazon.com...**](#)
+[**Click here to check out the Drift Inflatable Stand Up Paddle Board  on Amazon.com...**](https://www.amazon.com/DRIFT-Inflatable-Accessories-Lightweight-Backpack/dp/B082MVY4PL?pd_rd_i=B0B355VH6C&th=1&psc=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=66ea454556d174eea75fca0df085cdb8&language=en_US&ref_=as_li_ss_tl)
