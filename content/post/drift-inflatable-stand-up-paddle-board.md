@@ -16,21 +16,27 @@ toc = true
 widgets = []
 
 +++
-Welcome to this review, today I will be taking a look at the Drift Inflatable Stand Up Paddle Board and walking you through the features, who it's for and seeing how it really performs on the water.
+Welcome to this review, today I will be taking a look at the [**Drift Inflatable Stand Up Paddle Board**](#) and walking you through the features: Who it's for and also seeing how it really performs on the water.
 
 Join us as I take an in depth look at this paddleboard to see how it compares against similar paddleboards in the market.  
 
 We will take a look at the pros and cons of this board and provide an ultimate score for how we think this board performs overall.
 
+**Ready? Let's go!**
+
 ## Drift Inflatable Stand Up Paddle Board - Who is it for?
 
-Drift say that this paddleboard is suitable for experts and beginners alike. But can it really? 
+Drift say that this paddleboard is suitable for experts and beginners alike. But can it really be great for both beginners and experts?
+
+For me the answer to the above question is yes.  The board is really a good mix of a lot of factors.  It is good value, comes with a lot of high quality accessories and is designed in a way that makes it appealing to both beginners and more experienced users.
+
+### How much weight can the drift iSUP support? 
 
 At a push in my opinion it can actually support two adults at a time as the board is very stable. (One sitting and one standing).  
 
-The hard wearing durable design means that you can take your dog with you and it should withstand the scratching from your dog's nails.
+The hard wearing durable design means that you can take your dog with you and it should withstand the scratching from your dog's nails!  (I thought that was pretty incredible).
 
-> In short if you prioritise comfort, sturdiness and stability then you will love this board!
+> So why get the Drift over other iSUPs out there? In short if you prioritise comfort, sturdiness and stability when paddle boarding then you will love this board!
 
 ## Video of the Drift Inflatable Stand Up Paddle Board
 
@@ -42,7 +48,7 @@ See what the Drift inflatable SUP actually looks like on the water.  We think yo
 
 ## What Activities is it Suitable For?
 
-Being a stable and fairly well sized SUP, we think this paddleboard is suitable for the following activities:
+Being a stable and fairly well sized SUP, we think this paddleboard is suitable for (but not limited to) the following activities:
 
 * Fishing
 * Yoga
@@ -71,6 +77,8 @@ All Drift paddle boards are covered by a 1-year manufacturer’s warranty at no 
 
 ## What accessories does it come with?
 
+The Drift iSUP accessories really are fantastic quality and you get some 
+
 * Coiled leash
 * Removable fin
 * Repair kit
@@ -80,12 +88,32 @@ All Drift paddle boards are covered by a 1-year manufacturer’s warranty at no 
 
 ## Verdict
 
+This is one of the best boards for the money that we have seen out there.  It has become instantly popular and is one of the most durable paddleboards on the market at this price point.
+
+What I love about the board apart from the quality of the materials used is the fact that it comes with so many quality accessories that makes it a board that beginners as well as more experienced paddleboarders can all enjoy.
+
+Customers who have bought this board have remarked at how durable it is for an iSUP.  So if you want a board that is going to last then this would make a fantastic choice in my opinion.
+
+The included pump means that you can have the board pumped up in no time and it is all straight forward and easy to inflate and deflate with no issues.
+
+The included bag is really good quality and if you are after a great bag to keep your SUP in, this really is one of the best out there and the thick padding on the straps gives some hiking bags a run for their money!
+
+All in all, a great paddleboard and I am pleased to award it 5/5 stars.
+
 ## 5/5
+
+⭐⭐⭐⭐⭐
 
 ## Pros
 
-Easy to store, takes up the same amount of space as a piece of luggage
+* Easy to store, takes up the same amount of space as a piece of luggage
+* Durable materials used make it a purchase for the long term.
+* Fantastic accessories 
+* Great high quality bag
+* Perfect for a wide range of activities
 
 ## Cons
+
+* Color scheme may not be to everyone's taste
 
 [**Click here to check out the Drift Inflatable Stand Up Paddle Board  on Amazon.com...**](#)
