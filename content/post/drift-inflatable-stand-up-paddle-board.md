@@ -16,51 +16,58 @@ toc = true
 widgets = []
 
 +++
-https://www.amazon.com/DRIFT-Inflatable-Accessories-Lightweight-Backpack/dp/B082MVY4PL/ref=zg_bs_5522381011_sccl_4/141-7453513-5181116?pd_rd_i=B0B355VH6C&th=1&psc=1
-
 Welcome to this review, today I will be taking a look at the Drift Inflatable Stand Up Paddle Board and walking you through the features, who it's for and seeing how it really performs on the water.
 
-Join us as we take an in depth look at this paddleboard to see how it compares against similar paddleboards in the market.  
+Join us as I take an in depth look at this paddleboard to see how it compares against similar paddleboards in the market.  
 
 We will take a look at the pros and cons of this board and provide an ultimate score for how we think this board performs overall.
 
 ## Drift Inflatable Stand Up Paddle Board - Who is it for?
 
-Drift say that this paddleboard is suitable for experts and beginners alike.  
+Drift say that this paddleboard is suitable for experts and beginners alike. But can it really? 
 
-At a push it can actually support two adults at a time as the board is very stable. (One sitting and one standing).  
+At a push in my opinion it can actually support two adults at a time as the board is very stable. (One sitting and one standing).  
 
-The durable design means that you can take your dog with you and it should withstand the scratching from your dog's nails.
+The hard wearing durable design means that you can take your dog with you and it should withstand the scratching from your dog's nails.
 
 > In short if you prioritise comfort, sturdiness and stability then you will love this board!
 
-## Unboxing Video of Drift Inflatable Stand Up Paddle Board
+## Video of the Drift Inflatable Stand Up Paddle Board
 
-**Click here to check out the Drift Inflatable Stand Up Paddle Board  on Amazon.com...**
+See what the Drift inflatable SUP actually looks like on the water.  We think you'll love it!
+
+{{< youtube lESBM6SzBso >}}
+
+[**Click here to check out the Drift Inflatable Stand Up Paddle Board  on Amazon.com...**](#)
 
 ## What Activities is it Suitable For?
+
+Being a stable and fairly well sized SUP, we think this paddleboard is suitable for the following activities:
+
+* Fishing
+* Yoga
+* Exploring 
+* Paddling
+* SUPing
+* Travelling with pets
 
 ## Features
 
 ### Stable & Manoeuvrable
 
-It's easy to stand up and balance on a Drift paddle board! At 10'8" x 33" x 6", the wide deck and performance shape make for fast, fun paddling for all skill levels.
+The Drift board measures 10'8" x 33" x 6", the wide deck and performance shape make for fast, fun paddling for all skill levels.
 
 ### Inflatable & Portable
 
-Quickly inflates or deflates for Easy Storage - packing down to just 38" x 18" x 12" and 19 lbs. Whether you’re jetting off to explore a tropical paradise or hiking into the wild to find that perfectly serene fishing spot, Drift Inflatable SUPs travel comfortably in their high-quality carrying bag backpacks.
+The drift board can inflates or deflates quickly and packs down to 38" x 18" x 12" and weights 19 lbs. 
 
 ### Highly Durable
 
-We use a High Tech process to transform military-grade PVC into a rock-solid rigid platform. With a core of composite drop-stitch fibers connected to the nearly indestructible outer skin, Drift boards stand up to anything you want to do on the water.
+Drift use a High Tech process to transform military-grade PVC into a rock-solid rigid platform. With a core of composite drop-stitch fibers connected to the nearly indestructible outer skin, Drift boards stand up to anything you want to do on the water.
 
-### Complete Paddleboard Kit
+### 1 Year Manufacturers Warranty
 
-Comes with all essential paddle board accessories, including coiled leash, removable fin, repair kit, 3-piece aluminum paddle, paddle board pump, and backpack carrying bag. Board Features include EVA foam deck pad, bungee straps, grab handles, 250 lb capacity, and our signature Entry Rocker style hull that sheds water and keeps the board nose up.
-
-### Better After Service
-
-Based in Destin, Florida - we stand by the quality of our boards. All Drift paddle boards are covered by a 1-year manufacturer’s warranty at no additional cost. Please feel free to contact us with any questions or issues!
+All Drift paddle boards are covered by a 1-year manufacturer’s warranty at no additional cost. 
 
 ## What accessories does it come with?
 
@@ -81,4 +88,4 @@ Easy to store, takes up the same amount of space as a piece of luggage
 
 ## Cons
 
-**Click here to check out the Drift Inflatable Stand Up Paddle Board  on Amazon.com...**
+[**Click here to check out the Drift Inflatable Stand Up Paddle Board  on Amazon.com...**](#)
