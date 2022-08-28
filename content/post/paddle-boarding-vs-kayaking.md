@@ -46,11 +46,11 @@ With a paddleboard it is a much simpler affair with one longer single blade padd
 
 Most people would agree that kayaks outperform paddleboards in many situations in terms of speed.  This is not to say that paddleboards are slow, it’s an indication that if you are looking for speed on its own then a paddleboard may not be the best choice for you.
 
-With a Kayak you can expect to get up to 2.6 knots (2-3mph).  With a paddleboard you can expect to get up 3-4  knots (around 3 mph)
+With a paddleboard you can expect to get up 3-4  knots (around 3 mph).
 
 ### Which is faster to learn? Kayaking or Paddleboarding?
 
-You can pick up both Kayaking and paddleboarding in a few hours of training.  Both are relatively easy to pick up and once you know the basics then you just have to learn to apply it on the water.  Paddleboarding may take a little longer to learn for some people if they wish to do other activities on the board such as Yoga, Fishing or they want to change from a sitting position to standing regularly.  As you don.
+You can pick up both Kayaking and paddleboarding in a few hours of training.  Both are relatively easy to pick up and once you know the basics then you just have to learn to apply it on the water.  Paddleboarding may take a little longer to learn for some people if they wish to do other activities on the board such as Yoga, Fishing or they want to change from a sitting position to standing regularly. 
 
 ## Why do People like SUPs?
 
