@@ -42,9 +42,11 @@ With a Kayak you have a double ended dual blade paddle.
 
 With a paddleboard it is a much simpler affair with one longer single blade paddle.
 
-### Which is faster: Kayak or Paddleboard?
+### Are Kayaks or Paddleboard fast? Which one is the fastest?
 
-Most people would agree that kayaks outperform paddleboards in many situations.  This is not to say that paddleboards are slow, it is just an indication that if you are looking for speed on its own then a paddleboard may not be the best choice for you.
+Most people would agree that kayaks outperform paddleboards in many situations in terms of speed.  This is not to say that paddleboards are slow, it’s an indication that if you are looking for speed on its own then a paddleboard may not be the best choice for you.
+
+With a Kayak you can expect to get up to 2.6 knots (2-3mph).  With a paddleboard you can expect to get up 3-4  knots (around 3 mph)
 
 ### Which is faster to learn? Kayaking or Paddleboarding?
 
