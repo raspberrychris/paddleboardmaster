@@ -32,13 +32,23 @@ With a Kayak you sit within in it with legs stretched out in front of you, but w
 
 If you are the type of person that likes to move around and change position, a paddleboard may be a better choice for you than a kayak.  (After all, you can’t do Yoga in a Kayak)!
 
-So in terms of manouevability it seems clear that the paddleboard offers more options, but how does it compare 
+So in terms of your own ma it seems clear that the paddleboard offers more options, but how does it compare 
 
 ### The Paddles are different for Kayaks and Paddleboards
 
-One of the other key physical differences comes in the paddle.  With a Kayak you have a double ended dual blade paddle.
+One of the other key physical differences comes in the form of the paddle.  
+
+With a Kayak you have a double ended dual blade paddle.
 
 With a paddleboard it is a much simpler affair with one longer single blade paddle.
+
+### Which is faster: Kayak or Paddleboard?
+
+Most people would agree that kayaks outperform paddleboards in many situations.  This is not to say that paddleboards are slow, it is just an indication that if you are looking for speed on its own then a paddleboard may not be the best choice for you.
+
+### Which is faster to learn? Kayaking or Paddleboarding?
+
+You can pick up both Kayaking and paddleboarding in a few hours of training.  Both are relatively easy to pick up and once you know the basics then you just have to learn to apply it on the water.  Paddleboarding may take a little longer to learn for some people if they wish to do other activities on the board such as Yoga, Fishing or they want to change from a sitting position to standing regularly.  As you don.
 
 ## Why do People like SUPs?
 
