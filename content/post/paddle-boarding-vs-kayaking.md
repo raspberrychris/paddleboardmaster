@@ -18,9 +18,9 @@ widgets = []
 +++
 If you can't decide on whether you want to start paddle boarding or kayaking, then this blog post will help you make that decision.
 
-In this post I will provide the arguments for and against paddle boards and kayaks, so you can make your own decision about which one you would like to pursue as your new hobby. (Who knows, maybe you'll choose both!)
+In this post I will provide the arguments for and against paddleboards and kayaks, so you can make your own decision about which one you would like to pursue as your new hobby. (Who knows, maybe you'll choose both!)
 
-If you are unfamiliar of the differences between Kayaks and paddle boards, don't worry, I've got you covered. I will run through the differences right now.
+If you are unfamiliar of the differences between Kayaks and paddleboards, don't worry, I've got you covered. I will run through the differences right now.
 
 ## So what are the key differences between Kayaks and Paddleboards?
 
@@ -30,13 +30,13 @@ This is likely to be the key deciding factor for most people as the paddleboard 
 
 With a Kayak you sit within in it with legs stretched out in front of you, but with a Paddleboard you can lie, sit, stand or whatever you want to do on the board itself. (Some people also try Yoga on their SUPs!)
 
-If you are the type of person that likes to move around and change position, a paddleboard may be a better choice for you than a kayak.  (After all, you can’t do Yoga in a Kayak)!
+If you are the type of person that likes to move around and change position a lot, a paddleboard may be a better choice for you than a kayak.  (After all, you can’t do Yoga in a Kayak that easily)!
 
-So in terms of your own ma it seems clear that the paddleboard offers more options, but how does it compare 
+It seems clear that the paddleboard offers more options in terms of changing position on the vessel, but how does it compare in terms of one of they key accessories: the paddles?
 
 ### The Paddles are different for Kayaks and Paddleboards
 
-One of the other key physical differences comes in the form of the paddle.  
+As we have already alluded to, one of the other key physical differences between Kayaks and Paddleboards comes in the form of the paddle.  
 
 With a Kayak you have a double ended dual blade paddle.
 
