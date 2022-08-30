@@ -62,9 +62,19 @@ You can pick up both Kayaking and paddleboarding in a few hours of training.  Bo
 
 Some people like a SUP for their the mobility.  For example if you can't sit for long periods of time then you may find a Kayak is not the right choice for you, in this way the Paddleboard wins every time, if you want to move about them.
 
+### Ability to get in the water easily… if you want to!
+
+Getting into the water from a kayak is certainly not the easiest thing to do.  This is where paddleboards can really excel as you can jump in the water for a quick swim and then return to your paddleboard afterwards.
+
 ## Why do people like Kayaks?
 
+### Protected from the Water, but close to it
+
 With a Kayak you are relatively protected from the water, but while be close to it at the same time.  Some people may prefer this to a paddleboard where you are not as well protected from the water.
+
+### Storage
+
+Kayaks also have the benefit of allowing you to store a certain amount of cargo within the vessel itself.  You can store things on a paddleboard, but just not to the same extent.
 
 ## Paddleboarding or Kayaking: Which one is right for you?
 
