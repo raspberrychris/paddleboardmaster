@@ -68,7 +68,7 @@ Getting into the water from a kayak is certainly not the easiest thing to do.  T
 
 ### Some SUPs can have chair mounts
 
-If you are looking for a seated position on a paddleboard, then you can actually get a chair mount for some paddleboards which will enable you to sit on a paddleboard in a similar way to which you would do with a kayak.
+If you are looking for a seated position on a paddleboard, then you can actually get a chair mount for some paddleboards which will enable you to sit on a paddleboard in a similar way to which you would do with a kayak.  This really means that you can almost get the best of both worlds with a paddleboard.
 
 ## Why do people like Kayaks?
 
