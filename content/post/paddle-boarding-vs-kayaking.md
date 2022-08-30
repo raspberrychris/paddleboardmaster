@@ -66,6 +66,10 @@ Some people like a SUP for their the mobility.  For example if you can't sit for
 
 Getting into the water from a kayak is certainly not the easiest thing to do.  This is where paddleboards can really excel as you can jump in the water for a quick swim and then return to your paddleboard afterwards.
 
+### Some SUPs can have chair mounts
+
+If you are looking for a seated position on a paddleboard, then you can actually get a chair mount for some paddleboards which will enable you to sit on a paddleboard in a similar way to which you would do with a kayak.
+
 ## Why do people like Kayaks?
 
 ### Protected from the Water, but close to it
