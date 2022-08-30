@@ -70,6 +70,10 @@ Getting into the water from a kayak is certainly not the easiest thing to do.  T
 
 If you are looking for a seated position on a paddleboard, then you can actually get a chair mount for some paddleboards which will enable you to sit on a paddleboard in a similar way to which you would do with a kayak.  This really means that you can almost get the best of both worlds with a paddleboard.
 
+### Balancing act
+
+If you are travelling long periods on a paddleboard you may find it can be an amazing workout just to balance on the paddleboard for that period of time.  With Kayaks however, they are more suited to longer trips as they don’t require the same degree of balance meaning you don’t get as tired as quickly and you don’t get the same workout.
+
 ## Why do people like Kayaks?
 
 ### Protected from the Water, but close to it
@@ -79,6 +83,10 @@ With a Kayak you are relatively protected from the water, but while be close to 
 ### Storage
 
 Kayaks also have the benefit of allowing you to store a certain amount of cargo within the vessel itself.  You can store things on a paddleboard, but just not to the same extent.
+
+### Better for longer trips
+
+If you are not the fittest person, then you may find that for longer trips it may be more suitable for you to travel in a kayak.  Paddleboarding can be intense over long periods of time as it requires considerable core strength to keep balance on the water.  If the weather conditions in your country have a habit of changing suddenly as well, a Kayak would also be a better option in this case as traditionally paddleboards are seen as been suited to more calmer waters.
 
 ## Paddleboarding or Kayaking: Which one is right for you?
 
