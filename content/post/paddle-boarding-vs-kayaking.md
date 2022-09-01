@@ -26,6 +26,7 @@ widgets = []
 * Paddleboarding and Kayaking can both be learnt in a couple of hours
 * Paddleboarding requires a great deal of balance and is a good way to get fit
 * Speed of Kayaks and paddleboards is similar, but depends on the person
+* Kayaks have better storage due to their construction
 
 If you can't decide on whether you want to start paddle boarding or kayaking, then this blog post will help you make that decision.
 
