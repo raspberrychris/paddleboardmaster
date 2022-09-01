@@ -101,7 +101,3 @@ Kayaks also have the benefit of allowing you to store a certain amount of cargo 
 ### Better for longer trips
 
 If you are not the fittest person, then you may find that for longer trips it may be more suitable for you to travel in a kayak.  Paddleboarding can be intense over long periods of time as it requires considerable core strength to keep balance on the water.  If the weather conditions in your country have a habit of changing suddenly as well, a Kayak would also be a better option in this case as traditionally paddleboards are seen as been suited to more calmer waters.
-
-## Paddleboarding or Kayaking: Which one is right for you?
-
-[https://www.reddit.com/r/Sup/comments/3e2lo4/paddleboards_vs_kayaks/](https://www.reddit.com/r/Sup/comments/3e2lo4/paddleboards_vs_kayaks/ "https://www.reddit.com/r/Sup/comments/3e2lo4/paddleboards_vs_kayaks/")
