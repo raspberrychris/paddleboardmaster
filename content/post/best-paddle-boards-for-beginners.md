@@ -1,4 +1,4 @@
-+++
+---
 authorbox = true
 categories = [Buying Guides]
 comments = false
@@ -15,7 +15,7 @@ title = "Best Paddleboards for Beginners (Our top picks)"
 toc = false
 widgets = []
 
-+++
+---
 
 # Best Paddleboards for Beginners
 
