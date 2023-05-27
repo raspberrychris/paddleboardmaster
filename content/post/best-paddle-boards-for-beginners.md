@@ -1,10 +1,23 @@
++++
+authorbox = true
+categories = [Buying Guides]
+comments = false
+date = "2023-05-27T11:01:42Z"
+description = ""
+draft = false
+lead = "If you're a beginner to paddleboarding then you need to check this out!"
+mathjax = false
+pager = false
+sidebar = ""
+tags = []
+thumbnail = ""
+title = "Best Paddleboards for Beginners (Our top picks)"
+toc = false
+widgets = []
+
++++
+
 # Best Paddleboards for Beginners
-
----
-title: Best Paddleboards for Beginners (We chose the best ones!
-description: 
----
-
 
 ## Key Takeaway:
 
