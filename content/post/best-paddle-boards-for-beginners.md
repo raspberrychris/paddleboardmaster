@@ -1,24 +1,20 @@
----
-title: Best Paddleboards for Beginners (Our top picks)
-date: 2023-05-26
-description: Just starting Paddleboarding? Check out our guide before you do anything else!
-categories:
-- Buying Guides
-tags:
-thumbnail: img/placeholder.png
-lead: Just starting Paddleboarding? Check out our guide before you do anything else!
-comments: false
-authorbox: true
-pager: true
-toc: true
-mathjax: true
-sidebar: right
-widgets:
-- search
-- recent
-- taglist
-draft: true
----
++++
+authorbox = true
+categories = [""]
+comments = false
+date = 2023-05-08T12:00:00Z
+description = "Read our review to find out the best beginner paddleboards out there"
+lead = "Beginner? Get all the info you need in our best paddleboards for beginners guide"
+mathjax = true
+pager = true
+sidebar = ""
+tags = ["Buying Guide"]
+thumbnail = "/uploads/d428e4b8-9a7c-4729-80e9-2edd328f5238.jpeg"
+title = "Best Paddleboards for Beginners - (We pick the very best ones)"
+toc = true
+widgets = []
+
++++
 
 # Best Paddleboards for Beginners (Our top picks)
 
