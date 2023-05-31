@@ -10,7 +10,7 @@ pager = false
 sidebar = ""
 tags = ["Review"]
 thumbnail = "https://m.media-amazon.com/images/I/81JbQhvSd0L.__AC_SY300_SX300_QL70_ML2_.jpg"
-title = ""
+title = "Monsoon Inflatable Stand Up Paddle Board SUP Paddleboard with Accessories and Carry Bag"
 toc = false
 widgets = []
 
@@ -19,7 +19,7 @@ _We use affiliate links on this site and we may earn a small commission if you c
 
 ***
 
-**Monsoon Inflatable Stand Up Paddle Board SUP Paddleboard with Accessories and Carry Bag**
+# Monsoon Inflatable Stand Up Paddle Board SUP Paddleboard with Accessories and Carry Bag
 
 ![https://m.media-amazon.com/images/I/81JbQhvSd0L.__AC_SY300_SX300_QL70_ML2_.jpg](https://m.media-amazon.com/images/I/81JbQhvSd0L.__AC_SY300_SX300_QL70_ML2_.jpg)
 
