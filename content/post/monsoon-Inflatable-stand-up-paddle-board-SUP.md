@@ -104,7 +104,7 @@ Here's a pro tip - if you're a beginner, try using the fins. They'll help you st
 
 ## Review and Score
 
-### **[🎯](https://emojipedia.org/direct-hit/)** Our Score: 91/100
+### 🎯 Our Score: 91/100
 
 I just got my new ***monsoon*** inflatable stand-up paddleboard bundle and it is amazing! It comes with all of the necessary accessories for getting on the water, from a 3-piece aluminum alloy paddle to an adjustable center fin. 
 
