@@ -1,19 +1,9 @@
-# The OutdoorMaster 20PSI High Pressure SUP Air Pump Review
-
-Created by: Chris Haines
-Created time: June 1, 2023 11:20 PM
-Last edited by: Chris Haines
-Last edited time: June 1, 2023 11:37 PM
-Status: Draft
-Tags: Paddleboardmaster.com
-
-```markdown
 +++
 authorbox = false
 categories = ["OutdoorMaster"]
 comments = false
 date = 2023-06-01T12:00:00Z
-description = ""
+description = "Check out our review of the OutdoorMaster 20PSI High Pressure SUP Air Pump"
 lead = "Looking for a reliable an efficient pump? This may be the one!"
 mathjax = false
 pager = false
@@ -23,7 +13,6 @@ thumbnail = "https://m.media-amazon.com/images/I/71rdZG7QobL.__AC_SX300_SY300_QL
 title = "OutdoorMaster 20PSI High Pressure SUP Air Pump"
 toc = false
 widgets = []
-draft = false
 
 +++_We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 ```
