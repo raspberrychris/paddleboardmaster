@@ -9,27 +9,10 @@ mathjax = false
 pager = false
 sidebar = ""
 tags = ["Review"]
-thumbnail = "static/uploads/female-paddleboarder.jpg"
+thumbnail = "/static/uploads/female-paddleboarder.jpg"
 title = "12 best paddleboards to buy in 2023 (tried and tested)"
-toc = true
+toc = false
 widgets = []
-
-+++
-authorbox = false
-categories = ["SereneLife"]
-comments = false
-date = 2023-06-02T22:00:00Z
-description = "If you are new to paddleboarding let us guide you through the process of finding the perfect new paddleboard!"
-lead = "Perfect Paddleboards-- we review the best ones so you don't have to (beginner's guide)"
-mathjax = false
-pager = false
-sidebar = ""
-tags = ["Review"]
-thumbnail = "static/uploads/female-paddleboarder.jpg"
-title = "12 best paddleboards to buy in 2023 (tried and tested)"
-toc = true
-widgets = []
-draft = true
 +++
 
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
