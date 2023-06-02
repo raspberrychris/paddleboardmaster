@@ -13,7 +13,6 @@ thumbnail = "https://m.media-amazon.com/images/I/71rdZG7QobL.__AC_SX300_SY300_QL
 title = "OutdoorMaster 20PSI High Pressure SUP Air Pump"
 toc = false
 widgets = []
-
 +++
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
