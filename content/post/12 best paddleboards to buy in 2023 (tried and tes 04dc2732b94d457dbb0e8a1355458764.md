@@ -4,12 +4,12 @@ categories = ["SereneLife"]
 comments = false
 date = 2023-06-02T22:00:00Z
 description = ""
-lead = ""
+lead = "We review the top 12 best selling paddleboards-see what the fuss is about!"
 mathjax = false
 pager = false
 sidebar = ""
 tags = ["Review"]
-thumbnail = "/static/uploads/female-paddleboarder.jpg"
+thumbnail = "/female-paddleboarder.jpg"
 title = "12 best paddleboards to buy in 2023 (tried and tested)"
 toc = false
 widgets = []
@@ -18,7 +18,9 @@ widgets = []
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 
-Hello fellow paddleboarders! My name is Chris, and if you're anything like me, then you know just how exhilarating it can be to explore the world on a stand-up paddleboard. 
+Hello fellow paddleboarders! 
+
+My name is Chris, and if you're anything like me, then you know just how exhilarating it can be to explore the world on a stand-up paddleboard. 
 
 As the sun starts to shine brighter and the days become longer, my excitement only grows. 
 
