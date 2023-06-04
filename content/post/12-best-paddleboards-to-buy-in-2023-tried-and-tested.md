@@ -16,8 +16,9 @@ widgets = []
 
 +++
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
-```
+
 ***
+
 **Hello fellow paddleboarders! 👋**
 
 My name is Chris, and if you're anything like me, then you know just how exhilarating it can be to explore the world on a stand-up paddleboard. 
