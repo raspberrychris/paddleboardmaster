@@ -91,7 +91,7 @@ The SereneLife Premium Inflatable Paddleboard is a popular choice among paddlebo
 
 The SereneLife Premium Inflatable Paddleboard is a great purchase for those new to paddleboarding. Its lightweight design, easy storage, and suitability for all skill levels make it a perfect option for beginners. While the inflation and deflation process can be time-consuming, the overall user experience is positive, making it a worthy investment for those looking to enter the world of paddleboarding.
 
-👉 **[Click here to check out our review…](/content/post/serenelife-inflatable-sup-premium.md)** 
+👉 **[Click here to check out our review…](/post/serenelife-inflatable-sup-premium.md)** 
 
 👉 **[Click here to check out the product on Amazon.com…](https://www.amazon.com/SereneLife-Inflatable-Accessories-Paddling-Non-Slip/dp/B0BGZJQRKB?th=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=9c6faa01235b7723bbb4310180d62c0e&language=en_US&ref_=as_li_ss_tl)**
 
