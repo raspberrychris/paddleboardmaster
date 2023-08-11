@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = []
+categories = [ ]
 comments = true
-date = 2022-07-23T10:00:00Z
+date = 2022-07-23T10:00:00.000Z
 description = "Want to go to Key Biscayne, but not sure of the best beaches?  Don't worry we have you got you covered with our guide to the best beaches in Key Biscayne!"
 lead = "Discover the Best Beaches in Key Biscayne that you never knew about..."
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Beaches", "Beginners Guides"]
+tags = [ "Beaches", "Beginners Guides" ]
 thumbnail = "/uploads/bill-baggs-cape-florida-state-park.png"
 title = "Best Beaches to go to in Key Biscayne"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 **You're going to Miami!**
 
 But what are the best beaches in Miami? Join us as we take a look at some of the best beaches that Miami has to offer!

@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = []
+categories = [ ]
 comments = true
-date = 2022-07-22T11:00:00Z
+date = 2022-07-22T11:00:00.000Z
 description = "In this article we run through some of the top reasons why paddleboarding has become so insanely popular the past few years."
 lead = "Why is Paddleboarding SO Popular RN?"
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Beginners Guides"]
+tags = [ "Beginners Guides" ]
 thumbnail = "/uploads/tower-paddle-boards-4djbmr-l1uk-unsplash.jpg"
 title = "Reasons why Paddleboarding SUP is so popular right now"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 
 Paddleboarding is one of the most insanely popular sports in the world right now!  You can see from the Google Trends graph below that the scale of the worldwide interest in paddleboarding is only getting stronger in 2022.
 

@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = []
+categories = [ ]
 comments = false
 date = ""
 description = ""
@@ -8,15 +8,17 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = [ ]
 thumbnail = ""
 title = "Privacy Policy"
 toc = false
-widgets = []
+widgets = [ ]
+_template = "template"
+
 [menu.main]
 weight = 4
-
 +++
+
 ## WHO WE ARE
 
 Our website address is: [https://paddleboardmaster.com/](https://paddleboardmaster.com/ "https://paddleboardmaster.com/")

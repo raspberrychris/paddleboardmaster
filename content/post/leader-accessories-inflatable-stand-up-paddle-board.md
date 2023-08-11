@@ -1,21 +1,22 @@
 +++
 authorbox = true
-categories = ["Leader Accessories"]
+categories = [ "Leader Accessories" ]
 comments = true
-date = 2022-06-23T11:00:00Z
+date = 2022-06-23T11:00:00.000Z
 description = "Join us as we review the Leader Accessories Inflatable Stand Up Paddle Board and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
 draft = true
 lead = ""
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/fd294188-2a70-49f2-9781-d11af10b7664.jpeg"
 title = "Leader Accessories Inflatable Stand Up Paddle Board "
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 Hello and welcome to this paddleboard review! Today I will be taking a look at the [**Leader Accessories Inflatable Stand Up Paddle Board**](#). Join us as we take an indepth look at this paddleboard to see how it compares against similar products in the market.
 
 [**Leader Accessories**](/categories/leader-accessories/) describes itself as a “fast growing brand” which focuses on Automotive Sports & Outdoors and Home products.  From a quick look at their website you can see that inflatable paddleboard is just one of the many categories of products they focus on, so right from the outset you should be aware that this is not a specialised paddleboard company.

@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Advenor"]
+categories = [ "Advenor" ]
 comments = false
-date = 2022-02-08T12:00:00Z
+date = 2022-02-08T12:00:00.000Z
 description = "Read our review to find out whether this IS the PERFECT all round paddle board!"
 lead = "The complete Paddle Board Package?"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/d428e4b8-9a7c-4729-80e9-2edd328f5238.jpeg"
 title = "Advenor Inflatable Stand Up Paddle Board - The Best All In One Paddle Board Package?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

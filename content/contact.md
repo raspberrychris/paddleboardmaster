@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = []
+categories = [ ]
 comments = false
 date = ""
 description = ""
@@ -8,13 +8,14 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = [ ]
 thumbnail = ""
 title = "Contact"
 toc = false
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 # Contact Us
 
 To get in Contact with us please use the below email.

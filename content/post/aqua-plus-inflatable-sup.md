@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Aqua Plus"]
+categories = [ "Aqua Plus" ]
 comments = true
-date = 2022-06-16T23:00:00Z
+date = 2022-06-16T23:00:00.000Z
 description = "Join us as we review the Aqua Plus Inflatable SUP and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
 lead = "A fantastic entry level paddleboard for the price"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/4dc0acce-7577-421b-a497-51978f1155a9.jpeg"
 title = "Aqua Plus Inflatable SUP - A Super Fun SUP!"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

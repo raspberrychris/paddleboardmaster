@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = []
+categories = [ ]
 comments = true
-date = 2022-08-06T11:00:00Z
+date = 2022-08-06T11:00:00.000Z
 description = ""
 lead = "What are the REAL Pros and Cons of Inflatable Paddleboards?"
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Beginners Guides"]
+tags = [ "Beginners Guides" ]
 thumbnail = "/uploads/holly-mandarich-cimet4t90ng-unsplash.jpg"
 title = "Inflatable Paddleboard SUP Pros and Cons"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 I’ve been into paddleboarding and paddleboards now for several years, and I’ve come to appreciate the advantages and disadvantages of using one.
 
 To help you make the best decision, we've outlined the top pros and cons of SUPs to help you decide if this sport is right for you.

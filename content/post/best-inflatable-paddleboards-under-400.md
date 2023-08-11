@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = []
+categories = [ ]
 comments = false
 date = ""
 description = ""
@@ -9,11 +9,12 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = [ ]
 thumbnail = ""
 title = "Best Inflatable Paddleboards under 400"
 toc = false
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 [https://isupreviews.com/best-sups-under-400/](https://isupreviews.com/best-sups-under-400/ "https://isupreviews.com/best-sups-under-400/")

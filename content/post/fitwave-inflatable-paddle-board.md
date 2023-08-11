@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Fitwave"]
+categories = [ "Fitwave" ]
 comments = true
-date = 2022-05-16T11:00:00Z
+date = 2022-05-16T11:00:00.000Z
 description = "Is this our number 1 paddleboard for 2022? Read our review to find out!"
 lead = "Is this our number 1 pick for 2022? Click to find out!"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/5bcba662-e7c5-4f37-8a21-5f76f8d38ef8.jpeg"
 title = "Fitwave Inflatable Paddle Board - The Paddleboard with everything included?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

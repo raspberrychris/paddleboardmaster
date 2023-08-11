@@ -1,20 +1,21 @@
 +++
 authorbox = false
-categories = ["Lucear"]
+categories = [ "Lucear" ]
 comments = false
-date = 2022-05-16T11:00:00Z
+date = 2022-05-16T11:00:00.000Z
 description = "Check out the Lucear Inflatable paddleboard and discover whether what we really think of this paddleboard!"
 lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/0530cf3f-3eb7-4b76-8002-be16028fbaf7.jpeg"
 title = "Lucear Inflatable Paddle Board - Perfect for Beginners?"
 toc = false
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

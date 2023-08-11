@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Roc"]
+categories = [ "Roc" ]
 comments = false
-date = 2022-02-05T12:00:00Z
+date = 2022-02-05T12:00:00.000Z
 description = "Is this the best beginners Inflatable Paddle Board? Find out in our review!"
 lead = ""
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/3fe5cafc-66a1-406c-9255-5bf7d5abcc87.jpeg"
 title = "Roc Inflatable Stand Up Paddle Board - The Best Designed Paddle Board?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

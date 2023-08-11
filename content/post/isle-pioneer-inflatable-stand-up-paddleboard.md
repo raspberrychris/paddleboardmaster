@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Isle"]
+categories = [ "Isle" ]
 comments = true
-date = 2022-05-21T11:00:00Z
+date = 2022-05-21T11:00:00.000Z
 description = "Check out our review of the ISLE Pioneer Inflatable Stand Up Paddle Board and see what we really think about this paddleboard."
 lead = "A Premium Paddleboard with High Quality Accessories"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/5db931d0-3b09-4d58-a266-d2e4e1080c8e.jpeg"
 title = "ISLE Pioneer Inflatable Stand Up Paddleboard"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

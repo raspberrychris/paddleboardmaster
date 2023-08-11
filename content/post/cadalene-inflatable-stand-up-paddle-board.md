@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Cadalene"]
+categories = [ "Cadalene" ]
 comments = true
-date = 2022-05-31T11:00:00Z
+date = 2022-05-31T11:00:00.000Z
 description = "Check out our full review of the Cadalene Inflatable Stand Up Paddle Board."
 lead = "Is this one of the best all round SUPs?"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/72e7701a-4ca3-4346-99f3-609550f373bb.jpeg"
 title = "Cadalene Inflatable Stand Up Paddle Board"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

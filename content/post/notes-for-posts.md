@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = []
+categories = [ ]
 comments = false
 date = ""
 description = ""
@@ -9,13 +9,14 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = [ ]
 thumbnail = ""
 title = "Notes for posts"
 toc = false
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 **Can create programattic seo around** 
 
 Where to paddleboard in Austin

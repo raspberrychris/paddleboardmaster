@@ -1,21 +1,22 @@
 +++
 authorbox = false
-categories = []
+categories = [ ]
 comments = false
-date = 2022-07-22T11:00:00Z
+date = 2022-07-22T11:00:00.000Z
 description = ""
 draft = true
 lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = [ ]
 thumbnail = ""
 title = "How to Work out on a SUP (Full Guide)"
 toc = false
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 Paddleboarding as well as being incredibly fun is actually really good exercise as well.  Did you know that you can burn around 300-400 calories every hour just doing paddleboarding?
 
 So what parts of the body are getting the work out when you are on your paddleboard just paddling?  Your upper body, legs and core are the main parts of your body that will get a workout from paddleboarding.

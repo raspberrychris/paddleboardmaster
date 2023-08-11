@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = []
+categories = [ ]
 comments = false
-date = 2022-08-06T11:00:00Z
+date = 2022-08-06T11:00:00.000Z
 description = "Is it safe to paddleboard while pregnant? That's the question many pregnant women want to know the answer to."
 lead = "Is it safe to paddleboard while pregnant? "
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Beginners Guides"]
+tags = [ "Beginners Guides" ]
 thumbnail = "/uploads/jonathan-borba-merfyhyz7mu-unsplash.jpg"
 title = "Is It Safe To Paddle Board While Pregnant?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 Is it safe to [**paddleboard**](https://paddleboardmaster.com) while pregnant? That's the question many pregnant women want to know the answer to.
 
 [**Paddleboarding**](https://paddleboardmaster.com) is a very low-impact activity and is suitable for pregnant women in the later stages of pregnancy, as long as they are medically cleared and have the right gear.

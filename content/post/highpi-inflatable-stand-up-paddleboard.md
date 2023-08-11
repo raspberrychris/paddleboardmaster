@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Highpi"]
+categories = [ "Highpi" ]
 comments = true
-date = 2022-05-17T11:00:00Z
+date = 2022-05-17T11:00:00.000Z
 description = "Interested in Paddleboarding? Check out our indepth review on the Highpi Inflatable Stand Up Paddleboard."
 lead = "An SGS Certified Lightweight Paddleboard, with military grade materials "
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/e91e05d3-a2a5-4a57-94fc-9faa7e02b0fa.jpeg"
 title = "Highpi Inflatable Stand Up Paddleboard - The Best All-Rounder?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

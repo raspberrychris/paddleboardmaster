@@ -1,21 +1,22 @@
 +++
 authorbox = false
-categories = []
+categories = [ ]
 comments = false
-date = 2022-05-18T11:00:00Z
+date = 2022-05-18T11:00:00.000Z
 description = "Paddleboarding is one of the most fun workouts you can have and it is so easy to do, check out this post to see how many calories you can burn while paddleboarding!"
 draft = true
 lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = [ ]
 thumbnail = ""
 title = "Is Paddleboarding The Ultimate Workout?"
 toc = false
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 ## What is paddleboarding?
 
 ## Is Paddleboarding a good workout?

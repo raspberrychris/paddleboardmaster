@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = []
+categories = [ ]
 comments = true
-date = 2022-08-06T11:00:00Z
+date = 2022-08-06T11:00:00.000Z
 description = "In this article we will discuss whether or not you REALLY need a wetsuit for paddleboarding."
 lead = "Do you REALLY need a wetsuit for paddleboarding? Find out!"
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Beginners Guides"]
+tags = [ "Beginners Guides" ]
 thumbnail = "/uploads/susan-flynn-wqaewf35bl8-unsplash.jpg"
 title = "Do I Need A Wetsuit For Paddleboarding?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 ## Why do we need wetsuits for paddleboarding?
 
 A lot of people ask me the question do I need a wetsuit for paddleboarding? In this article, I will share the reason why I think wetsuits are generally a good option for paddleboarding.

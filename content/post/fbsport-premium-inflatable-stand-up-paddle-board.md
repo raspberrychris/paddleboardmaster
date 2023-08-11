@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["FBSport"]
+categories = [ "FBSport" ]
 comments = false
-date = 2022-02-05T12:00:00Z
+date = 2022-02-05T12:00:00.000Z
 description = "Is this the Best all round inflatable Paddle Board that you can buy this year?"
 lead = "The Best All Rounder for Beginners?"
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/385bda30-9acc-4896-a404-b2952e4d4708.jpeg"
 title = "FBSPORT Premium Inflatable Stand Up Paddle Board - A great all round Paddle Board"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

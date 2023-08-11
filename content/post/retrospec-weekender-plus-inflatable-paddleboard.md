@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Retrospec"]
+categories = [ "Retrospec" ]
 comments = true
-date = 2022-06-01T11:00:00Z
+date = 2022-06-01T11:00:00.000Z
 description = "Join us as we take a look at the Retrospec Weekender Plus Inflatable Paddleboard "
 lead = "Ultralight board, with high quality accessories"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/166e4acc-031d-446f-b487-b521e8346474.jpeg"
 title = "Retrospec weekender plus inflatable paddleboard - The Most Portable SUP?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

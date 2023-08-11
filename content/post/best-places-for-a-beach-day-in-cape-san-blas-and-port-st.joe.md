@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = []
+categories = [ ]
 comments = true
-date = 2022-07-23T11:00:00Z
+date = 2022-07-23T11:00:00.000Z
 description = "If you are looking for the best places for a beach day in Cape San Blas and Port St Joe, then it's your lucky day, we have got you covered. "
 lead = "We check out the best places for a beach day in Cape San Blas!"
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Beginners Guides"]
+tags = [ "Beginners Guides" ]
 thumbnail = "/uploads/beach-th-stone-memorial-st-joseph-peninsula.png"
 title = "Best Places for a Beach Day in Cape San Blas and Port St. Joe"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 **If you are looking for the best places for a beach day in Cape San Blas and Port St Joe, then it's your lucky day, we have got you covered.  Check out our full article below to get the inside scoop into this beautiful part of the world.**
 
 **Question:**

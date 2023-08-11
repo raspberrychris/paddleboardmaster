@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Dwzdd"]
+categories = [ "Dwzdd" ]
 comments = true
-date = 2022-05-31T11:00:00Z
+date = 2022-05-31T11:00:00.000Z
 description = "Check out our review of the Dwzdd Inflatable Paddleboard.  Click here to find out what we really think about the Dwzdd Inflatable Paddleboard."
 lead = "Is this the best starter paddleboard?"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/2954a53d-eece-42f2-a091-5f7ee606e40d.jpeg"
 title = "Dwzdd Inflatable Paddleboard - Best Newcomer Paddleboard Brand?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

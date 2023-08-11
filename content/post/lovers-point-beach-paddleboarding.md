@@ -1,19 +1,20 @@
 +++
 authorbox = false
-categories = []
+categories = [ ]
 comments = false
-date = 2022-07-27T11:00:00Z
+date = 2022-07-27T11:00:00.000Z
 description = ""
 draft = true
 lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = [ ]
 thumbnail = ""
 title = "Lovers Point Beach Paddleboarding"
 toc = false
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 [https://citybop.com/monterey/lovers-point-beach](https://citybop.com/monterey/lovers-point-beach "https://citybop.com/monterey/lovers-point-beach")

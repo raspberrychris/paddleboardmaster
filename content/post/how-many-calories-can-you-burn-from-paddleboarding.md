@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = []
+categories = [ ]
 comments = true
-date = 2022-07-24T11:00:00Z
+date = 2022-07-24T11:00:00.000Z
 description = "How many calories can you actually burn from paddleboarding?  Find out as we take you through this topic in our latest article."
 lead = "How many calories can you burn while paddleboarding? We find out!"
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Beginners Guides"]
+tags = [ "Beginners Guides" ]
 thumbnail = "/uploads/b5ffede0-712c-4c47-91ad-289fbab4e4fc.jpeg"
 title = "How many calories can you burn from paddleboarding"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 ## Is Paddleboarding considered good exercise?
 
 Is paddleboarding a good workout? Yes it is, SUP (Stand up paddleboarding) is a great strength workout. Not many activities provide both upper body training, leg work and core strength building at the same time.  So it is perfect for building up your strength.

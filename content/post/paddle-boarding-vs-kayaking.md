@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = []
+categories = [ ]
 comments = true
-date = 2022-08-07T11:00:00Z
+date = 2022-08-07T11:00:00.000Z
 description = "Paddleboards or Kayaks?  Join me as I compare these two side by side and discover which is the right one for you."
 lead = ""
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Beginners Guides"]
+tags = [ "Beginners Guides" ]
 thumbnail = "/uploads/alyssa-moore-lypas_play0-unsplash.jpg"
 title = "Paddle Boarding vs Kayaking: Which one is right for you?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 
 ## Key Points:
 

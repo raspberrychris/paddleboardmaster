@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Hapfan"]
+categories = [ "Hapfan" ]
 comments = true
-date = 2022-05-18T11:00:00Z
+date = 2022-05-18T11:00:00.000Z
 description = "Join us as we take a look at the Hapfan Inflatable Stand Up Paddleboard"
 lead = "This Paddleboard Comes with an Electric Pump!"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/8a5a04d9-eee3-455b-bb56-45feaf26b486.jpeg"
 title = "Hapfan Inflatable Stand Up Paddleboard - Comes with an Electric Pump!"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

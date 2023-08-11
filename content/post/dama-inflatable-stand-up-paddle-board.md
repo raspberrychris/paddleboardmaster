@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Dama"]
+categories = [ "Dama" ]
 comments = false
-date = 2022-02-06T09:00:00Z
+date = 2022-02-06T09:00:00.000Z
 description = "The Dama Inflatable Paddle Board Is it the perfect paddle board for Yoga?"
 lead = "The Ultimate Paddle Board for Yoga?"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/f3df258c-2f72-4fa4-8aa1-60af47dfd149.jpeg"
 title = "Dama Inflatable Stand Up Paddle Board - The Perfect Paddle Board for Yoga?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

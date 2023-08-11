@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Atoll"]
+categories = [ "Atoll" ]
 comments = false
-date = 2022-03-03T23:00:00Z
+date = 2022-03-03T23:00:00.000Z
 description = "The Atoll Inflatable Stand Up Paddle Board has a lot of stunning features, but how will it fare in our in review?"
 lead = "Find out what we really think about this paddle board from Atoll!"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/cb4f08f7-23f5-4606-99a4-afb156649efe.jpeg"
 title = "Atoll Inflatable Stand Up Paddle Board - The Lightest Paddle Board?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

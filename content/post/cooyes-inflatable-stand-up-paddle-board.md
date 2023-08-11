@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Cooyes"]
+categories = [ "Cooyes" ]
 comments = false
-date = 2022-03-06T12:00:00Z
+date = 2022-03-06T12:00:00.000Z
 description = "Join us as we walk you through all the features of the Cooyes Inflatable Stand Up Paddle Board"
 lead = "High Quality Board that is SUPER quick to inflate!"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/25afea02-7425-4700-84e1-a9d21577d131.jpeg"
 title = "Cooyes Inflatable Stand Up Paddle Board - The Fastest Paddleboard to Inflate?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

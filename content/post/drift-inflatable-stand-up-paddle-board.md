@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Drift"]
+categories = [ "Drift" ]
 comments = true
-date = 2022-08-16T11:00:00Z
+date = 2022-08-16T11:00:00.000Z
 description = "Join me as I take an in depth look at the Drift paddleboard to see how it compares against similar paddleboards in the market.  "
 lead = "Is this the best all rounder Paddle board?"
 mathjax = false
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/71-wafawgfl-_ac_sx425_.jpg"
 title = "Drift Inflatable Stand Up Paddle Board"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 Welcome to this review, today I will be taking a look at the [**Drift Inflatable Stand Up Paddle Board**](https://www.amazon.com/DRIFT-Inflatable-Accessories-Lightweight-Backpack/dp/B082MVY4PL?pd_rd_i=B0B355VH6C&th=1&psc=1&linkCode=ll1&tag=paddleboardmaster-20&linkId=66ea454556d174eea75fca0df085cdb8&language=en_US&ref_=as_li_ss_tl) and walking you through the features: Who it's for and also seeing how it really performs on the water.
 
 Join me as I take an in depth look at the Drift paddleboard to see how it compares against similar paddleboards in the market.

@@ -1,0 +1,24 @@
+{
+  "name": "paddleboardmaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raspberrychris/paddleboardmaster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raspberrychris/paddleboardmaster/issues"
+  },
+  "homepage": "https://github.com/raspberrychris/paddleboardmaster#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.27",
+    "tinacms": "^1.5.18"
+  }
+}

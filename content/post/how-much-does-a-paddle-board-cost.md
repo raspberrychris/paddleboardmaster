@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = []
+categories = [ ]
 comments = false
 date = ""
 description = ""
@@ -9,10 +9,11 @@ lead = ""
 mathjax = false
 pager = false
 sidebar = ""
-tags = []
+tags = [ ]
 thumbnail = ""
 title = "How Much Does a Paddle Board Cost?"
 toc = false
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+

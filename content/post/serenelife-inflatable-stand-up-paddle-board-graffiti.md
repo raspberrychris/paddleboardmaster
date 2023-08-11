@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["SereneLife"]
+categories = [ "SereneLife" ]
 comments = true
-date = 2022-05-26T11:00:00Z
+date = 2022-05-26T11:00:00.000Z
 description = "Join us as we take a look at the SereneLife Inflatable SUP and discover what we really think about this paddleboard."
 lead = "Incredible Design, Lightweight.  What’s not to like!"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/70073e40-9ff2-4c54-94e3-d4cae00fca1e.jpeg"
 title = "SereneLife Inflatable Stand Up Paddle Board (Graffiti) - Is this the best designed SUP?"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***

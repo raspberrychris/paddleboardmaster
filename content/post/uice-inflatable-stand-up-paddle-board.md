@@ -1,20 +1,21 @@
 +++
 authorbox = true
-categories = ["Uice"]
+categories = [ "Uice" ]
 comments = true
-date = 2022-06-21T11:00:00Z
+date = 2022-06-21T11:00:00.000Z
 description = "Join us as we review the UICE Inflatable Stand Up Paddle Board  and see how it stacks up against the competition! 🛶 Paddleboardmaster.com! 🛶"
 lead = "Super Stable Great All-Rounder SUP"
 mathjax = true
 pager = true
 sidebar = ""
-tags = ["Review"]
+tags = [ "Review" ]
 thumbnail = "/uploads/1de8239e-ff69-48bb-81b5-cdb0b2ae1550.png"
 title = "UICE Inflatable Stand Up Paddle Board - A Great Value Performance SUP"
 toc = true
-widgets = []
-
+widgets = [ ]
+_template = "template"
 +++
+
 _We use affiliate links on this site and we may earn a small commission if you click the links and make a purchase. There will be no additional fees added should you wish to make a purchase._
 
 ***
