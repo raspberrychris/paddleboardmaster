@@ -60,15 +60,6 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
-        },
-        search: {
-          tina: {
-            indexerToken: 'a0113f60b38bebb30efa2ffe737e28a7a9b5111c',
-            stopwordLanguages: ['eng']
-          },
-          indexBatchSize: 100,
-          maxSearchIndexFieldLength: 100
-        },
           ...templateFields(),
         ],
       },
