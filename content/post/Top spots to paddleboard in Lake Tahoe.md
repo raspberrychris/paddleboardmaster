@@ -171,7 +171,7 @@ Here’s a fun fact about Crystal Bay: the deepest part of Lake Tahoe is found o
 
 Convenience shops, casinos, motels, and restaurants are within a short drive from the bay. I recommend you check out Crystal Bay Steak & Lobster House and Stateline Fire Lookout if you do decide to explore the area.
 
-## Whale Beach
+## [Whale Beach](https://goo.gl/maps/u3zZJUTpVF1fUbSDA)
 
 ![](/a628mymeodh41.webp)
 
