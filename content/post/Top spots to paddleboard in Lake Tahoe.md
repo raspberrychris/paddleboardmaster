@@ -197,7 +197,7 @@ If you visited this place in the 90’s with your clothes on, you’d be among t
 
 However, these days, it’s the other way around. The vast majority of visitors come with their clothes on, so don’t be afraid to paddleboard here even if you have no interest in doing it naked.
 
-## Cave Rock
+## [Cave Rock](https://goo.gl/maps/fR17fJn3NAJeSiBg9)
 
 ![](/CaveRock_Desktop-scaled.jpg)
 
