@@ -83,7 +83,7 @@ One downside to paddling at Emerald Bay is the absence of a direct launch on the
 
 You’ll need to park your car at Vikingsholm to paddleboard here. Consider taking advantage of the Emerald Bay boat camp while you’re here for a truly unforgettable experience in the wild.
 
-## El Dorado Beach at Lakeview Commons
+## [El Dorado Beach at Lakeview Commons](https://goo.gl/maps/QuaNCqJMU8wjifux7)
 
 ![](/3818922001_ddff428554_b.jpg)
 
