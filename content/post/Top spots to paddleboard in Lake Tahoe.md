@@ -121,7 +121,7 @@ The scenery at Meeks Bay is magnificent, the beaches are nice and clean, and the
 
 If you want to avoid huge crowds, come in the fall. It teems with people in the summer, but you can enjoy all the tranquility this beach has to offer in the fall. Make sure to try out the food at the nearby restaurant.
 
-## Tahoe City Commons Beach
+## [Tahoe City Commons Beach](https://goo.gl/maps/MZCvdapN6M4W9Rx6A)
 
 ![](/Commons_1.jpg)
 
