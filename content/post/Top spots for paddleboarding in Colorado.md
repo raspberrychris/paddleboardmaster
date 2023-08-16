@@ -322,7 +322,7 @@ If your chosen spot has a rocky shoreline/terrain or choppy waters, you might ne
 ## Essential tips for paddleboarding in Colorado
 
 1. You can paddle year-round if you want. There are many spots that allow this in Colorado, but most of the stores will be closed outside of the summer months. Bring everything you need and make sure the lake or reservoir isn’t frozen.
-2. [Inflatable paddleboards](https://paddleboardmaster.com/post/monsoon-inflatable-stand-up-paddle-board-sup/) are easier to travel with, so get an inflatable if you want the extra convenience.
+2. [Inflatable paddleboards](https://paddleboardmaster.com/post/inflatable-paddleboard-sup-pros-and-cons/) are easier to travel with, so get an inflatable if you want the extra convenience.
 3. Bring a thick wetsuit for winter paddleboarding.
 4. A lot of marinas and rentals offer paddleboarding lessons. Take advantage of these if you’re a beginner and start with shallow or small lakes with calm waters.
 5. Learn what the weather conditions are before visiting so you’ll know what to expect.
