@@ -29,7 +29,7 @@ Sand Harbor State Park is incredibly beautiful, and that’s one of the reasons 
 
 When you’re done paddleboarding, you can relax in one of the picnic sites in the park, hike on the Sand Point Nature Trail to take in magnificent views of the lake or find more beaches to explore via the Memorial Point Trail.
 
-## Zephyr Cove
+## [Zephyr Cove](https://goo.gl/maps/1gKHX4xELTJrBTwg6)
 
 ![](/Zephyr_Cove,_Lake_Tahoe,_NV_8-10_\(14549568297\).jpg)
 
