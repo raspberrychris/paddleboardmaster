@@ -141,7 +141,7 @@ You can either launch from Chinquapin Pier, Skylandia Beach, or Lake Forest Boat
 
 It’s easy to see why this is named Kings Beach as soon as you get there. It’s constantly teeming with visitors and locals swimming, paddling, and surfing the clear, refreshing waters in the lake.
 
-There is a rental on the beach where you can rent a paddleboard and begin to explore the waters as soon as you get there, and if that’s not enough for you, there are plenty of other fun activities to partake in.
+There is a rental on the beach where you can rent a [paddleboard](https://paddleboardmaster.com/post/12-best-paddleboards-to-buy-in-2023-tried-and-tested/) and begin to explore the waters as soon as you get there, and if that’s not enough for you, there are plenty of other fun activities to partake in.
 
 You can get on the hiking trail and hike to your heart’s content on foot or on a bike. The shops in the area have all the supplies you’ll need, and good food is only a few minutes away.
 
