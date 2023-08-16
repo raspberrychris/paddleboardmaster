@@ -53,7 +53,7 @@ Carnelian Bay is a convenient place to paddleboard. You can park your car in the
 
 Waterman’s landing has SUP (Stand up Paddle Boarding) touring clinic classes, SUP yoga classes, paddleboard rentals, and delicious meals. It’s also the place to go to if you need information about the area.
 
-## D.L Bliss State Park
+## [D.L Bliss State Park](https://goo.gl/maps/ivkazrHDLsmzzfJx5)
 
 ![](/Bliss_state_park_beach.jpg)
 
