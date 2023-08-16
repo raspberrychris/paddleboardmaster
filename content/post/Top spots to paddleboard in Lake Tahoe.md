@@ -67,7 +67,7 @@ The Rubicon Point Lighthouse is one of the must-see attractions around D.L. Blis
 
 It helps to have a bit more experience before hitting the waters in this part of Lake Tahoe as the shoreline is not as developed and the waters can be somewhat choppy in certain weather conditions.
 
-## Emerald Bay
+## [Emerald Bay](https://goo.gl/maps/be1SfUTZtbTMtVC97)
 
 ![](/Emerald_Bay.jpg)
 
