@@ -95,7 +95,7 @@ Some of the available facilities are the bike trail, large picnic area, restroom
 
 El Dorado Beach offers you everything you need to paddleboard to your heart’s content and relax thereafter. Be sure to add it to your list of places to try out.
 
-# Kiva Beach
+# [Kiva Beach](https://goo.gl/maps/7HUPdnXuRT3RVgUKA)
 
 ![](/21014180542_75f24b1d9b_b.jpg)
 
