@@ -1,9 +1,19 @@
 +++
 title = "Top spots to paddleboard in Lake Tahoe (Beginner's Guide)"
-description = "Looking for the top spots to paddleboard in Lake Tahoe? These places will make you feel like the next Connor Baxter"
+description = "Looking for the top spots to paddleboard in Lake Tahoe?"
+authorbox = true
+categories = [ ]
+date = 2023-08-16T11:00:00.000Z
+draft = false
+lead = "These places will make you feel like the next Connor Baxter"
+mathjax = false
+pager = false
+tags = [ ]
+thumbnail = ""
+toc = false
 +++
 
-Looking for the top spots to paddleboard in Lake Tahoe? These places will make you feel like the next Connor Baxter:
+> Looking for the top spots to paddleboard in Lake Tahoe? These places will make you feel like the next Connor Baxter
 
 ## Sand Harbor State Park
 
