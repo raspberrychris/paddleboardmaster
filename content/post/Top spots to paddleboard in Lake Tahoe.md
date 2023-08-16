@@ -9,7 +9,7 @@ lead = "These places will make you feel like the next Connor Baxter"
 mathjax = false
 pager = false
 tags = [ ]
-thumbnail = ""
+thumbnail = "/Sand_Harbor,_Lake_Tahoe_State_Park,_Near_Incline_Village,_Nevada_(16338163874).jpg"
 toc = false
 +++
 
