@@ -135,7 +135,7 @@ Paddling on the waters is a thrilling experience, and it gets better if you move
 
 Just like Emerald Bay, this beach has beautiful photo spots, so don’t forget to take some stunning photos before you leave.
 
-## Dollar Point
+## [Dollar Point](https://goo.gl/maps/vbe3jrn5QcT5ZW5aA)
 
 ![](/DPPier.jpg-nggid03208-ngg0dyn-1140x760x65-00f0w010c010r110f110r010t010.jpg)
 
