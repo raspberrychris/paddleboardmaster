@@ -15,7 +15,7 @@ toc = false
 
 > Looking for the top spots to paddleboard in Lake Tahoe? These places will make you feel like the next Connor Baxter
 
-## Sand Harbor State Park
+## [Sand Harbor State Park](https://goo.gl/maps/Sc5wNFG4F7bmAurD8)
 
 ![](/Sand_Harbor,_Lake_Tahoe_State_Park,_Near_Incline_Village,_Nevada_\(16338163874\).jpg)
 
