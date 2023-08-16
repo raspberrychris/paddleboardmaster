@@ -211,7 +211,7 @@ While paddleboarding, look toward the rock and you’ll see a figure that resemb
 
 Parking space is limited, but you can park beside the road at no cost. After parking, you’ll need to hike to Cave Rock. It’s a pretty short hike that takes about 15 minutes to complete.
 
-## Echo Lake
+## [Echo Lake](https://goo.gl/maps/g86fXMdetEgn7fdS6)
 
 ![](/3071796197_f0932765bd_b.jpg)
 
