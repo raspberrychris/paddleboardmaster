@@ -183,7 +183,7 @@ The beach is made of dark sand, and that’s why it’s alternatively called Bla
 
 Shades and public bathrooms are available here, and dogs are allowed too on the condition that you comply with certain rules.
 
-## Secret Cove
+## [Secret Cove](https://goo.gl/maps/qso4vDuE1BGCLjqS7)
 
 ![](/photo0jpg.jpg)
 
