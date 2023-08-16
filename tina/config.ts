@@ -31,6 +31,14 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
+      search: {
+        tina: {
+          indexerToken: 'a0113f60b38bebb30efa2ffe737e28a7a9b5111c',
+          stopwordLanguages: ['eng']
+        },
+        indexBatchSize: 100,
+        maxSearchIndexFieldLength: 100
+      },
         fields: [
           {
             type: "rich-text",
