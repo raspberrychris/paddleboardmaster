@@ -41,7 +41,7 @@ Paddle boarding at Zephyr Cove is the perfect way to enjoy a holiday or weekend 
 
 There are casinos, hiking trails, ski resorts, boats, and horses to entertain yourself, have fun, and while away the time. A paddleboard rental is also available here.
 
-## Carnelian Bay
+## [Carnelian Bay](https://goo.gl/maps/AYPNW5zwEP5MXXfw5)
 
 ![](/Carnelian_Bay,_Lake_Tahoe_9-10_\(14524498590\).jpg)
 
