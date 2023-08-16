@@ -145,7 +145,7 @@ This awesome paddleboarding spot marked by snow-capped mountain backdrops offers
 
 You can either launch from Chinquapin Pier, Skylandia Beach, or Lake Forest Boat Ramp. Skylandia Beach is ideal for coasting along the incredible green torquoise waters while taking in the wonderful mountain and alpine forest views.
 
-## Kings Beach
+## [Kings Beach](https://goo.gl/maps/U37iJw9kqToE6aQT8)
 
 ![](/Kings_Beach_SRA_on_Lake_Tahoe.jpg)
 
