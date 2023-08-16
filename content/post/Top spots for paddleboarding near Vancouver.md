@@ -185,7 +185,7 @@ Another downside of paddleboarding here is its closeness to the highway. Brownin
 
 Browning Lake is a relatively small lake too, so there isn’t much to discover. However, despite the passable scenery, proximity to Highway 99, and its relatively small size, this lake is still a good enough paddleboarding spot for SUP beginners.
 
-It’s also a perfect spot for those days when you just want to do a short paddleboarding trip, relax, and return home.
+It’s also a perfect spot for those days when you just want to do a [short paddleboarding trip](https://paddleboardmaster.com/post/how-to-sup-in-five-minutes/), relax, and return home.
 
 Browning lake is a popular fishing spot. The shoreline provides many access points for fishing, so if you love to fish, come with your gear. During the winter months you probably won’t be able to fish because the water freezes at this time of year, but it’s fishable in all other seasons.
 
