@@ -109,7 +109,7 @@ You can park your car for free, restrooms are available, and the mountain views 
 
 You can also bring your dog with you, although you’ll have to comply with certain rules and restrictions, like keeping it on a leash at all times.
 
-## Meeks Bay
+## [Meeks Bay](https://goo.gl/maps/HYDSbVo8mgz9jT1g6)
 
 ![](/lake-tahoe-2245243_1280.jpg)
 
