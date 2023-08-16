@@ -159,7 +159,7 @@ From Kings Beach, you can paddle to Speedboats Beach and North Tahoe Beach. Padd
 
 Speedboats Beach has giant boulders sticking out its crystal clear waters, so if you happen to find yourself there, take advantage of that incredible background and capture some gorgeous photos to take home with you.
 
-## Crystal Bay
+## [Crystal Bay](https://goo.gl/maps/78s9526J1chErgPF8)
 
 ![](/Crystal_Bay,_Lake_Tahoe,_California_\(112791937\).jpg)
 
