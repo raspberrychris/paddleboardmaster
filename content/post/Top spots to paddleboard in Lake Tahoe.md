@@ -87,6 +87,8 @@ El Dorado Beach offers you everything you need to paddleboard to your heart’s 
 
 # Kiva Beach
 
+![](/21014180542_75f24b1d9b_b.jpg)
+
 Kiva Beach brims with wildlife and is consequently a great spot for you if you enjoy watching wild birds and fishes do their thing while you do yours.
 
 There’s a lot of soft sand on the beach and it's nice to walk on while you recover from an intense paddleboarding session. You’ll enjoy spectating other paddleboarders from the beach as well.
@@ -99,6 +101,8 @@ You can also bring your dog with you, although you’ll have to comply with cert
 
 ## Meeks Bay
 
+![](/lake-tahoe-2245243_1280.jpg)
+
 At Meeks Bay, you won’t experience any challenging winds, so consider going here if you’re still finding your feet. The waters are calm too, which makes this spot ideal for you if you have little to no experience riding choppy waves.
 
 Meeks Bay is located West of Lake Tahoe and it’s not just a paddleboarding spot. It has campsites, fishing spots, and picnic tables. Public bathrooms are available on the beach too along with paid parking.
@@ -108,6 +112,8 @@ The scenery at Meeks Bay is magnificent, the beaches are nice and clean, and the
 If you want to avoid huge crowds, come in the fall. It teems with people in the summer, but you can enjoy all the tranquility this beach has to offer in the fall. Make sure to try out the food at the nearby restaurant.
 
 ## Tahoe City Commons Beach
+
+![](/Commons_1.jpg)
 
 Commons Beach is a large family-friendly park at the center of Tahoe city where you can do everything from paddleboarding to picnicking.
 
@@ -121,6 +127,8 @@ Just like Emerald Bay, this beach has beautiful photo spots, so don’t forget t
 
 ## Dollar Point
 
+![](/DPPier.jpg-nggid03208-ngg0dyn-1140x760x65-00f0w010c010r110f110r010t010.jpg)
+
 Dollar Point is located North of Lake Tahoe and is one of the most visited places in the region.
 
 This awesome paddleboarding spot marked by snow-capped mountain backdrops offers several launching spots for your next paddleboarding adventure.
@@ -128,6 +136,8 @@ This awesome paddleboarding spot marked by snow-capped mountain backdrops offers
 You can either launch from Chinquapin Pier, Skylandia Beach, or Lake Forest Boat Ramp. Skylandia Beach is ideal for coasting along the incredible green torquoise waters while taking in the wonderful mountain and alpine forest views.
 
 ## Kings Beach
+
+![](/Kings_Beach_SRA_on_Lake_Tahoe.jpg)
 
 It’s easy to see why this is named Kings Beach as soon as you get there. It’s constantly teeming with visitors and locals swimming, paddling, and surfing the clear, refreshing waters in the lake.
 
@@ -141,6 +151,8 @@ Speedboats Beach has giant boulders sticking out its crystal clear waters, so if
 
 ## Crystal Bay
 
+![](/Crystal_Bay,_Lake_Tahoe,_California_\(112791937\).jpg)
+
 Crystal Bay is so named by virtue of the clarity of its waters. Stare into the water and your eyes will be met with a clear view of the bottom of the lake. This is the most amazing bay you’ll ever see on Lake Tahoe.
 
 Unfortunately, you can’t access most of its pristine shoreline, but there are a few access points to launch your paddleboard within Incline Village, such as the Ski Beach, Hidden Beach, and Burnt Cedar Beach.
@@ -151,6 +163,8 @@ Convenience shops, casinos, motels, and restaurants are within a short drive fro
 
 ## Whale Beach
 
+![](/a628mymeodh41.webp)
+
 If you’re looking for a spot that is off the beaten path, you’ll love Whale Beach. It's one of the few “hidden” beaches in Lake Tahoe that don’t attract huge crowds, so you’ll have a lot more space on the lake to paddle around and have fun.
 
 Whale Beach will make you feel like you own the entire lake but be sure to come early to experience true seclusion.
@@ -160,6 +174,8 @@ The beach is made of dark sand, and that’s why it’s alternatively called Bla
 Shades and public bathrooms are available here, and dogs are allowed too on the condition that you comply with certain rules.
 
 ## Secret Cove
+
+![](/photo0jpg.jpg)
 
 Secret Harbor is another “hidden” beach in Lake Tahoe and it provides access to Secret Cove, a similar beach that offers protection from the winds that sweep across the lake in the afternoons.
 
@@ -173,6 +189,8 @@ However, these days, it’s the other way around. The vast majority of visitors 
 
 ## Cave Rock
 
+![](/CaveRock_Desktop-scaled.jpg)
+
 This is a nice park with crystalline waters situated along the Southeastern shore of the lake, it’s popular among boaters, so make sure you launch your paddleboard from the beach instead of the boat ramp.
 
 Other activities available in this park include swimming, fishing, snorkeling, hiking, and sunbathing. Picnic areas with barbecue pits and restrooms are present in the park too.
@@ -183,11 +201,13 @@ While paddleboarding, look toward the rock and you’ll see a figure that resemb
 
 Parking space is limited, but you can park beside the road at no cost. After parking, you’ll need to hike to Cave Rock. It’s a pretty short hike that takes about 15 minutes to complete.
 
-## Echo Lakes
+## Echo Lake
+
+![](/3071796197_f0932765bd_b.jpg)
 
 Want to paddleboard and fish at the same time? This is the perfect spot for you. Get your fishing gear ready because there's a lot of salmon and trout to catch.
 
-Echo Lakes isn’t actually in Lake Tahoe, but it’s very close to South Lake Tahoe. It’s a beautiful, secluded area engulfed by tall mountains, natural scenery, and granite rocks.
+Echo Lake isn’t actually in Lake Tahoe, but it’s very close to South Lake Tahoe. It’s a beautiful, secluded area engulfed by tall mountains, natural scenery, and granite rocks.
 
 This area offers a peaceful, secluded escape in a mountain setting with hiking trails to explore the area, picnic tables and barbecues, and activities such as boating, fishing, and waterskiing. You can also take part in extra activities during the winter, like dog sledding and cross-country skiing.
 
