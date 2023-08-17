@@ -44,7 +44,7 @@ The material this board is made of is suitable for paddling on fresh water and s
 
 ### Accessories
 
-Everything you need to use a paddleboard is included in the SereneLife iSUP bundle. The bundle includes a board, an adjustable aluminum paddle, a hand pump, a repair kit, a backpack, a safety leash, and a waterproof mobile phone case.
+Everything you need to use a paddleboard is included in the [SereneLife](https://paddleboardmaster.com/post/serenelife-inflatable-stand-up-paddle-board-graffiti/) iSUP bundle. The bundle includes a board, an adjustable aluminum paddle, a hand pump, a repair kit, a backpack, a safety leash, and a waterproof mobile phone case.
 
 ## [Roc Inflatable Stand Up Paddleboard](https://www.amazon.com/Roc-Inflatable-Paddle-Premium-Accessories/dp/B07ZJWVY71/ref=zg_bs_5522381011_sccl_2/133-3160810-2048665?psc=1)
 
