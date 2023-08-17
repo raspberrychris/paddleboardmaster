@@ -3,7 +3,7 @@ title = "Best SUP seats"
 description = "Find the best SUP seats to buy today in our comprehensive guide"
 +++
 
-SUP (Stand Up Paddleboarding) is most paddleboarder’s preferred way to enjoy the sport but standing for hours at a stretch can be tiring, particularly for those who are still wet behind the ears.
+SUP ([Stand Up Paddleboarding](https://paddleboardmaster.com/post/how-to-stand-up-on-a-paddle-board/)) is most paddleboarder’s preferred way to enjoy the sport but standing for hours at a stretch can be tiring, particularly for those who are still wet behind the ears.
 
 You’ll probably want to rest your back and legs at some point, and that’s when SUP seats come in handy.
 
