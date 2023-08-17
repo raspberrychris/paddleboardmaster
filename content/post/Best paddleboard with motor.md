@@ -34,9 +34,9 @@ The wind resistance mode makes paddleboarding on windy days and choppy waters mu
 
 The Boost Fin’s battery life is relatively low and is determined by the selected mode. It lasts for 100 minutes on the SUP assistance mode, and this mode consumes the least amount of power.
 
-Pros: This is the perfect solution to turn any paddleboard into a motorized board without spending thousands of dollars on a SUP package. It installs in five minutes or less and can be used with both kid and adult paddleboards. Additionally, its 10mph maximum speed is a respectable speed for a motor of its size.
+**Pros**: This is the perfect solution to turn any paddleboard into a motorized board without spending thousands of dollars on a SUP package. It installs in five minutes or less and can be used with both kid and adult paddleboards. Additionally, its 10mph maximum speed is a respectable speed for a motor of its size.
 
-Cons: The Boost Fin has a low-capacity battery that powers the motor for a maximum of 100 minutes, so you can’t use it continuously if you’re going on a long trip. This is the kind of motor you turn on only when you need some assistance or need to rest your hands for a few minutes unless you just want to SUP for an hour or so.
+**Cons**: The Boost Fin has a low-capacity battery that powers the motor for a maximum of 100 minutes, so you can’t use it continuously if you’re going on a long trip. This is the kind of motor you turn on only when you need some assistance or need to rest your hands for a few minutes unless you just want to SUP for an hour or so.
 
 ## [Sipaboards Drive All-rounder](https://sipaboards.com/product/drive-allrounder/)
 
@@ -56,11 +56,11 @@ The board has a weight limit of 308 pounds and a length of 11 feet. It’s also 
 
 The Drive All-rounder is built to serve and to last. It features a drop-stich core, double-rail side reinforcements, and an EVA-foam deck pad. It’s built with high-grade MSL (two layers of PVC fused with a layer of glass fibers in between). All of these combined form the rigid, highly durable, and rupture-resistant Sipaboard.
 
-Pros: This board includes everything you need for motorized SUPing plus bungee tie-downs at the nose and enough D-rings to attach a [SUP seat](https://paddleboardmaster.com/post/best-sup-seats/) and other accessories.
+**Pros**: This board includes everything you need for motorized SUPing plus bungee tie-downs at the nose and enough D-rings to attach a [SUP seat](https://paddleboardmaster.com/post/best-sup-seats/) and other accessories.
 
 A remote control for adjusting the speed of the engine, inflating the board, and controlling the LED lights; a battery pack; a leash; a carry strap; a three-piece carbon fiber paddle; and a backpack are all part of the package. You can also use the free Sipaboards app to control the engine.
 
-Cons: This paddleboard will set you back a few thousand. If you have a low budget, then this package is not for you. It’s also a single-fin board, and it's built this way because motorized boards work better with single fins. However, this would be a disadvantage when paddling manually on choppy waters.
+**Cons**: This paddleboard will set you back a few thousand. If you have a low budget, then this package is not for you. It’s also a single-fin board, and it's built this way because motorized boards work better with single fins. However, this would be a disadvantage when paddling manually on choppy waters.
 
 ## [Scubajet Pro All-in-One Kit](https://www.scubajet.com/shop/accessories/scubajet-pro-all-in-one-kit/)
 
@@ -78,9 +78,9 @@ The SUP remote control is a wearable device that looks like a smartwatch and dis
 
 This motor kit has a nifty feature that shuts off the motor when the distance between the motor and the remote gets to a certain point. This means you won’t be left behind if you fall off your board.
 
-Pros: This is a complete motor kit with two remote controls for SUPing and underwater surfing and an upgradeable motor for longer motorized SUP hours. It’s compatible with a vast amount of paddleboards too and only adds about 7 pounds of extra weight to your board.
+**Pros**: This is a complete motor kit with two remote controls for SUPing and underwater surfing and an upgradeable motor for longer motorized SUP hours. It’s compatible with a vast amount of paddleboards too and only adds about 7 pounds of extra weight to your board.
 
-Cons: You can purchase a motorized paddleboard at the same price that this motor kit sells for. I also don’t like how Scuba charges extra for its LED light.
+**Cons**: You can purchase a motorized paddleboard at the same price that this motor kit sells for. I also don’t like how Scuba charges extra for its LED light.
 
 ## [Onean Manta Electric Jetboard](https://www.onean.com/product/manta/)
 
@@ -100,11 +100,11 @@ This solid board is 35.4 inches wide and consequently has a lot of stability on 
 
 However, since this is a motorized board that can run automatically for 6 hours, you won’t be doing a lot of paddling, if any, so its paddling speed shouldn’t be a matter of concern. This board has anchor points for a SUP seat too.
 
-Pros: This is a good electric hard board for SUPing. It can reach speeds of up to 6mph and its battery lasts for 6 hours and requires only 2.5 hours of charging time to reach full capacity.
+**Pros**: This is a good electric hard board for SUPing. It can reach speeds of up to 6mph and its battery lasts for 6 hours and requires only 2.5 hours of charging time to reach full capacity.
 
 The Onean Manta comes with four fins, a strator, and an impeller. Its bundle also includes a remote control, chargers, a footstrap, a leash, a tooling kit, a paddle, a battery, and a battery bag.
 
-Cons: This board is pricey. You can get a cheaper version of it without the motor, battery, and accessories for half the price, but I wouldn’t recommend that. Also, this board is a hard board, so it has a lower weight capacity and is harder to carry around than an inflatable board.
+**Cons**: This board is pricey. You can get a cheaper version of it without the motor, battery, and accessories for half the price, but I wouldn’t recommend that. Also, this board is a hard board, so it has a lower weight capacity and is harder to carry around than an inflatable board.
 
 The Onean Manta is perfect for touring large expanses of water and sightseeing with the motor running, but it’s not suitable for long periods of manual paddling.
 
@@ -126,11 +126,11 @@ Bixpy have lots of adapters designed for different kinds of fin boxes listed on 
 
 The package does include a battery, remote control, the K-1 motor, a magnetic kill switch, floating leash, and several more add-ons for operation and maintenance.
 
-Pros: The Bixpy outboard kit is an easy-to-use feature-rich motor kit that can reach speeds up to 7mph. The heavier the load on your paddleboard, the slower it will be. Its battery lasts a long time too, so it’s perfect for all-day SUPing.
+**Pros**: The Bixpy outboard kit is an easy-to-use feature-rich motor kit that can reach speeds up to 7mph. The heavier the load on your paddleboard, the slower it will be. Its battery lasts a long time too, so it’s perfect for all-day SUPing.
 
 It’s compatible with a wide range of small watercraft too including kayaks and canoes. If you ever buy a new watercraft such as a kayak, simply buy an adapter for it and you’ll be able to use this motor kit with both your paddleboard and kayak.
 
-Cons: You need to buy your adapter separately, but this is probably the only option Bixpy has. Given that this kit is designed for a variety of watercraft they can’t include 17 adapters in every kit, so it only makes sense to let customers choose and buy the adapter they need.
+**Cons**: You need to buy your adapter separately, but this is probably the only option Bixpy has. Given that this kit is designed for a variety of watercraft they can’t include 17 adapters in every kit, so it only makes sense to let customers choose and buy the adapter they need.
 
 ## [Aqua Marina BlueDrive S Power Fin](https://www.aquamarina.com/bluedrive-s/)
 
@@ -148,9 +148,9 @@ Three buttons on the remote control offer you all the controls you need to opera
 
 On the low speed setting, you’d move at a speed of about 3mph and on the high speed setting, your speed would be about 4mph. Obviously, the lighter your SUP is, the faster you’ll travel.
 
-Pros: Aqua Marina’s BlueDrive S is a moderately fast power fin that is easy to install and attach to most paddleboards. It can last for an hour on the fastest speed setting if you have a small amount of gear on your paddleboard. That’s enough time to rest your arms during moderate or long trips or difficult trips in bad weather conditions.
+**Pros**: Aqua Marina’s BlueDrive S is a moderately fast power fin that is easy to install and attach to most paddleboards. It can last for an hour on the fastest speed setting if you have a small amount of gear on your paddleboard. That’s enough time to rest your arms during moderate or long trips or difficult trips in bad weather conditions.
 
-Cons: 1 hour is a bit short for a motorized fin, making this fin a good assistant but not a good replacement for your paddle. If you want to paddle manually most of the time and only use this motor to give your arms a short rest or traverse difficult terrain, then this power fin will suit your needs.
+**Cons**: 1 hour is a bit short for a motorized fin, making this fin a good assistant but not a good replacement for your paddle. If you want to paddle manually most of the time and only use this motor to give your arms a short rest or traverse difficult terrain, then this power fin will suit your needs.
 
 ## [Bote Rover 14 Paddleboard](https://www.boteboard.com/collections/solid-micro-skiffs/products/rover-140-bug-slinger-silver-king-micro-skiff)
 
@@ -168,9 +168,9 @@ A two-piece paddle is included in its package so you can get a workout in whenev
 
 The Rover Aero is almost three times cheaper than the Rover 14, but the downside of getting the former is you get a shorter board with a less powerful motor that is nonetheless still more powerful than any of the other motors reviewed here. The Rover Aero’s 6hp motor can reach 16mph with a maximum of 500 pounds of load.
 
-Pros: The Rover 14 offers great value for money and has a ton of other features that make it worth buying. Its motor can reach high speeds and it has a 12-liter fuel tank, which means you can drive for hours with this board. It’s also compatible with many Bote accessories, making it an excellent all-rounder.
+**Pros**: The Rover 14 offers great value for money and has a ton of other features that make it worth buying. Its motor can reach high speeds and it has a 12-liter fuel tank, which means you can drive for hours with this board. It’s also compatible with many Bote accessories, making it an excellent all-rounder.
 
-Cons: Its motor uses fuel, so it will require more maintenance, parts replacement, and other inconveniences associated with this kind of motor. Also, you can’t buy the motor separately from Bote, although you can from other stores, but it will cost you more.
+**Cons**: Its motor uses fuel, so it will require more maintenance, parts replacement, and other inconveniences associated with this kind of motor. Also, you can’t buy the motor separately from Bote, although you can from other stores, but it will cost you more.
 
 ## [Striker Jet Electric SUP](https://torquejetboards.com/product/striker-jet-electric/)
 
@@ -188,9 +188,9 @@ Seeing as this is a [fishing SUP](https://paddleboardmaster.com/post/best-fishin
 
 It has tie-downs for a fishing box that doubles as a seat too. You can store your favorite drinks and essentials in the box and SUP all day with total abandon. You can also make sure you never run out of power by bringing an extra battery pack with you.
 
-Pros: This motorized board has all you need for recreational SUPing and fishing. It’s easy to inflate thanks to its electric pump, and it’s stable on water. If you want to explore remote paddleboarding spots and discover new fishing spots, this is the right board for you\*\*.\*\*
+**Pros**: This motorized board has all you need for recreational SUPing and fishing. It’s easy to inflate thanks to its electric pump, and it’s stable on water. If you want to explore remote paddleboarding spots and discover new fishing spots, this is the right board for you\*\*.\*\*
 
-Cons: The Striker Jet electric board is almost perfect. I don’t see any significant downsides to buying this board. It has a fair price tag too, so check it out if it’s right up your street.
+**Cons**: The Striker Jet electric board is almost perfect. I don’t see any significant downsides to buying this board. It has a fair price tag too, so check it out if it’s right up your street.
 
 ## How to pick the right motor package
 
