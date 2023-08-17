@@ -340,7 +340,7 @@ This bundle also includes a backpack that is better than what other bundles in t
 
 1. If you’re buying a paddleboard for an adult, it needs to be at least ten feet long, 30 inches wide, and six inches thick regardless of its price. These moderately-sized boards offer the right amount of speed and balance for beginners and for recreational SUPing.
 2. If you intend to use your board mostly on flat water, pick a single-fin board or a three-fin board that allows you to detach all three fins because boards perform better on flat water with a single fin attached. If you want to use the board on choppy waters and in windy conditions, pick a board with three fins.
-3. Your accessories are almost as important as the board itself. Buy an iSUP bundle that contains all the accessories you’ll need and make sure their quality is up to par relative to the quality of the board.
+3. Your accessories are almost as important as the board itself. Buy an [iSUP bundle](https://paddleboardmaster.com/post/inflatable-paddleboard-sup-pros-and-cons/) that contains all the accessories you’ll need and make sure their quality is up to par relative to the quality of the board.
 
 ## How to extend the life of your paddleboard
 
