@@ -21,7 +21,7 @@ toc = false
 
 If you’re new to paddleboarding, Sand Harbor State Park is where you want to be. You’ll find the dazzling blue waters a joy to paddleboard on in a sitting or kneeling position.
 
-[As a beginner](https://paddleboardmaster.com/post/best-paddle-boards-for-beginners/), you’re likely to fall in a few times, so it’s helpful to have some shallow bays to practice on. Sand Harbor features shallow bays and massive stacked boulders for your viewing pleasure while you surf the waters.
+[As a beginner](https://paddleboardmaster.com/post/best-paddle-boards-for-beginners/), you’re likely to fall in a few times, so it’s helpful to have some shallow bays to practice on. Sand Harbor features shallow bays and massive stacked boulders for your viewing pleasure while you [surf the waters](https://paddleboardmaster.com/post/how-to-stand-up-on-a-paddle-board/).
 
 The waters are calm in the mornings, and it swarms with people on weekends, so have these considerations in mind when picking a time and day to visit the park. If you don’t own a paddleboard or yours is rough around the edges, don’t fret. You can rent one at the park.
 
