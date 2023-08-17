@@ -11,6 +11,8 @@ Here are the best SUP seats to buy for your inflatable or solid paddleboard:
 
 ## 1. [SereneLife Universal paddleboard seat](https://www.amazon.com/SereneLife-SLSUPST15-Serene-Life-Paddle-Board/dp/B072JLYQ6H/ref=cm_cr_arp_d_product_top?ie=UTF8\&th=1)
 
+![](/71yYjVG0mZL._AC_SL1500_.jpg)
+
 ### Comfort and Support
 
 This SUP seat is super comfortable for your back and butt. It has a high-back design which supports your upper and lower back excellently and a padded seat that protects your butt from soreness associated with long periods of sitting.
@@ -44,6 +46,8 @@ In addition to that, if you love fishing as much as you love paddleboarding, you
 * Scanty instructions might make installation a bit confusing
 
 ## 2. [Thurso Surf universal paddleboard seat](https://www.amazon.com/THURSO-SURF-Paddle-Comfortable-Relaxing/dp/B072NH38H5/ref=cm_cr_arp_d_product_top?ie=UTF8)
+
+![](/71f7zb2DeGS._AC_SL1500_.jpg)
 
 ### Comfort and support
 
@@ -83,6 +87,8 @@ The adjustable straps on this SUP seat aren’t only designed to help you find a
 * Backrest feels a tad too small for very tall paddleboarders
 
 ## 3. [BKC universal sit-on-top paddleboard seat](https://www.amazon.com/Brooklyn-Kayak-Company-Universal-Backrest/dp/B01MXW3FKG)
+
+![](/71pfwilAv8L._AC_SL1500_.jpg)
 
 ### Comfort and support
 
@@ -128,6 +134,8 @@ There’s a small water bottle pocket behind the backrest where you can keep you
 
 ## 4. [Nixy premium SUP seat](https://nixysports.com/products/premium-adjustable-kayak-seat)
 
+![](/premium-kayak-seat-1_1800x1800.webp)
+
 ### Comfort and support
 
 When the waters get rough, Nixy premium SUP seat provides you with a nice place to relax in as you brave the waters.
@@ -170,6 +178,8 @@ There's a handy, sizable pouch at the back of the seat for storing small items t
 * Needs the weight of your back to stay upright
 
 ## 5. [PaddleSit SUP seat](https://paddlesit.com/product/paddlesit/)
+
+![](/617LzGIRRLL._AC_SL1136_.jpg)
 
 ### Comfort and support
 
@@ -221,6 +231,8 @@ This product is also useful for other purposes aside from paddleboarding. It can
 
 ## 6. [Pelican Boats SUP seat](https://www.amazon.com/Pelican-Boats-Sit-top-Universal/dp/B07FLBPFWW)
 
+![](/81kANVZiFfL._AC_SL1500_.jpg)
+
 ### Comfort and support
 
 Pelican Boat’s SUP seat is a low-back seat, so it won’t support your upper back and shoulders, but it offers enough support to stay comfortable during short or moderately long trips on water.
@@ -256,6 +268,8 @@ As a kid seat, this product is perfect because it’s lightweight and offers eno
 * Backrest zipper comes loose during use, making it unstable
 
 ## 7. [Woowave SUP seat](https://www.amazon.com/WOOWAVE-Adjustable-Cushioned-Comfortable-Detachable/dp/B07VDBZXH5)
+
+![](/71DgV5qAkRL._AC_SL1500_.jpg)
 
 ### Comfort and support
 
@@ -299,6 +313,8 @@ Finally, if you own a rowboat, fishing boat, kayak, or canoe, you won’t need t
 
 ## 8. [Leader Accessories SUP seat](https://www.amazon.com/Leader-Accessories-Black-Deluxe-Kayak/dp/B01GFSNQBK)
 
+![](/61wrjdRrL9S._AC_SL1500_.jpg)
+
 ### Comfort and support
 
 EVA foam seems to be the standard in SUP seat cushions and that’s the type of foam this seat’s padding is made of. It’s comfortable to sit on, and it allows you to sit through long hours of paddling by virtue of the thickness of the foam.
@@ -337,6 +353,8 @@ Like some of the other products in this guide, this one is also packaged with a 
 * Due to the flexibility of the backrest, it doesn’t offer as much lower back support as it does upper back support
 
 ## 9. [Aero SUP inflatable seat](https://www.boteboard.com/products/aero-sup-paddle-seat)
+
+![](/BASPS21SF-06-min.webp)
 
 ### Comfort and support
 
