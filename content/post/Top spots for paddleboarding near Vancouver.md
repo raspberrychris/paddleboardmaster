@@ -1,6 +1,9 @@
 +++
 title = "Top spots for paddleboarding near Vancouver"
 description = "Want to ride the waters in the most expensive city in Canada? Here are the top 15 places to launch your paddleboard in Vancouver."
+date = 2023-08-16T23:00:00.000Z
+thumbnail = "/vancouver-british-columbia-canada-lead-VANCOVTG1021-8621ebc29fb34d059e9de39de49a56c8.jpg"
+lead = "Here are the top 15 places to launch your paddleboard in Vancouver."
 +++
 
 Want to ride the waters in the most expensive city in Canada? Here are the top 15 places to launch your paddleboard in Vancouver:
