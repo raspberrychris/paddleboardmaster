@@ -184,7 +184,7 @@ It takes only 2 hours to fully recharge the battery pack of this 38-inch board s
 
 The board is constructed with high-quality, durable PVC to withstand the rigors of water sports and fishing. It has a weight limit of 430 pounds, which is sufficient to hold all your gear and an extra person or pet.
 
-Seeing as this is a fishing SUP, it has two fishing rod holders, one on the right side and one on the left side.
+Seeing as this is a [fishing SUP](https://paddleboardmaster.com/post/best-fishing-paddleboards/), it has two fishing rod holders, one on the right side and one on the left side.
 
 It has tie-downs for a fishing box that doubles as a seat too. You can store your favorite drinks and essentials in the box and SUP all day with total abandon. You can also make sure you never run out of power by bringing an extra battery pack with you.
 
