@@ -3,7 +3,10 @@ title = "Best paddleboard with motor"
 date = 2023-08-16T23:00:00.000Z
 description = "Discover the best paddleboards with motors for electric SUPing."
 lead = "Discover the best motorized paddleboards to buy"
+thumbnail = "/maxresdefault.jpg"
 +++
+
+![](/maxresdefault.jpg)
 
 It might seem controversial to get a paddleboard with a motor, but these machines are incredibly useful during long stretches of SUP tours.
 
@@ -37,6 +40,8 @@ Cons: The Boost Fin has a low-capacity battery that powers the motor for a maxim
 
 ## [Sipaboards Drive All-rounder](https://sipaboards.com/product/drive-allrounder/)
 
+![](/Untitled-design34-1.png)
+
 Sipaboards specializes in manufacturing motorized boards, and the Drive All-rounder is one of their premium paddleboards designed for all types of SUP activities including touring, yoga, leisurely cruising, and perhaps some light fishing.
 
 The Drive All-rounder is powered by the Sipaboards 2.0 jet engine optimized to deliver better performance and produce less noise than older models. The 3mph jet engine doesn’t just drive the board; it’s a multipurpose component.
@@ -59,6 +64,8 @@ Cons: This paddleboard will set you back a few thousand. If you have a low budge
 
 ## [Scubajet Pro All-in-One Kit](https://www.scubajet.com/shop/accessories/scubajet-pro-all-in-one-kit/)
 
+![](/SCUBAJETPROAIOKit.png)
+
 Don’t let the name confuse you. Yes, this is a scuba diving motor but it has been adapted for use on paddleboards. With its fin adapter, you can attach this amazing motor kit on any paddleboard with a US or slide-in fin box and enjoy paddleboarding at a speed of 7mph for 2 hours.
 
 Scubajet offers a lot of upgrades, including a battery upgrade that increases the battery’s duration from 2 hours to 4 hours.
@@ -76,6 +83,8 @@ Pros: This is a complete motor kit with two remote controls for SUPing and under
 Cons: You can purchase a motorized paddleboard at the same price that this motor kit sells for. I also don’t like how Scuba charges extra for its LED light.
 
 ## [Onean Manta Electric Jetboard](https://www.onean.com/product/manta/)
+
+![](/Manta-web.png)
 
 The Onean Manta is a solid board made of laminated fiberglass with an EPS core. It can reach a maximum speed of 6mph on water and its battery lasts 6 hours.
 
@@ -101,6 +110,8 @@ The Onean Manta is perfect for touring large expanses of water and sightseeing w
 
 ## [Bixpy K-1 Outboard Motor Kit](https://bixpy.com/bixpy-k-1-outboard-kit-only/)
 
+![](/bixpy-k-1-outboard-kit-pre-order-only__48976.jpg)
+
 The highlight of the Bixpy K-1 outboard kit is its K-1 motor, which is a lighter, quieter, and sturdier version of its predecessor, the J-2 motor.
 
 The K-1 motor is capable of propelling your paddleboard for up to 12 hours at a stretch depending on the speed it’s running at. At its lowest speed it can run for 12 hours straight, and at its highest speed it can keep your board moving for about an hour and 20 minutes.
@@ -123,6 +134,8 @@ Cons: You need to buy your adapter separately, but this is probably the only opt
 
 ## [Aqua Marina BlueDrive S Power Fin](https://www.aquamarina.com/bluedrive-s/)
 
+![](/Aqua-Marina-Bluedrive-S-power-fin06.jpg)
+
 The Aqua Marina power fin is neatly packaged in a nice travel box so you can easily take it with you anywhere. Pair it with any decent inflatable paddleboard and you’ll have two easily transportable packages that you can assemble anywhere into a motorized paddleboard and SUP with.
 
 The box includes the lightweight power fin that weighs just 5.5 pounds, a battery, a charger, and a remote control affixed to an armband holder to prevent you from losing it during trips.
@@ -141,6 +154,8 @@ Cons: 1 hour is a bit short for a motorized fin, making this fin a good assistan
 
 ## [Bote Rover 14 Paddleboard](https://www.boteboard.com/collections/solid-micro-skiffs/products/rover-140-bug-slinger-silver-king-micro-skiff)
 
+![](/140RV22BS-GS-photo-01.webp)
+
 Want a motorized paddleboard that offers exceptional speeds when paddling manually and using a motor? Meet the Bote Rover 14, a 14-foot board that is as stable as it’s fast thanks to its 40 inches of width.
 
 Unlike other motor kits and motorized paddleboards in this article, the Bote Rover 14 is powered by a 9.9hp motor that runs on fuel rather than battery power. It’s also a more powerful motor than anything I’ve reviewed so far and can move your board at a maximum speed of 18mph even with a lot of gear on board.
@@ -158,6 +173,8 @@ Pros: The Rover 14 offers great value for money and has a ton of other features 
 Cons: Its motor uses fuel, so it will require more maintenance, parts replacement, and other inconveniences associated with this kind of motor. Also, you can’t buy the motor separately from Bote, although you can from other stores, but it will cost you more.
 
 ## [Striker Jet Electric SUP](https://torquejetboards.com/product/striker-jet-electric/)
+
+![](/Strikerjet-board-Product-Iamge.jpg)
 
 This is an impressive paddleboard that is built for fishing, but it’s also a great paddleboard for touring and cruising. It runs at a minimum speed of 3.7mph and its battery can power the built-in motor for 5 hours at a stretch at this speed.
 
