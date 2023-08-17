@@ -56,7 +56,7 @@ The board has a weight limit of 308 pounds and a length of 11 feet. It’s also 
 
 The Drive All-rounder is built to serve and to last. It features a drop-stich core, double-rail side reinforcements, and an EVA-foam deck pad. It’s built with high-grade MSL (two layers of PVC fused with a layer of glass fibers in between). All of these combined form the rigid, highly durable, and rupture-resistant Sipaboard.
 
-Pros: This board includes everything you need for motorized SUPing plus bungee tie-downs at the nose and enough D-rings to attach a SUP seat and other accessories.
+Pros: This board includes everything you need for motorized SUPing plus bungee tie-downs at the nose and enough D-rings to attach a [SUP seat](https://paddleboardmaster.com/post/best-sup-seats/) and other accessories.
 
 A remote control for adjusting the speed of the engine, inflating the board, and controlling the LED lights; a battery pack; a leash; a carry strap; a three-piece carbon fiber paddle; and a backpack are all part of the package. You can also use the free Sipaboards app to control the engine.
 
