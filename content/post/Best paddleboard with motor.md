@@ -30,7 +30,7 @@ With this product, you can cruise at a maximum speed of 10mph and adjust the spe
 
 The remote control offers three modes – a SUP assistance mode, a wind resistance mode, and a trolling mode. The SUP assistance mode boosts your SUP speeds so you can cover more distance and catch more waves with less effort.
 
-The wind resistance mode makes paddleboarding on windy days and choppy waters much easier, while the trolling mode enables you to surf the waters without a single stroke of your paddle.
+The wind resistance mode makes paddleboarding on windy days and choppy waters much easier, while the trolling mode enables you to [surf the waters](https://paddleboardmaster.com/post/do-i-need-a-wetsuit-for-paddleboarding/) without a single stroke of your paddle.
 
 The Boost Fin’s battery life is relatively low and is determined by the selected mode. It lasts for 100 minutes on the SUP assistance mode, and this mode consumes the least amount of power.
 
