@@ -144,7 +144,7 @@ The board consists of a drop-stitch fiber core that supports it against your wei
 
 ### Performance & usage
 
-While out on the water, the three fins under the board work to make maneuvering the board easy. You’ll need to attach the removable fin after inflating the board before you can use it.
+While [out on the water](https://paddleboardmaster.com/post/reasons-why-paddleboarding-is-so-popular-right-now/), the three fins under the board work to make maneuvering the board easy. You’ll need to attach the removable fin after inflating the board before you can use it.
 
 The double-action manual pump can inflate the board within minutes, and it has a gauge to help you stay within the recommended pressure limits like most of the other paddleboards at similar price points to this one.
 
