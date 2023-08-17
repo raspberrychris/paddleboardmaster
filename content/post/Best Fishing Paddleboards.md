@@ -1,6 +1,9 @@
 +++
 title = "Best fishing paddleboards"
 description = "The best fishing paddleboards to buy today."
+date = 2023-08-16T23:00:00.000Z
+thumbnail = "/Paddle_board_fisherman_(27465854283).jpg"
+lead = "These are the best fishing paddleboards to buy today"
 +++
 
 ![](/Paddle_board_fisherman_\(27465854283\).jpg)
