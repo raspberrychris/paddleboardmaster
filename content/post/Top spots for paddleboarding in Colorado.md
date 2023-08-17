@@ -1,6 +1,9 @@
 +++
 title = "Top spots for paddleboarding in Colorado"
 description = "Want to SUP in the beautiful city of Colorado? Here are the best 15 spots."
+date = 2023-08-16T23:00:00.000Z
+thumbnail = "/shutterstock_545718292-scaled.jpg"
+lead = "Here are the best 15 spots to SUP in the beautiful city of Colorado"
 +++
 
 SUPing in Colorado should be high up on any paddleboarders’ to-do list. It’s one of the most beautiful states in the US and one of the best for outdoor activities and travel.
