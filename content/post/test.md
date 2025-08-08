@@ -13,8 +13,6 @@ schema_type: "Review"
 rating: 4.5
 ---
 
-{{< affiliate-disclosure >}}
-
 ## Introduction
 
 After extensively testing the **B082MVKLZH** for several months, I'm excited to share my comprehensive review that will help you decide if this is the right board for your needs. As someone who has tested numerous boards over the years, I've put this product through rigorous real-world use to bring you honest, detailed insights.
